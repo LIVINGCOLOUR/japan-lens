@@ -1,0 +1,95 @@
+{
+ "outlets": [
+  {
+   "id": "nyt",
+   "name": "The New York Times",
+   "country_code": "US",
+   "flag": "🇺🇸",
+   "region": "US",
+   "ownership": "民間",
+   "homepage": "https://www.nytimes.com"
+  },
+  {
+   "id": "wsj",
+   "name": "The Wall Street Journal",
+   "country_code": "US",
+   "flag": "🇺🇸",
+   "region": "US",
+   "ownership": "民間",
+   "homepage": "https://www.wsj.com"
+  },
+  {
+   "id": "bbc",
+   "name": "BBC News",
+   "country_code": "GB",
+   "flag": "🇬🇧",
+   "region": "GB",
+   "ownership": "公共放送",
+   "homepage": "https://www.bbc.com/news"
+  },
+  {
+   "id": "cna",
+   "name": "CNA",
+   "country_code": "SG",
+   "flag": "🇸🇬",
+   "region": "SG",
+   "ownership": "政府系",
+   "homepage": "https://www.channelnewsasia.com"
+  }
+ ],
+ "events": [],
+ "articles": [
+  {
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+   "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+   "published_at": "2026-09-26T21:31:57+00:00",
+   "id": "d79144bb-f8a0-4061-9ebc-e470b7005c6e",
+   "fetched_at": "2026-09-27T10:45:08.067146+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "tone": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/world/asia/japans-leader-calls-on-u-n-to-drop-enemy-state-label-7da04175?mod=rss_worldnews",
+   "title": "Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label",
+   "published_at": "2026-09-23T02:32:00+00:00",
+   "id": "5bff61b2-8ebb-437d-8cf8-4a9b057e9e64",
+   "fetched_at": "2026-09-27T10:45:09.197868+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "tone": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/sport/japan-esports-asian-games-gold-yuki-kurihara-6412576",
+   "title": "'I felt embarrassed': Japan esports whizz-kid, 11, wins Games gold",
+   "published_at": "2026-09-26T09:59:00+00:00",
+   "id": "7d635d5f-e1da-4d1e-8627-32433916bda4",
+   "fetched_at": "2026-09-27T10:45:09.736757+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "tone": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/sport/japan-asian-games-empty-seats-not-satisfied-6412526",
+   "title": "Japan organisers 'not satisfied' as empty seats blight Asian Games",
+   "published_at": "2026-09-26T08:50:00+00:00",
+   "id": "944694cc-2fd5-4556-8211-fcd5b0d3b27c",
+   "fetched_at": "2026-09-27T10:45:09.736781+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "tone": null,
+   "processed_at": null,
+   "relevant": null
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "outlets": [
+  {
+   "id": "b",
+   "name": "日刊紙B（サンプル）",
+   "country_code": "US",
+   "flag": "🇺🇸",
+   "region": "US",
+   "ownership": "民間",
+   "homepage": "#"
+  },
+  {
+   "id": "g",
+   "name": "日刊紙G（サンプル）",
+   "country_code": "US",
+   "flag": "🇺🇸",
+   "region": "US",
+   "ownership": "民間",
+   "homepage": "#"
+  },
+  {
+   "id": "c",
+   "name": "公共放送C（サンプル）",
+   "country_code": "GB",
+   "flag": "🇬🇧",
+   "region": "GB",
+   "ownership": "公共放送",
+   "homepage": "#"
+  },
+  {
+   "id": "f",
+   "name": "放送局F（サンプル）",
+   "country_code": "SG",
+   "flag": "🇸🇬",
+   "region": "SG",
+   "ownership": "政府系",
+   "homepage": "#"
+  }
+ ],
+ "events": [
+  {
+   "id": "sample-0",
+   "title_ja": "日米首脳会談、防衛費と関税で合意文書",
+   "fact_ja": "両首脳がワシントンで会談し、防衛協力の拡大と自動車関税の段階的引き下げを盛り込んだ共同声明を発表した。",
+   "category": "外交",
+   "first_seen": "2026-09-26T00:00:00Z",
+   "updated_at": "2026-09-26T23:50:00Z",
+   "articles": [
+    {
+     "id": "sample-0-0",
+     "outlet_id": "b",
+     "url": "#",
+     "title": "Japan's defense push raises questions about its pacifist past",
+     "published_at": "2026-09-26T21:05:00Z",
+     "summary_ja": "防衛費拡大で平和主義の理念が揺らいでいると論じる。",
+     "tone": "crit"
+    },
+    {
+     "id": "sample-0-1",
+     "outlet_id": "g",
+     "url": "#",
+     "title": "Japan steps up as America's most reliable partner in Asia",
+     "published_at": "2026-09-26T22:30:00Z",
+     "summary_ja": "日本が応分の負担に応じ、同盟が強まったと評価。",
+     "tone": "fav"
+    },
+    {
+     "id": "sample-0-2",
+     "outlet_id": "c",
+     "url": "#",
+     "title": "What the new US-Japan deal means for car makers",
+     "published_at": "2026-09-26T20:10:00Z",
+     "summary_ja": "合意が自動車メーカーに与える影響を解説。",
+     "tone": "neu"
+    },
+    {
+     "id": "sample-0-3",
+     "outlet_id": "f",
+     "url": "#",
+     "title": "Southeast Asia watches closely as Japan and US deepen ties",
+     "published_at": "2026-09-26T23:50:00Z",
+     "summary_ja": "東南アジア各国の受け止めを中立的に紹介。",
+     "tone": "neu"
+    }
+   ]
+  },
+  {
+   "id": "sample-1",
+   "title_ja": "日本銀行、政策金利を0.25%引き上げ",
+   "fact_ja": "日本銀行は金融政策決定会合で政策金利の引き上げを決定した。円相場は発表後に一時上昇した。",
+   "category": "経済",
+   "first_seen": "2026-09-25T00:00:00Z",
+   "updated_at": "2026-09-25T19:30:00Z",
+   "articles": [
+    {
+     "id": "sample-1-0",
+     "outlet_id": "g",
+     "url": "#",
+     "title": "BOJ's steady hand wins over skeptical markets",
+     "published_at": "2026-09-25T15:00:00Z",
+     "summary_ja": "慎重な政策運営が市場の信頼を得たと評価。",
+     "tone": "fav"
+    },
+    {
+     "id": "sample-1-1",
+     "outlet_id": "c",
+     "url": "#",
+     "title": "Higher rates squeeze Japanese households already hit by prices",
+     "published_at": "2026-09-25T16:45:00Z",
+     "summary_ja": "物価高に苦しむ家計への負担増に焦点。",
+     "tone": "crit"
+    },
+    {
+     "id": "sample-1-2",
+     "outlet_id": "f",
+     "url": "#",
+     "title": "Yen firms after BOJ move; Asian markets mixed",
+     "published_at": "2026-09-25T19:30:00Z",
+     "summary_ja": "円相場とアジア市場の値動きを伝える。",
+     "tone": "neu"
+    }
+   ]
+  },
+  {
+   "id": "sample-2",
+   "title_ja": "外国人労働者の受け入れ拡大を閣議決定",
+   "fact_ja": "政府は介護や建設など対象分野を広げる新制度を閣議決定した。2027年度からの運用を予定している。",
+   "category": "社会",
+   "first_seen": "2026-09-24T00:00:00Z",
+   "updated_at": "2026-09-24T18:05:00Z",
+   "articles": [
+    {
+     "id": "sample-2-0",
+     "outlet_id": "b",
+     "url": "#",
+     "title": "Japan, long closed, opens its doors to more foreign workers",
+     "published_at": "2026-09-24T09:50:00Z",
+     "summary_ja": "閉鎖的だった日本が門戸を広げたと評価。",
+     "tone": "fav"
+    },
+    {
+     "id": "sample-2-1",
+     "outlet_id": "g",
+     "url": "#",
+     "title": "Tokyo's labor fix risks social strain, critics warn",
+     "published_at": "2026-09-24T15:40:00Z",
+     "summary_ja": "社会的な摩擦を生むとの懸念を紹介。",
+     "tone": "crit"
+    },
+    {
+     "id": "sample-2-2",
+     "outlet_id": "c",
+     "url": "#",
+     "title": "Japan widens visa scheme as workforce shrinks",
+     "published_at": "2026-09-24T10:30:00Z",
+     "summary_ja": "人口減少を背景に制度を拡大したと説明。",
+     "tone": "neu"
+    },
+    {
+     "id": "sample-2-3",
+     "outlet_id": "f",
+     "url": "#",
+     "title": "Singapore firms eye Japan's new worker visa rules",
+     "published_at": "2026-09-24T18:05:00Z",
+     "summary_ja": "シンガポール企業への影響として伝える。",
+     "tone": "neu"
+    }
+   ]
+  }
+ ]
+}

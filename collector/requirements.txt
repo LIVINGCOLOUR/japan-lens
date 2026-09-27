@@ -1,0 +1,3 @@
+anthropic==0.125.0
+feedparser==6.0.12
+python-dotenv==1.2.1
