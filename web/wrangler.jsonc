@@ -1,0 +1,10 @@
+// Cloudflare Workers の静的アセットとして out/ を配信する（無料枠）。
+// ビルド: npm run build → デプロイ: npx wrangler deploy
+{
+  "name": "japan-lens",
+  "compatibility_date": "2026-09-27",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page"
+  }
+}

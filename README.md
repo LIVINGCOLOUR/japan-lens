@@ -39,7 +39,7 @@ npm run dev   # http://localhost:3000
 
 1. GitHub にリポジトリを作って push
 2. 手元で `claude setup-token` を実行して出たトークンを、Secrets の `CLAUDE_CODE_OAUTH_TOKEN` に登録（Settings → Secrets and variables → Actions）
-3. Cloudflare Pages（無料）でプロジェクトを作る。ルートディレクトリ `web`、ビルドコマンド `npm run build`、出力ディレクトリ `out`、環境変数 `NODE_VERSION=22`（main への push で自動デプロイ）
+3. Cloudflare の Workers & Pages で GitHub のリポジトリを連携し、Worker を作る（無料の静的アセット配信）。ビルド設定は Root directory `web`、Build command `npm run build`、Deploy command `npx wrangler deploy`（配信するフォルダは `web/wrangler.jsonc` で `out/` を指定済み）。main への push で自動デプロイ
 4. Actions の collect を手動実行して、`store.json` のコミットとサイトの更新を確認
 
 ## 公開前に確認すること
