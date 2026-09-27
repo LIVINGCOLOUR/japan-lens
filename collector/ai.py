@@ -1,14 +1,22 @@
 """Claude で記事を出来事ごとにまとめ、要約と論調を付ける。
 
+API の従量課金は使わず、Claude Code の CLI（`claude -p`）をサブスクリプションの認証で呼ぶ。
+- ローカル: `claude` にログイン済みならそのまま動く
+- GitHub Actions: `claude setup-token` で作ったトークンを CLAUDE_CODE_OAUTH_TOKEN に入れる
+
 1回の呼び出しで、未処理の記事のまとまりと直近の出来事の一覧を渡し、
 記事ごとに「どの出来事か（既存 / 新規）」「日本語の要約」「論調」を返してもらう。
 """
 
 import json
+import os
+import shutil
+import subprocess
+import tempfile
 
-import anthropic
-
-MODEL = "claude-opus-5"
+# 未設定ならサブスクリプションの既定モデル。例: CLAUDE_MODEL=sonnet
+MODEL = os.environ.get("CLAUDE_MODEL")
+TIMEOUT_SECONDS = 600
 CATEGORIES = ["外交", "安全保障", "政治", "経済", "社会", "文化", "スポーツ", "災害", "科学技術", "その他"]
 
 SYSTEM = """あなたは海外メディアの日本報道を比較するニュースサイトの編集者です。
@@ -99,27 +107,37 @@ def _build_input(articles, events, outlet_names):
     )
 
 
-def classify(articles, events, outlet_names, client=None):
+def available():
+    return shutil.which("claude") is not None
+
+
+def classify(articles, events, outlet_names):
     """記事のまとまりを処理し、{"new_events": [...], "articles": [...]} を返す。"""
-    client = client or anthropic.Anthropic()
-    response = client.beta.messages.create(
-        model=MODEL,
-        max_tokens=16000,
-        betas=["server-side-fallback-2026-07-01"],
-        fallbacks="default",
-        thinking={"type": "adaptive"},
-        system=SYSTEM,
-        output_config={"format": {"type": "json_schema", "schema": SCHEMA}},
-        messages=[{
-            "role": "user",
-            "content": "次の記事を処理してください。\n\n" + _build_input(articles, events, outlet_names),
-        }],
-    )
-    if response.stop_reason == "refusal":
-        raise AIError(f"refusal: {response.stop_details} (request {response._request_id})")
-    if response.stop_reason == "max_tokens":
-        raise AIError(f"max_tokens で出力が途切れました (request {response._request_id})")
-    text = next((b.text for b in response.content if b.type == "text"), None)
-    if text is None:
-        raise AIError(f"テキストの応答がありません (request {response._request_id})")
-    return json.loads(text)
+    cmd = [
+        "claude", "-p",
+        "--output-format", "json",
+        "--json-schema", json.dumps(SCHEMA, ensure_ascii=False),
+        "--system-prompt", SYSTEM,
+        "--tools", "",
+        "--no-session-persistence",
+    ]
+    if MODEL:
+        cmd += ["--model", MODEL]
+    prompt = "次の記事を処理してください。\n\n" + _build_input(articles, events, outlet_names)
+    # 手元の CLAUDE.md や設定を拾わないよう、空の作業ディレクトリで実行する
+    with tempfile.TemporaryDirectory() as cwd:
+        try:
+            proc = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
+                                  cwd=cwd, timeout=TIMEOUT_SECONDS)
+        except subprocess.TimeoutExpired:
+            raise AIError(f"{TIMEOUT_SECONDS}秒以内に応答がありませんでした")
+    try:
+        out = json.loads(proc.stdout)
+    except json.JSONDecodeError:
+        raise AIError(f"claude の出力を読めません (exit {proc.returncode}): {(proc.stderr or proc.stdout)[:500]}")
+    if out.get("is_error") or out.get("subtype") != "success":
+        raise AIError(f"claude がエラーを返しました: {out.get('subtype')} {str(out.get('result'))[:500]}")
+    result = out.get("structured_output")
+    if not isinstance(result, dict):
+        raise AIError("構造化された出力がありません")
+    return result

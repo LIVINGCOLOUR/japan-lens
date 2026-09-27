@@ -5,13 +5,13 @@
 """
 
 import argparse
-import os
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
 
+from ai import available as ai_available
 from fetch import fetch_outlet
 from outlets import OUTLETS, public_outlet
 from store import STORE_PATH, Store
@@ -67,10 +67,8 @@ def apply_result(store, batch, result, existing_ids):
 
 
 def process(store, descriptions):
-    import anthropic
     from ai import AIError, classify
 
-    client = anthropic.Anthropic()
     names = {o["id"]: o["name"] for o in OUTLETS}
     total = 0
     seen = set()
@@ -83,8 +81,8 @@ def process(store, descriptions):
             a["description"] = descriptions.get(a["url"], "")
         events = store.recent_events(EVENT_WINDOW_DAYS)
         try:
-            result = classify(batch, events, names, client)
-        except (AIError, anthropic.APIStatusError, anthropic.APIConnectionError, ValueError) as e:
+            result = classify(batch, events, names)
+        except AIError as e:
             print(f"  AI 処理を中断しました: {e}", file=sys.stderr)
             break
         total += apply_result(store, batch, result, {e["id"] for e in events})
@@ -103,8 +101,8 @@ def main():
         added = collect(store)
         if args.no_ai:
             print("  AI 処理はスキップしました (--no-ai)")
-        elif not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
-            print("  ANTHROPIC_API_KEY が未設定のため AI 処理をスキップしました", file=sys.stderr)
+        elif not ai_available():
+            print("  claude コマンドが見つからないため AI 処理をスキップしました", file=sys.stderr)
         else:
             process(store, {a["url"]: a.get("description", "") for a in added})
     finally:

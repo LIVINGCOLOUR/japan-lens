@@ -13,7 +13,7 @@
 
 | 場所 | 内容 |
 |---|---|
-| `collector/` | Python。RSS を取得 → 日本関連で絞り込み → Claude で出来事のグループ化・要約・論調判定 → `web/data/store.json` を更新 |
+| `collector/` | Python。RSS を取得 → 日本関連で絞り込み → Claude で出来事のグループ化・要約・論調判定 → `web/data/store.json` を更新。Claude は `claude -p`（Claude Code）をサブスクリプションの認証で呼ぶので API の従量課金はかからない |
 | `web/` | Next.js。ビルド時に `data/store.json` を取り込み、出来事ごとに各媒体のカードを並べた静的ページを作る |
 | `.github/workflows/collect.yml` | 毎時、収集処理を実行して `store.json` をコミット・push する |
 
@@ -24,7 +24,7 @@
 ```sh
 cd collector
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
-cp .env.example .env              # ANTHROPIC_API_KEY を入れる
+# 事前に claude コマンドにログインしておく
 .venv/bin/python main.py          # 収集 + AI 処理
 .venv/bin/python main.py --no-ai  # 収集だけ
 
@@ -38,8 +38,8 @@ npm run dev   # http://localhost:3000
 ## 公開の手順
 
 1. GitHub にリポジトリを作って push
-2. Secrets に `ANTHROPIC_API_KEY` を登録（Settings → Secrets and variables → Actions）
-3. Vercel などで `web/` をルートにしてプロジェクトを作る（main への push で自動デプロイ）
+2. 手元で `claude setup-token` を実行して出たトークンを、Secrets の `CLAUDE_CODE_OAUTH_TOKEN` に登録（Settings → Secrets and variables → Actions）
+3. Cloudflare Pages などで `web/` をルートにしてプロジェクトを作る（main への push で自動デプロイ）
 4. Actions の collect を手動実行して、`store.json` のコミットとサイトの更新を確認
 
 ## 公開前に確認すること

@@ -37,7 +37,32 @@
    "homepage": "https://www.channelnewsasia.com"
   }
  ],
- "events": [],
+ "events": [
+  {
+   "id": "742a3b28-c7c2-4100-aab0-72455c8dd114",
+   "title_ja": "日本の首相が国連に「敵国条項」削除を要請",
+   "fact_ja": "日本の首相が国連で、国連憲章の「敵国」規定の削除を求めた。",
+   "category": "外交",
+   "first_seen": "2026-09-27T11:15:13.499226+00:00",
+   "updated_at": "2026-09-27T11:15:13.499263+00:00"
+  },
+  {
+   "id": "6b86d40e-d241-4c7d-ad94-2d38f8bde12d",
+   "title_ja": "愛知・名古屋アジア大会で空席が目立つ",
+   "fact_ja": "日本で開催中のアジア大会で会場の空席が目立ち、日本の組織委員会が「満足していない」と述べた。",
+   "category": "スポーツ",
+   "first_seen": "2026-09-27T11:15:13.499290+00:00",
+   "updated_at": "2026-09-27T11:15:13.499300+00:00"
+  },
+  {
+   "id": "588ca1ce-ff25-4ff8-a765-d057e5537ef9",
+   "title_ja": "アジア大会eスポーツで11歳の日本選手が金メダル",
+   "fact_ja": "アジア大会のeスポーツ競技で、11歳の日本選手が金メダルを獲得した。",
+   "category": "スポーツ",
+   "first_seen": "2026-09-27T11:15:13.499316+00:00",
+   "updated_at": "2026-09-27T11:15:13.499323+00:00"
+  }
+ ],
  "articles": [
   {
    "outlet_id": "nyt",
@@ -49,8 +74,9 @@
    "event_id": null,
    "summary_ja": null,
    "tone": null,
-   "processed_at": null,
-   "relevant": null
+   "processed_at": "2026-09-27T11:15:13.499024+00:00",
+   "relevant": false,
+   "description": ""
   },
   {
    "outlet_id": "wsj",
@@ -59,11 +85,12 @@
    "published_at": "2026-09-23T02:32:00+00:00",
    "id": "5bff61b2-8ebb-437d-8cf8-4a9b057e9e64",
    "fetched_at": "2026-09-27T10:45:09.197868+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "tone": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "742a3b28-c7c2-4100-aab0-72455c8dd114",
+   "summary_ja": "日本の首相が国連に対し、日本を「敵国」とする規定の撤廃を求めたと報じている。",
+   "tone": "neu",
+   "processed_at": "2026-09-27T11:15:13.499024+00:00",
+   "relevant": true,
+   "description": ""
   },
   {
    "outlet_id": "cna",
@@ -72,11 +99,12 @@
    "published_at": "2026-09-26T09:59:00+00:00",
    "id": "7d635d5f-e1da-4d1e-8627-32433916bda4",
    "fetched_at": "2026-09-27T10:45:09.736757+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "tone": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "588ca1ce-ff25-4ff8-a765-d057e5537ef9",
+   "summary_ja": "アジア大会のeスポーツで11歳の日本選手が金メダルを取り、照れた様子を語ったと伝えている。",
+   "tone": "neu",
+   "processed_at": "2026-09-27T11:15:13.499024+00:00",
+   "relevant": true,
+   "description": ""
   },
   {
    "outlet_id": "cna",
@@ -85,11 +113,12 @@
    "published_at": "2026-09-26T08:50:00+00:00",
    "id": "944694cc-2fd5-4556-8211-fcd5b0d3b27c",
    "fetched_at": "2026-09-27T10:45:09.736781+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "tone": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "6b86d40e-d241-4c7d-ad94-2d38f8bde12d",
+   "summary_ja": "アジア大会の会場で空席が目立ち、日本の組織委員会も不満を認めていると伝えている。",
+   "tone": "crit",
+   "processed_at": "2026-09-27T11:15:13.499024+00:00",
+   "relevant": true,
+   "description": ""
   }
  ]
 }
