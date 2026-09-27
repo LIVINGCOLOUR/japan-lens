@@ -5,9 +5,12 @@ description（リード文）は日本関連かどうかの判定と AI への�
 
 import calendar
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import feedparser
+
+# フィードには数か月前の記事が残っていることがあるので、古いものは取り込まない
+MAX_AGE = timedelta(days=3)
 
 USER_AGENT = "JapanLensBot/0.1 (+https://github.com/; headline aggregator)"
 
@@ -41,6 +44,7 @@ def fetch_outlet(outlet):
     """1媒体ぶんの日本関連記事を返す。同じ URL が複数フィードにあれば1件にまとめる。"""
     found = {}
     errors = []
+    oldest = datetime.now(timezone.utc) - MAX_AGE
     for url in outlet["feeds"]:
         feed = feedparser.parse(url, agent=USER_AGENT)
         if feed.bozo and not feed.entries:
@@ -51,6 +55,9 @@ def fetch_outlet(outlet):
             title = _clean(entry.get("title"))
             if not link or not title:
                 continue
+            published = _published(entry)
+            if published < oldest:
+                continue
             description = _clean(entry.get("summary"))
             if not JAPAN_PATTERN.search(f"{title} {description}"):
                 continue
@@ -58,7 +65,7 @@ def fetch_outlet(outlet):
                 "outlet_id": outlet["id"],
                 "url": link,
                 "title": title,
-                "published_at": _published(entry).isoformat(),
+                "published_at": published.isoformat(),
                 "description": description,  # 保存しない。AI 入力用
             }
     return list(found.values()), errors

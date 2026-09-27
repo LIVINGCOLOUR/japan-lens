@@ -15,9 +15,9 @@
 |---|---|
 | `collector/` | Python。RSS を取得 → 日本関連で絞り込み → Claude で出来事のグループ化・要約・論調判定 → `web/data/store.json` を更新。Claude は `claude -p`（Claude Code）をサブスクリプションの認証で呼ぶので API の従量課金はかからない |
 | `web/` | Next.js。ビルド時に `data/store.json` を取り込み、出来事ごとに各媒体のカードを並べた静的ページを作る |
-| `.github/workflows/collect.yml` | 毎時、収集処理を実行して `store.json` をコミット・push する |
+| `.github/workflows/collect.yml` | 1日1回（日本時間の朝6時）、収集処理を実行して `store.json` をコミット・push する |
 
-更新の流れ: GitHub Actions（毎時）→ `store.json` をコミット → ホスティングが push を検知して再ビルド → サイト更新
+更新の流れ: GitHub Actions（1日1回）→ `store.json` をコミット → ホスティングが push を検知して再ビルド → サイト更新
 
 ## ローカルで動かす
 

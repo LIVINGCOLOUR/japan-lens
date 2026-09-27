@@ -1,10 +1,10 @@
 name: collect
 
-# 毎時、RSS を収集して AI 処理し、web/data/store.json をコミットする。
+# 1日1回、RSS を収集して AI 処理し、web/data/store.json をコミットする。
 # ホスティング（Vercel / Cloudflare Pages など）は main への push を検知してサイトを作り直す。
 on:
   schedule:
-    - cron: "7 * * * *" # 毎時7分
+    - cron: "7 21 * * *" # 毎日 6:07（日本時間）
   workflow_dispatch:
 
 permissions:
