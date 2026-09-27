@@ -27,6 +27,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 # 事前に claude コマンドにログインしておく
 .venv/bin/python main.py          # 収集 + AI 処理
 .venv/bin/python main.py --no-ai  # 収集だけ
+.venv/bin/python backfill.py --days 14  # 過去の記事をさかのぼって取り込む（Google News の検索 RSS。初回だけ）
 
 cd ../web
 npm install

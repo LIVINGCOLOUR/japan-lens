@@ -16,6 +16,10 @@ def _now():
     return datetime.now(timezone.utc).isoformat()
 
 
+def _norm(title):
+    return " ".join(title.lower().split())
+
+
 def _since(days):
     return (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
 
@@ -32,10 +36,12 @@ class Store:
         self.data["outlets"] = outlets
 
     def add_articles(self, articles):
+        # 同じ記事が RSS と検索の両方から来ることがあるので、URL と「媒体 + 見出し」の両方で重複を除く
         known = {a["url"] for a in self.data["articles"]}
+        known_titles = {(a["outlet_id"], _norm(a["title"])) for a in self.data["articles"]}
         added = []
         for a in articles:
-            if a["url"] in known:
+            if a["url"] in known or (a["outlet_id"], _norm(a["title"])) in known_titles:
                 continue
             row = {k: v for k, v in a.items() if k != "description"}
             row.update(id=str(uuid.uuid4()), fetched_at=_now(), event_id=None,
@@ -43,6 +49,7 @@ class Store:
             self.data["articles"].append(row)
             added.append({**row, "description": a.get("description", "")})
             known.add(a["url"])
+            known_titles.add((a["outlet_id"], _norm(a["title"])))
         return added
 
     def unprocessed_articles(self, limit):
@@ -60,9 +67,10 @@ class Store:
             events.append({**e, "sample_titles": titles[:3]})
         return events
 
-    def create_event(self, title_ja, fact_ja, category):
+    def create_event(self, title_ja, fact_ja, category, published_at):
+        # 出来事の日時は処理した時刻ではなく、記事の配信日時に合わせる
         ev = {"id": str(uuid.uuid4()), "title_ja": title_ja, "fact_ja": fact_ja,
-              "category": category, "first_seen": _now(), "updated_at": _now()}
+              "category": category, "first_seen": published_at, "updated_at": published_at}
         self.data["events"].append(ev)
         return ev["id"]
 
@@ -72,10 +80,11 @@ class Store:
                 a.update(fields)
                 return
 
-    def touch_event(self, event_id):
+    def touch_event(self, event_id, published_at):
         for e in self.data["events"]:
             if e["id"] == event_id:
-                e["updated_at"] = _now()
+                e["updated_at"] = max(e["updated_at"], published_at)
+                e["first_seen"] = min(e["first_seen"], published_at)
                 return
 
     def save(self):

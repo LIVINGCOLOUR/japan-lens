@@ -17,7 +17,7 @@ from outlets import OUTLETS, public_outlet
 from store import STORE_PATH, Store
 
 BATCH_SIZE = 30
-EVENT_WINDOW_DAYS = 7
+EVENT_WINDOW_DAYS = 14
 
 
 def collect(store):
@@ -51,7 +51,8 @@ def apply_result(store, batch, result, existing_ids):
         if ref in event_ids:
             if event_ids[ref] is None:
                 ev = next(e for e in result["new_events"] if e["key"] == ref)
-                event_ids[ref] = store.create_event(ev["title_ja"], ev["fact_ja"], ev["category"])
+                event_ids[ref] = store.create_event(ev["title_ja"], ev["fact_ja"], ev["category"],
+                                                   by_id[r["id"]]["published_at"])
             event_id = event_ids[ref]
         elif ref in existing_ids:
             event_id = ref
@@ -61,7 +62,7 @@ def apply_result(store, batch, result, existing_ids):
             "relevant": True, "event_id": event_id, "summary_ja": r["summary_ja"],
             "tone": r["tone"], "processed_at": now,
         })
-        store.touch_event(event_id)
+        store.touch_event(event_id, by_id[r["id"]]["published_at"])
         done += 1
     return done
 
@@ -86,6 +87,7 @@ def process(store, descriptions):
             print(f"  AI 処理を中断しました: {e}", file=sys.stderr)
             break
         total += apply_result(store, batch, result, {e["id"] for e in events})
+        store.save()  # 途中で止まっても処理済みの分は残す
     print(f"  AI 処理 {total} 件")
 
 
