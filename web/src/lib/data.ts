@@ -11,7 +11,8 @@ type Store = { outlets: Outlet[]; events: Omit<NewsEvent, "articles">[]; article
 
 function toFeed(outlets: Outlet[], events: NewsEvent[], source: Feed["source"]): Feed {
   const shown = events
-    .filter((e) => SHOWN_CATEGORIES.includes(e.category))
+    // 掲載するカテゴリーで、かつ「評価の対象」（日本の判断や行動）がある出来事だけ
+    .filter((e) => SHOWN_CATEGORIES.includes(e.category) && !!e.target)
     .filter((e) => e.articles.length >= MIN_ARTICLES && new Set(e.articles.map((a) => a.outlet_id)).size >= MIN_OUTLETS)
     .sort((a, b) => b.updated_at.localeCompare(a.updated_at))
     .slice(0, EVENT_LIMIT);
@@ -19,7 +20,8 @@ function toFeed(outlets: Outlet[], events: NewsEvent[], source: Feed["source"]):
 }
 
 export function getFeed(): Feed {
-  const data = store as Store;
+  // JSON の中身は処理の途中で null を含むことがあるので、unknown を経由して型を当てる
+  const data = store as unknown as Store;
   const events = data.events.map((e) => ({
     ...e,
     articles: data.articles.filter((a) => a.event_id === e.id && a.processed_at && a.relevant),

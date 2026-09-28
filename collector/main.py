@@ -22,7 +22,8 @@ EVENT_WINDOW_DAYS = 14
 MIN_ARTICLES = 3
 MIN_OUTLETS = 2
 # 掲載するカテゴリー（web/src/lib/rules.ts と同じ）。これ以外は判定し直さない
-SHOWN_CATEGORIES = {"政治", "外交", "安全保障", "経済"}
+SHOWN_CATEGORIES = {"政治", "外交", "安全保障", "経済政策", "企業・産業", "社会政策",
+                    "エネルギー・資源", "科学技術政策", "歴史認識"}
 
 
 def collect(store, leads):
@@ -112,7 +113,8 @@ def rejudge_events(store, leads):
     names = {o["id"]: o["name"] for o in OUTLETS}
     done = 0
     for ev in store.recent_events(EVENT_WINDOW_DAYS):
-        if ev["category"] not in SHOWN_CATEGORIES:
+        # 掲載しないカテゴリーと、評価の対象がない出来事は判定し直さない（どちらも画面に出さない）
+        if ev["category"] not in SHOWN_CATEGORIES or not ev.get("target"):
             continue
         articles = store.articles_of(ev["id"])
         if len(articles) < MIN_ARTICLES or len({a["outlet_id"] for a in articles}) < MIN_OUTLETS:

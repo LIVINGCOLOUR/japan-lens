@@ -3,5 +3,15 @@ export const MIN_ARTICLES = 3;
 export const MIN_OUTLETS = 2;
 
 // 掲載するカテゴリー。日本が政治的・経済的にどう見られているかに関わるものだけにする
-// （スポーツ・災害・文化などは載せない）。collector/main.py の SHOWN_CATEGORIES と同じにする
-export const SHOWN_CATEGORIES = ["政治", "外交", "安全保障", "経済"];
+// （スポーツ・災害・文化・市況などは「その他」として載せない）。collector/main.py の SHOWN_CATEGORIES と同じにする
+export const SHOWN_CATEGORIES = [
+  "政治",
+  "外交",
+  "安全保障",
+  "経済政策",
+  "企業・産業",
+  "社会政策",
+  "エネルギー・資源",
+  "科学技術政策",
+  "歴史認識",
+];
