@@ -1,7 +1,7 @@
 import sample from "@/data/sample.json";
 // 収集処理（collector/）が更新し、GitHub Actions がコミットするファイル。ビルド時に取り込む。
 import store from "../../data/store.json";
-import { MIN_ARTICLES, MIN_OUTLETS } from "./rules";
+import { MIN_ARTICLES, MIN_OUTLETS, SHOWN_CATEGORIES } from "./rules";
 import type { Article, Feed, NewsEvent, Outlet } from "./types";
 
 const EVENT_LIMIT = 30;
@@ -11,6 +11,7 @@ type Store = { outlets: Outlet[]; events: Omit<NewsEvent, "articles">[]; article
 
 function toFeed(outlets: Outlet[], events: NewsEvent[], source: Feed["source"]): Feed {
   const shown = events
+    .filter((e) => SHOWN_CATEGORIES.includes(e.category))
     .filter((e) => e.articles.length >= MIN_ARTICLES && new Set(e.articles.map((a) => a.outlet_id)).size >= MIN_OUTLETS)
     .sort((a, b) => b.updated_at.localeCompare(a.updated_at))
     .slice(0, EVENT_LIMIT);

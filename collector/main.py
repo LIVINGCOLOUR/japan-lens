@@ -21,6 +21,8 @@ EVENT_WINDOW_DAYS = 14
 # 掲載条件（web/src/lib/rules.ts と同じ値にする）。条件を満たした出来事は記事を並べて判定し直す
 MIN_ARTICLES = 3
 MIN_OUTLETS = 2
+# 掲載するカテゴリー（web/src/lib/rules.ts と同じ）。これ以外は判定し直さない
+SHOWN_CATEGORIES = {"政治", "外交", "安全保障", "経済"}
 
 
 def collect(store, leads):
@@ -110,6 +112,8 @@ def rejudge_events(store, leads):
     names = {o["id"]: o["name"] for o in OUTLETS}
     done = 0
     for ev in store.recent_events(EVENT_WINDOW_DAYS):
+        if ev["category"] not in SHOWN_CATEGORIES:
+            continue
         articles = store.articles_of(ev["id"])
         if len(articles) < MIN_ARTICLES or len({a["outlet_id"] for a in articles}) < MIN_OUTLETS:
             continue
