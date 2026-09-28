@@ -20,10 +20,10 @@ import feedparser
 from dotenv import load_dotenv
 
 from ai import available as ai_available
-from fetch import JAPAN_PATTERN, USER_AGENT
-from main import process
+from fetch import JAPAN_PATTERN, USER_AGENT, article_kind
+from main import process, rejudge_events
 from outlets import OUTLETS, public_outlet
-from store import STORE_PATH, Store
+from store import STORE_PATH, Leads, Store
 
 DOMAINS = {
     "nyt": "nytimes.com",
@@ -40,10 +40,22 @@ def _search_url(domain, start, end):
     return f"https://news.google.com/rss/search?q={quote_plus(q)}&hl=en-US&gl=US&ceid=US:en"
 
 
+# Google News の見出しは末尾に " - 媒体名" が付く。媒体内のブランド名が重なることもある
+# （例: "... - The Athletic - The New York Times"）
+KNOWN_SUFFIXES = ["The New York Times", "The Athletic", "Wirecutter", "The Wall Street Journal", "WSJ",
+                  "Barron's", "MarketWatch", "BBC", "BBC News", "CNA", "CNA Lifestyle", "CNA Luxury"]
+
+
 def _strip_source(title, source):
-    # Google News の見出しは末尾に " - 媒体名" が付く
-    suffix = f" - {source}"
-    return title[: -len(suffix)] if source and title.endswith(suffix) else title
+    suffixes = [source] + KNOWN_SUFFIXES if source else KNOWN_SUFFIXES
+    changed = True
+    while changed:
+        changed = False
+        for name in suffixes:
+            if title.endswith(f" - {name}"):
+                title = title[: -len(name) - 3].rstrip()
+                changed = True
+    return title
 
 
 def search_outlet(outlet_id, days):
@@ -67,7 +79,7 @@ def search_outlet(outlet_id, days):
                 "url": entry.link,
                 "title": title,
                 "published_at": published.isoformat(),
-                "description": "",
+                "kind": article_kind(entry.link, title),
             }
         start = end
         time.sleep(PAUSE_SECONDS)
@@ -82,6 +94,7 @@ def main():
     args = parser.parse_args()
 
     store = Store()
+    leads = Leads()
     print(f"保存先: {STORE_PATH}")
     try:
         store.upsert_outlets([public_outlet(o) for o in OUTLETS])
@@ -94,8 +107,8 @@ def main():
             print("  AI 処理はスキップしました (--no-ai)")
         elif not ai_available():
             print("  claude コマンドが見つからないため AI 処理をスキップしました")
-        else:
-            process(store, {})
+        elif process(store, leads):
+            rejudge_events(store, leads)
     finally:
         store.save()
 

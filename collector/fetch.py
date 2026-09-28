@@ -1,6 +1,7 @@
 """RSS から日本関連の記事を集める。
 
-description（リード文）は日本関連かどうかの判定と AI への入力にだけ使い、保存しない。
+description（リード文）は日本関連かどうかの判定と AI への入力にだけ使う。
+公開用の store.json には入れず、再判定のために collector/state/leads.json に2週間だけ置く。
 """
 
 import calendar
@@ -27,6 +28,16 @@ JAPAN_PATTERN = re.compile(
 )
 
 _TAG = re.compile(r"<[^>]+>")
+
+# URL や見出しから記事の種類を見分ける。オピニオンは論調が出やすいので判定の手がかりにする
+OPINION_URL = re.compile(r"/(opinion|opinions|commentary|editorial|editorials)/", re.IGNORECASE)
+OPINION_TITLE = re.compile(r"^(opinion|analysis|commentary|editorial)\s*[:|]", re.IGNORECASE)
+
+
+def article_kind(url, title):
+    if OPINION_URL.search(url) or OPINION_TITLE.search(title):
+        return "opinion"
+    return "news"
 
 
 def _clean(text):
@@ -66,6 +77,8 @@ def fetch_outlet(outlet):
                 "url": link,
                 "title": title,
                 "published_at": published.isoformat(),
-                "description": description,  # 保存しない。AI 入力用
+                "kind": article_kind(link, title),
+                "description": description,  # store.json には入れない。AI 入力用
+                "tags": [t.term for t in entry.get("tags", []) if t.get("term")][:8],  # 同上
             }
     return list(found.values()), errors

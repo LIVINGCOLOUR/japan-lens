@@ -9,8 +9,8 @@ const TONES: { key: Tone; label: string }[] = [
   { key: "neu", label: "中立" },
   { key: "fav", label: "好意的" },
 ];
-const TONE_LABEL: Record<Tone, string> = { crit: "批判的", neu: "中立", fav: "好意的" };
-const TONE_RANK: Record<Tone, number> = { crit: 0, neu: 1, fav: 2 };
+const TONE_LABEL: Record<Tone, string> = { crit: "批判的", neu: "中立", fav: "好意的", none: "評価なし" };
+const TONE_RANK: Record<Tone, number> = { crit: 0, neu: 1, fav: 2, none: 3 };
 const REGION_LABEL: Record<string, string> = { US: "米国", GB: "英国", DE: "ドイツ", SG: "シンガポール" };
 
 type Sort = "tone" | "time";
@@ -30,12 +30,27 @@ function formatTime(iso: string) {
   return JST.format(new Date(iso));
 }
 
-function ToneBar({ articles }: { articles: Article[] }) {
-  const total = articles.length || 1;
-  const counts = TONES.map((t) => ({ ...t, n: articles.filter((a) => a.tone === t.key).length }));
+function ToneBar({ articles, target }: { articles: Article[]; target?: string }) {
+  // 「評価なし」の記事は割合に含めない
+  const judged = articles.filter((a) => a.tone !== "none");
+  const unjudged = articles.length - judged.length;
+  if (!target) {
+    return <p className="dist-note">評価の対象がない出来事のため、論調は判定していません。各社の切り口を比べてください。</p>;
+  }
+  if (judged.length === 0) {
+    return (
+      <p className="dist-note">
+        「{target}」について、見出しとリード文から論調を判断できる記事はありませんでした。
+      </p>
+    );
+  }
+  const total = judged.length;
+  const counts = TONES.map((t) => ({ ...t, n: judged.filter((a) => a.tone === t.key).length }));
   return (
     <div className="dist" aria-label="記事の論調の分布">
-      <div className="dist-ttl">記事の論調</div>
+      <div className="dist-ttl">
+        「{target}」への論調{unjudged > 0 && <span className="dist-sub">（評価なし {unjudged}件を除く）</span>}
+      </div>
       <div className="bar">
         {counts
           .filter((c) => c.n)
@@ -65,7 +80,9 @@ function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Out
           <span className="cc">{outlet?.country_code}</span>
           <b>{outlet?.name ?? article.outlet_id}</b>
           {outlet && <span className="own-tag">{outlet.ownership}</span>}
+          {article.kind === "opinion" && <span className="kind-tag">解説・論説</span>}
         </div>
+        {article.angle && <p className="angle">切り口：{article.angle}</p>}
         {lang === "en" ? (
           <>
             <p className="headline" lang="en">{article.title}</p>
@@ -76,6 +93,11 @@ function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Out
             <p className="headline">{article.summary_ja}</p>
             <p className="summary" lang="en">{article.title}</p>
           </>
+        )}
+        {article.evidence && (
+          <p className="evidence">
+            根拠 <q lang="en">{article.evidence}</q>
+          </p>
         )}
         <div className="card-foot">
           <span className={`tone ${article.tone}`}>{TONE_LABEL[article.tone]}</span>
@@ -137,13 +159,17 @@ export default function FeedView({ feed }: { feed: Feed }) {
 
       <div className="legend">
         <span className="ttl">記事の論調</span>
-        <span>日本政府・日本側への評価</span>
+        <span>出来事ごとの「評価の対象」に対する見方</span>
         {TONES.map((t) => (
           <span key={t.key}>
             <i style={{ background: `var(--${t.key})` }} />
             {t.label}
           </span>
         ))}
+        <span>
+          <i className="swatch-none" />
+          評価なし（手がかりがない）
+        </span>
       </div>
 
       <main className="events">
@@ -164,7 +190,7 @@ export default function FeedView({ feed }: { feed: Feed }) {
               </div>
               <h2 className="ev-title">{ev.title_ja}</h2>
               <p className="ev-fact">{ev.fact_ja}</p>
-              <ToneBar articles={list} />
+              <ToneBar articles={list} target={ev.target} />
             </div>
             {list.length ? (
               <div className="cards">

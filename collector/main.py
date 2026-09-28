@@ -1,7 +1,7 @@
 """収集処理の入口。1日1回（日本時間の朝6時）実行する想定。
 
     python main.py              # 収集して AI 処理まで
-    python main.py --no-ai      # 収集だけ（APIキーなしで動作確認するとき）
+    python main.py --no-ai      # 収集だけ（AI を使わずに動作確認するとき）
 """
 
 import argparse
@@ -14,30 +14,34 @@ from dotenv import load_dotenv
 from ai import available as ai_available
 from fetch import fetch_outlet
 from outlets import OUTLETS, public_outlet
-from store import STORE_PATH, Store
+from store import LEADS_PATH, STORE_PATH, Leads, Store
 
 BATCH_SIZE = 30
 EVENT_WINDOW_DAYS = 14
+# 掲載条件（web/src/lib/rules.ts と同じ値にする）。条件を満たした出来事は記事を並べて判定し直す
+MIN_ARTICLES = 3
+MIN_OUTLETS = 2
 
 
-def collect(store):
+def collect(store, leads):
     store.upsert_outlets([public_outlet(o) for o in OUTLETS])
-    added = []
     for outlet in OUTLETS:
         found, errors = fetch_outlet(outlet)
         for e in errors:
             print(f"  [{outlet['id']}] フィード取得エラー: {e}", file=sys.stderr)
-        new = store.add_articles(found)
+        new = store.add_articles(found, leads)
         print(f"  [{outlet['id']}] 日本関連 {len(found)} 件 / 新規 {len(new)} 件")
-        added.extend(new)
-    return added
+
+
+def _judgement(r):
+    tone = r["tone"]
+    return {"angle": r["angle"], "tone": tone, "evidence": r["evidence"] if tone != "none" else ""}
 
 
 def apply_result(store, batch, result, existing_ids):
     by_id = {a["id"]: a for a in batch}
-    event_ids = {}
-    for ev in result["new_events"]:
-        event_ids[ev["key"]] = None  # 記事が付くまで作らない
+    new_events = {ev["key"]: ev for ev in result["new_events"]}
+    created = {}  # key → id。記事が付いた出来事だけ作る
     now = datetime.now(timezone.utc).isoformat()
     done = 0
     for r in result["articles"]:
@@ -48,26 +52,35 @@ def apply_result(store, batch, result, existing_ids):
             done += 1
             continue
         ref = r["event"]
-        if ref in event_ids:
-            if event_ids[ref] is None:
-                ev = next(e for e in result["new_events"] if e["key"] == ref)
-                event_ids[ref] = store.create_event(ev["title_ja"], ev["fact_ja"], ev["category"],
-                                                   by_id[r["id"]]["published_at"])
-            event_id = event_ids[ref]
+        published = by_id[r["id"]]["published_at"]
+        if ref in new_events:
+            if ref not in created:
+                ev = new_events[ref]
+                created[ref] = store.create_event(ev["title_ja"], ev["fact_ja"], ev["category"],
+                                                  ev["target"], published)
+            event_id = created[ref]
         elif ref in existing_ids:
             event_id = ref
         else:
             continue  # 出来事が決まらなかった記事は次回に再処理
         store.update_article(r["id"], {
             "relevant": True, "event_id": event_id, "summary_ja": r["summary_ja"],
-            "tone": r["tone"], "processed_at": now,
+            **_judgement(r), "processed_at": now,
         })
-        store.touch_event(event_id, by_id[r["id"]]["published_at"])
+        store.touch_event(event_id, published)
         done += 1
     return done
 
 
-def process(store, descriptions):
+def _with_leads(articles, leads):
+    out = []
+    for a in articles:
+        lead = leads.get(a["url"])
+        out.append({**a, "description": lead.get("lead", ""), "tags": lead.get("tags", [])})
+    return out
+
+
+def process(store, leads):
     from ai import AIError, classify
 
     names = {o["id"]: o["name"] for o in OUTLETS}
@@ -78,17 +91,43 @@ def process(store, descriptions):
         if not batch:
             break
         seen.update(a["id"] for a in batch)
-        for a in batch:
-            a["description"] = descriptions.get(a["url"], "")
         events = store.recent_events(EVENT_WINDOW_DAYS)
         try:
-            result = classify(batch, events, names)
+            result = classify(_with_leads(batch, leads), events, names)
         except AIError as e:
             print(f"  AI 処理を中断しました: {e}", file=sys.stderr)
-            break
+            return False
         total += apply_result(store, batch, result, {e["id"] for e in events})
         store.save()  # 途中で止まっても処理済みの分は残す
     print(f"  AI 処理 {total} 件")
+    return True
+
+
+def rejudge_events(store, leads):
+    """掲載条件を満たした出来事のうち、前回の判定から記事が増えたものを並べて判定し直す。"""
+    from ai import AIError, rejudge
+
+    names = {o["id"]: o["name"] for o in OUTLETS}
+    done = 0
+    for ev in store.recent_events(EVENT_WINDOW_DAYS):
+        articles = store.articles_of(ev["id"])
+        if len(articles) < MIN_ARTICLES or len({a["outlet_id"] for a in articles}) < MIN_OUTLETS:
+            continue
+        if ev.get("judged_count") == len(articles):
+            continue
+        try:
+            result = rejudge(ev, _with_leads(articles, leads), names)
+        except AIError as e:
+            print(f"  判定し直しを中断しました: {e}", file=sys.stderr)
+            break
+        ids = {a["id"] for a in articles}
+        for r in result["articles"]:
+            if r["id"] in ids:
+                store.update_article(r["id"], {"summary_ja": r["summary_ja"], **_judgement(r)})
+        store.set_judged(ev["id"], len(articles), result["title_ja"], result["fact_ja"])
+        store.save()
+        done += 1
+    print(f"  並べて判定し直した出来事 {done} 件")
 
 
 def main():
@@ -98,17 +137,19 @@ def main():
     args = parser.parse_args()
 
     store = Store()
-    print(f"保存先: {STORE_PATH}")
+    leads = Leads()
+    print(f"保存先: {STORE_PATH}（内部用: {LEADS_PATH}）")
     try:
-        added = collect(store)
+        collect(store, leads)
         if args.no_ai:
             print("  AI 処理はスキップしました (--no-ai)")
         elif not ai_available():
             print("  claude コマンドが見つからないため AI 処理をスキップしました", file=sys.stderr)
-        else:
-            process(store, {a["url"]: a.get("description", "") for a in added})
+        elif process(store, leads):
+            rejudge_events(store, leads)
     finally:
         store.save()
+        leads.save()
 
 
 if __name__ == "__main__":

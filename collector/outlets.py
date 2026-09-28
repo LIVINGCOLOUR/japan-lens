@@ -16,6 +16,8 @@ OUTLETS = [
         "feeds": [
             "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml",
             "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            # オピニオン（社説・論説）。各社の見方がはっきり出るので論調判定の材料として重要
+            "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml",
         ],
         "lean": -1,
     },
@@ -31,6 +33,7 @@ OUTLETS = [
         "feeds": [
             "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
             "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed",
+            "https://feeds.content.dowjones.io/public/rss/RSSOpinion",
         ],
         "lean": 1,
     },
