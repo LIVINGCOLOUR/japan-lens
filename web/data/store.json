@@ -41,10 +41,10 @@
   {
    "id": "0ec7d74f-fba0-4401-9fa4-7eadf9764ad1",
    "title_ja": "沖縄県知事選で保守系候補が当選",
-   "fact_ja": "沖縄県知事選で保守系の候補が当選し、米軍基地に反対してきた現職知事が敗れた。",
+   "fact_ja": "沖縄県知事選で保守系の候補が当選した。",
    "category": "政治",
    "target": "沖縄知事選での保守系候補の選出",
-   "judged_count": 0,
+   "judged_count": 2,
    "first_seen": "2026-09-13T07:00:00+00:00",
    "updated_at": "2026-09-14T07:00:00+00:00"
   },
@@ -280,11 +280,11 @@
   },
   {
    "id": "aedf5902-67f5-4f24-a1a2-dd502c5d8c3a",
-   "title_ja": "日産が英サンダーランド工場への投資を発表",
-   "fact_ja": "日産が英国サンダーランド工場に1億7000万ポンドを投資し、欧州向けハイブリッドSUV「キックス」を生産すると発表した。",
+   "title_ja": "日産が英サンダーランド工場に投資、欧州向けハイブリッドSUVを生産へ",
+   "fact_ja": "日産が英国サンダーランド工場に1億7000万ポンドを投資し、欧州向けのハイブリッドSUV「キックス」を同工場で生産すると発表した。",
    "category": "企業・産業",
    "target": "日産の英工場への投資",
-   "judged_count": 0,
+   "judged_count": 2,
    "first_seen": "2026-09-16T07:00:00+00:00",
    "updated_at": "2026-09-16T07:00:00+00:00"
   },
@@ -590,11 +590,11 @@
   },
   {
    "id": "60aa2b81-1c3d-43ae-ba12-4893c13bd2b3",
-   "title_ja": "高市首相が国連で旧敵国条項の削除を要求",
-   "fact_ja": "高市首相が国連で、日本に対する「敵国」の扱いをなくすよう求めた。",
+   "title_ja": "高市首相、国連で旧敵国条項の削除を要求",
+   "fact_ja": "高市首相が国連で、日本を「敵国」とする扱いをなくすよう求めた。",
    "category": "外交",
    "target": "高市首相の国連での要求",
-   "judged_count": 0,
+   "judged_count": 2,
    "first_seen": "2026-09-23T02:32:00+00:00",
    "updated_at": "2026-09-23T09:03:00+00:00"
   },
@@ -888,13 +888,13 @@
    "id": "5bff61b2-8ebb-437d-8cf8-4a9b057e9e64",
    "fetched_at": "2026-09-27T10:45:09.197868+00:00",
    "event_id": "60aa2b81-1c3d-43ae-ba12-4893c13bd2b3",
-   "summary_ja": "高市首相が国連に対し、日本に付された「敵国」の扱いをなくすよう求めた。",
-   "tone": "none",
+   "summary_ja": "日本の首相が国連に対し、日本を「敵国」とする扱いの撤廃を求めた。",
+   "tone": "neu",
    "processed_at": "2026-09-28T04:34:26.289907+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "首相の要求内容",
-   "evidence": ""
+   "evidence": "Calls on U.N. to Drop ‘Enemy State’ Label"
   },
   {
    "outlet_id": "cna",
@@ -1032,13 +1032,13 @@
    "id": "0f6f2de1-4dda-4dfd-ad38-1bb4998342cb",
    "fetched_at": "2026-09-27T14:22:14.046266+00:00",
    "event_id": "0ec7d74f-fba0-4401-9fa4-7eadf9764ad1",
-   "summary_ja": "中国や経済への不安を背景に、沖縄で保守系の知事が選ばれたと伝える。",
-   "tone": "none",
+   "summary_ja": "中国や経済への不安が広がるなか、沖縄県民が保守系の知事を選んだと伝える。",
+   "tone": "neu",
    "processed_at": "2026-09-28T04:30:47.510062+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "対中不安と経済",
-   "evidence": ""
+   "angle": "中国・経済への不安",
+   "evidence": "Amid Fears About China and the Economy"
   },
   {
    "outlet_id": "bbc",
@@ -1176,13 +1176,13 @@
    "id": "c6f14cea-e5b1-434b-b8c9-09c5b8308454",
    "fetched_at": "2026-09-27T14:23:08.049619+00:00",
    "event_id": "0ec7d74f-fba0-4401-9fa4-7eadf9764ad1",
-   "summary_ja": "沖縄県知事選で米軍基地に反対してきた現職知事が敗れたと伝える。",
-   "tone": "none",
+   "summary_ja": "沖縄県知事選で、米軍基地に反対してきた知事が敗れて退くことになったと伝える。",
+   "tone": "neu",
    "processed_at": "2026-09-28T04:30:47.510062+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "基地反対派の敗北",
-   "evidence": ""
+   "angle": "反基地知事の敗北",
+   "evidence": "ousts anti-US base governor"
   },
   {
    "outlet_id": "cna",
@@ -2360,13 +2360,13 @@
    "id": "15d0136a-fd9f-414c-b58e-d41a756c9b49",
    "fetched_at": "2026-09-27T14:22:14.046803+00:00",
    "event_id": "60aa2b81-1c3d-43ae-ba12-4893c13bd2b3",
-   "summary_ja": "高市首相が国連で、「敵国」の扱いを終わらせる時期だと訴えた。",
-   "tone": "none",
+   "summary_ja": "日本の首相が国連の場で、「敵国」扱いを終わらせる時が来たと訴えた。",
+   "tone": "neu",
    "processed_at": "2026-09-28T04:34:26.289907+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "首相の国連演説",
-   "evidence": ""
+   "evidence": "Says It’s Time to End ‘Enemy State’ Label"
   },
   {
    "outlet_id": "cna",
@@ -2969,8 +2969,8 @@
    "id": "f9fded6c-d527-4feb-912f-c8cb8bab268b",
    "fetched_at": "2026-09-28T04:29:18.101764+00:00",
    "event_id": "aedf5902-67f5-4f24-a1a2-dd502c5d8c3a",
-   "summary_ja": "日産がキックス生産のため英サンダーランド工場に1億7000万ポンドを投資すると発表した。",
-   "angle": "英国工場への投資",
+   "summary_ja": "日産がキックスの生産に向け、サンダーランド工場に1億7000万ポンドを投じると発表した。",
+   "angle": "投資額と車種",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
@@ -3049,8 +3049,8 @@
    "id": "d6b08345-407c-4a8e-aaa8-e841de633805",
    "fetched_at": "2026-09-28T04:29:35.351233+00:00",
    "event_id": "aedf5902-67f5-4f24-a1a2-dd502c5d8c3a",
-   "summary_ja": "日産が欧州向けの新しいハイブリッドSUVを英国工場で生産すると伝える。",
-   "angle": "欧州向け新型車",
+   "summary_ja": "日産が欧州向けの新しいハイブリッドSUVを英国の工場で生産する計画を伝えた。",
+   "angle": "欧州向け新車生産",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",

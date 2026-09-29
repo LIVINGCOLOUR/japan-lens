@@ -19,7 +19,6 @@ from store import LEADS_PATH, STORE_PATH, Leads, Store
 BATCH_SIZE = 30
 EVENT_WINDOW_DAYS = 14
 # 掲載条件（web/src/lib/rules.ts と同じ値にする）。条件を満たした出来事は記事を並べて判定し直す
-MIN_ARTICLES = 3
 MIN_OUTLETS = 2
 # 掲載するカテゴリー（web/src/lib/rules.ts と同じ）。これ以外は判定し直さない
 SHOWN_CATEGORIES = {"政治", "外交", "安全保障", "経済政策", "企業・産業", "社会政策",
@@ -112,12 +111,13 @@ def rejudge_events(store, leads):
 
     names = {o["id"]: o["name"] for o in OUTLETS}
     done = 0
-    for ev in store.recent_events(EVENT_WINDOW_DAYS):
+    # 期間では絞らない（判定済みで記事が増えていない出来事は下で飛ばすので、毎回の負担は増えない）
+    for ev in store.recent_events(days=3650):
         # 掲載しないカテゴリーと、評価の対象がない出来事は判定し直さない（どちらも画面に出さない）
         if ev["category"] not in SHOWN_CATEGORIES or not ev.get("target"):
             continue
         articles = store.articles_of(ev["id"])
-        if len(articles) < MIN_ARTICLES or len({a["outlet_id"] for a in articles}) < MIN_OUTLETS:
+        if len({a["outlet_id"] for a in articles}) < MIN_OUTLETS:
             continue
         if ev.get("judged_count") == len(articles):
             continue

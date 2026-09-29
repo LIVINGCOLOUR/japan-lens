@@ -1,6 +1,6 @@
 import FeedView from "@/components/FeedView";
 import { getFeed } from "@/lib/data";
-import { MIN_ARTICLES } from "@/lib/rules";
+import { MIN_OUTLETS } from "@/lib/rules";
 
 export default function Home() {
   const feed = getFeed();
@@ -24,7 +24,7 @@ export default function Home() {
       <section className="policy" aria-labelledby="policy-title">
         <h2 id="policy-title">掲載媒体について</h2>
         <p>
-          各国で政治的な立場の異なる媒体を、偏りが出ないよう組み合わせて選んでいます。選定には外部の評価機関の格付けを参考にしています。個々の媒体に政治的な立場の評価は付けていません。日本の政治・外交・安全保障・経済などについて、日本の判断や行動が評価の対象になる出来事のうち、複数の媒体から合計{MIN_ARTICLES}件以上の報道があったものを掲載しています。
+          各国で政治的な立場の異なる媒体を、偏りが出ないよう組み合わせて選んでいます。選定には外部の評価機関の格付けを参考にしています。個々の媒体に政治的な立場の評価は付けていません。日本の政治・外交・安全保障・経済などについて、日本の判断や行動が評価の対象になる出来事のうち、{MIN_OUTLETS}つ以上の媒体が報じたものを掲載しています。
         </p>
         <ul className="outlet-list">
           {feed.outlets.map((o) => (

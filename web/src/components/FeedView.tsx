@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { MIN_ARTICLES } from "@/lib/rules";
+import { MIN_OUTLETS } from "@/lib/rules";
 import type { Article, Feed, Outlet, Tone } from "@/lib/types";
 
 const TONES: { key: Tone; label: string }[] = [
@@ -175,7 +175,7 @@ export default function FeedView({ feed }: { feed: Feed }) {
       <main className="events">
         {events.length === 0 && (
           <p className="empty">
-            まだ掲載できる出来事がありません。複数の媒体から合計{MIN_ARTICLES}件以上の報道が集まった出来事を掲載します。
+            まだ掲載できる出来事がありません。{MIN_OUTLETS}つ以上の媒体が報じた出来事を掲載します。
           </p>
         )}
         {events.map(({ ev, list, countries, outletCount }) => (
