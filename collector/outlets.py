@@ -64,6 +64,7 @@ OUTLETS = [
         "homepage": "https://www.channelnewsasia.com",
         "feeds": [
             "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511",
+            "https://www.channelnewsasia.com/api/v1/sitemap-news-feed?_format=xml",
         ],
         # 本文を読んで論調を判定する。robots.txt で AI を拒否していない媒体だけ True にすること
         # （NYT・BBC は Claude を名指しで拒否、WSJ は自動取得を全面拒否しているので False のまま）
@@ -81,7 +82,8 @@ OUTLETS += [
         "region": "KR",
         "ownership": "民間",
         "homepage": "https://www.koreaherald.com",
-        "feeds": ["https://www.koreaherald.com/rss/newsAll"],
+        # RSS は約1日分しか残らないので、2日分あるニュース用サイトマップも使う（以下同様）
+        "feeds": ["https://www.koreaherald.com/rss/newsAll", "https://www.koreaherald.com/sitemap/latest-articles"],
         "read_body": True,
         "lean": 1,
     },
@@ -109,6 +111,7 @@ OUTLETS += [
         "feeds": [
             "https://www.welt.de/feeds/section/politik/ausland.rss",
             "https://www.welt.de/feeds/section/wirtschaft.rss",
+            "https://www.welt.de/sitemaps/newssitemap/newssitemap.xml",
         ],
         "read_body": True,
         "lean": 1,
@@ -121,7 +124,7 @@ OUTLETS += [
         "region": "DE",
         "ownership": "協同組合",
         "homepage": "https://taz.de",
-        "feeds": ["https://taz.de/rss.xml"],
+        "feeds": ["https://taz.de/rss.xml", "https://taz.de/sitemap-google-news.xml"],
         "read_body": True,
         "lean": -2,
     },
@@ -152,7 +155,8 @@ OUTLETS += [
         "region": "CN",
         "ownership": "国営",
         "homepage": "https://www.globaltimes.cn",
-        "feeds": ["https://www.globaltimes.cn/rss/outbrain.xml"],
+        # rss/outbrain.xml は数か月前の記事しか載らないので、公式のニュース用サイトマップを使う
+        "feeds": ["https://www.globaltimes.cn/sitemap.xml"],
         "read_body": True,
         "lean": None,
     },
@@ -164,7 +168,7 @@ OUTLETS += [
         "region": "TW",
         "ownership": "政府系",
         "homepage": "https://focustaiwan.tw",
-        "feeds": ["https://feeds.feedburner.com/rsscna/engnews/"],
+        "feeds": ["https://feeds.feedburner.com/rsscna/engnews/", "https://focustaiwan.tw/GoogleNewsSitemap_fromRemote_cep2.xml"],
         "read_body": True,
         "lean": None,
     },
@@ -211,6 +215,7 @@ OUTLETS += [
             "https://www.straitstimes.com/news/asia/rss.xml",
             "https://www.straitstimes.com/news/world/rss.xml",
             "https://www.straitstimes.com/news/opinion/rss.xml",
+            "https://www.straitstimes.com/googlenews.xml",
         ],
         "read_body": True,
         "lean": None,
@@ -227,6 +232,22 @@ OUTLETS += [
         "feeds": ["https://www.thejakartapost.com/sitemap_news.xml"],
         "read_body": True,
         "lean": 0,
+    },
+]
+
+OUTLETS += [
+    {
+        "id": "cgtn",
+        "name": "CGTN",
+        "country_code": "CN",
+        "flag": "🇨🇳",
+        "region": "CN",
+        "ownership": "国営",
+        "homepage": "https://www.cgtn.com",
+        "feeds": ["https://www.cgtn.com/sitemap_latestnews.xml"],
+        # 記事ページ（news.cgtn.com）の robots.txt を確認できないので本文は読まない
+        "read_body": False,
+        "lean": None,
     },
 ]
 

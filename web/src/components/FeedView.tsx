@@ -134,7 +134,40 @@ const BASIS_NOTE: Record<string, string> = {
   overseas_reports: "海外の記事が伝えた日本側の説明から",
 };
 
-function Summary({ ev, overseas }: { ev: NewsEvent; overseas: Article[] }) {
+function JapanLinks({ articles, outlets }: { articles: Article[]; outlets: Map<string, Outlet> }) {
+  if (articles.length === 0) return null;
+  return (
+    <div className="jp-links">
+      <p className="jp-links-ttl">日本の報道</p>
+      <ul>
+        {articles.map((a) => (
+          <li key={a.id}>
+            <span className="jp-links-outlet">{outlets.get(a.outlet_id)?.name ?? a.outlet_id}</span>
+            {a.url.startsWith("http") ? (
+              <a href={a.url} target="_blank" rel="noopener noreferrer" lang="en">
+                {a.title} ↗
+              </a>
+            ) : (
+              <span lang="en">{a.title}</span>
+            )}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+function Summary({
+  ev,
+  overseas,
+  japan,
+  outlets,
+}: {
+  ev: NewsEvent;
+  overseas: Article[];
+  japan: Article[];
+  outlets: Map<string, Outlet>;
+}) {
   return (
     <div className="summary-grid">
       <section className="stance japan" aria-label="日本の立場">
@@ -160,12 +193,69 @@ function Summary({ ev, overseas }: { ev: NewsEvent; overseas: Article[] }) {
         ) : (
           <p className="stance-empty">日本側の立場を示す報道はまだ集まっていません。</p>
         )}
+        <JapanLinks articles={japan} outlets={outlets} />
       </section>
       <section className="stance overseas" aria-label="海外の見方">
         <h3>それに対して、海外では</h3>
         {ev.overseas_view_ja ? <p>{ev.overseas_view_ja}</p> : <p className="stance-empty">まとめを作成中です。</p>}
         <ToneBar articles={overseas} target={ev.target} />
       </section>
+    </div>
+  );
+}
+
+const COUNTRY_LABEL: Record<string, string> = { ...REGION_LABEL };
+
+/** どの国の媒体が報じ、どの国が報じていないか。報じた国は多い論調の色で示す */
+function Coverage({
+  overseas,
+  outlets,
+  countries,
+}: {
+  overseas: Article[];
+  outlets: Map<string, Outlet>;
+  countries: string[];
+}) {
+  const byCountry = new Map<string, Article[]>();
+  for (const a of overseas) {
+    const c = outlets.get(a.outlet_id)?.region;
+    if (!c) continue;
+    byCountry.set(c, [...(byCountry.get(c) ?? []), a]);
+  }
+  const reported = countries.filter((c) => byCountry.has(c));
+  const silent = countries.filter((c) => !byCountry.has(c));
+  const mainTone = (list: Article[]): Tone => {
+    const judged = list.filter((a) => a.tone !== "none");
+    if (!judged.length) return "none";
+    const n = (t: Tone) => judged.filter((a) => a.tone === t).length;
+    return (["crit", "fav", "neu"] as Tone[]).sort((x, y) => n(y) - n(x))[0];
+  };
+  return (
+    <div className="coverage">
+      {reported.length === 1 && (
+        <p className="only-one">{COUNTRY_LABEL[reported[0]] ?? reported[0]}の媒体だけが報じた出来事です</p>
+      )}
+      <div className="coverage-row">
+        <span className="coverage-lbl">報じた国</span>
+        {reported.map((c) => {
+          const t = mainTone(byCountry.get(c)!);
+          return (
+            <span key={c} className={`cov-chip on ${t}`} title={`${COUNTRY_LABEL[c] ?? c}: ${byCountry.get(c)!.length}件（${TONE_LABEL[t]}が中心）`}>
+              {COUNTRY_LABEL[c] ?? c}
+            </span>
+          );
+        })}
+      </div>
+      {silent.length > 0 && (
+        <div className="coverage-row">
+          <span className="coverage-lbl">報道なし</span>
+          {silent.map((c) => (
+            <span key={c} className="cov-chip off">
+              {COUNTRY_LABEL[c] ?? c}
+            </span>
+          ))}
+        </div>
+      )}
     </div>
   );
 }
@@ -240,6 +330,7 @@ export default function FeedView({ feed }: { feed: Feed }) {
   const [region, setRegion] = useState("all");
   const [sort, setSort] = useState<Sort>("tone");
   const [lang, setLang] = useState<Lang>("en");
+  const [onlyOne, setOnlyOne] = useState(false);
 
   const outlets = useMemo(() => new Map(feed.outlets.map((o) => [o.id, o])), [feed.outlets]);
   // 地域の絞り込みは海外の媒体だけ（日本の媒体は「日本の報道」タブにまとめる）
@@ -251,13 +342,16 @@ export default function FeedView({ feed }: { feed: Feed }) {
   const order = (x: Article, y: Article) =>
     sort === "tone" ? TONE_RANK[x.tone] - TONE_RANK[y.tone] : y.published_at.localeCompare(x.published_at);
 
-  const events = feed.events.map((ev) => {
+  const allEvents = feed.events.map((ev) => {
     const overseas = ev.articles.filter((a) => !isJapan(a)).sort(order);
     const japan = ev.articles.filter(isJapan).sort(order);
     const countries = new Set(overseas.map((a) => outlets.get(a.outlet_id)?.country_code)).size;
     const outletCount = new Set(overseas.map((a) => a.outlet_id)).size;
     return { ev, overseas, japan, countries, outletCount };
   });
+  // 「1か国だけが報じた出来事」だけに絞る
+  const events = onlyOne ? allEvents.filter((e) => e.countries === 1) : allEvents;
+  const onlyOneCount = allEvents.filter((e) => e.countries === 1).length;
 
   return (
     <>
@@ -276,6 +370,15 @@ export default function FeedView({ feed }: { feed: Feed }) {
             <button id="sort-tone" aria-pressed={sort === "tone"} onClick={() => setSort("tone")}>論調順</button>
             <button id="sort-time" aria-pressed={sort === "time"} onClick={() => setSort("time")}>新しい順</button>
           </div>
+          <button
+            id="only-one"
+            className="chip"
+            aria-pressed={onlyOne}
+            onClick={() => setOnlyOne(!onlyOne)}
+            title="1か国の媒体だけが報じ、ほかの国は報じていない出来事"
+          >
+            1か国だけが報じた出来事 {onlyOneCount}
+          </button>
           <span className="lbl">見出し</span>
           <div className="seg">
             <button id="lang-en" aria-pressed={lang === "en"} onClick={() => setLang("en")}>原文</button>
@@ -316,7 +419,8 @@ export default function FeedView({ feed }: { feed: Feed }) {
               <h2 className="ev-title">{ev.title_ja}</h2>
               <p className="ev-fact">{ev.fact_ja}</p>
             </div>
-            <Summary ev={ev} overseas={overseas} />
+            <Coverage overseas={overseas} outlets={outlets} countries={regions} />
+            <Summary ev={ev} overseas={overseas} japan={japan} outlets={outlets} />
             <ArticlesPanel eventId={ev.id} overseas={overseas} japan={japan} outlets={outlets} lang={lang} region={region} />
           </section>
         ))}

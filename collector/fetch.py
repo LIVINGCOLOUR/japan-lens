@@ -75,13 +75,14 @@ def _parse_news_sitemap(url):
         date = re.search(r"<news:publication_date>(.*?)</news:publication_date>", block)
         if not (loc and title and date):
             continue
+        keywords = re.search(r"<news:keywords>(.*?)</news:keywords>", block, re.S)
         published = datetime.fromisoformat(date.group(1).strip().replace("Z", "+00:00"))
         entries.append({
             "link": html.unescape(loc.group(1).strip()),
             "title": html.unescape(re.sub(r"<!\[CDATA\[|\]\]>", "", title.group(1))).strip(),
             "summary": "",
             "published": published.astimezone(timezone.utc),
-            "tags": [],
+            "tags": [{"term": k.strip()} for k in (keywords.group(1).split(",") if keywords else []) if k.strip()],
         })
     return entries, None
 
