@@ -144,7 +144,8 @@ def rejudge_events(store, leads):
                 store.update_article(r["id"], {"summary_ja": r["summary_ja"], **_judgement(r),
                                                **_basis(by_id[r["id"]])})
         store.set_judged(ev["id"], len(articles), {
-            k: result[k] for k in ("title_ja", "fact_ja", "japan_position_ja", "japan_basis", "overseas_view_ja")
+            k: result[k] for k in ("title_ja", "fact_ja", "japan_position_ja", "japan_basis",
+                                   "japan_views", "japan_split", "overseas_view_ja")
         })
         store.save()
         done += 1

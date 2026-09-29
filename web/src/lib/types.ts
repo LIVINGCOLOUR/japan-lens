@@ -35,6 +35,8 @@ export type NewsEvent = {
   target?: string; // 論調を測る「評価の対象」。空なら論調を出さない
   japan_position_ja?: string; // 日本の立場のまとめ
   japan_basis?: "japanese_media" | "overseas_reports" | "none";
+  japan_views?: { outlet: string; view_ja: string }[]; // 日本の媒体ごとの伝え方
+  japan_split?: boolean; // 日本の媒体どうしで見方が食い違っているか
   overseas_view_ja?: string; // 海外の見方のまとめ
   first_seen: string;
   updated_at: string;

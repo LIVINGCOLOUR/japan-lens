@@ -142,6 +142,19 @@ function Summary({ ev, overseas }: { ev: NewsEvent; overseas: Article[] }) {
         {ev.japan_position_ja ? (
           <>
             <p>{ev.japan_position_ja}</p>
+            {ev.japan_views && ev.japan_views.length > 0 && (
+              <div className="jp-views">
+                {ev.japan_split && <p className="jp-split">日本の報道の間でも見方が分かれています</p>}
+                <ul>
+                  {ev.japan_views.map((v) => (
+                    <li key={v.outlet}>
+                      <b>{v.outlet}</b>
+                      {v.view_ja}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
             {ev.japan_basis && BASIS_NOTE[ev.japan_basis] && <p className="stance-note">{BASIS_NOTE[ev.japan_basis]}</p>}
           </>
         ) : (

@@ -117,6 +117,12 @@ target が空の出来事では、全記事 "none" にし、angle だけ書く�
   side が "japan" の記事があればそれを主な材料にする。なければ海外の記事が伝えている日本政府・当事者の説明を使う。
   どちらにもなければ空文字にする。推測で日本の立場を作らない。
 - japan_basis: japan_position_ja の材料。"japanese_media"（日本の媒体）、"overseas_reports"（海外記事が伝えた日本側の説明）、"none"。
+- japan_views: side が "japan" の記事を出した媒体ごとに、その媒体の伝え方を1〜2文で（媒体ごとに1件、なければ空の配列）。
+  outlet には媒体名をそのまま書く。
+- japan_split: 日本の媒体どうしで評価や強調点が食い違っていれば true。1社だけ、または同じ方向なら false。
+  食い違うときは、japan_position_ja には日本政府・当事者の立場と両社が一致している事実だけを書き、
+  それぞれの見方は japan_views に分けて書く。どちらか一方の見方を日本の立場として代表させない。
+- 媒体を「右派」「左派」「保守」「リベラル」などの立場の言葉で呼ばない（このサイトは媒体の立場を表示しない方針）。
 - overseas_view_ja: 海外でどう見られているかを3〜4文で。side が "overseas" の記事だけを材料にする。
   全体の傾向を先に書き、国・地域による違い（例: 米国の媒体は○○を強調、中国の媒体は○○）や、
   批判的・好意的な見方があればどの媒体かを添える。記事に書かれていないことは足さない。
@@ -180,6 +186,16 @@ REJUDGE_SCHEMA = {
         "fact_ja": {"type": "string"},
         "japan_position_ja": {"type": "string"},
         "japan_basis": {"type": "string", "enum": ["japanese_media", "overseas_reports", "none"]},
+        "japan_views": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {"outlet": {"type": "string"}, "view_ja": {"type": "string"}},
+                "required": ["outlet", "view_ja"],
+                "additionalProperties": False,
+            },
+        },
+        "japan_split": {"type": "boolean"},
         "overseas_view_ja": {"type": "string"},
         "articles": {
             "type": "array",
@@ -191,7 +207,8 @@ REJUDGE_SCHEMA = {
             },
         },
     },
-    "required": ["title_ja", "fact_ja", "japan_position_ja", "japan_basis", "overseas_view_ja", "articles"],
+    "required": ["title_ja", "fact_ja", "japan_position_ja", "japan_basis", "japan_views", "japan_split",
+                 "overseas_view_ja", "articles"],
     "additionalProperties": False,
 }
 
