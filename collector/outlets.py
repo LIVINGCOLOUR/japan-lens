@@ -167,6 +167,11 @@ OUTLETS += [
             "gtsearch:Tokyo",
             "gtsearch:Okinawa",
             "gtsearch:Ryukyu",  # 中国側は沖縄を「琉球」と書くことが多い
+            "gtsearch:Diaoyu",  # 尖閣の中国側の呼び方
+            "gtsearch:Yasukuni",
+            "gtsearch:militarism",  # 日本の防衛政策を批判する記事でよく使われる
+            "gtsearch:Fukushima",
+            "gtsearch:SDF",
         ],
         "read_body": True,
         "lean": None,

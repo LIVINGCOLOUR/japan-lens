@@ -28,13 +28,22 @@ USER_AGENT = "JapanLensBot/0.1 (+https://github.com/; headline aggregator)"
 # 無関係な記事は AI の段階で relevant=false にする。
 JAPAN_PATTERN = re.compile(
     r"\b("
-    r"Japan|Japanese|Japaner\w*|japanisch\w*|Tokyo|Tokio|Osaka|Kyoto|Okinawa|Hokkaido|Fukushima|Hiroshima|Nagasaki|Yokohama|"
-    r"Bank of Japan|BOJ|yen|Nikkei|Takaichi|Ishiba|Kishida|LDP|Senkaku|"
+    r"Japan|Japanese|Japaner\w*|japanisch\w*|Tokyo|Tokio|Osaka|Kyoto|Okinawa|Hiroshima|Nagasaki|Yokohama|"
+    r"Bank of Japan|BOJ|yen|Nikkei|Topix|JGBs?|Keidanren|"
+    # 首相・閣僚・日銀総裁・主な政治家（見出しには名字だけで出ることが多い）
+    r"Takaichi|Ishiba|Kishida|Motegi|Koizumi|Kihara|Katayama|Akazawa|Iwaya|Ueda|Koja|LDP|Komeito|"
+    # 防衛・安全保障
+    r"Self-Defen[cs]e Forces?|JSDF|SDF|Yonaguni|Ishigaki|"
+    # 領土・歴史（中国・韓国・ロシア側の呼び方も含める）
+    r"Senkaku|Diaoyu|Takeshima|Dokdo|Northern Territories|Kuril\w*|Ryukyu|Yasukuni|Nanjing Massacre|comfort women|"
+    r"Fukushima|treated water|"
+    # 地名（東京以外）
+    r"Nagoya|Fukuoka|Sapporo|Kumamoto|Kyushu|Hokkaido|"
     r"Toyota|Sony|Nintendo|SoftBank|Honda|Nissan|Hitachi|Panasonic|Mitsubishi|Uniqlo|"
     r"Fast Retailing|Seven & i|Nippon Steel"
     r")\b"
     # 韓国語は語のすぐ後に助詞が付くので語の区切りを条件にしない（「日」は韓国紙で日本の略として使われる）
-    r"|일본|도쿄|엔화|다카이치|자민당|닛케이|日",
+    r"|일본|도쿄|엔화|다카이치|이시바|기시다|자민당|닛케이|한일|일제강점|일제시대|독도|위안부|강제징용|후쿠시마|욱일기|日",
     re.IGNORECASE,
 )
 
