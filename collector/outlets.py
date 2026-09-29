@@ -69,6 +69,77 @@ OUTLETS = [
     },
 ]
 
+OUTLETS += [
+    {
+        "id": "koreaherald",
+        "name": "The Korea Herald",
+        "country_code": "KR",
+        "flag": "🇰🇷",
+        "region": "KR",
+        "ownership": "民間",
+        "homepage": "https://www.koreaherald.com",
+        "feeds": ["https://www.koreaherald.com/rss/newsAll"],
+        "read_body": True,
+        "lean": 1,
+    },
+    {
+        "id": "scmp",
+        "name": "South China Morning Post",
+        "country_code": "HK",
+        "flag": "🇭🇰",
+        "region": "HK",
+        "ownership": "民間",
+        "homepage": "https://www.scmp.com",
+        "feeds": ["https://www.scmp.com/rss/3/feed", "https://www.scmp.com/rss/91/feed"],
+        # robots.txt は Claude を拒否していないが、記事ページは自動取得に 403 を返すので本文は読まない
+        "read_body": False,
+        "lean": 0,
+    },
+    {
+        "id": "welt",
+        "name": "Die Welt",
+        "country_code": "DE",
+        "flag": "🇩🇪",
+        "region": "DE",
+        "ownership": "民間",
+        "homepage": "https://www.welt.de",
+        "feeds": [
+            "https://www.welt.de/feeds/section/politik/ausland.rss",
+            "https://www.welt.de/feeds/section/wirtschaft.rss",
+        ],
+        "read_body": True,
+        "lean": 1,
+    },
+    {
+        "id": "taz",
+        "name": "taz",
+        "country_code": "DE",
+        "flag": "🇩🇪",
+        "region": "DE",
+        "ownership": "協同組合",
+        "homepage": "https://taz.de",
+        "feeds": ["https://taz.de/rss.xml"],
+        "read_body": True,
+        "lean": -2,
+    },
+    {
+        "id": "tagesschau",
+        "name": "tagesschau",
+        "country_code": "DE",
+        "flag": "🇩🇪",
+        "region": "DE",
+        "ownership": "公共放送",
+        "homepage": "https://www.tagesschau.de",
+        "feeds": [
+            "https://www.tagesschau.de/ausland/asien/index~rss2.xml",
+            "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+        ],
+        # robots.txt が ClaudeBot を拒否しているので本文は読まない（見出しで判定）
+        "read_body": False,
+        "lean": 0,
+    },
+]
+
 PUBLIC_FIELDS = ("id", "name", "country_code", "flag", "region", "ownership", "homepage")
 
 

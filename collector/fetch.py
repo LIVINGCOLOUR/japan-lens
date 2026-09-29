@@ -19,7 +19,7 @@ USER_AGENT = "JapanLensBot/0.1 (+https://github.com/; headline aggregator)"
 # 無関係な記事は AI の段階で relevant=false にする。
 JAPAN_PATTERN = re.compile(
     r"\b("
-    r"Japan|Japanese|Tokyo|Osaka|Kyoto|Okinawa|Hokkaido|Fukushima|Hiroshima|Nagasaki|Yokohama|"
+    r"Japan|Japanese|Japaner\w*|japanisch\w*|Tokyo|Tokio|Osaka|Kyoto|Okinawa|Hokkaido|Fukushima|Hiroshima|Nagasaki|Yokohama|"
     r"Bank of Japan|BOJ|yen|Nikkei|Takaichi|Ishiba|Kishida|LDP|Senkaku|"
     r"Toyota|Sony|Nintendo|SoftBank|Honda|Nissan|Hitachi|Panasonic|Mitsubishi|Uniqlo|"
     r"Fast Retailing|Seven & i|Nippon Steel"

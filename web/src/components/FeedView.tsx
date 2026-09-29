@@ -11,7 +11,14 @@ const TONES: { key: Tone; label: string }[] = [
 ];
 const TONE_LABEL: Record<Tone, string> = { crit: "批判的", neu: "中立", fav: "好意的", none: "評価なし" };
 const TONE_RANK: Record<Tone, number> = { crit: 0, neu: 1, fav: 2, none: 3 };
-const REGION_LABEL: Record<string, string> = { US: "米国", GB: "英国", DE: "ドイツ", SG: "シンガポール" };
+const REGION_LABEL: Record<string, string> = {
+  US: "米国",
+  GB: "英国",
+  DE: "ドイツ",
+  KR: "韓国",
+  HK: "香港",
+  SG: "シンガポール",
+};
 
 type Sort = "tone" | "time";
 type Lang = "en" | "ja";
