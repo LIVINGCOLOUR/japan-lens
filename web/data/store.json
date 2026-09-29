@@ -857,6 +857,26 @@
    "judged_count": 0,
    "first_seen": "2026-09-28T00:57:54+00:00",
    "updated_at": "2026-09-28T00:57:54+00:00"
+  },
+  {
+   "id": "5fdb9b27-fde8-4d52-900a-24d5f517ddfe",
+   "title_ja": "日本の国債市場の動向をめぐる論評",
+   "fact_ja": "日本経済の回復に伴い、日本の債券市場の動向が注目されている。",
+   "category": "経済政策",
+   "target": "日本の国債市場と経済回復の影響",
+   "judged_count": 0,
+   "first_seen": "2026-09-28T18:24:22+00:00",
+   "updated_at": "2026-09-28T18:24:22+00:00"
+  },
+  {
+   "id": "37389ba6-35bc-4876-b2c4-c7bfc0b10624",
+   "title_ja": "日本が中東情勢を受け原油の調達先を見直し",
+   "fact_ja": "日本は戦争の終結を待たずに、原油などの供給元の見直しを進めている。",
+   "category": "エネルギー・資源",
+   "target": "日本の原油調達先の見直し",
+   "judged_count": 0,
+   "first_seen": "2026-09-28T21:59:00+00:00",
+   "updated_at": "2026-09-28T21:59:00+00:00"
   }
  ],
  "articles": [
@@ -3098,6 +3118,38 @@
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:35:15.727764+00:00",
+   "relevant": true
+  },
+  {
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/09/28/opinion/bond-market-japan-yen.html",
+   "title": "The Other Bond Market You Need to Worry About",
+   "published_at": "2026-09-28T18:24:22+00:00",
+   "kind": "opinion",
+   "id": "ef1b740e-dde1-486a-81c4-c0a0439b9b1b",
+   "fetched_at": "2026-09-29T00:57:03.080562+00:00",
+   "event_id": "5fdb9b27-fde8-4d52-900a-24d5f517ddfe",
+   "summary_ja": "日本経済の復活は良いことばかりではなく、債券市場に警戒すべき面があると指摘する。",
+   "angle": "債券市場の懸念",
+   "tone": "crit",
+   "evidence": "The Other Bond Market You Need to Worry About",
+   "processed_at": "2026-09-29T00:57:13.030490+00:00",
+   "relevant": true
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/commentary/japan-oil-import-market-iran-war-6415551",
+   "title": "Commentary: Japan could redraw the global oil map",
+   "published_at": "2026-09-28T21:59:00+00:00",
+   "kind": "opinion",
+   "id": "e181bba6-78fb-4836-9fba-7e16132b1274",
+   "fetched_at": "2026-09-29T00:57:04.142292+00:00",
+   "event_id": "37389ba6-35bc-4876-b2c4-c7bfc0b10624",
+   "summary_ja": "日本は戦争終結を待たず供給元を見直しており、世界の原油地図を塗り替えうるとの論評。",
+   "angle": "原油調達の転換",
+   "tone": "fav",
+   "evidence": "Tokyo isn’t waiting for the end of the war",
+   "processed_at": "2026-09-29T00:57:13.030490+00:00",
    "relevant": true
   }
  ]

@@ -11,7 +11,7 @@
    "Trump, Donald J",
    "Xi Jinping"
   ],
-  "saved_at": "2026-09-28T04:29:35.690498+00:00"
+  "saved_at": "2026-09-29T00:57:03.080353+00:00"
  },
  "https://www.channelnewsasia.com/sport/japan-esports-asian-games-gold-yuki-kurihara-6412576": {
   "lead": "Yuki Kurihara, a&nbsp;bespectacled primary school student believed to be the youngest competitor at the Games in Aichi-Nagoya, won the Puyo Puyo Champions final 10-2.",
@@ -26,5 +26,26 @@
    "Sport ,East Asia ,Asia"
   ],
   "saved_at": "2026-09-28T04:29:37.634391+00:00"
+ },
+ "https://www.nytimes.com/2026/09/28/opinion/bond-market-japan-yen.html": {
+  "lead": "The revival of Japan’s economy isn’t all good news.",
+  "tags": [
+   "Stocks and Bonds",
+   "Government Bonds",
+   "Interest Rates",
+   "Yen (Currency)",
+   "Bank of Japan",
+   "Treasury Department",
+   "Bessent, Scott",
+   "Japan"
+  ],
+  "saved_at": "2026-09-29T00:57:03.080364+00:00"
+ },
+ "https://www.channelnewsasia.com/commentary/japan-oil-import-market-iran-war-6415551": {
+  "lead": "Tokyo isn’t waiting for the end of the war to reassess its supply sources, says Javier Blas for Bloomberg Opinion.",
+  "tags": [
+   "Commentary ,East Asia ,Asia"
+  ],
+  "saved_at": "2026-09-29T00:57:04.142121+00:00"
  }
 }
