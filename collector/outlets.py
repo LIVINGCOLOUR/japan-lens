@@ -140,6 +140,93 @@ OUTLETS += [
     },
 ]
 
+OUTLETS += [
+    {
+        "id": "globaltimes",
+        "name": "Global Times",
+        "country_code": "CN",
+        "flag": "🇨🇳",
+        "region": "CN",
+        "ownership": "国営",
+        "homepage": "https://www.globaltimes.cn",
+        "feeds": ["https://www.globaltimes.cn/rss/outbrain.xml"],
+        "read_body": True,
+        "lean": None,
+    },
+    {
+        "id": "focustaiwan",
+        "name": "Focus Taiwan",
+        "country_code": "TW",
+        "flag": "🇹🇼",
+        "region": "TW",
+        "ownership": "政府系",
+        "homepage": "https://focustaiwan.tw",
+        "feeds": ["https://feeds.feedburner.com/rsscna/engnews/"],
+        "read_body": True,
+        "lean": None,
+    },
+    {
+        "id": "toi",
+        "name": "The Times of India",
+        "country_code": "IN",
+        "flag": "🇮🇳",
+        "region": "IN",
+        "ownership": "民間",
+        "homepage": "https://timesofindia.indiatimes.com",
+        "feeds": [
+            "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+            "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        ],
+        "read_body": True,
+        "lean": 0,
+    },
+    {
+        "id": "chosun",
+        "name": "朝鮮日報",
+        "country_code": "KR",
+        "flag": "🇰🇷",
+        "region": "KR",
+        "ownership": "民間",
+        "homepage": "https://www.chosun.com",
+        "feeds": [
+            "https://www.chosun.com/arc/outboundfeeds/rss/category/international/?outputType=xml",
+            "https://www.chosun.com/arc/outboundfeeds/rss/category/politics/?outputType=xml",
+            "https://www.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml",
+        ],
+        "read_body": True,
+        "lean": 2,
+    },
+    {
+        "id": "straitstimes",
+        "name": "The Straits Times",
+        "country_code": "SG",
+        "flag": "🇸🇬",
+        "region": "SG",
+        "ownership": "民間",
+        "homepage": "https://www.straitstimes.com",
+        "feeds": [
+            "https://www.straitstimes.com/news/asia/rss.xml",
+            "https://www.straitstimes.com/news/world/rss.xml",
+            "https://www.straitstimes.com/news/opinion/rss.xml",
+        ],
+        "read_body": True,
+        "lean": None,
+    },
+    {
+        "id": "jakartapost",
+        "name": "The Jakarta Post",
+        "country_code": "ID",
+        "flag": "🇮🇩",
+        "region": "ID",
+        "ownership": "民間",
+        "homepage": "https://www.thejakartapost.com",
+        # RSS がないので公式のニュース用サイトマップ（直近の記事）を使う
+        "feeds": ["https://www.thejakartapost.com/sitemap_news.xml"],
+        "read_body": True,
+        "lean": 0,
+    },
+]
+
 PUBLIC_FIELDS = ("id", "name", "country_code", "flag", "region", "ownership", "homepage")
 
 

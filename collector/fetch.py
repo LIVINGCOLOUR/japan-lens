@@ -8,6 +8,9 @@ import calendar
 import re
 from datetime import datetime, timedelta, timezone
 
+import html
+import urllib.request
+
 import feedparser
 
 # フィードには数か月前の記事が残っていることがあるので、古いものは取り込まない
@@ -23,7 +26,9 @@ JAPAN_PATTERN = re.compile(
     r"Bank of Japan|BOJ|yen|Nikkei|Takaichi|Ishiba|Kishida|LDP|Senkaku|"
     r"Toyota|Sony|Nintendo|SoftBank|Honda|Nissan|Hitachi|Panasonic|Mitsubishi|Uniqlo|"
     r"Fast Retailing|Seven & i|Nippon Steel"
-    r")\b",
+    r")\b"
+    # 韓国語は語のすぐ後に助詞が付くので語の区切りを条件にしない（「日」は韓国紙で日本の略として使われる）
+    r"|일본|도쿄|엔화|다카이치|자민당|닛케이|日",
     re.IGNORECASE,
 )
 
@@ -51,22 +56,54 @@ def _published(entry):
     return datetime.now(timezone.utc)
 
 
+def _parse_news_sitemap(url):
+    """Google News 形式のサイトマップを RSS と同じ形のエントリーにする（RSS がない媒体用）。"""
+    try:
+        raw = urllib.request.urlopen(
+            urllib.request.Request(url, headers={"User-Agent": USER_AGENT}), timeout=30
+        ).read().decode("utf-8", "ignore")
+    except Exception as e:
+        return [], str(e)
+    entries = []
+    for block in re.findall(r"<url>(.*?)</url>", raw, re.S):
+        loc = re.search(r"<loc>(.*?)</loc>", block)
+        title = re.search(r"<news:title>(.*?)</news:title>", block, re.S)
+        date = re.search(r"<news:publication_date>(.*?)</news:publication_date>", block)
+        if not (loc and title and date):
+            continue
+        published = datetime.fromisoformat(date.group(1).strip().replace("Z", "+00:00"))
+        entries.append({
+            "link": html.unescape(loc.group(1).strip()),
+            "title": html.unescape(re.sub(r"<!\[CDATA\[|\]\]>", "", title.group(1))).strip(),
+            "summary": "",
+            "published": published.astimezone(timezone.utc),
+            "tags": [],
+        })
+    return entries, None
+
+
 def fetch_outlet(outlet):
     """1媒体ぶんの日本関連記事を返す。同じ URL が複数フィードにあれば1件にまとめる。"""
     found = {}
     errors = []
     oldest = datetime.now(timezone.utc) - MAX_AGE
     for url in outlet["feeds"]:
-        feed = feedparser.parse(url, agent=USER_AGENT)
-        if feed.bozo and not feed.entries:
-            errors.append(f"{url}: {feed.bozo_exception}")
-            continue
-        for entry in feed.entries:
+        if "sitemap" in url:
+            entries, err = _parse_news_sitemap(url)
+            if err:
+                errors.append(f"{url}: {err}")
+        else:
+            feed = feedparser.parse(url, agent=USER_AGENT)
+            if feed.bozo and not feed.entries:
+                errors.append(f"{url}: {feed.bozo_exception}")
+                continue
+            entries = feed.entries
+        for entry in entries:
             link = entry.get("link")
             title = _clean(entry.get("title"))
             if not link or not title:
                 continue
-            published = _published(entry)
+            published = entry["published"] if isinstance(entry.get("published"), datetime) else _published(entry)
             if published < oldest:
                 continue
             description = _clean(entry.get("summary"))
@@ -79,6 +116,6 @@ def fetch_outlet(outlet):
                 "published_at": published.isoformat(),
                 "kind": article_kind(link, title),
                 "description": description,  # store.json には入れない。AI 入力用
-                "tags": [t.term for t in entry.get("tags", []) if t.get("term")][:8],  # 同上
+                "tags": [t.get("term") for t in entry.get("tags", []) if t.get("term")][:8],  # 同上
             }
     return list(found.values()), errors

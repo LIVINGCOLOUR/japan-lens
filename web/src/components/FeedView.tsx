@@ -15,9 +15,13 @@ const REGION_LABEL: Record<string, string> = {
   US: "米国",
   GB: "英国",
   DE: "ドイツ",
-  KR: "韓国",
+  CN: "中国",
   HK: "香港",
+  TW: "台湾",
+  KR: "韓国",
+  IN: "インド",
   SG: "シンガポール",
+  ID: "インドネシア",
 };
 
 type Sort = "tone" | "time";

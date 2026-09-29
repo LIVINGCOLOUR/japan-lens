@@ -28,6 +28,17 @@ _robots = {}
 _SITE_BLOCKS = {
     "cna": re.compile(r'<div class="text-long"[^>]*>(.*?)</div>', re.S),
 }
+# 本文が始まる位置の目印。そこから後ろの段落を本文とみなす
+_SITE_ANCHORS = {
+    "focustaiwan": 'class="PrimarySide"',
+    "jakartapost": "tjp-single__content",
+}
+# 本文に混ざる決まり文句（読み上げボタン、ブラウザの警告など）
+_BOILERPLATE = ("Your browser is out of date", "To activate the text-to-speech", "Focus Taiwan App")
+# 段落が <p> ではなく <br> で区切られている媒体
+_BR_BLOCKS = {
+    "globaltimes": re.compile(r'<div class="article_right"[^>]*>(.*?)</div>', re.S),
+}
 
 
 def _text(fragment):
@@ -35,7 +46,8 @@ def _text(fragment):
 
 
 def _paragraphs(fragment):
-    return [t for t in (_text(p) for p in re.findall(r"<p[^>]*>(.*?)</p>", fragment, re.S)) if len(t) > 30]
+    texts = (_text(p) for p in re.findall(r"<p[^>]*>(.*?)</p>", fragment, re.S))
+    return [t for t in texts if len(t) > 30 and not any(b in t for b in _BOILERPLATE)]
 
 
 def _from_json_ld(raw):
@@ -64,12 +76,46 @@ def _from_itemprop(raw):
     return "\n".join(_paragraphs(raw[i: end if end > 0 else i + 30000]))
 
 
+def _from_arc(raw):
+    """Arc XP（朝鮮日報など）はページ内の Fusion.globalContent に本文を JSON で持っている。"""
+    m = re.search(r"Fusion\.globalContent\s*=\s*(\{.*?\});\s*Fusion\.", raw, re.S)
+    if not m:
+        return ""
+    try:
+        data = json.loads(m.group(1))
+    except ValueError:
+        return ""
+    texts = [_text(el.get("content", "")) for el in data.get("content_elements", []) if el.get("type") == "text"]
+    return "\n".join(t for t in texts if t)
+
+
+def _from_all_paragraphs(raw):
+    """最後の手段: ページ内の長めの段落をすべて集める（広告や案内文が少し混ざることがある）。"""
+    seen, out = set(), []
+    for p in re.findall(r"<p[^>]*>(.*?)</p>", raw, re.S):
+        t = _text(p)
+        if len(t) > 80 and t not in seen and not any(b in t for b in _BOILERPLATE):
+            seen.add(t)
+            out.append(t)
+    return "\n".join(out)
+
+
 def _extract(outlet_id, raw):
     if outlet_id in _SITE_BLOCKS:
         paras = [p for block in _SITE_BLOCKS[outlet_id].findall(raw) for p in _paragraphs(block)]
         if paras:
             return "\n".join(paras)
-    return _from_json_ld(raw) or _from_itemprop(raw)
+    if outlet_id in _SITE_ANCHORS:
+        i = raw.find(_SITE_ANCHORS[outlet_id])
+        if i >= 0:
+            paras = _paragraphs(raw[i: i + 60000])
+            if paras:
+                return "\n".join(paras)
+    if outlet_id in _BR_BLOCKS:
+        blocks = _BR_BLOCKS[outlet_id].findall(raw)
+        if blocks:
+            return "\n".join(_text(x) for x in re.split(r"<br\s*/?>", blocks[0]) if len(_text(x)) > 30)
+    return _from_json_ld(raw) or _from_itemprop(raw) or _from_arc(raw) or _from_all_paragraphs(raw)
 
 
 def _allowed(url):
