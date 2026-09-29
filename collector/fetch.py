@@ -10,6 +10,8 @@ import socket
 from datetime import datetime, timedelta, timezone
 
 import html
+import time
+import urllib.parse
 import urllib.request
 
 import feedparser
@@ -87,13 +89,44 @@ def _parse_news_sitemap(url):
     return entries, None
 
 
-def fetch_outlet(outlet):
+GT_SEARCH = "https://search.globaltimes.cn/SearchCtrl"
+
+
+def _parse_gt_search(query, pages):
+    """Global Times のサイト内検索（新しい順）。サイトマップは直近の数十件しか載らず、
+    日本関連の論評を取りこぼすため。search.globaltimes.cn に robots.txt はない（制限なし）。"""
+    entries = []
+    for page in range(1, pages + 1):
+        url = f"{GT_SEARCH}?title={urllib.parse.quote(query)}&orderByTime=yes&page_no={page}"
+        try:
+            raw = urllib.request.urlopen(
+                urllib.request.Request(url, headers={"User-Agent": USER_AGENT}), timeout=30
+            ).read().decode("utf-8", "ignore")
+        except Exception as e:
+            return entries, str(e)
+        for link, title, date in re.findall(
+            r'<a href="(https://www\.globaltimes\.cn/page/\d+/\d+\.shtml)"[^>]*><h4>(.*?)</h4></a>.*?<small>\s*(\d{4}/\d{2}/\d{2})',
+            raw, re.S,
+        ):
+            # 検索結果には日付しかないので、北京時間の正午として扱う
+            published = datetime.strptime(date + " 12:00 +0800", "%Y/%m/%d %H:%M %z").astimezone(timezone.utc)
+            entries.append({"link": link, "title": html.unescape(re.sub(r"<[^>]+>", "", title)).strip(),
+                            "summary": "", "published": published, "tags": []})
+        time.sleep(1)
+    return entries, None
+
+
+def fetch_outlet(outlet, max_age=MAX_AGE, search_pages=2):
     """1媒体ぶんの日本関連記事を返す。同じ URL が複数フィードにあれば1件にまとめる。"""
     found = {}
     errors = []
-    oldest = datetime.now(timezone.utc) - MAX_AGE
+    oldest = datetime.now(timezone.utc) - max_age
     for url in outlet["feeds"]:
-        if "sitemap" in url:
+        if url.startswith("gtsearch:"):
+            entries, err = _parse_gt_search(url.split(":", 1)[1], search_pages)
+            if err:
+                errors.append(f"{url}: {err}")
+        elif "sitemap" in url or url.endswith("googlenews.xml") or "latest-articles" in url:
             entries, err = _parse_news_sitemap(url)
             if err:
                 errors.append(f"{url}: {err}")

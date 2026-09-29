@@ -156,7 +156,16 @@ OUTLETS += [
         "ownership": "国営",
         "homepage": "https://www.globaltimes.cn",
         # rss/outbrain.xml は数か月前の記事しか載らないので、公式のニュース用サイトマップを使う
-        "feeds": ["https://www.globaltimes.cn/sitemap.xml"],
+        "feeds": [
+            "https://www.globaltimes.cn/sitemap.xml",
+            # サイトマップは直近の数十件しか載らないので、サイト内検索（新しい順）でも日本関連を拾う
+            "gtsearch:Japan",
+            "gtsearch:Japanese",
+            "gtsearch:Takaichi",
+            "gtsearch:Takaichi's",  # 検索は語単位なので所有格も別に引く
+            "gtsearch:Japan's",
+            "gtsearch:Tokyo",
+        ],
         "read_body": True,
         "lean": None,
     },
