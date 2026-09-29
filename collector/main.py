@@ -18,7 +18,8 @@ from outlets import JAPAN_SIDE, OUTLETS, public_outlet
 from store import LEADS_PATH, STORE_PATH, Leads, Store
 
 BATCH_SIZE = 30
-EVENT_WINDOW_DAYS = 14
+# 既存の出来事として AI に見せる期間。短いと、遅れて届いた記事が同じ出来事の重複を作る
+EVENT_WINDOW_DAYS = 30
 # 掲載条件（web/src/lib/rules.ts と同じ値にする）。条件を満たした出来事は記事を並べて判定し直す
 MIN_OUTLETS = 2
 # 掲載するカテゴリー（web/src/lib/rules.ts と同じ）。これ以外は判定し直さない

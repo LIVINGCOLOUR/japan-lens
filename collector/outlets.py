@@ -165,6 +165,8 @@ OUTLETS += [
             "gtsearch:Takaichi's",  # 検索は語単位なので所有格も別に引く
             "gtsearch:Japan's",
             "gtsearch:Tokyo",
+            "gtsearch:Okinawa",
+            "gtsearch:Ryukyu",  # 中国側は沖縄を「琉球」と書くことが多い
         ],
         "read_body": True,
         "lean": None,
