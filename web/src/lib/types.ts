@@ -10,6 +10,7 @@ export type Outlet = {
   region: string;
   ownership: string;
   homepage: string;
+  side?: "overseas" | "japan"; // japan = 日本の立場を示す媒体（論調の分布や掲載条件には数えない）
 };
 
 export type Article = {
@@ -32,6 +33,9 @@ export type NewsEvent = {
   fact_ja: string;
   category: string;
   target?: string; // 論調を測る「評価の対象」。空なら論調を出さない
+  japan_position_ja?: string; // 日本の立場のまとめ
+  japan_basis?: "japanese_media" | "overseas_reports" | "none";
+  overseas_view_ja?: string; // 海外の見方のまとめ
   first_seen: string;
   updated_at: string;
   articles: Article[];

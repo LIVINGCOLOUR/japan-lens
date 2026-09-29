@@ -140,10 +140,10 @@ class Store:
                 a.update(fields)
                 return
 
-    def set_judged(self, event_id, count, title_ja, fact_ja):
+    def set_judged(self, event_id, count, fields):
         for e in self.data["events"]:
             if e["id"] == event_id:
-                e.update(judged_count=count, title_ja=title_ja, fact_ja=fact_ja)
+                e.update(judged_count=count, **fields)
                 return
 
     def touch_event(self, event_id, published_at):

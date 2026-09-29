@@ -10,10 +10,12 @@ type StoredArticle = Article & { event_id: string | null; processed_at: string |
 type Store = { outlets: Outlet[]; events: Omit<NewsEvent, "articles">[]; articles: StoredArticle[] };
 
 function toFeed(outlets: Outlet[], events: NewsEvent[], source: Feed["source"]): Feed {
+  const japanSide = new Set(outlets.filter((o) => o.side === "japan").map((o) => o.id));
   const shown = events
     // 掲載するカテゴリーで、かつ「評価の対象」（日本の判断や行動）がある出来事だけ
     .filter((e) => SHOWN_CATEGORIES.includes(e.category) && !!e.target)
-    .filter((e) => new Set(e.articles.map((a) => a.outlet_id)).size >= MIN_OUTLETS)
+    // 掲載条件は海外の媒体の数で数える（日本側の媒体は「日本の立場」の材料で、比較の対象ではない）
+    .filter((e) => new Set(e.articles.filter((a) => !japanSide.has(a.outlet_id)).map((a) => a.outlet_id)).size >= MIN_OUTLETS)
     .sort((a, b) => b.updated_at.localeCompare(a.updated_at))
     .slice(0, EVENT_LIMIT);
   return { outlets, events: shown, source };

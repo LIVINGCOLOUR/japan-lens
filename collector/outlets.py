@@ -1,5 +1,8 @@
 """掲載媒体の設定。
 
+side: "overseas"（海外の見方として比べる媒体。既定）か "japan"（日本の立場を示す媒体）。
+日本側の媒体は論調の分布や「2社以上」の掲載条件には数えず、「日本の立場」をまとめる材料にだけ使う。
+
 lean は媒体選定のバランス確認用の内部データで、サイトには出さない。
 公開用のデータ（web/data/store.json）には書き出さないこと。
 """
@@ -227,7 +230,44 @@ OUTLETS += [
     },
 ]
 
-PUBLIC_FIELDS = ("id", "name", "country_code", "flag", "region", "ownership", "homepage")
+OUTLETS += [
+    {
+        "id": "japantimes",
+        "name": "The Japan Times",
+        "country_code": "JP",
+        "flag": "🇯🇵",
+        "region": "JP",
+        "ownership": "民間",
+        "homepage": "https://www.japantimes.co.jp",
+        "feeds": [
+            "https://www.japantimes.co.jp/feed/",
+            "https://www.japantimes.co.jp/business/feed/",
+            "https://www.japantimes.co.jp/opinion/feed/",
+        ],
+        "side": "japan",
+        "read_body": True,
+        "lean": -1,
+    },
+    {
+        "id": "japanforward",
+        "name": "JAPAN Forward",
+        "country_code": "JP",
+        "flag": "🇯🇵",
+        "region": "JP",
+        "ownership": "民間（産経新聞系）",
+        "homepage": "https://japan-forward.com",
+        "feeds": ["https://japan-forward.com/feed/"],
+        "side": "japan",
+        "read_body": True,
+        "lean": 2,
+    },
+]
+
+for _o in OUTLETS:
+    _o.setdefault("side", "overseas")
+
+PUBLIC_FIELDS = ("id", "name", "country_code", "flag", "region", "ownership", "homepage", "side")
+JAPAN_SIDE = {o["id"] for o in OUTLETS if o["side"] == "japan"}
 
 
 def public_outlet(outlet):

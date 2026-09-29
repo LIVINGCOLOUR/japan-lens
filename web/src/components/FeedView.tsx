@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { MIN_OUTLETS } from "@/lib/rules";
-import type { Article, Feed, Outlet, Tone } from "@/lib/types";
+import type { Article, Feed, NewsEvent, Outlet, Tone } from "@/lib/types";
 
 const TONES: { key: Tone; label: string }[] = [
   { key: "crit", label: "批判的" },
@@ -129,30 +129,128 @@ function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Out
   );
 }
 
+const BASIS_NOTE: Record<string, string> = {
+  japanese_media: "日本の媒体（The Japan Times・JAPAN Forward）の報道から",
+  overseas_reports: "海外の記事が伝えた日本側の説明から",
+};
+
+function Summary({ ev, overseas }: { ev: NewsEvent; overseas: Article[] }) {
+  return (
+    <div className="summary-grid">
+      <section className="stance japan" aria-label="日本の立場">
+        <h3>日本の立場</h3>
+        {ev.japan_position_ja ? (
+          <>
+            <p>{ev.japan_position_ja}</p>
+            {ev.japan_basis && BASIS_NOTE[ev.japan_basis] && <p className="stance-note">{BASIS_NOTE[ev.japan_basis]}</p>}
+          </>
+        ) : (
+          <p className="stance-empty">日本側の立場を示す報道はまだ集まっていません。</p>
+        )}
+      </section>
+      <section className="stance overseas" aria-label="海外の見方">
+        <h3>それに対して、海外では</h3>
+        {ev.overseas_view_ja ? <p>{ev.overseas_view_ja}</p> : <p className="stance-empty">まとめを作成中です。</p>}
+        <ToneBar articles={overseas} target={ev.target} />
+      </section>
+    </div>
+  );
+}
+
+type Tab = "overseas" | "japan";
+
+function ArticlesPanel({
+  eventId,
+  overseas,
+  japan,
+  outlets,
+  lang,
+  region,
+}: {
+  eventId: string;
+  overseas: Article[];
+  japan: Article[];
+  outlets: Map<string, Outlet>;
+  lang: Lang;
+  region: string;
+}) {
+  const [open, setOpen] = useState(false);
+  const [tab, setTab] = useState<Tab>("overseas");
+  const shown = tab === "overseas" ? overseas.filter((a) => region === "all" || outlets.get(a.outlet_id)?.region === region) : japan;
+  const panelId = `articles-${eventId}`;
+  return (
+    <div className="articles">
+      <button
+        id={`toggle-${eventId}`}
+        className="articles-toggle"
+        aria-expanded={open}
+        aria-controls={panelId}
+        onClick={() => setOpen(!open)}
+      >
+        {open ? "各社の記事を閉じる" : "各社の記事を見る"}
+        <span className="articles-count">
+          海外 {overseas.length}件{japan.length > 0 && ` ・ 日本 ${japan.length}件`}
+        </span>
+      </button>
+      {open && (
+        <div id={panelId}>
+          <div className="tabs" role="tablist" aria-label="記事の種類">
+            <button id={`tab-overseas-${eventId}`} role="tab" aria-selected={tab === "overseas"} onClick={() => setTab("overseas")}>
+              海外の報道 <span>{overseas.length}</span>
+            </button>
+            <button
+              id={`tab-japan-${eventId}`}
+              role="tab"
+              aria-selected={tab === "japan"}
+              onClick={() => setTab("japan")}
+              disabled={japan.length === 0}
+            >
+              日本の報道 <span>{japan.length}</span>
+            </button>
+          </div>
+          {shown.length ? (
+            <div className="cards" role="tabpanel">
+              {shown.map((a) => (
+                <ArticleCard key={a.id} article={a} outlet={outlets.get(a.outlet_id)} lang={lang} />
+              ))}
+            </div>
+          ) : (
+            <p className="empty">この地域の媒体はこの出来事を報じていません。</p>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
 export default function FeedView({ feed }: { feed: Feed }) {
   const [region, setRegion] = useState("all");
   const [sort, setSort] = useState<Sort>("tone");
   const [lang, setLang] = useState<Lang>("en");
 
   const outlets = useMemo(() => new Map(feed.outlets.map((o) => [o.id, o])), [feed.outlets]);
-  const regions = useMemo(() => [...new Set(feed.outlets.map((o) => o.region))], [feed.outlets]);
+  // 地域の絞り込みは海外の媒体だけ（日本の媒体は「日本の報道」タブにまとめる）
+  const regions = useMemo(
+    () => [...new Set(feed.outlets.filter((o) => o.side !== "japan").map((o) => o.region))],
+    [feed.outlets],
+  );
+  const isJapan = (a: Article) => outlets.get(a.outlet_id)?.side === "japan";
+  const order = (x: Article, y: Article) =>
+    sort === "tone" ? TONE_RANK[x.tone] - TONE_RANK[y.tone] : y.published_at.localeCompare(x.published_at);
 
   const events = feed.events.map((ev) => {
-    const list = ev.articles
-      .filter((a) => region === "all" || outlets.get(a.outlet_id)?.region === region)
-      .sort((x, y) =>
-        sort === "tone" ? TONE_RANK[x.tone] - TONE_RANK[y.tone] : y.published_at.localeCompare(x.published_at),
-      );
-    const countries = new Set(ev.articles.map((a) => outlets.get(a.outlet_id)?.country_code)).size;
-    const outletCount = new Set(ev.articles.map((a) => a.outlet_id)).size;
-    return { ev, list, countries, outletCount };
+    const overseas = ev.articles.filter((a) => !isJapan(a)).sort(order);
+    const japan = ev.articles.filter(isJapan).sort(order);
+    const countries = new Set(overseas.map((a) => outlets.get(a.outlet_id)?.country_code)).size;
+    const outletCount = new Set(overseas.map((a) => a.outlet_id)).size;
+    return { ev, overseas, japan, countries, outletCount };
   });
 
   return (
     <>
       <div className="controls">
         <div className="group" role="group" aria-label="地域">
-          <span className="lbl">地域</span>
+          <span className="lbl">海外の地域</span>
           {["all", ...regions].map((r) => (
             <button key={r} id={`region-${r}`} className="chip" aria-pressed={region === r} onClick={() => setRegion(r)}>
               {r === "all" ? "すべて" : REGION_LABEL[r] ?? r}
@@ -174,7 +272,7 @@ export default function FeedView({ feed }: { feed: Feed }) {
       </div>
 
       <div className="legend">
-        <span className="ttl">記事の論調</span>
+        <span className="ttl">海外の論調</span>
         <span>出来事ごとの「評価の対象」に対する見方</span>
         {TONES.map((t) => (
           <span key={t.key}>
@@ -190,33 +288,23 @@ export default function FeedView({ feed }: { feed: Feed }) {
 
       <main className="events">
         {events.length === 0 && (
-          <p className="empty">
-            まだ掲載できる出来事がありません。{MIN_OUTLETS}つ以上の媒体が報じた出来事を掲載します。
-          </p>
+          <p className="empty">まだ掲載できる出来事がありません。海外の{MIN_OUTLETS}つ以上の媒体が報じた出来事を掲載します。</p>
         )}
-        {events.map(({ ev, list, countries, outletCount }) => (
+        {events.map(({ ev, overseas, japan, countries, outletCount }) => (
           <section className="event" key={ev.id}>
             <div className="ev-head">
               <div className="ev-meta">
                 <span className="tag">{ev.category}</span>
                 <span>{JST_DATE.format(new Date(ev.updated_at))}</span>
                 <span>
-                  {outletCount}媒体・{countries}か国
+                  海外{outletCount}媒体・{countries}か国
                 </span>
               </div>
               <h2 className="ev-title">{ev.title_ja}</h2>
               <p className="ev-fact">{ev.fact_ja}</p>
-              <ToneBar articles={list} target={ev.target} />
             </div>
-            {list.length ? (
-              <div className="cards">
-                {list.map((a) => (
-                  <ArticleCard key={a.id} article={a} outlet={outlets.get(a.outlet_id)} lang={lang} />
-                ))}
-              </div>
-            ) : (
-              <p className="empty">この地域の媒体はこの出来事を報じていません。</p>
-            )}
+            <Summary ev={ev} overseas={overseas} />
+            <ArticlesPanel eventId={ev.id} overseas={overseas} japan={japan} outlets={outlets} lang={lang} region={region} />
           </section>
         ))}
       </main>

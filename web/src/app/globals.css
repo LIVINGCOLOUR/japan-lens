@@ -342,13 +342,15 @@ a:focus-visible {
 .card-foot {
   margin-top: auto;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 8px;
+  gap: 6px 8px;
   padding-top: 6px;
   font-size: 12px;
 }
 .tone {
+  white-space: nowrap;
   padding: 1px 8px;
   border-radius: 999px;
   font-size: 12px;
@@ -413,6 +415,7 @@ a:focus-visible {
   gap: 6px;
 }
 .basis {
+  white-space: nowrap;
   font-size: 11px;
   color: var(--muted);
 }
@@ -429,6 +432,114 @@ a:focus-visible {
   border-radius: 6px;
 }
 
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 12px;
+}
+.stance {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 14px 16px;
+  display: grid;
+  gap: 8px;
+  align-content: start;
+}
+.stance h3 {
+  margin: 0;
+  font-family: var(--display);
+  font-size: 14px;
+  letter-spacing: 0.04em;
+}
+.stance.japan h3 {
+  color: var(--ink);
+}
+.stance.overseas h3 {
+  color: var(--accent);
+}
+.stance p {
+  margin: 0;
+  font-size: 14px;
+  max-width: 65ch;
+}
+.stance-note,
+.stance-empty {
+  font-size: 12px !important;
+  color: var(--muted);
+}
+.articles {
+  display: grid;
+  gap: 12px;
+}
+.articles-toggle {
+  justify-self: start;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--accent);
+  padding: 6px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.articles-toggle::before {
+  content: "▸";
+  transition: transform 0.15s;
+}
+.articles-toggle[aria-expanded="true"]::before {
+  transform: rotate(90deg);
+}
+.articles-count {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--muted);
+}
+.tabs {
+  display: flex;
+  gap: 4px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 12px;
+}
+.tabs button {
+  font: inherit;
+  font-size: 13px;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: var(--muted);
+  padding: 6px 12px;
+  cursor: pointer;
+}
+.tabs button[aria-selected="true"] {
+  color: var(--ink);
+  font-weight: 500;
+  border-bottom-color: var(--accent);
+}
+.tabs button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.tabs button span {
+  font-family: var(--mono);
+  font-size: 12px;
+  margin-left: 4px;
+}
+.articles-toggle:focus-visible,
+.tabs button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .articles-toggle::before {
+    transition: none;
+  }
+}
 .policy {
   margin-top: 56px;
   padding-top: 20px;

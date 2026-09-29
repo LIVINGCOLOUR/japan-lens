@@ -6,12 +6,16 @@ description（リード文）は日本関連かどうかの判定と AI への�
 
 import calendar
 import re
+import socket
 from datetime import datetime, timedelta, timezone
 
 import html
 import urllib.request
 
 import feedparser
+
+# feedparser には時間制限の指定がないので、応答が止まったフィードで全体が止まらないようにする
+socket.setdefaulttimeout(30)
 
 # フィードには数か月前の記事が残っていることがあるので、古いものは取り込まない
 MAX_AGE = timedelta(days=3)
@@ -93,7 +97,11 @@ def fetch_outlet(outlet):
             if err:
                 errors.append(f"{url}: {err}")
         else:
-            feed = feedparser.parse(url, agent=USER_AGENT)
+            try:
+                feed = feedparser.parse(url, agent=USER_AGENT)
+            except Exception as e:  # 1つのフィードの失敗で全体を止めない
+                errors.append(f"{url}: {type(e).__name__}: {e}")
+                continue
             if feed.bozo and not feed.entries:
                 errors.append(f"{url}: {feed.bozo_exception}")
                 continue
@@ -107,7 +115,8 @@ def fetch_outlet(outlet):
             if published < oldest:
                 continue
             description = _clean(entry.get("summary"))
-            if not JAPAN_PATTERN.search(f"{title} {description}"):
+            # 日本の媒体はほぼ全記事が日本の話題なので語で絞らない（AI が掲載対象かを判定する）
+            if outlet.get("side") != "japan" and not JAPAN_PATTERN.search(f"{title} {description}"):
                 continue
             found[link] = {
                 "outlet_id": outlet["id"],

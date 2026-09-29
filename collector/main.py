@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 from ai import available as ai_available
 from body import fetch_body
 from fetch import fetch_outlet
-from outlets import OUTLETS, public_outlet
+from outlets import JAPAN_SIDE, OUTLETS, public_outlet
 from store import LEADS_PATH, STORE_PATH, Leads, Store
 
 BATCH_SIZE = 30
@@ -81,7 +81,8 @@ def _with_material(articles, leads):
     for a in articles:
         lead = leads.get(a["url"])
         body = fetch_body(a)
-        out.append({**a, "description": lead.get("lead", ""), "tags": lead.get("tags", []), "body": body})
+        out.append({**a, "description": lead.get("lead", ""), "tags": lead.get("tags", []), "body": body,
+                    "side": "japan" if a["outlet_id"] in JAPAN_SIDE else "overseas"})
     return out
 
 
@@ -126,7 +127,8 @@ def rejudge_events(store, leads):
         if ev["category"] not in SHOWN_CATEGORIES or not ev.get("target"):
             continue
         articles = store.articles_of(ev["id"])
-        if len({a["outlet_id"] for a in articles}) < MIN_OUTLETS:
+        # 掲載条件は海外の媒体の数で数える（日本側の媒体は数えない）
+        if len({a["outlet_id"] for a in articles if a["outlet_id"] not in JAPAN_SIDE}) < MIN_OUTLETS:
             continue
         if ev.get("judged_count") == len(articles):
             continue
@@ -141,7 +143,9 @@ def rejudge_events(store, leads):
             if r["id"] in by_id:
                 store.update_article(r["id"], {"summary_ja": r["summary_ja"], **_judgement(r),
                                                **_basis(by_id[r["id"]])})
-        store.set_judged(ev["id"], len(articles), result["title_ja"], result["fact_ja"])
+        store.set_judged(ev["id"], len(articles), {
+            k: result[k] for k in ("title_ja", "fact_ja", "japan_position_ja", "japan_basis", "overseas_view_ja")
+        })
         store.save()
         done += 1
     print(f"  並べて判定し直した出来事 {done} 件")

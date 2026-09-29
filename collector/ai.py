@@ -67,6 +67,8 @@ CLASSIFY_SYSTEM = f"""あなたは海外メディアの日本報道を比較す�
 
 1. relevant: 日本（日本政府・日本の社会・経済・企業・人物など）が記事の主要な対象なら true。
    日本がついでに触れられているだけ、または固有名詞の偶然の一致なら false。
+   side が "japan" の記事（日本の媒体）は、政治・外交・安全保障・経済政策・企業・社会政策・エネルギー・
+   科学技術政策・歴史認識の話題なら true、それ以外（文化・生活・スポーツ・エンタメなど）は false。
 2. event: この記事が報じている出来事。
    - 既存の出来事の一覧に同じ出来事があれば、その id を入れる。
    - なければ new_events に出来事を作り、その key（"n1", "n2", ...）を入れる。
@@ -108,6 +110,18 @@ REJUDGE_SYSTEM = f"""あなたは海外メディアの日本報道を比較す�
 target が空の出来事では、全記事 "none" にし、angle だけ書く。
 
 あわせて、出来事の見出し（title_ja）と事実の説明（fact_ja）を、全記事を踏まえた最新の内容に書き直す。
+
+さらに、このサイトの中心となる「日本の立場 → 海外の見方」のまとめを書く。
+記事には side があり、"japan" は日本の媒体（日本の立場を知る材料）、"overseas" は海外の媒体（海外の見方）。
+- japan_position_ja: 日本（政府・当事者）の立場や主張、日本側の受け止めを2〜3文で。
+  side が "japan" の記事があればそれを主な材料にする。なければ海外の記事が伝えている日本政府・当事者の説明を使う。
+  どちらにもなければ空文字にする。推測で日本の立場を作らない。
+- japan_basis: japan_position_ja の材料。"japanese_media"（日本の媒体）、"overseas_reports"（海外記事が伝えた日本側の説明）、"none"。
+- overseas_view_ja: 海外でどう見られているかを3〜4文で。side が "overseas" の記事だけを材料にする。
+  全体の傾向を先に書き、国・地域による違い（例: 米国の媒体は○○を強調、中国の媒体は○○）や、
+  批判的・好意的な見方があればどの媒体かを添える。記事に書かれていないことは足さない。
+- japan_position_ja と overseas_view_ja には、材料についての説明（「日本の媒体の記事はない」「見出しだけでは分からない」
+  「ロイター配信」「今回の材料は○○のみ」など）を書かない。材料の出どころは画面に別に表示する。内容だけを書く。
 たとえば「利上げの見通し」の段階で作られた出来事に「利上げを決めた」記事が加わったなら、決定した事実に合わせる。
 書き方の条件は元の見出し・説明と同じ（中立的な一文、複数の媒体が一致して伝えている事実だけ）。
 
@@ -164,6 +178,9 @@ REJUDGE_SCHEMA = {
     "properties": {
         "title_ja": {"type": "string"},
         "fact_ja": {"type": "string"},
+        "japan_position_ja": {"type": "string"},
+        "japan_basis": {"type": "string", "enum": ["japanese_media", "overseas_reports", "none"]},
+        "overseas_view_ja": {"type": "string"},
         "articles": {
             "type": "array",
             "items": {
@@ -174,7 +191,7 @@ REJUDGE_SCHEMA = {
             },
         },
     },
-    "required": ["title_ja", "fact_ja", "articles"],
+    "required": ["title_ja", "fact_ja", "japan_position_ja", "japan_basis", "overseas_view_ja", "articles"],
     "additionalProperties": False,
 }
 
@@ -189,6 +206,7 @@ def available():
 
 def _article_input(a, outlet_names):
     return {"id": a["id"], "outlet": outlet_names.get(a["outlet_id"], a["outlet_id"]),
+            "side": a.get("side", "overseas"),
             "published_at": a["published_at"], "headline": a["title"],
             "lead": a.get("description", ""), "body": a.get("body", "")}
 
