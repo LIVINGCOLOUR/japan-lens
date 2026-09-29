@@ -280,7 +280,7 @@
   },
   {
    "id": "aedf5902-67f5-4f24-a1a2-dd502c5d8c3a",
-   "title_ja": "日産が英サンダーランド工場に投資、欧州向けハイブリッドSUVを生産へ",
+   "title_ja": "日産が英サンダーランド工場に1億7000万ポンドを投資、欧州向けハイブリッドSUVを生産へ",
    "fact_ja": "日産が英国サンダーランド工場に1億7000万ポンドを投資し、欧州向けのハイブリッドSUV「キックス」を同工場で生産すると発表した。",
    "category": "企業・産業",
    "target": "日産の英工場への投資",
@@ -320,8 +320,8 @@
   },
   {
    "id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "title_ja": "日銀が政策金利を31年ぶりの水準に引き上げ",
-   "fact_ja": "日本銀行が利上げを決め、政策金利は31年ぶりの高い水準になった。植田総裁が決定後に記者会見を開いた。",
+   "title_ja": "日銀が政策金利を31年ぶりの高水準に引き上げ",
+   "fact_ja": "日本銀行が利上げを決め、政策金利は31年ぶりの高い水準になった。決定後、市場では円相場が揺れ動いた。",
    "category": "経済政策",
    "target": "日銀の利上げ判断",
    "judged_count": 11,
@@ -580,8 +580,8 @@
   },
   {
    "id": "72dba7e4-00da-4c9e-a0b0-30cdb2d16ebd",
-   "title_ja": "国連総会の機会に日米首脳が会談、日本側「トランプ氏が円安に懸念」",
-   "fact_ja": "国連総会の機会にトランプ大統領と高市首相が会談した。日本側は、会談でトランプ氏が円安への懸念を示したと明らかにした。",
+   "title_ja": "日米首脳が国連総会の機会に会談、日本側「トランプ氏が円安に懸念」",
+   "fact_ja": "トランプ大統領と高市首相が国連総会の機会に会談した。日本側は、会談でトランプ氏が円安への懸念を示したと明らかにした。",
    "category": "外交",
    "target": "高市首相の日米首脳会談での対応",
    "judged_count": 4,
@@ -590,7 +590,7 @@
   },
   {
    "id": "60aa2b81-1c3d-43ae-ba12-4893c13bd2b3",
-   "title_ja": "高市首相、国連で旧敵国条項の削除を要求",
+   "title_ja": "高市首相、国連で「敵国」扱いの撤廃を要求",
    "fact_ja": "高市首相が国連で、日本を「敵国」とする扱いをなくすよう求めた。",
    "category": "外交",
    "target": "高市首相の国連での要求",
@@ -889,12 +889,13 @@
    "fetched_at": "2026-09-27T10:45:09.197868+00:00",
    "event_id": "60aa2b81-1c3d-43ae-ba12-4893c13bd2b3",
    "summary_ja": "日本の首相が国連に対し、日本を「敵国」とする扱いの撤廃を求めた。",
-   "tone": "neu",
+   "tone": "none",
    "processed_at": "2026-09-28T04:34:26.289907+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "首相の要求内容",
-   "evidence": "Calls on U.N. to Drop ‘Enemy State’ Label"
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -910,7 +911,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "チケットの売れ残り",
-   "evidence": "empty seats blight Asian Games"
+   "evidence": "empty seats blight Asian Games",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -926,7 +928,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "最年少選手の活躍",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -942,7 +945,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "中国の働きかけ",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -958,7 +962,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -974,7 +979,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -990,7 +996,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -1006,7 +1013,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1022,7 +1030,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -1032,13 +1041,14 @@
    "id": "0f6f2de1-4dda-4dfd-ad38-1bb4998342cb",
    "fetched_at": "2026-09-27T14:22:14.046266+00:00",
    "event_id": "0ec7d74f-fba0-4401-9fa4-7eadf9764ad1",
-   "summary_ja": "中国や経済への不安が広がるなか、沖縄県民が保守系の知事を選んだと伝える。",
+   "summary_ja": "中国への警戒や経済への不安が広がるなか、沖縄県知事選で保守系候補が当選した。",
    "tone": "neu",
    "processed_at": "2026-09-28T04:30:47.510062+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "中国・経済への不安",
-   "evidence": "Amid Fears About China and the Economy"
+   "evidence": "Amid Fears About China and the Economy",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1054,7 +1064,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "試合データ",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1070,7 +1081,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "試合データ",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1086,7 +1098,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "投機筋の動向",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1102,7 +1115,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1112,13 +1126,14 @@
    "id": "aace1d81-7143-4030-8a97-90f4acf20be2",
    "fetched_at": "2026-09-27T14:23:08.049826+00:00",
    "event_id": "f57a8781-6dc6-454d-86a0-b04fb917647f",
-   "summary_ja": "ラジオの市況番組で、日銀が金融政策の正常化に向けて進んでいると取り上げた。",
+   "summary_ja": "日銀が金融政策の正常化に向けた道を進んでいると、市場動向の番組で取り上げた。",
    "tone": "neu",
    "processed_at": "2026-09-28T04:30:47.510062+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "政策の正常化",
-   "evidence": "BOJ on the path to normalisation"
+   "angle": "政策正常化の流れ",
+   "evidence": "BOJ on the path to normalisation",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1128,13 +1143,14 @@
    "id": "0423e65d-c0fe-49a2-9302-07c88fa7fe18",
    "fetched_at": "2026-09-27T14:22:31.732880+00:00",
    "event_id": "f57a8781-6dc6-454d-86a0-b04fb917647f",
-   "summary_ja": "圧力が強まるなか、日銀が今回の利上げ局面で最も速いペースの利上げに踏み切る見通しだと報じた。",
+   "summary_ja": "圧力が強まるなか、日銀が今回の引き締め局面で最も速いペースの利上げに踏み切る見通しだと伝えた。",
    "tone": "neu",
    "processed_at": "2026-09-28T04:30:47.510062+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "利上げペースと圧力",
-   "evidence": "Set to Deliver Fastest Hike of Cycle as Pressure Mounts"
+   "angle": "利上げ圧力の高まり",
+   "evidence": "Fastest Hike of Cycle as Pressure Mounts",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1150,7 +1166,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "試合結果と日程",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1166,7 +1183,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "復帰後の不振",
-   "evidence": "after slow start to return"
+   "evidence": "after slow start to return",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1176,13 +1194,14 @@
    "id": "c6f14cea-e5b1-434b-b8c9-09c5b8308454",
    "fetched_at": "2026-09-27T14:23:08.049619+00:00",
    "event_id": "0ec7d74f-fba0-4401-9fa4-7eadf9764ad1",
-   "summary_ja": "沖縄県知事選で、米軍基地に反対してきた知事が敗れて退くことになったと伝える。",
+   "summary_ja": "沖縄県知事選で、米軍基地に反対してきた現職知事が敗れた。",
    "tone": "neu",
    "processed_at": "2026-09-28T04:30:47.510062+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "反基地知事の敗北",
-   "evidence": "ousts anti-US base governor"
+   "angle": "基地反対派の敗北",
+   "evidence": "ousts anti-US base governor",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1198,7 +1217,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "俳優の訃報",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1214,7 +1234,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "インフレ警戒",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1230,7 +1251,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "財政への懸念",
-   "evidence": "sidestep funding ... keep fiscal concerns alive"
+   "evidence": "sidestep funding ... keep fiscal concerns alive",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -1246,7 +1268,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "政策担当者の転向",
-   "evidence": "Architects of Japan’s Easy-Money Policies Are Changing Their Minds"
+   "evidence": "Architects of Japan’s Easy-Money Policies Are Changing Their Minds",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1262,7 +1285,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "長寿人口",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1278,7 +1302,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "資金調達",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1288,13 +1313,14 @@
    "id": "3ebfbe48-8cd3-4797-8a9f-2298c7158387",
    "fetched_at": "2026-09-27T14:23:08.049683+00:00",
    "event_id": "f57a8781-6dc6-454d-86a0-b04fb917647f",
-   "summary_ja": "分析記事で、日銀が市場の期待を裏切るおそれがあり、円高の流れが正念場を迎えると論じた。",
+   "summary_ja": "円高の流れが正念場を迎えており、日銀の判断が市場の期待を裏切るおそれがあると分析した。",
    "tone": "crit",
    "processed_at": "2026-09-28T04:30:47.510062+00:00",
    "relevant": true,
    "kind": "opinion",
-   "angle": "円相場への影響",
-   "evidence": "BOJ risks disappointing markets"
+   "angle": "市場の失望リスク",
+   "evidence": "BOJ risks disappointing markets",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1310,7 +1336,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "自動運転の導入",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1326,7 +1353,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "地価の動向",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1342,7 +1370,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "辞任の是非と後継",
-   "evidence": "Is it necessary"
+   "evidence": "Is it necessary",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -1358,7 +1387,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "長寿の節目",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -1374,7 +1404,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "揺れの範囲",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1390,7 +1421,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "登山者の費用負担",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1406,7 +1438,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "選手宿舎への不満",
-   "evidence": "face complaints"
+   "evidence": "face complaints",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1422,7 +1455,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "中東リスク",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1438,7 +1472,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "新競技への挑戦",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1454,7 +1489,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "AIによる商品開発",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1470,7 +1506,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "選手の宿泊施設",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1480,13 +1517,14 @@
    "id": "05bcdcc7-5a7c-4c7f-9dcb-0752d32fecf5",
    "fetched_at": "2026-09-27T14:23:08.050104+00:00",
    "event_id": "f57a8781-6dc6-454d-86a0-b04fb917647f",
-   "summary_ja": "インフレリスクが迫るなか、日銀が金利を31年ぶりの高水準に引き上げる見通しだと伝えた。",
+   "summary_ja": "インフレのリスクが迫るなか、日銀が政策金利を31年ぶりの高さに引き上げる見通しだと報じた。",
    "tone": "neu",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "インフレリスク",
-   "evidence": "set to raise interest rates to 31-year high"
+   "evidence": "set to raise interest rates to 31-year high",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1502,7 +1540,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "個人投資家の動向",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1518,7 +1557,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "業界の反応",
-   "evidence": "welcomes government's first emergency LNG deal"
+   "evidence": "welcomes government's first emergency LNG deal",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1534,7 +1574,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "市場動向",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1550,7 +1591,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "半導体工場の建設",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -1560,13 +1602,14 @@
    "id": "e1bbae1a-7b4b-4822-a16c-68aba835855a",
    "fetched_at": "2026-09-27T14:22:14.046475+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "日本が利上げを決めたが、その判断は米国からの圧力で曇ったものになったと伝える。",
+   "summary_ja": "日本の利上げ決定は、米国からの圧力によって判断の性格が曖昧になったと伝える。",
    "tone": "crit",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "米国の圧力",
-   "evidence": "Decision Muddied by U.S. Pressure"
+   "evidence": "Decision Muddied by U.S. Pressure",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1576,13 +1619,14 @@
    "id": "a3f8077a-04cb-4523-a77c-845e26750033",
    "fetched_at": "2026-09-27T14:22:31.732910+00:00",
    "event_id": "f57a8781-6dc6-454d-86a0-b04fb917647f",
-   "summary_ja": "日銀の決定を前に、米連邦準備制度の政策見通しが円の重しになっていると報じた。",
+   "summary_ja": "日銀の決定を前に、米連邦準備制度理事会（FRB）の政策見通しが円相場の重しになっていると伝えた。",
    "tone": "none",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "米金融政策と円",
-   "evidence": ""
+   "angle": "米金融政策と円相場",
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1598,7 +1642,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "選手の移籍",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1614,7 +1659,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "閣僚の顔ぶれ",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1630,7 +1676,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "為替への姿勢",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1646,7 +1693,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "海外での災害支援",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1662,7 +1710,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "買春側の処罰",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1678,7 +1727,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1688,13 +1738,14 @@
    "id": "a76cd865-3dec-4c9a-9004-0319bbac4c9d",
    "fetched_at": "2026-09-27T14:23:08.050349+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "日銀が利上げし、金利が31年ぶりの高さになったと伝える。",
-   "tone": "none",
+   "summary_ja": "日銀が利上げを決め、政策金利が31年ぶりの高水準になったと伝える。",
+   "tone": "neu",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "金利の水準",
-   "evidence": ""
+   "angle": "利上げの決定",
+   "evidence": "raises interest rates to 31-year high",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1710,7 +1761,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "物価の動向",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1720,13 +1772,14 @@
    "id": "8ce84ad9-f09a-4ae3-889e-6f4b4b2d8cdc",
    "fetched_at": "2026-09-27T14:23:08.050563+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "日銀が予想どおり利上げした後、株価が上がり、原油安と円安が進んだと伝える。",
-   "tone": "none",
+   "summary_ja": "日銀の予想通りの利上げ後、株価が上昇し、原油安と円安が進んだと伝える。",
+   "tone": "neu",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "市場の反応",
-   "evidence": ""
+   "evidence": "after BOJ hikes as expected",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1742,7 +1795,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "開催地の経済効果",
-   "evidence": "bets on Asian Games to drive growth despite soaring costs"
+   "evidence": "bets on Asian Games to drive growth despite soaring costs",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1758,7 +1812,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "原油の供給確保",
-   "evidence": "secured sufficient crude supplies through November"
+   "evidence": "secured sufficient crude supplies through November",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1768,13 +1823,14 @@
    "id": "09d96a3a-6aaa-40f0-9c27-aaff7330ce44",
    "fetched_at": "2026-09-27T14:23:08.050539+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "植田総裁が記者会見で述べた内容をまとめて伝える。",
+   "summary_ja": "植田総裁が記者会見で述べた発言の内容を伝える。",
    "tone": "none",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "総裁の発言",
-   "evidence": ""
+   "angle": "総裁の会見発言",
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1785,12 +1841,13 @@
    "fetched_at": "2026-09-27T14:22:31.732927+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
    "summary_ja": "日銀の利上げで、東京の投資家にとって米国への投資の魅力が薄れると伝える。",
-   "tone": "none",
+   "tone": "neu",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "投資資金の流れ",
-   "evidence": ""
+   "angle": "米国投資への影響",
+   "evidence": "Making U.S. Less Alluring for Tokyo Investors",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1800,13 +1857,14 @@
    "id": "33bc85fd-77c8-416a-8075-6ad40758e985",
    "fetched_at": "2026-09-27T14:22:31.732941+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "ドルと円をめぐる、にらみ合いのような駆け引きを論じるオピニオン記事。",
+   "summary_ja": "ドルと円をめぐるにらみ合いを論じるオピニオン記事。",
    "tone": "none",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "opinion",
    "angle": "ドルと円の駆け引き",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1816,13 +1874,14 @@
    "id": "b932720a-0d84-4570-89d2-35af8bce9f08",
    "fetched_at": "2026-09-27T14:22:31.732955+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "市場が日銀の今後の利上げ路線を見きわめるなかで、円相場が大きく動いたと伝える。",
-   "tone": "none",
+   "summary_ja": "市場が日銀の今後の利上げ路線を見極めるなか、円相場が大きく揺れたと伝える。",
+   "tone": "neu",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "円相場の変動",
-   "evidence": ""
+   "evidence": "Yen Swings as Markets Digest Bank of Japan’s Rate Path",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1838,7 +1897,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1854,7 +1914,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "韓国の反発",
-   "evidence": "South Korea makes Asian Games complaint"
+   "evidence": "South Korea makes Asian Games complaint",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1864,13 +1925,14 @@
    "id": "2677b033-e713-47ed-8759-1dc02705c818",
    "fetched_at": "2026-09-27T14:23:08.050482+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "エコノミストは、インフレリスクと円安を背景に、今回の利上げで引き締めのペースが速まるとみている。",
+   "summary_ja": "エコノミストは、インフレリスクと円安を背景に利上げのペースが速まる兆しとみていると伝える。",
    "tone": "neu",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "引き締めの見通し",
-   "evidence": "signals faster pace of tightening amid inflation risks, weak yen"
+   "angle": "今後の利上げペース",
+   "evidence": "signals faster pace of tightening amid inflation risks",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1886,7 +1948,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1902,7 +1965,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1918,7 +1982,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1928,13 +1993,14 @@
    "id": "41e82b92-6a51-4365-b4cc-335f876079fd",
    "fetched_at": "2026-09-27T14:23:08.050455+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "日銀が利上げしたのに円は下がり、世界の株式市場もまちまちだったと伝える。",
+   "summary_ja": "日銀の利上げにもかかわらず円が下落し、世界の株式市場はまちまちだったと伝える。",
    "tone": "neu",
    "processed_at": "2026-09-28T04:33:13.635587+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "利上げ後の円安",
-   "evidence": "yen falls despite Bank of Japan rate hike"
+   "angle": "円安の継続",
+   "evidence": "yen falls despite Bank of Japan rate hike",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -1950,7 +2016,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "製品の独自性",
-   "evidence": "Practically Screams Toyota"
+   "evidence": "Practically Screams Toyota",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1966,7 +2033,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "開会式",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -1982,7 +2050,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "旅と文化",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -1998,7 +2067,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "文化交流",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2014,7 +2084,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "米国への投資",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2030,7 +2101,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "競技結果",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2046,7 +2118,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "資金調達",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2062,7 +2135,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "交通の混乱",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2078,7 +2152,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "大雨への備え",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -2094,7 +2169,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "国債市場",
-   "evidence": "BOJ Succeeds in Achieving JGB Market Stability"
+   "evidence": "BOJ Succeeds in Achieving JGB Market Stability",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2110,7 +2186,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "スポーツ文化",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2126,7 +2203,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "海外投資",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2142,7 +2220,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "街の清潔さ",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2158,7 +2237,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "避難警報",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2174,7 +2254,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "被害状況",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2190,7 +2271,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "台風の進路",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2206,7 +2288,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "被害の規模",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2222,7 +2305,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "米国の姿勢",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2238,7 +2322,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "日中関係の悪化",
-   "evidence": "Suffering Xi and China’s Anger, Hopes Trump Can Help"
+   "evidence": "Suffering Xi and China’s Anger, Hopes Trump Can Help",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2254,7 +2339,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "人的被害",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2270,7 +2356,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "地元の町",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2286,7 +2373,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "記録的な降雨",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2302,7 +2390,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "人的被害",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2318,7 +2407,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "日本の善戦",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2334,7 +2424,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "浸水被害",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2344,13 +2435,14 @@
    "id": "53b17e16-32db-46bb-9ae9-e7d7150098b1",
    "fetched_at": "2026-09-27T14:23:08.050746+00:00",
    "event_id": "72dba7e4-00da-4c9e-a0b0-30cdb2d16ebd",
-   "summary_ja": "トランプ大統領が、習近平氏との首脳会談を前に、国連総会の場で高市首相と会談する予定だと伝えた。",
+   "summary_ja": "トランプ大統領が習近平氏との首脳会談を前に、国連総会の場で高市首相と会談する予定だと伝えた。",
    "tone": "none",
    "processed_at": "2026-09-28T04:34:26.289907+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "米中会談前の日程",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2360,13 +2452,14 @@
    "id": "15d0136a-fd9f-414c-b58e-d41a756c9b49",
    "fetched_at": "2026-09-27T14:22:14.046803+00:00",
    "event_id": "60aa2b81-1c3d-43ae-ba12-4893c13bd2b3",
-   "summary_ja": "日本の首相が国連の場で、「敵国」扱いを終わらせる時が来たと訴えた。",
-   "tone": "neu",
+   "summary_ja": "日本の首相が国連の場で、「敵国」扱いを終わらせる時だと訴えた。",
+   "tone": "none",
    "processed_at": "2026-09-28T04:34:26.289907+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "首相の国連演説",
-   "evidence": "Says It’s Time to End ‘Enemy State’ Label"
+   "angle": "国連での訴え",
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2376,13 +2469,14 @@
    "id": "13faa698-b6de-43d8-ae71-a203139e3569",
    "fetched_at": "2026-09-27T14:23:08.051071+00:00",
    "event_id": "72dba7e4-00da-4c9e-a0b0-30cdb2d16ebd",
-   "summary_ja": "高市首相との会談中、トランプ大統領が通訳を「話すのがとても速い」とほめたことを取り上げた。",
+   "summary_ja": "高市首相との会談で、トランプ大統領が日本側の通訳を「話すのがとても速い」とほめたと伝えた。",
    "tone": "none",
    "processed_at": "2026-09-28T04:34:26.289907+00:00",
    "relevant": true,
    "kind": "news",
-   "angle": "通訳への賛辞",
-   "evidence": ""
+   "angle": "通訳への称賛",
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2398,7 +2492,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "中国の雪辱",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2414,7 +2509,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "投資機会",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2430,7 +2526,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "発行規模",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2446,7 +2543,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "OpenAI投資の資金",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2462,7 +2560,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "製造業の景況",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2478,7 +2577,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "米国への投資",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2494,7 +2594,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "介入原則の確認",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2510,7 +2611,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "利上げのペース",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2526,7 +2628,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "試合記録",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2542,7 +2645,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2558,7 +2662,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "最年少メダル",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2574,7 +2679,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "世界記録更新",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2590,7 +2696,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "若き選手の素顔",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2606,7 +2713,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "亡命の申請",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2622,7 +2730,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "市場の動き",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2638,7 +2747,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "冬の旅行",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2654,7 +2764,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "歴史的な縁",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2670,7 +2781,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "海外出資の拡大",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -2680,13 +2792,14 @@
    "id": "acd17662-cf9a-43c9-ad13-fc1879c0e8d0",
    "fetched_at": "2026-09-27T14:22:31.733083+00:00",
    "event_id": "72dba7e4-00da-4c9e-a0b0-30cdb2d16ebd",
-   "summary_ja": "日本の財務相によると、トランプ大統領が円安への懸念を示した。",
+   "summary_ja": "日本の財務相が、トランプ大統領が円安への懸念を示したと明らかにしたと伝えた。",
    "tone": "none",
    "processed_at": "2026-09-28T04:34:26.289907+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "円安への懸念",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2702,7 +2815,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "為替市場の動き",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2712,13 +2826,14 @@
    "id": "b302a37e-ce14-4b9b-af75-f6da58d55b61",
    "fetched_at": "2026-09-27T14:23:08.051245+00:00",
    "event_id": "72dba7e4-00da-4c9e-a0b0-30cdb2d16ebd",
-   "summary_ja": "日本政府は、高市首相との会談でトランプ大統領が円安への懸念を示したと明らかにした。",
+   "summary_ja": "高市首相との首脳会談でトランプ大統領が円安に懸念を示したと、日本側が明らかにしたと伝えた。",
    "tone": "none",
    "processed_at": "2026-09-28T04:34:26.289907+00:00",
    "relevant": true,
    "kind": "news",
    "angle": "円安への懸念",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2734,7 +2849,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2750,7 +2866,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2766,7 +2883,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2782,7 +2900,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2798,7 +2917,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "日米同盟の強化",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2814,7 +2934,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "コメの価格",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2830,7 +2951,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2846,7 +2968,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "圧勝の影響",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2862,7 +2985,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "最年少選手の活躍",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2878,7 +3002,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "観光地の紹介",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2894,7 +3019,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -2910,7 +3036,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "試合記録",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -2926,7 +3053,8 @@
    "relevant": false,
    "kind": "news",
    "angle": null,
-   "evidence": null
+   "evidence": null,
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2942,7 +3070,8 @@
    "relevant": true,
    "kind": "news",
    "angle": "試合結果",
-   "evidence": ""
+   "evidence": "",
+   "basis": "headline"
   },
   {
    "outlet_id": "wsj",
@@ -2958,7 +3087,8 @@
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:35:15.727764+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2969,12 +3099,13 @@
    "id": "f9fded6c-d527-4feb-912f-c8cb8bab268b",
    "fetched_at": "2026-09-28T04:29:18.101764+00:00",
    "event_id": "aedf5902-67f5-4f24-a1a2-dd502c5d8c3a",
-   "summary_ja": "日産がキックスの生産に向け、サンダーランド工場に1億7000万ポンドを投じると発表した。",
-   "angle": "投資額と車種",
+   "summary_ja": "日産がサンダーランド工場に1億7000万ポンドを投じ、「キックス」を生産すると発表した。",
+   "angle": "投資額と生産車種",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -2985,12 +3116,13 @@
    "id": "75d1e80d-e03e-4d34-85a5-94e214a42883",
    "fetched_at": "2026-09-28T04:29:18.102257+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "日本が物価上昇を抑えるため、金利を31年ぶりの高さに引き上げたと伝える。",
-   "angle": "物価対策",
+   "summary_ja": "日本が物価上昇を抑えるため、金利を31年ぶりの高水準に引き上げたと伝える。",
+   "angle": "物価抑制の狙い",
    "tone": "neu",
    "evidence": "to curb rising prices",
    "processed_at": "2026-09-28T04:33:13.635587+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -3006,7 +3138,8 @@
    "tone": null,
    "evidence": null,
    "processed_at": "2026-09-28T04:33:13.635587+00:00",
-   "relevant": false
+   "relevant": false,
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -3017,12 +3150,13 @@
    "id": "5c952347-4196-43c4-b258-9358af92646c",
    "fetched_at": "2026-09-28T04:29:18.102652+00:00",
    "event_id": "d2f88e24-ef83-4a31-91ee-2aaffa45df45",
-   "summary_ja": "日本が再び利上げしていることを取り上げる経済番組。",
-   "angle": "続く利上げ",
+   "summary_ja": "日本が再び利上げに動いたことを取り上げる経済番組。",
+   "angle": "再度の利上げ",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:33:13.635587+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "bbc",
@@ -3038,7 +3172,8 @@
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:33:13.635587+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -3049,12 +3184,13 @@
    "id": "d6b08345-407c-4a8e-aaa8-e841de633805",
    "fetched_at": "2026-09-28T04:29:35.351233+00:00",
    "event_id": "aedf5902-67f5-4f24-a1a2-dd502c5d8c3a",
-   "summary_ja": "日産が欧州向けの新しいハイブリッドSUVを英国の工場で生産する計画を伝えた。",
-   "angle": "欧州向け新車生産",
+   "summary_ja": "日産が英国工場で欧州向けの新型ハイブリッドSUVを生産する。",
+   "angle": "欧州向け新型車",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:32:01.194594+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -3070,7 +3206,8 @@
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:33:13.635587+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -3086,7 +3223,8 @@
    "tone": null,
    "evidence": null,
    "processed_at": "2026-09-28T04:35:15.727764+00:00",
-   "relevant": false
+   "relevant": false,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -3102,7 +3240,8 @@
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:35:15.727764+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -3118,7 +3257,8 @@
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-09-28T04:35:15.727764+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "nyt",
@@ -3134,7 +3274,8 @@
    "tone": "crit",
    "evidence": "The Other Bond Market You Need to Worry About",
    "processed_at": "2026-09-29T00:57:13.030490+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "cna",
@@ -3150,7 +3291,8 @@
    "tone": "fav",
    "evidence": "Tokyo isn’t waiting for the end of the war",
    "processed_at": "2026-09-29T00:57:13.030490+00:00",
-   "relevant": true
+   "relevant": true,
+   "basis": "headline"
   }
  ]
 }

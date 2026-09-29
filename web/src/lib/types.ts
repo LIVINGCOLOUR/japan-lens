@@ -23,6 +23,7 @@ export type Article = {
   angle?: string; // 切り口（記事が何に焦点を当てているか）
   evidence?: string; // 論調の根拠にした原文の語句
   kind?: "news" | "opinion";
+  basis?: "body" | "headline"; // 論調判定の材料。本文を読める媒体だけ body
 };
 
 export type NewsEvent = {

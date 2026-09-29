@@ -62,6 +62,9 @@ OUTLETS = [
         "feeds": [
             "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511",
         ],
+        # 本文を読んで論調を判定する。robots.txt で AI を拒否していない媒体だけ True にすること
+        # （NYT・BBC は Claude を名指しで拒否、WSJ は自動取得を全面拒否しているので False のまま）
+        "read_body": True,
         "lean": None,
     },
 ]

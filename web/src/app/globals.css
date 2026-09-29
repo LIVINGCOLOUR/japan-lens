@@ -407,6 +407,15 @@ a:focus-visible {
   border: 1px dashed var(--none);
   background: transparent;
 }
+.tone-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.basis {
+  font-size: 11px;
+  color: var(--muted);
+}
 .time {
   font-family: var(--mono);
   color: var(--muted);

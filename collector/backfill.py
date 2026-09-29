@@ -87,6 +87,10 @@ def search_outlet(outlet_id, days):
 
 
 def main():
+    # 使用停止（2026-09-29）: news.google.com の robots.txt は /rss/ を含むほぼ全パスへの自動アクセスを
+    # 禁止しており、Claude も名指しで拒否している。確認漏れのまま過去分の取り込みに使っていた。
+    # 過去分が必要なときは、各媒体が自動取得を認めている手段（公式 RSS・サイトマップ・API）で行うこと。
+    raise SystemExit("backfill.py は使用停止です（Google News の robots.txt が自動アクセスを禁止しているため）。")
     load_dotenv(Path(__file__).with_name(".env"))
     parser = argparse.ArgumentParser()
     parser.add_argument("--days", type=int, default=14)

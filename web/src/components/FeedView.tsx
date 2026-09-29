@@ -100,7 +100,12 @@ function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Out
           </p>
         )}
         <div className="card-foot">
-          <span className={`tone ${article.tone}`}>{TONE_LABEL[article.tone]}</span>
+          <span className="tone-wrap">
+            <span className={`tone ${article.tone}`}>{TONE_LABEL[article.tone]}</span>
+            <span className="basis" title={article.basis === "body" ? "記事の本文を読んで判定" : "見出しとリード文から判定"}>
+              {article.basis === "body" ? "本文で判定" : "見出しで判定"}
+            </span>
+          </span>
           <time className="time" dateTime={article.published_at}>{formatTime(article.published_at)}</time>
           {external ? (
             <a href={article.url} target="_blank" rel="noopener noreferrer">記事へ ↗</a>

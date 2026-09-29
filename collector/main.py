@@ -12,6 +12,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from ai import available as ai_available
+from body import fetch_body
 from fetch import fetch_outlet
 from outlets import OUTLETS, public_outlet
 from store import LEADS_PATH, STORE_PATH, Leads, Store
@@ -67,19 +68,26 @@ def apply_result(store, batch, result, existing_ids):
             continue  # 出来事が決まらなかった記事は次回に再処理
         store.update_article(r["id"], {
             "relevant": True, "event_id": event_id, "summary_ja": r["summary_ja"],
-            **_judgement(r), "processed_at": now,
+            **_judgement(r), **_basis(by_id[r["id"]]), "processed_at": now,
         })
         store.touch_event(event_id, published)
         done += 1
     return done
 
 
-def _with_leads(articles, leads):
+def _with_material(articles, leads):
+    """AI に渡す材料を付ける: 内部保存のリード文・タグと、読める媒体なら本文。"""
     out = []
     for a in articles:
         lead = leads.get(a["url"])
-        out.append({**a, "description": lead.get("lead", ""), "tags": lead.get("tags", [])})
+        body = fetch_body(a)
+        out.append({**a, "description": lead.get("lead", ""), "tags": lead.get("tags", []), "body": body})
     return out
+
+
+def _basis(a):
+    # 画面に「本文で判定」と出すための印
+    return {"basis": "body" if a.get("body") else "headline"}
 
 
 def process(store, leads):
@@ -95,11 +103,12 @@ def process(store, leads):
         seen.update(a["id"] for a in batch)
         events = store.recent_events(EVENT_WINDOW_DAYS)
         try:
-            result = classify(_with_leads(batch, leads), events, names)
+            material = _with_material(batch, leads)
+            result = classify(material, events, names)
         except AIError as e:
             print(f"  AI 処理を中断しました: {e}", file=sys.stderr)
             return False
-        total += apply_result(store, batch, result, {e["id"] for e in events})
+        total += apply_result(store, material, result, {e["id"] for e in events})
         store.save()  # 途中で止まっても処理済みの分は残す
     print(f"  AI 処理 {total} 件")
     return True
@@ -122,14 +131,16 @@ def rejudge_events(store, leads):
         if ev.get("judged_count") == len(articles):
             continue
         try:
-            result = rejudge(ev, _with_leads(articles, leads), names)
+            material = _with_material(articles, leads)
+            result = rejudge(ev, material, names)
         except AIError as e:
             print(f"  判定し直しを中断しました: {e}", file=sys.stderr)
             break
-        ids = {a["id"] for a in articles}
+        by_id = {a["id"]: a for a in material}
         for r in result["articles"]:
-            if r["id"] in ids:
-                store.update_article(r["id"], {"summary_ja": r["summary_ja"], **_judgement(r)})
+            if r["id"] in by_id:
+                store.update_article(r["id"], {"summary_ja": r["summary_ja"], **_judgement(r),
+                                               **_basis(by_id[r["id"]])})
         store.set_judged(ev["id"], len(articles), result["title_ja"], result["fact_ja"])
         store.save()
         done += 1
