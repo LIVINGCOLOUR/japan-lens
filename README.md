@@ -1,5 +1,7 @@
 # Japan Lens
 
+**公開サイト: https://japan-lens.makoto-monda.workers.dev**（Cloudflare Workers。main への push で自動デプロイ）
+
 海外メディアが日本をどう報じているかを、出来事ごとに並べて比べるサイト。
 
 - 本文は載せない。見出し・リンク・自前の要約（AI）・記事の論調だけを表示する。
