@@ -122,16 +122,24 @@ type Reading =
 type Readings = Record<string, { tone: Tone; angle: string; evidence: string }>;
 type OnRead = (articleId: string, reading: { tone: Tone; angle: string; evidence: string }) => void;
 
-/** 読者が押したときだけ、その記事の本文を AI に読ませて要約と論調を出す（worker/index.ts） */
-function ReadWithAI({ articleId, onRead }: { articleId: string; onRead: OnRead }) {
-  const [state, setState] = useState<"idle" | "loading" | Reading>("idle");
+type ReadState = "idle" | "loading" | Reading;
+
+/**
+ * 記事の本文を AI に読ませて要約と論調を出す（worker/index.ts）。
+ * 「AIで本文を読む」を押したときと、「記事へ」で記事を開いたときに動く（読者の操作があったときだけ）
+ */
+function useReadWithAI(articleId: string, onRead: OnRead) {
+  const [state, setState] = useState<ReadState>("idle");
   const run = async () => {
+    if (state !== "idle") return; // 読み込み中・読み込み済みなら何もしない
     setState("loading");
     try {
       const res = await fetch("/api/read", {
         method: "POST",
         headers: { "content-type": "application/json" },
         body: JSON.stringify({ id: articleId }),
+        // 記事を新しいタブで開いた直後でも、要求を最後まで送る
+        keepalive: true,
       });
       const reading = (await res.json()) as Reading;
       setState(reading);
@@ -141,6 +149,10 @@ function ReadWithAI({ articleId, onRead }: { articleId: string; onRead: OnRead }
       setState({ status: "error", message: "読み込みに失敗しました。時間をおいて試してください。" });
     }
   };
+  return { state, run };
+}
+
+function ReadWithAI({ state, run }: { state: ReadState; run: () => void }) {
   if (state === "idle") {
     return (
       <button className="read-ai" onClick={run}>
@@ -168,6 +180,7 @@ function ReadWithAI({ articleId, onRead }: { articleId: string; onRead: OnRead }
 
 function ArticleCard({ article, outlet, lang, onRead }: { article: Article; outlet?: Outlet; lang: Lang; onRead: OnRead }) {
   const external = article.url.startsWith("http");
+  const reading = useReadWithAI(article.id, onRead);
   return (
     <article className="card">
       <div className="band" style={{ background: `var(--${article.tone})` }} />
@@ -196,7 +209,7 @@ function ArticleCard({ article, outlet, lang, onRead }: { article: Article; outl
             根拠 <q lang="en">{article.evidence}</q>
           </p>
         )}
-        {external && <ReadWithAI articleId={article.id} onRead={onRead} />}
+        {external && <ReadWithAI state={reading.state} run={reading.run} />}
         <div className="card-foot">
           <span className="tone-wrap">
             <span className={`tone ${article.tone}`}>{TONE_LABEL[article.tone]}</span>
@@ -215,7 +228,10 @@ function ArticleCard({ article, outlet, lang, onRead }: { article: Article; outl
           </span>
           <time className="time" dateTime={article.published_at}>{formatTime(article.published_at)}</time>
           {external ? (
-            <a href={article.url} target="_blank" rel="noopener noreferrer">記事へ ↗</a>
+            // 記事を開いたら、裏で AI に本文を読ませる（ページの移動は妨げない）
+            <a href={article.url} target="_blank" rel="noopener noreferrer" onClick={() => void reading.run()}>
+              記事へ ↗
+            </a>
           ) : (
             <span className="time">サンプル</span>
           )}
