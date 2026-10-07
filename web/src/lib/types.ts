@@ -25,6 +25,7 @@ export type Article = {
   evidence?: string; // 論調の根拠にした原文の語句
   kind?: "news" | "opinion";
   basis?: "body" | "headline"; // 論調判定の材料。本文を読める媒体だけ body
+  read_by_reader?: boolean; // 読者が「AIで本文を読む」を押し、本文での判定に置き換えた記事
 };
 
 export type NewsEvent = {

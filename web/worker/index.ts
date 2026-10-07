@@ -29,6 +29,9 @@ const MODEL = "claude-haiku-4-5";
 const CACHE_VERSION = "v1";
 const CACHE_TTL = 60 * 60 * 24 * 30; // 読めた結果は30日
 const BLOCKED_TTL = 60 * 60 * 24; // 読めなかった結果は1日（サイト側の設定が変わることがあるので短め）
+// 読めた記事の判定をまとめた一覧。ページを開いたときに1回読むだけで、全員の画面の論調を本文の判定に置き換えられる
+// （記事ごとのキーを一覧取得すると KV の list 操作の回数制限に当たるので、1つのキーにまとめる）
+const READINGS_KEY = `readings:${CACHE_VERSION}`;
 
 const Reading = z.object({
   summary_ja: z.string(),
@@ -36,6 +39,8 @@ const Reading = z.object({
   tone: z.enum(["crit", "neu", "fav", "none"]),
   evidence: z.string(),
 });
+
+type Summary = { tone: string; angle: string; evidence: string; summary_ja: string; read_at: string };
 
 type Result =
   | ({ status: "ok"; title: string } & z.infer<typeof Reading>)
@@ -120,9 +125,42 @@ async function read(entry: IndexEntry, env: Env): Promise<Result> {
   return { status: "ok", title: extractTitle(html), ...response.parsed_output };
 }
 
+async function loadReadings(env: Env): Promise<Record<string, Summary>> {
+  const stored = await env.READS.get<Record<string, Summary>>(READINGS_KEY, "json");
+  if (stored) return stored;
+  // 一覧がまだない（この仕組みより前に読んだ記事がある）ときは、記事ごとのキーから一度だけ作る
+  const readings: Record<string, Summary> = {};
+  let cursor: string | undefined;
+  do {
+    const page = await env.READS.list({ prefix: `read:${CACHE_VERSION}:`, cursor });
+    for (const k of page.keys) {
+      const r = await env.READS.get<Result>(k.name, "json");
+      if (r?.status === "ok") readings[k.name.split(":")[2]] = toSummary(r);
+    }
+    cursor = page.list_complete ? undefined : page.cursor;
+  } while (cursor);
+  await env.READS.put(READINGS_KEY, JSON.stringify(readings));
+  return readings;
+}
+
+function toSummary(r: Extract<Result, { status: "ok" }>): Summary {
+  return { tone: r.tone, angle: r.angle, evidence: r.evidence, summary_ja: r.summary_ja, read_at: new Date().toISOString() };
+}
+
+/** 読めた記事を一覧に加える。同時に書き込まれると取りこぼすことがあるので、保存済みの結果を返すときにも確かめて足す */
+async function remember(env: Env, id: string, r: Extract<Result, { status: "ok" }>) {
+  const readings = await loadReadings(env);
+  if (readings[id]) return;
+  readings[id] = toSummary(r);
+  await env.READS.put(READINGS_KEY, JSON.stringify(readings));
+}
+
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
+    if (url.pathname === "/api/readings" && request.method === "GET") {
+      return Response.json(await loadReadings(env), { headers: { "cache-control": "public, max-age=60" } });
+    }
     if (url.pathname !== "/api/read") return env.ASSETS.fetch(request);
     if (request.method !== "POST") return new Response("Method Not Allowed", { status: 405 });
 
@@ -133,7 +171,10 @@ export default {
 
     const key = `read:${CACHE_VERSION}:${id}`;
     const cached = await env.READS.get<Result>(key, "json");
-    if (cached) return json(cached);
+    if (cached) {
+      if (cached.status === "ok") await remember(env, id, cached);
+      return json(cached);
+    }
 
     // まだ読んでいない記事を読むときだけ回数を制限する（保存済みの結果を返すのは制限しない）
     const ip = request.headers.get("cf-connecting-ip") ?? "unknown";
@@ -150,7 +191,10 @@ export default {
       console.error("read failed", id, e);
       return json({ status: "error", message: "AI による要約に失敗しました。時間をおいて試してください。" }, 502);
     }
-    if (result.status === "ok") await env.READS.put(key, JSON.stringify(result), { expirationTtl: CACHE_TTL });
+    if (result.status === "ok") {
+      await env.READS.put(key, JSON.stringify(result), { expirationTtl: CACHE_TTL });
+      await remember(env, id, result);
+    }
     else if (result.status !== "error") await env.READS.put(key, JSON.stringify(result), { expirationTtl: BLOCKED_TTL });
     return json(result);
   },

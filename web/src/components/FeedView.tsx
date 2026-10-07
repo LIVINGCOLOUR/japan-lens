@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { isGovernment, JAPAN_MAIN_COUNT, MIN_OUTLETS } from "@/lib/rules";
 import type { Article, Feed, NewsEvent, Outlet, Tone } from "@/lib/types";
 
@@ -118,9 +118,12 @@ function GovernmentTone({ articles, outlets }: { articles: Article[]; outlets: M
 type Reading =
   | { status: "ok"; summary_ja: string; angle: string; tone: Tone; evidence: string }
   | { status: "blocked" | "unavailable" | "error"; message: string };
+// 読者が本文を読ませた記事の判定（worker/index.ts の /api/readings）。記事の id → 判定
+type Readings = Record<string, { tone: Tone; angle: string; evidence: string }>;
+type OnRead = (articleId: string, reading: { tone: Tone; angle: string; evidence: string }) => void;
 
 /** 読者が押したときだけ、その記事の本文を AI に読ませて要約と論調を出す（worker/index.ts） */
-function ReadWithAI({ articleId }: { articleId: string }) {
+function ReadWithAI({ articleId, onRead }: { articleId: string; onRead: OnRead }) {
   const [state, setState] = useState<"idle" | "loading" | Reading>("idle");
   const run = async () => {
     setState("loading");
@@ -130,7 +133,10 @@ function ReadWithAI({ articleId }: { articleId: string }) {
         headers: { "content-type": "application/json" },
         body: JSON.stringify({ id: articleId }),
       });
-      setState((await res.json()) as Reading);
+      const reading = (await res.json()) as Reading;
+      setState(reading);
+      // 本文での判定をカード・論調の分布・国ごとの色に反映する
+      if (reading.status === "ok") onRead(articleId, reading);
     } catch {
       setState({ status: "error", message: "読み込みに失敗しました。時間をおいて試してください。" });
     }
@@ -160,7 +166,7 @@ function ReadWithAI({ articleId }: { articleId: string }) {
   );
 }
 
-function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Outlet; lang: Lang }) {
+function ArticleCard({ article, outlet, lang, onRead }: { article: Article; outlet?: Outlet; lang: Lang; onRead: OnRead }) {
   const external = article.url.startsWith("http");
   return (
     <article className="card">
@@ -190,11 +196,20 @@ function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Out
             根拠 <q lang="en">{article.evidence}</q>
           </p>
         )}
-        {external && <ReadWithAI articleId={article.id} />}
+        {external && <ReadWithAI articleId={article.id} onRead={onRead} />}
         <div className="card-foot">
           <span className="tone-wrap">
             <span className={`tone ${article.tone}`}>{TONE_LABEL[article.tone]}</span>
-            <span className="basis" title={article.basis === "body" ? "記事の本文を読んで判定" : "見出しとリード文から判定"}>
+            <span
+              className="basis"
+              title={
+                article.read_by_reader
+                  ? "読者の操作でAIが記事の本文を読んで判定"
+                  : article.basis === "body"
+                    ? "記事の本文を読んで判定"
+                    : "見出しとリード文から判定"
+              }
+            >
               {article.basis === "body" ? "本文で判定" : "見出しで判定"}
             </span>
           </span>
@@ -394,6 +409,7 @@ function ArticlesPanel({
   outlets,
   lang,
   region,
+  onRead,
 }: {
   eventId: string;
   overseas: Article[];
@@ -401,6 +417,7 @@ function ArticlesPanel({
   outlets: Map<string, Outlet>;
   lang: Lang;
   region: string;
+  onRead: OnRead;
 }) {
   const [open, setOpen] = useState(false);
   const [tab, setTab] = useState<Tab>("overseas");
@@ -439,7 +456,7 @@ function ArticlesPanel({
           {shown.length ? (
             <div className="cards" role="tabpanel">
               {shown.map((a) => (
-                <ArticleCard key={a.id} article={a} outlet={outlets.get(a.outlet_id)} lang={lang} />
+                <ArticleCard key={a.id} article={a} outlet={outlets.get(a.outlet_id)} lang={lang} onRead={onRead} />
               ))}
             </div>
           ) : (
@@ -457,6 +474,20 @@ export default function FeedView({ feed }: { feed: Feed }) {
   const [lang, setLang] = useState<Lang>("en");
   const [onlyOne, setOnlyOne] = useState(false);
   const [noJapanMain, setNoJapanMain] = useState(false);
+  const [readings, setReadings] = useState<Readings>({});
+
+  // 誰かが「AIで本文を読む」を押した記事は、全員の画面で本文での判定に置き換える
+  useEffect(() => {
+    fetch("/api/readings")
+      .then((res) => (res.ok ? res.json() : {}))
+      .then((data: Readings) => setReadings(data))
+      .catch(() => {}); // 読み込めなければ見出しでの判定のまま表示する
+  }, []);
+  const onRead: OnRead = (id, r) => setReadings((prev) => ({ ...prev, [id]: r }));
+  const withReading = (a: Article): Article => {
+    const r = readings[a.id];
+    return r ? { ...a, tone: r.tone, angle: r.angle || a.angle, evidence: r.evidence, basis: "body", read_by_reader: true } : a;
+  };
 
   const outlets = useMemo(() => new Map(feed.outlets.map((o) => [o.id, o])), [feed.outlets]);
   // 対象にしている海外の国・地域（「報道なし」の表示に使う。日本の媒体は「日本の報道」タブにまとめる）
@@ -477,8 +508,9 @@ export default function FeedView({ feed }: { feed: Feed }) {
     (sort === "tone" ? TONE_RANK[x.tone] - TONE_RANK[y.tone] : y.published_at.localeCompare(x.published_at));
 
   const allEvents = feed.events.map((ev) => {
-    const overseas = ev.articles.filter((a) => !isJapan(a)).sort(order);
-    const japan = ev.articles.filter(isJapan).sort(order);
+    const articles = ev.articles.map(withReading);
+    const overseas = articles.filter((a) => !isJapan(a)).sort(order);
+    const japan = articles.filter(isJapan).sort(order);
     const countries = new Set(overseas.map((a) => outlets.get(a.outlet_id)?.country_code)).size;
     const outletCount = new Set(overseas.map((a) => a.outlet_id)).size;
     return { ev, overseas, japan, countries, outletCount };
@@ -573,7 +605,7 @@ export default function FeedView({ feed }: { feed: Feed }) {
             </div>
             <Coverage overseas={overseas} outlets={outlets} countries={regions} />
             <Summary ev={ev} overseas={overseas} japan={japan} outlets={outlets} />
-            <ArticlesPanel eventId={ev.id} overseas={overseas} japan={japan} outlets={outlets} lang={lang} region={region} />
+            <ArticlesPanel eventId={ev.id} overseas={overseas} japan={japan} outlets={outlets} lang={lang} region={region} onRead={onRead} />
           </section>
         ))}
       </main>

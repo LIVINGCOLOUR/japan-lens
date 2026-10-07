@@ -26,6 +26,8 @@ EVENT_WINDOW_DAYS = 30
 MIN_OUTLETS = 2
 # 判定の指示を変えたら上げる。上がると、掲載中の出来事をすべて判定し直す
 JUDGE_VERSION = 2
+# 読者が「AIで本文を読む」を押した記事の判定（web/worker/index.ts）。毎日の判定し直しの材料にする
+READINGS_URL = "https://japan-lens.makoto-monda.workers.dev/api/readings"
 # 日本の主要媒体の報道を確かめる出来事の数の上限（1回の実行あたり）。残りは次回に回す
 COVERAGE_LIMIT = 20
 # 日本の主要媒体の記事を探す期間。出来事の最初の記事の少し前から、最後の記事の少しあとまで
@@ -104,12 +106,30 @@ def apply_result(store, batch, result, existing_ids):
     return done
 
 
-def _with_material(articles, leads):
-    """AI に渡す材料を付ける: 内部保存のリード文・タグと、読める媒体なら本文。"""
+def load_readings():
+    """読者の操作で AI が本文を読んだ記事の要約。取れなければ空（判定し直しは見出しなどで続ける）。"""
+    import json
+    import urllib.request
+
+    try:
+        req = urllib.request.Request(READINGS_URL, headers={"User-Agent": "JapanLensCollector/0.1"})
+        with urllib.request.urlopen(req, timeout=30) as res:
+            return json.loads(res.read().decode("utf-8"))
+    except Exception as e:
+        print(f"  読者が読ませた記事の判定を取得できませんでした: {e}", file=sys.stderr)
+        return {}
+
+
+def _with_material(articles, leads, readings=None):
+    """AI に渡す材料を付ける: 内部保存のリード文・タグと、読める媒体なら本文。
+    自動では本文を読めない媒体でも、読者の操作で AI が本文を読んだ記事はその要約を本文の代わりに渡す。"""
+    readings = readings or {}
     out = []
     for a in articles:
         lead = leads.get(a["url"])
         body = fetch_body(a)
+        if not body and a["id"] in readings:
+            body = "（読者の操作で AI が記事の本文を読んだ要約）" + readings[a["id"]].get("summary_ja", "")
         out.append({**a, "description": lead.get("lead", ""), "tags": lead.get("tags", []), "body": body,
                     "side": "japan" if a["outlet_id"] in JAPAN_SIDE else "overseas"})
     return out
@@ -149,6 +169,7 @@ def rejudge_events(store, leads):
     from ai import AIError, rejudge
 
     names = {o["id"]: o["name"] for o in OUTLETS}
+    readings = load_readings()
     done = 0
     # 期間では絞らない（判定済みで記事が増えていない出来事は下で飛ばすので、毎回の負担は増えない）
     for ev in store.recent_events(days=3650):
@@ -156,10 +177,13 @@ def rejudge_events(store, leads):
         # 画面に出さない出来事は判定し直さない
         if not shown(ev, articles):
             continue
-        if ev.get("judged_count") == len(articles) and ev.get("judge_version") == JUDGE_VERSION:
+        # 読者が本文を読ませた記事が増えたときも判定し直す
+        read_count = sum(1 for a in articles if a["id"] in readings)
+        if (ev.get("judged_count") == len(articles) and ev.get("judge_version") == JUDGE_VERSION
+                and ev.get("read_count", 0) == read_count):
             continue
         try:
-            material = _with_material(articles, leads)
+            material = _with_material(articles, leads, readings)
             result = rejudge(ev, material, names)
         except AIError as e:
             print(f"  判定し直しを中断しました: {e}", file=sys.stderr)
@@ -171,6 +195,7 @@ def rejudge_events(store, leads):
                                                **_basis(by_id[r["id"]])})
         store.set_judged(ev["id"], len(articles), {
             "judge_version": JUDGE_VERSION,
+            "read_count": read_count,
             **{k: result[k] for k in ("title_ja", "fact_ja", "japan_position_ja", "japan_basis",
                                       "japan_views", "japan_split", "overseas_view_ja", "search_ja")},
         })
