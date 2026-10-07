@@ -11,6 +11,7 @@ https://japan-lens.makoto-monda.workers.dev
 - 国営・政府系の媒体（`ownership` が「国営」「政府系」）は、その国の政府の見方として載せるが、「海外の見方」の論調の集計には含めず別に示す。掲載条件でも同じ国の国営・政府系の媒体はまとめて1つと数え、国営・政府系ではない媒体が1つ以上報じた出来事だけを載せる（`collector/main.py` の `eligible` と `web/src/lib/rules.ts` の `isEligible`）。
 - 出来事ごとに、日本の主要媒体（NHK・全国紙5紙・在京キー局4局）が報じたかを Google News の検索で確かめ、見つかった記事の見出しとリンクを表示する（`check_japan_coverage`）。「見つからない」出来事だけに絞り込める。
 - 設立の背景は `/about`（このサイトについて）にまとめている。
+- 記事カードの「AIで本文を読む」: 押したときだけ Worker（`web/worker/index.ts`）がその1記事を取得し、Claude API（Haiku 4.5）で要約・論調を判定する。媒体の robots.txt が `Claude-User`（人に頼まれて AI が読む場合）を拒否していれば読まない。読めるのはサイトに載っている記事（`/read-index.json`）だけ。結果は KV に30日保存し、まだ読んでいない記事の読み込みは1つの IP から1分10件まで。API キーは `cd web && npx wrangler secret put ANTHROPIC_API_KEY` で登録する（未登録の間は「準備中」と表示）。
 
 ## 構成
 
@@ -20,6 +21,7 @@ https://japan-lens.makoto-monda.workers.dev
 | 場所 | 内容 |
 |---|---|
 | `collector/` | Python。RSS（RSS に日本の記事が少ない媒体は Google News のサイト内検索）を取得 → 日本関連で絞り込み → Claude で出来事のグループ化・要約・論調判定 → 日本の主要媒体の報道を確認 → `web/data/store.json` を更新。Claude は `claude -p`（Claude Code）をサブスクリプションの認証で呼ぶので API の従量課金はかからない |
+| `web/worker/` | Cloudflare Worker。`/api/read`（AIで本文を読む）だけを処理し、それ以外は静的なページを返す |
 | `web/` | Next.js。ビルド時に `data/store.json` を取り込み、出来事ごとに各媒体のカードを並べた静的ページを作る |
 | `.github/workflows/collect.yml` | 1日1回（日本時間の朝6時）、収集処理を実行して `store.json` をコミット・push する |
 

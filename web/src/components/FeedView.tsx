@@ -115,6 +115,51 @@ function GovernmentTone({ articles, outlets }: { articles: Article[]; outlets: M
   );
 }
 
+type Reading =
+  | { status: "ok"; summary_ja: string; angle: string; tone: Tone; evidence: string }
+  | { status: "blocked" | "unavailable" | "error"; message: string };
+
+/** 読者が押したときだけ、その記事の本文を AI に読ませて要約と論調を出す（worker/index.ts） */
+function ReadWithAI({ articleId }: { articleId: string }) {
+  const [state, setState] = useState<"idle" | "loading" | Reading>("idle");
+  const run = async () => {
+    setState("loading");
+    try {
+      const res = await fetch("/api/read", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ id: articleId }),
+      });
+      setState((await res.json()) as Reading);
+    } catch {
+      setState({ status: "error", message: "読み込みに失敗しました。時間をおいて試してください。" });
+    }
+  };
+  if (state === "idle") {
+    return (
+      <button className="read-ai" onClick={run}>
+        AIで本文を読む
+      </button>
+    );
+  }
+  if (state === "loading") return <p className="read-ai-note" role="status">AIが本文を読んでいます…</p>;
+  if (state.status !== "ok") return <p className="read-ai-note">{state.message}</p>;
+  return (
+    <div className="read-ai-result">
+      <p className="read-ai-ttl">
+        AIが本文を読んだ要約
+        <span className={`tone ${state.tone}`}>本文での論調：{TONE_LABEL[state.tone]}</span>
+      </p>
+      <p>{state.summary_ja}</p>
+      {state.evidence && (
+        <p className="evidence">
+          根拠 <q lang="en">{state.evidence}</q>
+        </p>
+      )}
+    </div>
+  );
+}
+
 function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Outlet; lang: Lang }) {
   const external = article.url.startsWith("http");
   return (
@@ -145,6 +190,7 @@ function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Out
             根拠 <q lang="en">{article.evidence}</q>
           </p>
         )}
+        {external && <ReadWithAI articleId={article.id} />}
         <div className="card-foot">
           <span className="tone-wrap">
             <span className={`tone ${article.tone}`}>{TONE_LABEL[article.tone]}</span>

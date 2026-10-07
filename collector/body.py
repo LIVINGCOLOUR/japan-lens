@@ -46,7 +46,7 @@ def _text(fragment):
 
 
 def _paragraphs(fragment):
-    texts = (_text(p) for p in re.findall(r"<p[^>]*>(.*?)</p>", fragment, re.S))
+    texts = (_text(p) for p in re.findall(r"<p(?:\s[^>]*)?>(.*?)</p>", fragment, re.S))
     return [t for t in texts if len(t) > 30 and not any(b in t for b in _BOILERPLATE)]
 
 
@@ -92,7 +92,7 @@ def _from_arc(raw):
 def _from_all_paragraphs(raw):
     """最後の手段: ページ内の長めの段落をすべて集める（広告や案内文が少し混ざることがある）。"""
     seen, out = set(), []
-    for p in re.findall(r"<p[^>]*>(.*?)</p>", raw, re.S):
+    for p in re.findall(r"<p(?:\s[^>]*)?>(.*?)</p>", raw, re.S):
         t = _text(p)
         if len(t) > 80 and t not in seen and not any(b in t for b in _BOILERPLATE):
             seen.add(t)
