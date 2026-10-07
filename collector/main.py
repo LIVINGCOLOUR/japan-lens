@@ -27,7 +27,7 @@ MIN_OUTLETS = 2
 # 判定の指示を変えたら上げる。上がると、掲載中の出来事をすべて判定し直す
 JUDGE_VERSION = 2
 # 読者が「AIで本文を読む」を押した記事の判定（web/worker/index.ts）。毎日の判定し直しの材料にする
-READINGS_URL = "https://japan-lens.makoto-monda.workers.dev/api/readings"
+READINGS_URL = "https://japan-lens.mon-m.workers.dev/api/readings"
 # 日本の主要媒体の報道を確かめる出来事の数の上限（1回の実行あたり）。残りは次回に回す
 COVERAGE_LIMIT = 20
 # 日本の主要媒体の記事を探す期間。出来事の最初の記事の少し前から、最後の記事の少しあとまで

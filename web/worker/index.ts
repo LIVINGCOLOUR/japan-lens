@@ -22,7 +22,7 @@ interface Env {
 type IndexEntry = { url: string; outlet: string; target: string; event: string };
 
 const USER_AGENT =
-  "JapanLensReader/0.1 (+https://japan-lens.makoto-monda.workers.dev/about; fetches one article only when a reader asks for an AI summary)";
+  "JapanLensReader/0.1 (+https://japan-lens.mon-m.workers.dev/about; fetches one article only when a reader asks for an AI summary)";
 // robots.txt はこの名乗りと Claude-User（人に頼まれて Claude が読む場合の名乗り）の両方で許可されている必要がある
 const ROBOT_AGENTS = ["JapanLensReader", "Claude-User"];
 const MODEL = "claude-haiku-4-5";
