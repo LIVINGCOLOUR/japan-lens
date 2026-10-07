@@ -18,17 +18,8 @@ export default function Home() {
         {feed.source === "sample" && (
           <div className="sample-note">サンプル表示中：媒体名・見出しは架空です。収集処理を動かすと実データに切り替わります</div>
         )}
-        <Link href="/about" className="about-link header-about">このサイトについて</Link>
+        <Link href="/about" className="about-link header-about">このサイトを作った背景を読む →</Link>
       </header>
-
-      <Link href="/about" className="about-banner">
-        <span className="about-banner-kicker">なぜ海外の報道で日本を見るのか</span>
-        <span className="about-banner-title">日本の報道を、そのまま信じにくい理由</span>
-        <span className="about-banner-text">
-          日本の報道の自由度は180か国中62位。誤報や「あえて報じない」こと、外国からの影響を確かめる仕組みがないことをまとめました。
-        </span>
-        <span className="about-banner-cta">このサイトを作った背景を読む →</span>
-      </Link>
 
       <FeedView feed={feed} />
 

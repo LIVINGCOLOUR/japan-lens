@@ -4,7 +4,7 @@ import type { ReactNode } from "react";
 
 export const metadata: Metadata = {
   title: "このサイトについて | Japan Lens",
-  description: "日本の報道をそのまま信じにくい理由と、海外の報道から日本を見るサイトを作った背景。",
+  description: "日本の報道をそのまま信じることのリスクと、海外の報道から日本を見るサイトを作った背景。",
 };
 
 // RSF 2026 日本の項目別の評価。説明は RSF の評価方法（methodology 2026）を要約したもの
@@ -274,7 +274,7 @@ export default function About() {
 
       <article className="about">
         <div className="about-lead">
-          <h2>日本の報道を、そのまま信じにくい理由</h2>
+          <h2>日本の報道をそのまま信じることのリスク</h2>
         </div>
 
         <section>
