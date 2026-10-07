@@ -181,6 +181,18 @@ const SOURCES: { section: string; links: { label: string; url: string }[] }[] = 
     ],
   },
   {
+    section: "事例：IR汚職と外務大臣",
+    links: [
+      { label: "読売新聞：日本の国会議員にＩＲ事業で賄賂か、米司法省が中国企業元ＣＥＯを起訴（2024年11月30日）", url: "https://www.yomiuri.co.jp/world/20241130-OYT1T50153/" },
+      { label: "産経新聞：米で中国企業元幹部起訴、日本の議員に賄賂か かつて授受疑惑の岩屋外相は「断じてない」", url: "https://www.sankei.com/article/20241202-DQPLMG5DRRGW5O3KQW54ZTUBOE/" },
+      { label: "朝日新聞：日本の国会議員にIR事業で贈賄 米司法省、中国企業元CEOを起訴", url: "https://www.asahi.com/articles/ASSCM32GXSCMUHBI019M.html" },
+      { label: "毎日新聞：米、「500ドットコム」元CEOを起訴 日本の国会議員に賄賂提供か", url: "https://mainichi.jp/articles/20241122/k00/00m/030/124000c" },
+      { label: "訪日ラボ：外務省、中国人向けビザ緩和を表明", url: "https://honichi.com/news/2024/12/26/china-visa" },
+      { label: "産経新聞：岩屋外相の中国人ビザ緩和表明、自民から異論 青山氏「議論ゼロ」", url: "https://www.sankei.com/article/20250101-MSFKEGH7ZFEPFOHB3EGRYTMSKQ/" },
+      { label: "読売新聞：中国人のビザ緩和巡り、岩屋外相に自民・中曽根氏らが遺憾の意", url: "https://www.yomiuri.co.jp/politics/20250204-OYT1T50203/" },
+    ],
+  },
+  {
     section: "外国（中国）からの影響",
     links: [
       { label: "WION：米国の新聞にチャイナデイリーが支払った額（FARAの届け出）", url: "https://www.wionews.com/world/us-media-outlets-received-millions-of-dollars-from-china-to-sell-its-propaganda-report-396678" },
@@ -414,6 +426,24 @@ export default function About() {
           <More label="ほかの例を見る">
             <CaseGroups groups={NOT_REPORTED_MORE} />
           </More>
+        </section>
+
+        <section>
+          <h2>事例：IR汚職と外務大臣</h2>
+          <ul className="cases">
+            <li>
+              <span className="case-year">2020年</span>
+              中国企業「500ドットコム」は、カジノを含む統合型リゾート（IR）をめぐる東京地検の捜査で、岩屋毅氏ら5人の国会議員側に100万円ずつ渡したと供述しました。お金を渡した側の会社が、自ら述べたものです。
+            </li>
+            <li>
+              <span className="case-year">2024年11月</span>
+              米司法省が500ドットコムの元CEOを、日本の国会議員への贈賄などの罪で起訴しました。これを報じた全国紙のうち、見出しで岩屋氏を名指ししたのは産経新聞だけでした。
+            </li>
+            <li>
+              <span className="case-year">2024年12月</span>
+              外務大臣となっていた岩屋氏は、自民党内での議論を経ずに、中国人向けのビザ緩和を表明しました。
+            </li>
+          </ul>
         </section>
 
         <section>
