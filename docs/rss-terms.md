@@ -14,3 +14,10 @@
 - NYT 旧RSSページ（アーカイブ）: https://swap.stanford.edu/was/20090818233813mp_/http://www.nytimes.com/services/xml/rss/index.html
 - WSJ RSS ページ（アーカイブ）: https://swap.stanford.edu/was/20170911100823oe_/http://www.wsj.com/public/page/rss_news_and_feeds.html
 - BBC のライセンス拡大の報道: https://en.wikinews.org/wiki/BBC_News_website_expands_RSS_license_terms_to_allow_commercial_use
+
+## 追加した取得元（2026-10-07）
+
+| 取得元 | 使い方 | 確認すること |
+|---|---|---|
+| The Guardian（`/world/japan/rss`） | 見出し・リンク・リード文 | RSS の利用条件（Guardian Open Platform の規約との関係） |
+| Google News の検索 RSS | RSS に日本の記事がほとんど流れない媒体（ドイツ各紙、Times of India、ABC Australia）の記事集め。日本の主要媒体（NHK・全国紙・在京キー局）が報じたかの確認 | Google News の RSS を公開サイトの材料にしてよいか。日本の各社の見出しを表示してよいか |

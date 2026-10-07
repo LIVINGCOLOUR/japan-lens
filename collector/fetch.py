@@ -28,7 +28,7 @@ USER_AGENT = "JapanLensBot/0.1 (+https://github.com/; headline aggregator)"
 # 無関係な記事は AI の段階で relevant=false にする。
 JAPAN_PATTERN = re.compile(
     r"\b("
-    r"Japan|Japanese|Japaner\w*|japanisch\w*|Tokyo|Tokio|Osaka|Kyoto|Okinawa|Hiroshima|Nagasaki|Yokohama|"
+    r"Japan|Japans|Japanese|Japaner\w*|japanisch\w*|Tokyo|Tokio|Osaka|Kyoto|Okinawa|Hiroshima|Nagasaki|Yokohama|"
     r"Bank of Japan|BOJ|yen|Nikkei|Topix|JGBs?|Keidanren|"
     # 首相・閣僚・日銀総裁・主な政治家（見出しには名字だけで出ることが多い）
     r"Takaichi|Ishiba|Kishida|Motegi|Koizumi|Kihara|Katayama|Akazawa|Iwaya|Ueda|Koja|LDP|Komeito|"
@@ -98,6 +98,31 @@ def _parse_news_sitemap(url):
     return entries, None
 
 
+GNEWS_SEARCH = "https://news.google.com/rss/search"
+
+
+def google_news(query, hl="en", gl="US"):
+    """Google News の検索 RSS。見出し末尾の " - 媒体名" を外し、元の媒体のサイトを source に入れて返す。
+    リンクは Google News 経由の URL になる（開くと各媒体の記事に移動する）。"""
+    url = f"{GNEWS_SEARCH}?q={urllib.parse.quote_plus(query)}&hl={hl}&gl={gl}&ceid={gl}:{hl}"
+    try:
+        feed = feedparser.parse(url, agent=USER_AGENT)
+    except Exception as e:
+        return [], f"{type(e).__name__}: {e}"
+    if feed.bozo and not feed.entries:
+        return [], str(feed.bozo_exception)
+    entries = []
+    for e in feed.entries:
+        source = e.get("source") or {}
+        title = _clean(e.get("title"))
+        name = source.get("title")
+        if name and title.endswith(f" - {name}"):
+            title = title[: -len(name) - 3].rstrip()
+        entries.append({"link": e.get("link"), "title": title, "summary": "",
+                        "published": _published(e), "tags": [], "source": source.get("href", "")})
+    return entries, None
+
+
 GT_SEARCH = "https://search.globaltimes.cn/SearchCtrl"
 
 
@@ -131,7 +156,13 @@ def fetch_outlet(outlet, max_age=MAX_AGE, search_pages=2):
     errors = []
     oldest = datetime.now(timezone.utc) - max_age
     for url in outlet["feeds"]:
-        if url.startswith("gtsearch:"):
+        if url.startswith("gnews:"):
+            # "gnews:検索語|言語|国"。RSS に日本の記事がほとんど流れない媒体を、Google News のサイト内検索で補う
+            query, hl, gl = url.split(":", 1)[1].split("|")
+            entries, err = google_news(f"{query} when:{max_age.days}d", hl, gl)
+            if err:
+                errors.append(f"{url}: {err}")
+        elif url.startswith("gtsearch:"):
             entries, err = _parse_gt_search(url.split(":", 1)[1], search_pages)
             if err:
                 errors.append(f"{url}: {err}")

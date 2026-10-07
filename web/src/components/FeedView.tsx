@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { MIN_OUTLETS } from "@/lib/rules";
+import { isGovernment, JAPAN_MAIN_COUNT, MIN_OUTLETS } from "@/lib/rules";
 import type { Article, Feed, NewsEvent, Outlet, Tone } from "@/lib/types";
 
 const TONES: { key: Tone; label: string }[] = [
@@ -20,6 +20,7 @@ const REGION_LABEL: Record<string, string> = {
   TW: "台湾",
   KR: "韓国",
   IN: "インド",
+  AU: "オーストラリア",
   SG: "シンガポール",
   ID: "インドネシア",
 };
@@ -80,6 +81,40 @@ function ToneBar({ articles, target }: { articles: Article[]; target?: string })
   );
 }
 
+/** 国営・政府系の媒体の論調。「海外の見方」の集計には含めず、国ごとに分けて示す */
+function GovernmentTone({ articles, outlets }: { articles: Article[]; outlets: Map<string, Outlet> }) {
+  if (articles.length === 0) return null;
+  const byCountry = new Map<string, Article[]>();
+  for (const a of articles) {
+    const c = outlets.get(a.outlet_id)?.country_code ?? "";
+    byCountry.set(c, [...(byCountry.get(c) ?? []), a]);
+  }
+  return (
+    <div className="gov-tone">
+      <p className="gov-tone-ttl">国営・政府系メディアの論調（上の集計には含めていません）</p>
+      <ul>
+        {[...byCountry].map(([c, list]) => {
+          const names = [...new Set(list.map((a) => outlets.get(a.outlet_id)?.name ?? a.outlet_id))].join("・");
+          const counts = (["crit", "neu", "fav", "none"] as Tone[])
+            .map((t) => ({ t, n: list.filter((a) => a.tone === t).length }))
+            .filter((x) => x.n);
+          return (
+            <li key={c}>
+              <b>{COUNTRY_LABEL[c] ?? c}</b>
+              <span className="gov-tone-names">{names}</span>
+              {counts.map((x) => (
+                <span key={x.t} className={`tone ${x.t}`}>
+                  {TONE_LABEL[x.t]} {x.n}
+                </span>
+              ))}
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  );
+}
+
 function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Outlet; lang: Lang }) {
   const external = article.url.startsWith("http");
   return (
@@ -90,7 +125,7 @@ function ArticleCard({ article, outlet, lang }: { article: Article; outlet?: Out
           <span className="flag" aria-hidden="true">{outlet?.flag}</span>
           <span className="cc">{outlet?.country_code}</span>
           <b>{outlet?.name ?? article.outlet_id}</b>
-          {outlet && <span className="own-tag">{outlet.ownership}</span>}
+          {outlet && <span className={isGovernment(outlet) ? "own-tag gov" : "own-tag"}>{outlet.ownership}</span>}
           {article.kind === "opinion" && <span className="kind-tag">解説・論説</span>}
         </div>
         {article.angle && <p className="angle">切り口：{article.angle}</p>}
@@ -157,6 +192,37 @@ function JapanLinks({ articles, outlets }: { articles: Article[]; outlets: Map<s
   );
 }
 
+/** 日本の主要媒体（NHK・全国紙・在京キー局）がこの出来事を報じたか。「あえて報じない」を見えるようにする */
+function JapanMainCoverage({ ev }: { ev: NewsEvent }) {
+  if (!ev.japan_main_checked_at) return null;
+  const found = ev.japan_main ?? [];
+  if (found.length === 0) {
+    return (
+      <div className="jp-main none">
+        <p className="jp-main-ttl">日本の主要媒体では、この出来事の報道が見つかりませんでした</p>
+        <p className="jp-main-note">
+          NHK・全国紙5紙・在京の民放4局のサイトを検索した結果です。報じていないと断定するものではありません。
+        </p>
+      </div>
+    );
+  }
+  // 媒体ごとに1件ずつ示す
+  const first = new Map<string, (typeof found)[number]>();
+  for (const f of found) if (!first.has(f.outlet)) first.set(f.outlet, f);
+  return (
+    <div className="jp-main">
+      <p className="jp-main-ttl">日本の主要媒体の報道（{JAPAN_MAIN_COUNT}媒体中{first.size}媒体で見つかりました）</p>
+      <div className="jp-main-chips">
+        {[...first.values()].map((f) => (
+          <a key={f.outlet} className="jp-main-chip" href={f.url} target="_blank" rel="noopener noreferrer" title={f.title}>
+            {f.outlet} ↗
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 function Summary({
   ev,
   overseas,
@@ -168,6 +234,8 @@ function Summary({
   japan: Article[];
   outlets: Map<string, Outlet>;
 }) {
+  const independent = overseas.filter((a) => !isGovernment(outlets.get(a.outlet_id)));
+  const government = overseas.filter((a) => isGovernment(outlets.get(a.outlet_id)));
   return (
     <div className="summary-grid">
       <section className="stance japan" aria-label="日本の立場">
@@ -194,11 +262,13 @@ function Summary({
           <p className="stance-empty">日本側の立場を示す報道はまだ集まっていません。</p>
         )}
         <JapanLinks articles={japan} outlets={outlets} />
+        <JapanMainCoverage ev={ev} />
       </section>
       <section className="stance overseas" aria-label="海外の見方">
         <h3>それに対して、海外では</h3>
         {ev.overseas_view_ja ? <p>{ev.overseas_view_ja}</p> : <p className="stance-empty">まとめを作成中です。</p>}
-        <ToneBar articles={overseas} target={ev.target} />
+        <ToneBar articles={independent} target={ev.target} />
+        {ev.target && <GovernmentTone articles={government} outlets={outlets} />}
       </section>
     </div>
   );
@@ -223,6 +293,7 @@ function Coverage({
     byCountry.set(c, [...(byCountry.get(c) ?? []), a]);
   }
   const reported = countries.filter((c) => byCountry.has(c));
+  const govOnly = (list: Article[]) => list.every((a) => isGovernment(outlets.get(a.outlet_id)));
   const silent = countries.filter((c) => !byCountry.has(c));
   const mainTone = (list: Article[]): Tone => {
     const judged = list.filter((a) => a.tone !== "none");
@@ -238,9 +309,17 @@ function Coverage({
       <div className="coverage-row">
         <span className="coverage-lbl">報じた国</span>
         {reported.map((c) => {
-          const t = mainTone(byCountry.get(c)!);
+          const list = byCountry.get(c)!;
+          if (govOnly(list)) {
+            return (
+              <span key={c} className="cov-chip on gov" title={`${COUNTRY_LABEL[c] ?? c}: 国営・政府系の媒体だけが報じています（${list.length}件）`}>
+                {COUNTRY_LABEL[c] ?? c}（政府系のみ）
+              </span>
+            );
+          }
+          const t = mainTone(list.filter((a) => !isGovernment(outlets.get(a.outlet_id))));
           return (
-            <span key={c} className={`cov-chip on ${t}`} title={`${COUNTRY_LABEL[c] ?? c}: ${byCountry.get(c)!.length}件（${TONE_LABEL[t]}が中心）`}>
+            <span key={c} className={`cov-chip on ${t}`} title={`${COUNTRY_LABEL[c] ?? c}: ${list.length}件（${TONE_LABEL[t]}が中心）`}>
               {COUNTRY_LABEL[c] ?? c}
             </span>
           );
@@ -331,16 +410,25 @@ export default function FeedView({ feed }: { feed: Feed }) {
   const [sort, setSort] = useState<Sort>("tone");
   const [lang, setLang] = useState<Lang>("en");
   const [onlyOne, setOnlyOne] = useState(false);
+  const [noJapanMain, setNoJapanMain] = useState(false);
 
   const outlets = useMemo(() => new Map(feed.outlets.map((o) => [o.id, o])), [feed.outlets]);
-  // 地域の絞り込みは海外の媒体だけ（日本の媒体は「日本の報道」タブにまとめる）
+  // 対象にしている海外の国・地域（「報道なし」の表示に使う。日本の媒体は「日本の報道」タブにまとめる）
   const regions = useMemo(
     () => [...new Set(feed.outlets.filter((o) => o.side !== "japan").map((o) => o.region))],
     [feed.outlets],
   );
+  // 地域の絞り込みには、掲載中の出来事に記事がある国・地域だけを出す
+  const activeRegions = useMemo(() => {
+    const used = new Set(feed.events.flatMap((ev) => ev.articles.map((a) => outlets.get(a.outlet_id)?.region)));
+    return regions.filter((r) => used.has(r));
+  }, [feed.events, outlets, regions]);
   const isJapan = (a: Article) => outlets.get(a.outlet_id)?.side === "japan";
+  // 国営・政府系の媒体の記事は、独立した媒体の記事のあとに並べる
+  const govRank = (a: Article) => (isGovernment(outlets.get(a.outlet_id)) ? 1 : 0);
   const order = (x: Article, y: Article) =>
-    sort === "tone" ? TONE_RANK[x.tone] - TONE_RANK[y.tone] : y.published_at.localeCompare(x.published_at);
+    govRank(x) - govRank(y) ||
+    (sort === "tone" ? TONE_RANK[x.tone] - TONE_RANK[y.tone] : y.published_at.localeCompare(x.published_at));
 
   const allEvents = feed.events.map((ev) => {
     const overseas = ev.articles.filter((a) => !isJapan(a)).sort(order);
@@ -349,16 +437,19 @@ export default function FeedView({ feed }: { feed: Feed }) {
     const outletCount = new Set(overseas.map((a) => a.outlet_id)).size;
     return { ev, overseas, japan, countries, outletCount };
   });
-  // 「1か国だけが報じた出来事」だけに絞る
-  const events = onlyOne ? allEvents.filter((e) => e.countries === 1) : allEvents;
+  // 「1か国だけが報じた出来事」「日本の主要媒体で報道が見つからない出来事」だけに絞る
+  const missingInJapan = (e: (typeof allEvents)[number]) => !!e.ev.japan_main_checked_at && (e.ev.japan_main ?? []).length === 0;
+  const events = allEvents.filter((e) => (!onlyOne || e.countries === 1) && (!noJapanMain || missingInJapan(e)));
   const onlyOneCount = allEvents.filter((e) => e.countries === 1).length;
+  const noJapanMainCount = allEvents.filter(missingInJapan).length;
+  const japanMainChecked = allEvents.some((e) => !!e.ev.japan_main_checked_at);
 
   return (
     <>
       <div className="controls">
         <div className="group" role="group" aria-label="地域">
           <span className="lbl">海外の地域</span>
-          {["all", ...regions].map((r) => (
+          {["all", ...activeRegions].map((r) => (
             <button key={r} id={`region-${r}`} className="chip" aria-pressed={region === r} onClick={() => setRegion(r)}>
               {r === "all" ? "すべて" : REGION_LABEL[r] ?? r}
             </button>
@@ -379,6 +470,17 @@ export default function FeedView({ feed }: { feed: Feed }) {
           >
             1か国だけが報じた出来事 {onlyOneCount}
           </button>
+          {japanMainChecked && (
+            <button
+              id="no-japan-main"
+              className="chip"
+              aria-pressed={noJapanMain}
+              onClick={() => setNoJapanMain(!noJapanMain)}
+              title="海外では報じられたが、日本の主要媒体（NHK・全国紙・在京キー局）のサイトで報道が見つからなかった出来事"
+            >
+              日本の主要媒体で報道が見つからない {noJapanMainCount}
+            </button>
+          )}
           <span className="lbl">見出し</span>
           <div className="seg">
             <button id="lang-en" aria-pressed={lang === "en"} onClick={() => setLang("en")}>原文</button>
@@ -404,7 +506,11 @@ export default function FeedView({ feed }: { feed: Feed }) {
 
       <main className="events">
         {events.length === 0 && (
-          <p className="empty">まだ掲載できる出来事がありません。海外の{MIN_OUTLETS}つ以上の媒体が報じた出来事を掲載します。</p>
+          <p className="empty">
+            {noJapanMain || onlyOne
+              ? "条件に合う出来事はありません。"
+              : `まだ掲載できる出来事がありません。海外の${MIN_OUTLETS}つ以上の媒体（うち1つ以上は国営・政府系ではない媒体）が報じた出来事を掲載します。`}
+          </p>
         )}
         {events.map(({ ev, overseas, japan, countries, outletCount }) => (
           <section className="event" key={ev.id}>

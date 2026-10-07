@@ -4,9 +4,10 @@ API の従量課金は使わず、Claude Code の CLI（`claude -p`）をサブ�
 - ローカル: `claude` にログイン済みならそのまま動く
 - GitHub Actions: `claude setup-token` で作ったトークンを CLAUDE_CODE_OAUTH_TOKEN に入れる
 
-処理は2段階。
+処理は3段階。
 1. classify: 未処理の記事を出来事に振り分け、要約・切り口・論調（1件ずつの判定）を付ける
 2. rejudge: 掲載条件を満たした出来事について、全記事を並べて論調を判定し直す
+3. confirm_japan_coverage: 日本の主要媒体の検索結果から、その出来事を報じた記事を選ぶ
 
 判定の材料: 本文を読める媒体（robots.txt で AI を拒否していない媒体。今は CNA）は本文、
 読めない媒体（NYT・BBC は AI を名指しで拒否、WSJ は自動取得を全面拒否）は見出し + RSS のリード文。
@@ -17,6 +18,8 @@ import os
 import shutil
 import subprocess
 import tempfile
+
+from outlets import GOVERNMENT
 
 # 未設定ならサブスクリプションの既定モデル。例: CLAUDE_MODEL=sonnet
 MODEL = os.environ.get("CLAUDE_MODEL")
@@ -128,10 +131,16 @@ target が空の出来事では、全記事 "none" にし、angle だけ書く�
   それぞれの見方は japan_views に分けて書く。どちらか一方の見方を日本の立場として代表させない。
 - 媒体を「右派」「左派」「保守」「リベラル」などの立場の言葉で呼ばない（このサイトは媒体の立場を表示しない方針）。
 - overseas_view_ja: 海外でどう見られているかを3〜4文で。side が "overseas" の記事だけを材料にする。
-  全体の傾向を先に書き、国・地域による違い（例: 米国の媒体は○○を強調、中国の媒体は○○）や、
-  批判的・好意的な見方があればどの媒体かを添える。記事に書かれていないことは足さない。
+  government_affiliated が true の記事は、国営・政府系の媒体（政府の見方を伝える媒体）の記事。
+  全体の傾向は、government_affiliated が false の独立した媒体の記事から書く。国営・政府系の媒体の見方は、
+  最後に「中国の国営メディアは○○と主張している」のように、国営・政府系であることを明記して分けて書く。
+  国営・政府系の媒体の主張を「海外では」「各国の媒体は」のような全体の見方として書かない。
+  国・地域による違い（例: 米国の媒体は○○を強調）や、批判的・好意的な見方があればどの媒体かを添える。
+  記事に書かれていないことは足さない。
 - japan_position_ja と overseas_view_ja には、材料についての説明（「日本の媒体の記事はない」「見出しだけでは分からない」
   「ロイター配信」「今回の材料は○○のみ」など）を書かない。材料の出どころは画面に別に表示する。内容だけを書く。
+- search_ja: 日本の新聞・テレビがこの出来事を報じたかを Google News で調べるための日本語の検索語。
+  出来事を特定できる語を2〜4個、半角スペース区切りで（例: 「日銀 利上げ」「王毅 岩屋 台湾」）。人名は確実に分かる公人だけ漢字にする。
 たとえば「利上げの見通し」の段階で作られた出来事に「利上げを決めた」記事が加わったなら、決定した事実に合わせる。
 書き方の条件は元の見出し・説明と同じ（中立的な一文、複数の媒体が一致して伝えている事実だけ）。
 
@@ -201,6 +210,7 @@ REJUDGE_SCHEMA = {
         },
         "japan_split": {"type": "boolean"},
         "overseas_view_ja": {"type": "string"},
+        "search_ja": {"type": "string"},
         "articles": {
             "type": "array",
             "items": {
@@ -212,7 +222,22 @@ REJUDGE_SCHEMA = {
         },
     },
     "required": ["title_ja", "fact_ja", "japan_position_ja", "japan_basis", "japan_views", "japan_split",
-                 "overseas_view_ja", "articles"],
+                 "overseas_view_ja", "search_ja", "articles"],
+    "additionalProperties": False,
+}
+
+
+CONFIRM_SYSTEM = """あなたは海外メディアの日本報道を比較するニュースサイトの編集者です。
+1つの出来事と、日本の新聞・テレビのサイトを Google News で検索して見つかった記事の見出し（候補）を渡します。
+候補のうち、この出来事そのもの（同じ会談・発表・事件・決定など）を報じている記事の id だけを選んでください。
+- 出来事への反応・論評・社説も、この出来事を扱っていれば含める。
+- テーマが近いだけの別の出来事、検索語が偶然一致しただけの記事は含めない。
+- 見出しだけで同じ出来事か判断できないものは含めない。"""
+
+CONFIRM_SCHEMA = {
+    "type": "object",
+    "properties": {"matches": {"type": "array", "items": {"type": "string"}}},
+    "required": ["matches"],
     "additionalProperties": False,
 }
 
@@ -228,6 +253,7 @@ def available():
 def _article_input(a, outlet_names):
     return {"id": a["id"], "outlet": outlet_names.get(a["outlet_id"], a["outlet_id"]),
             "side": a.get("side", "overseas"),
+            "government_affiliated": a["outlet_id"] in GOVERNMENT,
             "published_at": a["published_at"], "headline": a["title"],
             "lead": a.get("description", ""), "body": a.get("body", "")}
 
@@ -285,3 +311,16 @@ def rejudge(event, articles, outlet_names):
     }
     return _run(REJUDGE_SYSTEM, REJUDGE_SCHEMA,
                 "次の出来事の記事を比べて判定してください。\n\n" + json.dumps(payload, ensure_ascii=False))
+
+
+def confirm_japan_coverage(event, candidates):
+    """日本の主要媒体の検索結果のうち、出来事を報じている候補の id の一覧を返す。"""
+    payload = {
+        "event": {"title_ja": event["title_ja"], "fact_ja": event["fact_ja"],
+                  "first_seen": event["first_seen"], "updated_at": event["updated_at"]},
+        "candidates": [{"id": c["id"], "outlet": c["outlet"], "headline": c["title"],
+                        "published_at": c["published_at"]} for c in candidates],
+    }
+    result = _run(CONFIRM_SYSTEM, CONFIRM_SCHEMA,
+                  "次の候補から、出来事を報じている記事を選んでください。\n\n" + json.dumps(payload, ensure_ascii=False))
+    return [i for i in result["matches"] if isinstance(i, str)]

@@ -6,7 +6,9 @@
 
 import argparse
 import sys
-from datetime import datetime, timezone
+import time
+from datetime import datetime, timedelta, timezone
+from urllib.parse import urlparse
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -14,7 +16,7 @@ from dotenv import load_dotenv
 from ai import available as ai_available
 from body import fetch_body
 from fetch import fetch_outlet
-from outlets import JAPAN_SIDE, OUTLETS, public_outlet
+from outlets import COUNTRY, GOVERNMENT, JAPAN_MAIN_OUTLETS, JAPAN_SIDE, OUTLETS, public_outlet
 from store import LEADS_PATH, STORE_PATH, Leads, Store
 
 BATCH_SIZE = 30
@@ -22,9 +24,35 @@ BATCH_SIZE = 30
 EVENT_WINDOW_DAYS = 30
 # 掲載条件（web/src/lib/rules.ts と同じ値にする）。条件を満たした出来事は記事を並べて判定し直す
 MIN_OUTLETS = 2
+# 判定の指示を変えたら上げる。上がると、掲載中の出来事をすべて判定し直す
+JUDGE_VERSION = 2
+# 日本の主要媒体の報道を確かめる出来事の数の上限（1回の実行あたり）。残りは次回に回す
+COVERAGE_LIMIT = 20
+# 日本の主要媒体の記事を探す期間。出来事の最初の記事の少し前から、最後の記事の少しあとまで
+COVERAGE_BEFORE_DAYS = 2
+COVERAGE_AFTER_DAYS = 4
+# 媒体ごとの検索で AI に見せる候補の数と、検索の間隔
+COVERAGE_PER_OUTLET = 5
+COVERAGE_PAUSE_SECONDS = 0.5
 # 掲載するカテゴリー（web/src/lib/rules.ts と同じ）。これ以外は判定し直さない
 SHOWN_CATEGORIES = {"政治", "外交", "安全保障", "経済政策", "企業・産業", "社会政策",
                     "エネルギー・資源", "科学技術政策", "歴史認識"}
+
+
+def eligible(outlet_ids):
+    """掲載条件: 海外の媒体が MIN_OUTLETS 以上の「声」で報じ、うち1つ以上が独立した媒体であること。
+    同じ国の国営・政府系の媒体はまとめて1つの声と数える（国営メディア2社だけで条件を満たさないように）。
+    日本側の媒体は数えない。web/src/lib/rules.ts の isEligible と同じにする。"""
+    overseas = {i for i in outlet_ids if i not in JAPAN_SIDE}
+    independent = {i for i in overseas if i not in GOVERNMENT}
+    gov_countries = {COUNTRY[i] for i in overseas if i in GOVERNMENT}
+    return bool(independent) and len(independent) + len(gov_countries) >= MIN_OUTLETS
+
+
+def shown(ev, articles):
+    """サイトに掲載される出来事か（カテゴリー・評価の対象・掲載条件）。"""
+    return (ev["category"] in SHOWN_CATEGORIES and bool(ev.get("target"))
+            and eligible({a["outlet_id"] for a in articles}))
 
 
 def collect(store, leads):
@@ -124,14 +152,11 @@ def rejudge_events(store, leads):
     done = 0
     # 期間では絞らない（判定済みで記事が増えていない出来事は下で飛ばすので、毎回の負担は増えない）
     for ev in store.recent_events(days=3650):
-        # 掲載しないカテゴリーと、評価の対象がない出来事は判定し直さない（どちらも画面に出さない）
-        if ev["category"] not in SHOWN_CATEGORIES or not ev.get("target"):
-            continue
         articles = store.articles_of(ev["id"])
-        # 掲載条件は海外の媒体の数で数える（日本側の媒体は数えない）
-        if len({a["outlet_id"] for a in articles if a["outlet_id"] not in JAPAN_SIDE}) < MIN_OUTLETS:
+        # 画面に出さない出来事は判定し直さない
+        if not shown(ev, articles):
             continue
-        if ev.get("judged_count") == len(articles):
+        if ev.get("judged_count") == len(articles) and ev.get("judge_version") == JUDGE_VERSION:
             continue
         try:
             material = _with_material(articles, leads)
@@ -145,12 +170,74 @@ def rejudge_events(store, leads):
                 store.update_article(r["id"], {"summary_ja": r["summary_ja"], **_judgement(r),
                                                **_basis(by_id[r["id"]])})
         store.set_judged(ev["id"], len(articles), {
-            k: result[k] for k in ("title_ja", "fact_ja", "japan_position_ja", "japan_basis",
-                                   "japan_views", "japan_split", "overseas_view_ja")
+            "judge_version": JUDGE_VERSION,
+            **{k: result[k] for k in ("title_ja", "fact_ja", "japan_position_ja", "japan_basis",
+                                      "japan_views", "japan_split", "overseas_view_ja", "search_ja")},
         })
         store.save()
         done += 1
     print(f"  並べて判定し直した出来事 {done} 件")
+
+
+def _outlet_by_host(href):
+    host = urlparse(href).netloc.lower()
+    for o in JAPAN_MAIN_OUTLETS:
+        if host in (o["domain"], "www." + o["domain"]):
+            return o["name"]
+    return None
+
+
+def _japan_candidates(ev):
+    """出来事の検索語で、日本の主要媒体の記事を Google News から探す。
+    全媒体をまとめて1回で検索すると結果が一部の媒体に偏り、報じている媒体を見落とすので、媒体ごとに検索する。"""
+    from fetch import google_news
+
+    first = datetime.fromisoformat(ev["first_seen"]) - timedelta(days=COVERAGE_BEFORE_DAYS)
+    last = datetime.fromisoformat(ev["updated_at"]) + timedelta(days=COVERAGE_AFTER_DAYS)
+    candidates = []
+    for o in JAPAN_MAIN_OUTLETS:
+        query = f"{ev['search_ja']} site:{o['domain']} after:{first:%Y-%m-%d} before:{last:%Y-%m-%d}"
+        entries, err = google_news(query, "ja", "JP")
+        if err:
+            return None, err
+        for e in entries[:COVERAGE_PER_OUTLET]:
+            if e["link"] and _outlet_by_host(e["source"]) == o["name"]:
+                candidates.append({"id": f"c{len(candidates)}", "outlet": o["name"], "title": e["title"],
+                                   "url": e["link"], "published_at": e["published"].isoformat()})
+        time.sleep(COVERAGE_PAUSE_SECONDS)
+    return candidates, None
+
+
+def check_japan_coverage(store):
+    """掲載中の出来事について、日本の主要媒体（NHK・全国紙・在京キー局）が報じたかを確かめる。
+    「あえて報じない」ことを見えるようにするため。記事が増えた出来事だけ確かめ直す。"""
+    from ai import AIError, confirm_japan_coverage
+
+    done = 0
+    for ev in store.recent_events(EVENT_WINDOW_DAYS):
+        if done >= COVERAGE_LIMIT:
+            break
+        articles = store.articles_of(ev["id"])
+        if not shown(ev, articles) or not ev.get("search_ja"):
+            continue
+        if ev.get("japan_main_count") == len(articles):
+            continue
+        candidates, err = _japan_candidates(ev)
+        if err:
+            print(f"  日本の主要媒体の検索に失敗しました: {err}", file=sys.stderr)
+            continue
+        try:
+            matched = set(confirm_japan_coverage(ev, candidates)) if candidates else set()
+        except AIError as e:
+            print(f"  日本の主要媒体の確認を中断しました: {e}", file=sys.stderr)
+            break
+        found = [{k: c[k] for k in ("outlet", "title", "url", "published_at")}
+                 for c in candidates if c["id"] in matched]
+        store.update_event(ev["id"], {"japan_main": found, "japan_main_count": len(articles),
+                                      "japan_main_checked_at": datetime.now(timezone.utc).isoformat()})
+        store.save()
+        done += 1
+    print(f"  日本の主要媒体の報道を確かめた出来事 {done} 件")
 
 
 def main():
@@ -170,6 +257,7 @@ def main():
             print("  claude コマンドが見つからないため AI 処理をスキップしました", file=sys.stderr)
         elif process(store, leads):
             rejudge_events(store, leads)
+            check_japan_coverage(store)
     finally:
         store.save()
         leads.save()

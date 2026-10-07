@@ -38,6 +38,8 @@ export type NewsEvent = {
   japan_views?: { outlet: string; view_ja: string }[]; // 日本の媒体ごとの伝え方
   japan_split?: boolean; // 日本の媒体どうしで見方が食い違っているか
   overseas_view_ja?: string; // 海外の見方のまとめ
+  japan_main?: { outlet: string; title: string; url: string; published_at: string }[]; // 日本の主要媒体で見つかった記事
+  japan_main_checked_at?: string; // 日本の主要媒体の報道を確かめた日時。なければ未確認
   first_seen: string;
   updated_at: string;
   articles: Article[];

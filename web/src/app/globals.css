@@ -951,3 +951,128 @@ footer {
   display: grid;
   gap: 4px;
 }
+
+.header-about {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--accent);
+}
+.about-banner {
+  display: grid;
+  gap: 6px;
+  margin-top: 16px;
+  padding: 18px 20px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--crit);
+  border-radius: 6px;
+  box-shadow: var(--shadow);
+  color: var(--ink);
+}
+.about-banner:hover {
+  text-decoration: none;
+  border-color: var(--crit);
+}
+.about-banner-kicker {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  color: var(--crit);
+  font-weight: 500;
+}
+.about-banner-title {
+  font-family: var(--display);
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.4;
+}
+.about-banner-text {
+  font-size: 14px;
+  color: var(--muted);
+  max-width: 65ch;
+}
+.about-banner-cta {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--accent);
+}
+.about-banner:hover .about-banner-cta {
+  text-decoration: underline;
+}
+@media (max-width: 480px) {
+  .about-banner-title {
+    font-size: 19px;
+  }
+}
+
+.own-tag.gov {
+  color: var(--crit);
+  border-color: var(--crit);
+  font-weight: 500;
+}
+.cov-chip.on.gov {
+  background: var(--surface);
+  border-style: dashed;
+  border-color: var(--crit);
+  color: var(--crit);
+}
+.gov-tone {
+  display: grid;
+  gap: 4px;
+  border-top: 1px dashed var(--line);
+  padding-top: 8px;
+}
+.gov-tone-ttl {
+  font-size: 12px !important;
+  color: var(--muted);
+}
+.gov-tone ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 4px;
+  font-size: 12px;
+}
+.gov-tone li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 8px;
+}
+.gov-tone li b {
+  font-weight: 500;
+}
+.gov-tone-names {
+  color: var(--muted);
+}
+.jp-main {
+  border-top: 1px solid var(--line);
+  padding-top: 8px;
+  display: grid;
+  gap: 4px;
+}
+.jp-main-ttl {
+  font-size: 12px !important;
+  color: var(--muted);
+}
+.jp-main.none .jp-main-ttl {
+  color: var(--crit);
+  font-weight: 500;
+  font-size: 13px !important;
+}
+.jp-main-note {
+  font-size: 12px !important;
+  color: var(--muted);
+}
+.jp-main-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 6px;
+}
+.jp-main-chip {
+  font-size: 12px;
+  padding: 1px 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  white-space: nowrap;
+}

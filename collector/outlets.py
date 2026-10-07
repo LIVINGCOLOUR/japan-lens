@@ -7,6 +7,9 @@ lean は媒体選定のバランス確認用の内部データで、サイトに
 公開用のデータ（web/data/store.json）には書き出さないこと。
 """
 
+# ドイツ語の媒体の Google News 検索。本文に「Japan」が出るだけの記事が多いので、見出しに含むものに絞る
+DE_QUERY = "(intitle:Japan OR intitle:Japans OR intitle:Tokio OR intitle:japanische OR intitle:japanischen OR intitle:Takaichi)"
+
 OUTLETS = [
     {
         "id": "nyt",
@@ -112,6 +115,8 @@ OUTLETS += [
             "https://www.welt.de/feeds/section/politik/ausland.rss",
             "https://www.welt.de/feeds/section/wirtschaft.rss",
             "https://www.welt.de/sitemaps/newssitemap/newssitemap.xml",
+            # 部門別のフィードには日本の記事がほとんど流れないので、Google News のサイト内検索でも拾う（以下同様）
+            f"gnews:{DE_QUERY} site:welt.de|de|DE",
         ],
         "read_body": True,
         "lean": 1,
@@ -124,7 +129,7 @@ OUTLETS += [
         "region": "DE",
         "ownership": "協同組合",
         "homepage": "https://taz.de",
-        "feeds": ["https://taz.de/rss.xml", "https://taz.de/sitemap-google-news.xml"],
+        "feeds": ["https://taz.de/rss.xml", "https://taz.de/sitemap-google-news.xml", f"gnews:{DE_QUERY} site:taz.de|de|DE"],
         "read_body": True,
         "lean": -2,
     },
@@ -139,6 +144,7 @@ OUTLETS += [
         "feeds": [
             "https://www.tagesschau.de/ausland/asien/index~rss2.xml",
             "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+            f"gnews:{DE_QUERY} site:tagesschau.de|de|DE",
         ],
         # robots.txt が ClaudeBot を拒否しているので本文は読まない（見出しで判定）
         "read_body": False,
@@ -199,6 +205,7 @@ OUTLETS += [
         "feeds": [
             "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
             "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+            "gnews:Japan site:timesofindia.indiatimes.com|en|IN",
         ],
         "read_body": True,
         "lean": 0,
@@ -269,6 +276,59 @@ OUTLETS += [
 
 OUTLETS += [
     {
+        "id": "guardian",
+        "name": "The Guardian",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "GB",
+        "ownership": "民間",
+        "homepage": "https://www.theguardian.com",
+        # 日本の記事だけを集めたフィード
+        "feeds": ["https://www.theguardian.com/world/japan/rss"],
+        "read_body": False,
+        "lean": -1,
+    },
+    {
+        "id": "sz",
+        "name": "Süddeutsche Zeitung",
+        "country_code": "DE",
+        "flag": "🇩🇪",
+        "region": "DE",
+        "ownership": "民間",
+        "homepage": "https://www.sueddeutsche.de",
+        "feeds": [f"gnews:{DE_QUERY} site:sueddeutsche.de|de|DE"],
+        "read_body": False,
+        "lean": -1,
+    },
+    {
+        "id": "faz",
+        "name": "Frankfurter Allgemeine Zeitung",
+        "country_code": "DE",
+        "flag": "🇩🇪",
+        "region": "DE",
+        "ownership": "民間",
+        "homepage": "https://www.faz.net",
+        "feeds": [f"gnews:{DE_QUERY} site:faz.net|de|DE"],
+        "read_body": False,
+        "lean": 1,
+    },
+    {
+        "id": "abc",
+        "name": "ABC News (Australia)",
+        "country_code": "AU",
+        "flag": "🇦🇺",
+        "region": "AU",
+        "ownership": "公共放送",
+        "homepage": "https://www.abc.net.au/news",
+        # 公式の RSS は総合のものしかなく日本の記事がほとんど流れないので、Google News のサイト内検索を使う
+        "feeds": ["gnews:Japan site:abc.net.au|en|AU"],
+        "read_body": False,
+        "lean": 0,
+    },
+]
+
+OUTLETS += [
+    {
         "id": "japantimes",
         "name": "The Japan Times",
         "country_code": "JP",
@@ -305,6 +365,26 @@ for _o in OUTLETS:
 
 PUBLIC_FIELDS = ("id", "name", "country_code", "flag", "region", "ownership", "homepage", "side")
 JAPAN_SIDE = {o["id"] for o in OUTLETS if o["side"] == "japan"}
+# 国や政府が運営・出資する媒体。政府の見方を伝える材料として載せるが、「海外の見方」の論調の集計と
+# 掲載条件では独立した媒体と同じには数えない（同じ国の政府系の媒体はまとめて1つと数える）
+GOVERNMENT_OWNERSHIP = ("国営", "政府系")
+GOVERNMENT = {o["id"] for o in OUTLETS if o["ownership"] in GOVERNMENT_OWNERSHIP}
+COUNTRY = {o["id"]: o["country_code"] for o in OUTLETS}
+
+# 日本の主要媒体。出来事ごとに、これらが報じたかを Google News の検索で確かめる。
+# 論調の判定には使わず、見つかった記事の見出しとリンクだけを表示する
+JAPAN_MAIN_OUTLETS = [
+    {"name": "NHK", "domain": "news.web.nhk"},
+    {"name": "朝日新聞", "domain": "asahi.com"},
+    {"name": "読売新聞", "domain": "yomiuri.co.jp"},
+    {"name": "毎日新聞", "domain": "mainichi.jp"},
+    {"name": "産経新聞", "domain": "sankei.com"},
+    {"name": "日本経済新聞", "domain": "nikkei.com"},
+    {"name": "日本テレビ", "domain": "news.ntv.co.jp"},
+    {"name": "TBS", "domain": "newsdig.tbs.co.jp"},
+    {"name": "テレビ朝日", "domain": "news.tv-asahi.co.jp"},
+    {"name": "フジテレビ", "domain": "fnn.jp"},
+]
 
 
 def public_outlet(outlet):

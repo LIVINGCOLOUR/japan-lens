@@ -146,6 +146,12 @@ class Store:
                 e.update(judged_count=count, **fields)
                 return
 
+    def update_event(self, event_id, fields):
+        for e in self.data["events"]:
+            if e["id"] == event_id:
+                e.update(fields)
+                return
+
     def touch_event(self, event_id, published_at):
         for e in self.data["events"]:
             if e["id"] == event_id:
