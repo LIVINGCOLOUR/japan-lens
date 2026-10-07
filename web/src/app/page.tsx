@@ -1,3 +1,4 @@
+import Link from "next/link";
 import FeedView from "@/components/FeedView";
 import { getFeed } from "@/lib/data";
 import { MIN_OUTLETS } from "@/lib/rules";
@@ -17,6 +18,7 @@ export default function Home() {
         {feed.source === "sample" && (
           <div className="sample-note">サンプル表示中：媒体名・見出しは架空です。収集処理を動かすと実データに切り替わります</div>
         )}
+        <Link href="/about" className="about-link">このサイトについて</Link>
       </header>
 
       <FeedView feed={feed} />

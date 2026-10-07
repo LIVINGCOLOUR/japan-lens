@@ -693,3 +693,261 @@ footer {
     font-size: 19px;
   }
 }
+
+.about-link {
+  font-size: 13px;
+  color: var(--muted);
+  margin-left: auto;
+}
+.about-link:hover {
+  color: var(--accent);
+}
+.home-link {
+  color: inherit;
+}
+.home-link:hover {
+  text-decoration: none;
+}
+
+.about {
+  display: grid;
+  gap: 40px;
+  margin-top: 28px;
+  max-width: 760px;
+}
+.about section {
+  display: grid;
+  gap: 12px;
+  min-width: 0;
+}
+.about-lead h2 {
+  font-family: var(--display);
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 1.4;
+  margin: 0;
+  text-wrap: balance;
+}
+.about h2 {
+  font-family: var(--display);
+  font-size: 20px;
+  margin: 0;
+}
+.about h3 {
+  font-family: var(--display);
+  font-size: 17px;
+  margin: 16px 0 0;
+}
+.about h4 {
+  font-size: 14px;
+  margin: 0;
+}
+.about p {
+  margin: 0;
+  max-width: 65ch;
+}
+.about-emph {
+  font-weight: 500;
+  border-left: 3px solid var(--crit);
+  padding-left: 12px;
+}
+
+.about-table-wrap {
+  overflow-x: auto;
+}
+.about-table {
+  border-collapse: collapse;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  width: 100%;
+}
+.about-table caption {
+  caption-side: top;
+  text-align: left;
+  font-size: 12px;
+  color: var(--muted);
+  padding-bottom: 6px;
+}
+.about-table th,
+.about-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+.about-table thead th {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--muted);
+}
+.about-table tbody th {
+  font-weight: 500;
+  white-space: nowrap;
+}
+.about-table tbody tr:last-child > * {
+  border-bottom: 0;
+}
+.about-table.indicators td:last-child,
+.about-table.years td {
+  text-align: right;
+  font-family: var(--mono);
+  white-space: nowrap;
+}
+.about-table.indicators .desc {
+  font-size: 13px;
+  color: var(--muted);
+}
+.about-table tr.weak th,
+.about-table tr.weak td:last-child {
+  color: var(--crit);
+}
+
+.vbar {
+  margin: 4px 0 0;
+  display: grid;
+  gap: 8px;
+}
+.vbar figcaption {
+  font-size: 12px;
+  color: var(--muted);
+}
+.vbar-plot {
+  display: grid;
+  grid-template-columns: repeat(15, minmax(0, 1fr));
+  gap: 2px;
+  align-items: start;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  padding: 12px 8px 10px;
+}
+.vbar-col {
+  display: grid;
+  grid-template-rows: 180px auto;
+  justify-items: center;
+  gap: 4px;
+  min-width: 0;
+}
+.vbar-val {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink);
+}
+.vbar-track {
+  width: 100%;
+  max-width: 28px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 2px;
+  border-bottom: 1px solid var(--line);
+}
+.vbar-fill {
+  display: block;
+  width: 100%;
+  background: var(--crit);
+  border-radius: 4px 4px 0 0;
+}
+.vbar-col:hover .vbar-fill {
+  opacity: 0.8;
+}
+.vbar-name {
+  writing-mode: vertical-rl;
+  font-size: 12px;
+  color: var(--ink);
+  line-height: 1.2;
+  white-space: nowrap;
+}
+.vbar-unit {
+  font-size: 12px !important;
+  color: var(--muted);
+}
+
+.cases {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+.cases li {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 10px 14px;
+  font-size: 14px;
+}
+.case-year {
+  display: block;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--accent);
+  margin-bottom: 2px;
+}
+.case-groups {
+  display: grid;
+  gap: 18px;
+}
+.case-group {
+  display: grid;
+  gap: 8px;
+}
+.plain {
+  margin: 0;
+  padding-left: 1.2em;
+  display: grid;
+  gap: 8px;
+  max-width: 65ch;
+}
+
+.more {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.more summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 10px 0;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--accent);
+}
+.more summary::-webkit-details-marker {
+  display: none;
+}
+.more summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 8px;
+  transition: transform 0.15s;
+}
+.more[open] summary::before {
+  transform: rotate(90deg);
+}
+.more summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.more-body {
+  display: grid;
+  gap: 12px;
+  padding-bottom: 16px;
+}
+.more-sub {
+  margin-top: 8px !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  .more summary::before {
+    transition: none;
+  }
+}
+.about-sources ul {
+  margin: 0;
+  padding-left: 1.2em;
+  font-size: 13px;
+  display: grid;
+  gap: 4px;
+}
