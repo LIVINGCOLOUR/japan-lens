@@ -3274,12 +3274,42 @@
   {
    "id": "85a24e3f-bc83-41e0-9ddb-7b24e286d5f3",
    "title_ja": "日米韓が北極海協力の覚書締結を準備と報道",
-   "fact_ja": "読売新聞によると、日米韓は北極海の海洋協力とエネルギー供給拡大に関する覚書を準備しており、国連総会の際にニューヨークで3カ国の外相が署名する見通し。",
+   "fact_ja": "読売新聞によると、日米韓は北極海の海洋協力とエネルギー供給拡大に関する覚書を準備しており、国連総会の際にニューヨークで3カ国の外相が署名する見通し。作業部会の設置も盛り込まれる。",
    "category": "外交",
    "target": "日本の北極海協力への参加",
-   "judged_count": 0,
+   "judged_count": 2,
    "first_seen": "2026-09-20T04:00:00+00:00",
-   "updated_at": "2026-09-20T04:00:00+00:00"
+   "updated_at": "2026-10-08T04:50:00+00:00",
+   "judge_version": 2,
+   "read_count": 0,
+   "japan_position_ja": "読売新聞の報道として、日米韓は北極海の海洋協力とエネルギー供給拡大を3カ国の経済安全保障に不可欠と位置づける覚書を準備している。茂木外相、ルビオ米国務長官、趙顕韓国外相が国連総会の際にニューヨークで署名する見通しで、日本は砕氷船建造の技術や海洋観測の能力を生かす構想とされる。",
+   "japan_basis": "overseas_reports",
+   "japan_views": [],
+   "japan_split": false,
+   "overseas_view_ja": "独立系のFrankfurter Allgemeine Zeitungは、見出しで米国と日本、韓国が北極での協力を計画していると伝えるのみで、本文がなく評価は分からない。中国の国営・政府系メディアGlobal Timesは、この構想が地政学的・安全保障上の競争を招きかねないと報じた。同紙は中国人専門家の話として、中ロ協力に対抗する意図があり、北極を競争の場にしかねないと主張している。",
+   "search_ja": "日米韓 北極 覚書 外相",
+   "japan_main": [
+    {
+     "outlet": "読売新聞",
+     "title": "北極圏での海洋協力と経済連携、日米韓で覚書締結へ調整…航路・資源巡り中露を警戒",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rRFJMTHRtUWotV3Q5RlY5aXlXZ1J1OGVhNFNsdmE3dmUxMFllRHZrdHZGeFlKRWh4WVI4QUtPa0lvQ1VxdVhiLU15M2JCUWxqN0VSS0pITVFkOUlMSE5qMjNR?oc=5",
+     "published_at": "2026-09-20T07:00:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "日米韓 経済威圧に反対 外相会談 中国念頭 北極圏協力 覚書見送り",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkdnMzcFFrdnJzeFR2RmZtVWFaSnpDZzdzX05TUkdWTHhoUzlwbWVsN1c4cVplN0IxZVQ4SnBZaG1JVGg0YjcxT1VieGhZeDBoSlhwczlGZlNES1U5V2JTNXppd2dQZw?oc=5",
+     "published_at": "2026-09-23T07:00:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "首相官邸 : 北極圏での海洋協力と経済連携、日米韓で覚書締結へ調整…航路・資源巡り中露を警戒：写真",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsU0dUSVlEMmNqUDBJY1o3UG1SaExjYW42dEp5ZkJnRGJFTlA1NUd4VzhIa3BwdGowUEtrRFZjdmFUVkpHaVdMVUt3bTh0elRpVTJ6V3U5YzNaYjF3RUN1S1lMLU5ONnFxSXc?oc=5",
+     "published_at": "2026-09-20T07:00:00+00:00"
+    }
+   ],
+   "japan_main_count": 2,
+   "japan_main_checked_at": "2026-10-11T00:16:31.408559+00:00"
   },
   {
    "id": "c0d0673f-3af0-41c5-86e7-26b6a032b0c7",
@@ -3573,7 +3603,7 @@
    "target": "小泉防衛相の核をめぐる発言",
    "judged_count": 2,
    "first_seen": "2026-09-30T00:49:16+00:00",
-   "updated_at": "2026-10-09T17:32:00+00:00",
+   "updated_at": "2026-10-10T14:52:00+00:00",
    "japan_position_ja": "小泉防衛相は9月28日、安全保障3文書の改定にあたり、核保有や原子力潜水艦をめぐる議論を排除せず、タブーや結論ありきでなく行うべきだと述べた。議論すら許されないという空気は自身の危機感とは合わないとの趣旨を語った。なお高市首相は2月に非核三原則の堅持を改めて示している。",
    "japan_basis": "overseas_reports",
    "japan_views": [],
@@ -6043,7 +6073,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-10-06T11:09:05+00:00",
-   "updated_at": "2026-10-06T11:52:00+00:00"
+   "updated_at": "2026-10-10T17:29:00+00:00"
   },
   {
    "id": "5abf6c30-027d-4dfb-8945-e519fbd6e189",
@@ -6322,30 +6352,30 @@
   },
   {
    "id": "9d6e2902-e105-488f-b56b-88866c1873c2",
-   "title_ja": "公取委がビール大手4社に立ち入り検査",
-   "fact_ja": "公正取引委員会は10月7日、卸売業者への販売価格をめぐり価格カルテルの疑いがあるとして、アサヒ、キリン、サッポロ、サントリーの4社に立ち入り検査を行った。4社は調査に全面協力するとしている。",
+   "title_ja": "公取委がビール大手4社に立ち入り検査、価格カルテルの疑い",
+   "fact_ja": "公正取引委員会は10月7日、卸売業者向けのビール販売価格をめぐり価格カルテルの疑いがあるとして、アサヒ、キリン、サッポロ、サントリーの4社に立ち入り検査を行った。4社は全面協力するとしている。その後、一部の幹部が調査で談合を認めたとも報じられた。",
    "category": "企業・産業",
    "target": "ビール大手4社の価格調整疑い",
-   "judged_count": 8,
+   "judged_count": 9,
    "first_seen": "2026-10-07T03:29:53+00:00",
-   "updated_at": "2026-10-08T13:30:00+00:00",
+   "updated_at": "2026-10-10T00:59:00+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "公取委は独占禁止法違反の疑いで4社に強制調査に入った。4社は調査に全面協力するとしている。違反が認められれば課徴金や再発防止の命令などの対象になりうる。",
+   "japan_position_ja": "公取委は独占禁止法違反の疑いで4社に強制調査を行った。4社は調査に全面協力するとしている。日本の媒体は、消費者への影響が大きい可能性や、一部の幹部が調査で関与を認めたとの関係者情報を伝えている。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "年1兆円超の市場で消費者に影響しうる疑いとして、強制調査の意味や課徴金などの制裁を説明している。"
+     "view_ja": "年間1兆円超の市場で消費者に影響しうる重大案件として報道。続報では、一部の幹部が調査で談合を認め、トップも値上げ交渉の内容を知っていた可能性があると伝えた。"
     },
     {
      "outlet": "JAPAN Forward",
-     "view_ja": "調査を伝えつつ、酒税改正で税率が統一され、各社が新ジャンル商品をビールへ切り替え競う市場背景を詳しく伝えている。"
+     "view_ja": "立ち入り検査を、10月の酒税改正で市場が変わる中での出来事として紹介。ブランドや市場での地位を守る圧力が背景にあった可能性に触れ、各社の新商品戦略を詳しく説明している。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "独立系の海外媒体は、4社で国内市場の9割超を占める大手への捜索として淡々と報じている。ガーディアンは消費者が割高な価格を払わされた可能性を指摘し、ストレーツ・タイムズ（AFP配信）は関係者の話として、各社が定期的に会合して値上げの時期を話し合っていたとみられると伝え、6月のアイス大手の調査にも触れた。BBCとABCは見出し中心で事実を伝えている。シンガポール政府系とされるCNAは、株価が約4%下落したことや、刑事告発の可能性があるとの関係者の話を伝えている。",
-   "search_ja": "公取委 ビール 立ち入り検査 カルテル",
+   "overseas_view_ja": "海外の独立系媒体は、国内市場の9割超を占める4社への立ち入り検査として淡々と報じている。ストレーツ・タイムズは、匿名の関係者の話として、各社が定期的に会い値上げの時期を話し合っていた疑いと、6月のアイスクリーム大手への調査に続く動きだと伝えた。ガーディアンは、消費者が高い価格を払わされた可能性があるとの報道を紹介した。BBCとABCは見出し中心で、価格カルテルや値上げの疑いを伝えている。シンガポールの政府系とされるCNAは、株価が4%近く下落したことや刑事告発の可能性を報じた。",
+   "search_ja": "公取委 ビール4社 立ち入り検査 カルテル",
    "japan_main": [
     {
      "outlet": "NHK",
@@ -6361,15 +6391,21 @@
     },
     {
      "outlet": "朝日新聞",
+     "title": "【社説】ビール大手のカルテル疑惑 価格調整は消費者への背信行為だ",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcTYyZmgyS3lSQnhMNWhCX3p1aTFTYmZHUmQ5d1JqZVR2UFcwM0FzanJkcTRTQlpsQ0UxUWJGUnlmLW94MkNha2ZqcndoWkx3NnVSRzFGTEpRRzR0SjlLVk0ySmVqRE0?oc=5",
+     "published_at": "2026-10-09T10:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
      "title": "ビール価格を調整した疑惑 消費者や店「説明を」「うわさは耳に」",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wUUl5QXRNWFdHN0VMZWJGclNQWUZEdzBZTGo1QmF3bEpKR3Qzbnc2MElLRU1XUWlNSlNEYnlVU2V0ZnJoTEh5ci1pYnhJeS1pNlJCcE9WSHh6dUFYeGEyMlJ6UzBod1E?oc=5",
      "published_at": "2026-10-07T08:26:07+00:00"
     },
     {
      "outlet": "朝日新聞",
-     "title": "ビール出荷は右肩下がり、減税の矢先カルテル容疑 「商機」に冷や水",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmtSVWJyaElaUkQ2NS12LUtWQzhJR0FkY1lFYU0wTTlNTDZ0S001MDVRX1hORXhpNkxPREg1bUFXb0lZNFBhY0hMZmN3VlRwYzRWSkxZTVNPZlJFUjAyRXIyUVVocS11T0RsZF9xVTZ3azlaOVV2cVdVczRleFkzdUhWZ2NpTUU?oc=5",
-     "published_at": "2026-10-07T01:45:00+00:00"
+     "title": "（社説）ビールのカルテル 消費者への背信行為だ",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9id3lKdDJUUzhNYUxkVmYwdlg1YUlSTF81cFlKSkpXWTQyeW1XYnF1c1VFOTNZWGMtVXNZTGloVjFxcEszaEdFSm1wNlNfU1VOc0xMTGtpVkpVdEN6?oc=5",
+     "published_at": "2026-10-09T20:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
@@ -6396,10 +6432,10 @@
      "published_at": "2026-10-08T02:03:39+00:00"
     },
     {
-     "outlet": "日本経済新聞",
-     "title": "サントリー、酒類取引で独禁法違反の疑い 公取委の検査を発表",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jUnA1MWgzVTBOU29ybzhPZVNrQ0RQZXgwTm1DNXZ0Zk1zMWN3OFZsaENUMVNlNnZKZnRBeUU0ZElZN2VhN2JTNGdPZ3dYaWpKUl84TmN5Z1dCM2lJT0MxVl9yaXY0ZUl0M0ZrZw?oc=5",
-     "published_at": "2026-10-07T01:24:14+00:00"
+     "outlet": "産経新聞",
+     "title": "＜主張＞ビール・カルテル 法令の軽視に啞然とする 社説",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfWnhBelFDamh6MUs0NFZjanFqVnUzSmVqSkd6bGtsSXJ2dllOQTc0WFFjMTFsRDdvMjdhQ04yNW82OUdaWnAtdHQwbmFxbVZiRHU0NkFOLVJYcUpPbjB0bHJhcnpBX0I3Rk8tYVlTcUFJVnF4M1E?oc=5",
+     "published_at": "2026-10-09T20:01:00+00:00"
     },
     {
      "outlet": "日本経済新聞",
@@ -6420,26 +6456,44 @@
      "published_at": "2026-10-07T04:50:00+00:00"
     },
     {
+     "outlet": "TBS",
+     "title": "ビール大手4社カルテル疑い 一部の社が価格調整を認める 公取委の調査に 4社の地方支店や社員らの自宅なども強制調査",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10ZmEyMDVwVjBSekl1RHdoQ0dickZEWE4wYlJ2bjA4V0ZDWVcwYUNFSUd1UjM4bWswSVZQYW53SWdKWXc5eWRhMEZLcTNPZUNlbVVpTHZPZw?oc=5",
+     "published_at": "2026-10-09T02:54:49+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【更新中】ビールで価格カルテルか 独占禁止法違反の疑いで大手ビールメーカー4社を公取委が強制調査…検察への告発も視野 大手4社は“全面的に協力” 数年前から価格調整か",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RTExhQUkzVGMzTU9jWmVQTnJ6eURjdG5rVDhXbmRxTDE0OGV5MEY0LTI5RmRsU211OXRyX0ZXTXp5SlhCeFlpVnFVWTRUVGg1U0Y4MmRSanNGRHUtejl1Ynd0TUNPSTEtQ3d4dklTRVBNdw?oc=5",
+     "published_at": "2026-10-10T01:00:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "缶ビール卸売価格表を独自入手 「一斉値上げ、思い返すと変」 大手4社カルテルか",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qa3JRWUJQWUtpNGlqTWUyUkFublp3MVc2cDN0V1ItN2p1Skp4Zi01eGRUTXBnYXVxaUl2ZUw1VFlUQjB0MkNnVm56bjFoWDhMUTNOdDcteHB6NHVKcjRWbmFFQWNiS0wwNm5TZEJGVGx1dw?oc=5",
+     "published_at": "2026-10-08T03:31:00+00:00"
+    },
+    {
      "outlet": "テレビ朝日",
      "title": "公取委の強制調査受け ビール各社コメント発表",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04UklSeDVKLXFLM2JVcW1tbUtXeURvNE1jQzJnX0FJRk44WDFSanZTd2E3cDVLY2NZS1VJT1NJbWVPOGhEV1dCeXVZemNYVjI1aW9mX19hRHFmZFVlVHJYN0MxZU1BOVFFTkQ4c1ppYlNfUQ?oc=5",
      "published_at": "2026-10-07T02:53:37+00:00"
     },
     {
-     "outlet": "テレビ朝日",
-     "title": "公取がビール大手4社へのカルテル調査を認める 他業種にも未然防止するよう注意喚起",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aTzJ2dG9LRktnc2hVME1ScGFlQ25Yc1M5SDI5UGt6cXY5cU5wblFrSmljYWQtMXZkYkoweUZDZlNXNENIS2pkS3F1R3hiZk5ua2ExNDRfWXpRbGxNX2g0NnhBV21PRVlMcU8xeFNiMFJydw?oc=5",
-     "published_at": "2026-10-07T09:35:20+00:00"
+     "outlet": "フジテレビ",
+     "title": "ビール大手4社カルテル疑惑 卸売業者「40年前から価格は横並び」実態証言 過去に「カルテルではないか」と複数回指摘",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iOF9NYmlJNl9sM282SlFaNk5ITk82Yzlhd1gtTGZjQ241TGlaYUVVRVNOc2xKZlhpVUs1RmxSSF9iLXpjSG83aTd6cXQtUQ?oc=5",
+     "published_at": "2026-10-10T09:20:00+00:00"
     },
     {
-     "outlet": "テレビ朝日",
-     "title": "【速報中】ビールで価格カルテルか 独占禁止法違反の疑いで大手ビールメーカー4社を公取委が強制調査…検察への告発も視野 大手4社は“全面的に協力” 数年前から価格調整か",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RTExhQUkzVGMzTU9jWmVQTnJ6eURjdG5rVDhXbmRxTDE0OGV5MEY0LTI5RmRsU211OXRyX0ZXTXp5SlhCeFlpVnFVWTRUVGg1U0Y4MmRSanNGRHUtejl1Ynd0TUNPSTEtQ3d4dklTRVBNdw?oc=5",
-     "published_at": "2026-10-08T03:00:00+00:00"
+     "outlet": "フジテレビ",
+     "title": "「事実無根」卸売に疑惑否定 ビール大手4社 価格カルテルの疑い",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qRzdlVDhXMVk0VVJjVkxvYWVmQzJSUGJzS00tSGduaHFKVFJqX2dSWkFRN3RjZks3U3RLVlFkOFpWeVVRV19lUEVsSzQzaTFL?oc=5",
+     "published_at": "2026-10-09T07:55:00+00:00"
     }
    ],
-   "japan_main_count": 8,
-   "japan_main_checked_at": "2026-10-09T01:18:41.004102+00:00"
+   "japan_main_count": 9,
+   "japan_main_checked_at": "2026-10-11T00:16:42.048162+00:00"
   },
   {
    "id": "fb2f2763-06c0-48e3-85b3-67dfbb30eda9",
@@ -6463,13 +6517,144 @@
   },
   {
    "id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "title_ja": "日本企業で相次ぐサイバー攻撃と情報流出",
-   "fact_ja": "大和証券など複数の日本企業が今週、不正アクセスや情報流出の可能性を公表した。",
+   "title_ja": "日本企業で相次ぐサイバー攻撃と大規模な情報流出",
+   "fact_ja": "大和証券、ローソン、JR東日本など多数の日本企業が、不正アクセスやランサムウェア攻撃による情報流出の可能性を相次いで公表した。政府は関係省庁の会合を開き、企業に対策を促す方針。",
    "category": "企業・産業",
    "target": "日本企業の情報管理",
-   "judged_count": 0,
+   "judged_count": 7,
    "first_seen": "2026-10-07T04:13:00+00:00",
-   "updated_at": "2026-10-09T08:51:00+00:00"
+   "updated_at": "2026-10-10T01:31:00+00:00",
+   "judge_version": 2,
+   "read_count": 0,
+   "japan_position_ja": "政府は古川大臣のもとで関係省庁の会合を開き、システムの脆弱性対策と流出情報の悪用防止を企業に促す方針を示した。国のサイバー担当部局も企業に注意喚起を出す予定。",
+   "japan_basis": "japanese_media",
+   "japan_views": [
+    {
+     "outlet": "The Japan Times",
+     "view_ja": "被害が業種を超えて広がり、数百万件規模の個人情報が危険にさらされていると、事例を重ねて伝える。AIで攻撃の敷居が下がり、今年は企業の流出が異例に多い年になりかねないという専門家の警告も紹介している。"
+    }
+   ],
+   "japan_split": false,
+   "overseas_view_ja": "独立系のストレーツ・タイムズは、日本の被害の広がりを具体的な数字で伝えている。警察庁によるとランサムウェア集団Qilinに53社が狙われたという。また、AIが技術力の低い犯罪者の敷居を下げているとして、日本は「絨毯爆撃」を受けているという専門家の声を載せた。韓国の銀行への攻撃と並べ、日韓共通の脅威として描く。シンガポール政府系とされるCNAも、同じ配信記事で同様の見方を伝えている。",
+   "search_ja": "サイバー攻撃 情報流出 大和証券 ローソン",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "“詐欺師は名前と住所を正確に言ってきた” 情報流出リスクは",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsbXg3eGVoMWZTRXRwYWc2YjJ3b3JvaGRsNXhxTkRUc3BpdmRSbHR2SlN3WjJtd1gtNk9jTGJLd2RaeTZfQ2xnOE1XTEtwZ3lGWTRWOU1QSVQwZHpFRlRR?oc=5",
+     "published_at": "2026-10-10T09:59:04+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "【まとめてわかる】相次ぐ個人情報流出 いま何が起きている？ [不正アクセス]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14Szc4R2dySVlZTzR1S1hqbG9fdDNoendtUkZuS1pwYmlVTnRudGpDQ2lIX29sa1pYblQyaFZJTjUxeU5Ma09wXzIwaG83SXhiSWs5OEFoMTFub0p5aWRvZW1mT05tdkk?oc=5",
+     "published_at": "2026-10-10T03:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧 [不正アクセス]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ajlveG9nT0RrOE9aV244bjFuaTN6WWdqVTBvT2RodFFpQXM1Y0RONTd5QS11NHM3MXE5bGlfbFg4ZFRyQU9YZmp2OGFlclhUcEp0TF9hTVNCMV9CT0JXemhnTXZudWc?oc=5",
+     "published_at": "2026-10-08T13:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "【随時更新】個人情報の流出が相次ぐ 漏洩の恐れがあった企業一覧",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiVFY5MFcwTHZndk4wbGVVR0FuUldaMnNsOTlMTjE3MFcxWndLR2l6b2VsWHBPQjdGLVNfcDExRGNtcXpVMl9ySmFTMVJqUHItZGE4bWlMMkNKMVFkV1dCMXlDUkR4amRBdGJlNThFel9ZQlphVnkwWGZZdzBJZw?oc=5",
+     "published_at": "2026-10-08T13:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "岩手銀や四国銀、損保ジャパンでも情報漏洩か 関係先に不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1ZIZUxkdVRYYXc4VWY2RGVFV0lUSmhmLUwtbzVnTEFlbHV0RlM3V1QzWXlXNFlDdTZFTEQ3WXBQTkM4UzBSeUY2UzE1OTF4R3FMVWRlU2REc3RZZjZPQlRyV2IyMERndjZGc21NRnJiUTI4R3o5RHliVG9iMUwwUVlYb1hPeGl3YU1rTlZiRnZXcDQ?oc=5",
+     "published_at": "2026-10-08T13:07:16+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "サイバー攻撃で個人情報などの流出が判明した企業・団体の一覧",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KbV80VkdHNVhFRlFkT1ljclpGbnhseGYzUXZQRXJ4a1JpVjVldC1pcjVQTkZpdnRjZlZaSk5RUUtpMWZ6X01wNFU0UXNKbm1PVTFKNE55bUVtR1QxaUJubFk3Njd2Zw?oc=5",
+     "published_at": "2026-10-09T11:31:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "サイバー攻撃",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10aWFrQ2tMVjVtMkVBOUE5RVNMbzNuc1hPVXNmZDhCcE1RN1JpOW5yUDBwLWtUaVRBVmxtMTYzb3JSejFoZ0tuM2tpR0lUajJUZFNBVTFpR08weXRTUURjdFd4bHFMbW5R?oc=5",
+     "published_at": "2026-10-10T07:00:00+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "相次ぐ不正アクセス、企業や政府機関でも情報漏洩 AI悪用の影に「一刻の猶予もない」",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DbTNlVjhRbld1UnJZYVRPcUxmdkJqQ0RlWDB5WlBVUENlQjZXcS1aSXpwZXE0WnVCeG5XckYwMWp4aGNCN0sxRU1fVEp5OFp0ZTg0UGc4ak5vNEMtbGs1dlhvSjd0X01NZWdoM2FzMTdfX2lxNWc?oc=5",
+     "published_at": "2026-10-05T09:15:37+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "「いきなり増えた」専門家が指摘するサイバー攻撃の新手法 焼肉きんぐ1080万件など相次ぐ情報漏洩、AIが悪用されている可能性【なるほどッ！】（2026年10月6日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xVERSdnJaemtQZFh4UjRHSlhxS284dlIxY3RTdU1yNEVPNmNmZV9VdUpuZjBuUU0xM0xJNi1fRzg2RkVCLWtXRlJhUURQRW9vbTdEVzVXcV9QZnJhX3NmNGs5Z1llZXJHYlNlQV9IZmhCVXZIMHRsRm5TWlI?oc=5",
+     "published_at": "2026-10-06T12:32:00+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "「焼き肉きんぐ」に不正アクセス 公式アプリ利用者の個人情報1000万件以上漏えい",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hM0o3T2Izbko0MHRlQU94TEJDMmVSSFlqX3lCTFdrUlhnY1I0N21XYWtyaHBhNFctejlJMktKSG1xNWxxS1ZoRDdyTkNwWnVQYnJ1dVpIa09Yb2RoaWVFMm1xcHF0RHFHUUE1aXpaVm95U1FuU3pzRW5lVlo?oc=5",
+     "published_at": "2026-10-05T10:00:00+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "不正アクセスで情報漏洩相次ぎ…金融庁と経産省が企業に注意喚起発出（2026年10月9日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94VnJuWVFZTVo4VmJMbmd0MHV5T0YzZkQ2S3poVjRrY3hTNGk0MmROc0E5bGVGTi00VnJHMTZGdmNvNzE2ZzF5ZjBLb3BoX3MxMnV4YXJ5RTVaMXRFOXhvTXdWamJOMzZFUjB4SHFnT01NVGVZVG5nM1RiTUk?oc=5",
+     "published_at": "2026-10-09T07:08:00+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "不正アクセス「シチズン」約10万人分の個人情報漏えいか 「焼肉きんぐ」も…漏えい相次ぐ",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04U1owa0JGcjNZdDJGQ3VwQUtVekNPZWJlMmUzc1NOaUk3cjFzU2R5QjdJYVd4dFNOTndJdFpGR3d1QUVBT2I4S3dWeGNsMjA0M0U3QjF4WGttTnI3bGtJdXc0ZW51MUZLeWduTml2cEN3YWUyQ2sxWHVlUEk?oc=5",
+     "published_at": "2026-10-06T21:44:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "「焼肉きんぐ」へ不正アクセス 約1079万件の個人情報が流出 防御措置もアプリ登録者ほぼ全てのメールアドレスや電話番号などが流出する",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3eW9TNGpoeE5zOUM2X2RhSDdYb29YSFFjR19KVWIxQ2dWY052T1hfeGNhSUY2YmZ5T3VWS3VDUmdoQjJmdG9lNExQZUUyd21yVHNKVUxOXy1pZWFvYWRxaDl6YS1tMGR0aTI1QzJSTC1wQVFY?oc=5",
+     "published_at": "2026-10-05T10:09:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "【サイバー攻撃】クラウドサービスへの攻撃からの影響、495の企業や自治体に 新たにローソンでも215万件情報漏えい【news23】",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNTTczS1NCbkJ0OFptZkxFQV9MTzR1QmI3LWNUWlR3ZVpBWnZUS0V6cGdmYmlvMks3OWJDUnY4SkQxNnd2aGpZTEFQMU5PRUROemkzVU95S2RIRU5jTVg4?oc=5",
+     "published_at": "2026-10-09T03:04:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "カラオケの第一興商で872万件情報流出の恐れ ローソンでも215万件確認",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWWFIWHMwbnFYNm9zRmh3NTZtOHozaVNUR3FFbU1ZUkdRZFFtZjZ2dHRoMkM1Z2VoSXlrcnQwdTJRYzd1dzVkdmlaQk9tcl9vX24zc1llMlRoeXNPcmtNUkNWcUpaNGlVMXhGVEMzRnpiZw?oc=5",
+     "published_at": "2026-10-09T02:34:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【更新中】“サイバー空間の有事” JR東グループ「えきねっと」など600万件の情報漏洩か スカイチケットで1464万件…一部パスワードも流出 ブックオフ、GMO、タイムズカーも＜不正アクセス＞",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+     "published_at": "2026-10-10T00:00:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "急増するサイバー攻撃 情報漏洩相次ぐ",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+     "published_at": "2026-10-10T23:12:57+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "企業からの個人情報流出5000万件以上 相次ぐ被害に不安の声 AI進化でサイバー攻撃大規模化 専門家「日本企業は備えに遅れ」",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91eW5BWE5sVy1FZ2dKb2JTb1BxdE1EcFVCMnF5THNLV04tOXZIdVBkQjR6V2RHdi1qZVV0OW1mMnZDeUZqc1lqMmxPZVhuUmx4ZExEeXppVXJzSEtzNjBz?oc=5",
+     "published_at": "2026-10-09T11:04:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "「生成AIは言語の壁越える」サイバー攻撃大規模化で企業からの“情報漏洩”5000万件超に 「ビューカード」も被害",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sNHpMc0FLYmRwTUxNeVNCOWxBbjhsM1NtWERwOWZwajlTaUF1dGQ1dDNXWE8xaDYycHlKWkM4V21EdDFPc3NYamtlWHZ0Zw?oc=5",
+     "published_at": "2026-10-09T08:47:00+00:00"
+    }
+   ],
+   "japan_main_count": 7,
+   "japan_main_checked_at": "2026-10-11T00:16:52.852811+00:00"
   },
   {
    "id": "0aa07668-fed8-4cfe-9544-f7e40414c676",
@@ -6921,9 +7106,135 @@
    "fact_ja": "ロシア検察当局がオランダに対し、赤根智子ICC所長ら9人の引き渡しを要請し、日本政府は遺憾の意を示した。",
    "category": "外交",
    "target": "ロシアの引き渡し要請に対する日本政府の対応",
-   "judged_count": 0,
+   "judged_count": 2,
    "first_seen": "2026-10-09T05:30:01+00:00",
-   "updated_at": "2026-10-09T10:26:00+00:00"
+   "updated_at": "2026-10-09T10:26:00+00:00",
+   "judge_version": 2,
+   "read_count": 0,
+   "japan_position_ja": "日本政府の高官は、ICC関係者個人を標的にする措置は不当で受け入れられないとこれまでロシア側に繰り返し伝えてきたと説明した。それにもかかわらずロシアが各国に引き渡しを要請したことを遺憾だとしている。",
+   "japan_basis": "overseas_reports",
+   "japan_views": [],
+   "japan_split": false,
+   "overseas_view_ja": "SCMPは、日本政府が怒りを示したと伝え、赤根所長が米国からも標的にされている点にも触れている。タイムズ・オブ・インディアは、日本国籍の所長をめぐり、プーチン氏の逮捕状に絡んで日本が抗議したと報じた。いずれも日本政府の抗議を中心に据えている。",
+   "search_ja": "ロシア ICC 赤根所長 引き渡し 遺憾",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "ロシア ICC赤根所長らの身柄引き渡しをオランダなどに要請",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpM2ZUYWluWFhZMjlnb2dLVnh4S0ozdC1EdW16WElYSlNvRWVodktHYm1paGdzVzNjdHRrSXcwS0hNdF83Q2ttZ0ZRLXlqcmFTSk9JZl9zZXRBdXlydElB?oc=5",
+     "published_at": "2026-10-08T22:10:44+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "尾崎正直官房副長官「不当な措置」 ロシアのICC赤根所長ら身柄引き渡し要請に遺憾表明",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CNTNRYXR1cWlkZ3NyMEM4dVpfd1NPT2lzZWEyWVJhVFdfZlk3Z09ZeWJrZExGU1NrVUtMTTdyOEhQRnN5Z0JGU0I0MkxWM0V3cXgzVG5zXzJXbzF1dDdpa3Fpd2xHU0NTaUxRZ3Y0UzFPWlpsSkE?oc=5",
+     "published_at": "2026-10-09T02:14:26+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "ロシア最高検、ICC赤根所長らの身柄引き渡しを要請 オランダ政府は拒否の見通し",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGT2p1WHppaW1yMGUzbE52Unl0Sm4tbXYwRjVHNjlwcWd1a1ZMaUJyM0NUYWdoZzVfYjlVcGdhSUlyWXZoUlplZktFZHpqODVCRG5vZGRuMVIyRE5OeEkzUnFrNUJFb01rNlVhUlRlTWJMT0dJWmc?oc=5",
+     "published_at": "2026-10-08T15:39:06+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "記者会見する尾崎官房副長官＝10月9日午前、首相官邸",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3oyMGNfWXA3a3RSUWJwYkNTT2NFSWRHZjZ6Z3NIVmNrc1lqYVNYekY5LV9PbUEza2ZXbzM5ejFORTFGNUotNDJkYWlxM3VDQ0NVU1hjd3RyYkt5UGNlRnlaRFVMY3NtMlRqdHV2aWYwQlNxSHRrRVZxSzQ3NVU0R1NfeTFOSTcxZzhlVWstZ2hhUmxtQWFxRjN6a3R6UGk3aEE?oc=5",
+     "published_at": "2026-10-09T02:14:26+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "ロシアがICC赤根智子所長らの身柄引き渡し要求 米に歩調合わせ揺さぶり図る狙いか",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HY1ptQnlDdWpBVDl2eXpGLVRtc0ZKN1VmVHdMbFk3Rms4aXBFZlg4VWs1cE5JdGNOZEthTUZ3WHQ3MmZJUjAzRXJrdXMxSXh1ZjUxMms2enEwaXJva3llaHpZU1h1dnc4T3Q5Ym5ZOGljazI3Qnc?oc=5",
+     "published_at": "2026-10-08T22:47:03+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "ICCの赤根智子所長",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUjBfOURpTlNZQTI1ZDdsXzlMbUFjTXoxOXlORnRDbHdlSkpzNG00aVV0NERBRmJhYmphQlRmWE4zUm51dWg4THZhaXZWRHhaY2wyV2o0SUZNaHA4SlZLSDNVNUt2bENpekVlUkdzTVlOdWw0QVhicFBic2p4aEo5UWVSTTVUdlBwWDVBdVBKeU1GdkNPU1JPSUJxTFN4Rk1PSkE?oc=5",
+     "published_at": "2026-10-08T15:39:06+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ロシア、ICC赤根所長らの引き渡しを要請 オランダや「複数の国」に",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10N3NDdTNXNHo3Q1h0UFliY0FZR1ZENy1HSEo5QnM0U2NoSTdUVXNwTlJSRkZiZlctVlZQUXEyZ1NuaWlmdE5Xem04blFxUjVEUXAwUFJNTnlYRUY4aDV4MjBoM3lteGg4RWwzYw?oc=5",
+     "published_at": "2026-10-08T13:10:25+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "尾崎官房副長官「不当で遺憾」 ロシアのICC所長ら引き渡し要請",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUjlIdGlGSjM4OFkwNlJaT05HcEVQSmduU3g5ZDNSMlIzLXJMWDQyTUtWOWhDb1ZEU2U3djBpNmRWZ1RuWllwOHZYbmptcUw1UkJRYjYyelp2eldUTHRfcmoyVWRhTmFzXzJfSg?oc=5",
+     "published_at": "2026-10-09T03:03:24+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "ロシア最高検察庁 ICCの赤根智子所長ら9人の身柄引き渡しを要請 オランダなど複数の国に対し（2026年10月8日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3NscUhyejJNemEwY3FUb3hOMXMtQ2JNenhyRGl5S0E5TG8tTWUxbEVKSzFkVklodFRRaDhkcTVHZEtJbkJudFdDVU5lWUQya053YmxVbC1aTTFPVklFTEdEWHM2QkcwZFRBQzFYa3RsaWttS3pPeUZZQS10eElxbkRySko?oc=5",
+     "published_at": "2026-10-08T14:42:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "尾崎副長官「遺憾だ」ロシア最高検察庁によるICC赤根所長ら身柄引き渡し要請を受けて",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXZ0tidHhJTjBQYWJOTU9DSGxxZ25aRnNPdnBRN1NYUktGbzZyd212b2VIcU1TRnJlWG1ub3FPamctN2pMSF9ZT3cwVTV0OHd4a0pWWWd3TQ?oc=5",
+     "published_at": "2026-10-09T04:44:32+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ノーベル平和賞きょう発表へ ICC受賞なるか ロシアが赤根智子所長らの身柄引き渡し要求 米トランプ政権も制裁など圧力強める",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Kbm5NQzJxS3V1OFZiS0g3Q29pWm5zX3RnWW1USEdZUXZGRkJPOThwZmV3ZGY3MHpPYUNPTWZVX2MzTkdwaGlQZmtmc1J3alpDaDN1dm80WlBuMnVVREIwRE9iUGRvZk85cXE2MG9QampTLTlr?oc=5",
+     "published_at": "2026-10-09T08:28:41+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ICC赤根所長らの身柄引き渡しをオランダなどに要求 ロシア最高検察庁「法的根拠ないにもかかわらず、違法な逮捕状を発行」",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kS3BLSWkzNmljTU9IcldrRHhTLXhBOEpWcTJncEV6NFo5N213eHBscHBZZGRQTm54VXNQUThiNERReV83S0FrMmgxUjFYVlpVWE5neVYtNA?oc=5",
+     "published_at": "2026-10-08T13:32:24+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "ロシア“平和賞候補”ICC赤根所長を引き渡し要請",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WmJrNl9mcVhYOV96M2pwQTNRU3BBaU9EUkFBWjhBTjItV01vT3hCYnNvXzI1YnduQkxrWThFMTNhVDNlNHdMNTRxaDdJWkY3YlVudHlHVFpTVWZrZ3BNVzNQUTdhNm5CS1Vhb2U3RkcxaFJ6WmV3cW5B?oc=5",
+     "published_at": "2026-10-09T08:30:47+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "政府「遺憾」ロシアのICC赤根所長ら引き渡し要請",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BU2JrYlg3WHZlY3RRVmszb1BkbFZxODVfei1tbXhPWU5BWlp4bVZvaERKTmpSWlVFbjVmamo1VlNBeHJMb19DeHhNMnV0dXpZSHFiV3FlQjNuY0JQdE9fRzk2MmJ1R2VxNW1UZVp3SnZxdGs?oc=5",
+     "published_at": "2026-10-09T03:36:58+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "ロシア ICC赤根所長らの身柄引き渡し要求 去年12月には“欠席裁判”で有罪判決",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYVpzS05aNDlTZ3o2YTVldzFtNjVrRF9mcW5fTDBydW5ISGxGa3hoVlVIY2NhTmx2OFA0ZUJGUFRmOTlNejJxd2l3NzFFczlibHZoeHlhOFdlNWw3MkdtdG96UXl0UWdqRlhKQUNKVnl6OFdDUkNqMEx3?oc=5",
+     "published_at": "2026-10-08T13:34:08+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "日本政府はロシア側に遺憾表明 赤根智子所長の身柄引き渡し要請に これまでもICC関係者への措置不当と申し入れ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GZi1CZi1aYXFON21NZk5EMzdUclNSbk9Rb3QwQ3NPa3pGOWhneTJhZm1aMWt1eEIyb25pTFdCc2QyMFJmU19JSEl2MldWUQ?oc=5",
+     "published_at": "2026-10-09T03:22:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "赤根智子所長ら9人の身柄引き渡し要請 ロシアが国際刑事裁判所本部あるオランダなどに プーチン大統領への逮捕状に反発",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqWThDLW1NQ1U5MjJvNjFHZEhsTFgzRWtHWUtZSVlLUW9KaUtRX25RR2tTWGVMbFR6cHF6VV80bXhyR3laNkhyZlJMOElvdw?oc=5",
+     "published_at": "2026-10-09T03:05:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "ロシア ICC赤根所長ら身柄要請 プーチン氏逮捕状に対抗",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DZEpZN0NMZXJGbDJYQ00wMTBjaXhXNDBEOXVCWTdMdmtoemR3TTBnMVFPNk9ydzdmY2pORVJvUUtkbW0wdGFtWFNmVnZPQQ?oc=5",
+     "published_at": "2026-10-08T21:11:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "ロシアが赤根所長らの身柄要求 ICC本部があるオランダなどに",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RV05hY0Jyd1AzSjVTSjZUUlNPT1RqdlNMU2Z4SUJOLUE4dV9qeHhOdVVEZDNmS2JqVmFqZUw0aUJSNjhLalA1T0RXZnU4QQ?oc=5",
+     "published_at": "2026-10-08T15:25:00+00:00"
+    }
+   ],
+   "japan_main_count": 2,
+   "japan_main_checked_at": "2026-10-11T00:17:06.295885+00:00"
   },
   {
    "id": "7980fef8-0433-4503-9964-bfd97cdfac1f",
@@ -6943,7 +7254,7 @@
    "target": "高市政権の食料品消費税減税法案",
    "judged_count": 0,
    "first_seen": "2026-10-09T06:29:00+00:00",
-   "updated_at": "2026-10-09T14:45:00+00:00"
+   "updated_at": "2026-10-10T01:02:00+00:00"
   },
   {
    "id": "74112f37-f388-4c04-89aa-27dac0ccafa5",
@@ -7073,7 +7384,179 @@
    "target": "米国のICC制裁への日本政府の対応",
    "judged_count": 0,
    "first_seen": "2026-10-09T22:02:00+00:00",
-   "updated_at": "2026-10-09T22:02:00+00:00"
+   "updated_at": "2026-10-10T04:29:00+00:00"
+  },
+  {
+   "id": "77a8bdb1-e8f5-4418-8d09-73fa7ed18dc1",
+   "title_ja": "長野の醸造所が水と交互に飲む「ぐらぐら」ビールグラスを発売",
+   "fact_ja": "長野県の醸造会社がビールと水の釣り合いで傾くU字型のグラスを8月から販売している。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T01:57:45+00:00",
+   "updated_at": "2026-10-10T01:57:45+00:00"
+  },
+  {
+   "id": "8efe1590-03d2-409d-bf93-4336d0709516",
+   "title_ja": "中国海警局が尖閣周辺の海域で巡視を実施したと発表",
+   "fact_ja": "中国海警局は10月10日、釣魚島（尖閣諸島）周辺の海域で巡視を行ったと発表した。",
+   "category": "安全保障",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T02:18:01+00:00",
+   "updated_at": "2026-10-10T18:32:00+00:00"
+  },
+  {
+   "id": "505a40f6-fecc-404c-8f7d-da1ec797490d",
+   "title_ja": "JR九州の熊本地震被災区間が全線復旧",
+   "fact_ja": "7月28日の熊本県の地震から74日後の10月10日、JR九州の宇土〜八代間が運転を再開した。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T03:15:00+00:00",
+   "updated_at": "2026-10-10T03:15:00+00:00"
+  },
+  {
+   "id": "9d1c5677-e896-4b9d-a72f-bac5fba0a331",
+   "title_ja": "ドイツが英伊日の次期戦闘機GCAPへの参加を検討",
+   "fact_ja": "ドイツ政府は英国から参加への前向きな見方を伝えられ、GCAP参加を検討している。",
+   "category": "安全保障",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T05:02:00+00:00",
+   "updated_at": "2026-10-10T05:02:00+00:00"
+  },
+  {
+   "id": "cbbdfdf8-e7d1-4d42-b6f0-b58d9b8db8d6",
+   "title_ja": "ドイツ人筆者が日本の14日間旅行ルートを紹介",
+   "fact_ja": "京都在住の筆者が14日間の日本旅行ルートを紹介した。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T06:36:34.539000+00:00",
+   "updated_at": "2026-10-10T06:36:34.539000+00:00"
+  },
+  {
+   "id": "85373f17-e30a-4322-a9a9-b3a91dab6df3",
+   "title_ja": "安倍昭恵氏がインドでRSS幹部と会談",
+   "fact_ja": "安倍元首相の妻の昭恵氏がRSSの幹部ホサバレ氏と会った。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T11:30:00+00:00",
+   "updated_at": "2026-10-10T11:30:00+00:00"
+  },
+  {
+   "id": "9f6b6da8-7911-4da0-85d7-a01d40bf1376",
+   "title_ja": "大阪府の祭りでだんじり転倒、2人死亡",
+   "fact_ja": "大阪府の泉佐野市と泉大津市の祭りでだんじりが転倒し、男性2人が死亡、多数が負傷した。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T11:44:40+00:00",
+   "updated_at": "2026-10-10T13:28:00+00:00"
+  },
+  {
+   "id": "de7da2b2-61c1-4a22-be1d-b57bb80a88a6",
+   "title_ja": "シンガポールの歴史家が日本の戦時の罪を忘れてはならないと発言",
+   "fact_ja": "シンガポールの歴史家が日本の戦時中の行為を忘れてはならないと語った。",
+   "category": "歴史認識",
+   "target": "日本の戦争加害への向き合い方",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T15:10:00+00:00",
+   "updated_at": "2026-10-10T15:10:00+00:00"
+  },
+  {
+   "id": "84a36b02-e58a-4ed1-9db9-8e7ee2f4fa2f",
+   "title_ja": "ルビオ米国務長官が茂木外相と電話、沖縄の女性殺害事件で弔意と捜査協力を表明",
+   "fact_ja": "ルビオ米国務長官が10月10日、茂木外相と電話で会談し、沖縄で米海兵隊員が殺害容疑で逮捕された事件について弔意を伝え、日本側の捜査に全面協力する意向を示した。ICC制裁やG20外相会合も話題になった。",
+   "category": "外交",
+   "target": "米国の沖縄殺人事件への対応",
+   "judged_count": 3,
+   "first_seen": "2026-10-10T18:54:25+00:00",
+   "updated_at": "2026-10-10T21:14:00+00:00",
+   "judge_version": 2,
+   "read_count": 0,
+   "japan_position_ja": "",
+   "japan_basis": "none",
+   "japan_views": [],
+   "japan_split": false,
+   "overseas_view_ja": "ストレーツ・タイムズが掲載したロイターとAFPの記事は、ルビオ長官の弔意と捜査協力の表明を国務省の発表に沿って淡々と伝えている。ロイター配信は抗議や米軍の夜間外出禁止、規律研修など米側の対応も添える。AFP配信は、事件が日本で怒りを呼び、米軍関連の犯罪が日米関係の悩みの種になってきたと背景を説明する。国営・政府系の中国のCGTNは見出しで電話会談を伝えるが本文はなく、見方は分からない。",
+   "search_ja": "ルビオ 茂木 電話会談 沖縄 殺人",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UUDdzTTJnc1lacV8wamlBNVdVakpEdklhQnlnVm95QUtFQlZxMEZfUkpEbm4wTTJ2eExoNUpNeHZKbUtjdkVDa21uNk5HaGd4c1Z4UG4ya3ZwaE5Mc0dF?oc=5",
+     "published_at": "2026-10-10T14:41:05+00:00"
+    },
+    {
+     "outlet": "NHK",
+     "title": "米 ルビオ国務長官 茂木外相にICC制裁の必要性を伝達",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mOEZwUjRRUW5EVXluazgyRWRsbDdhYmNab0sxdzF0YkF5RlI5Nm9MV0dIYk41dktIdnlicGUxcVZIN09pOXZNMDBVRHRMdVZza3EyLVJHakgwY3dBYzM0?oc=5",
+     "published_at": "2026-10-10T20:08:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "茂木外相、ルビオ国務長官との電話会談で沖縄の強盗殺人事件に「遺憾の意」…再発防止措置への協議を確認",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Skc2bkh1c0x1UUFmOFJ6dFB4NEUyWURhSUpRRlJkZ1hEX3ZhRGd3bzhqT25SQUZ0MWNKV2ltbFBIN0FObVNGTnJoQWdON1hDUE14b2JSM25Mb19ONWpSazNWa3NEQQ?oc=5",
+     "published_at": "2026-10-10T15:40:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "米国のＩＣＣ制裁措置で茂木外相、赤根所長・ルビオ国務長官と電話会談…ＩＣＣ支持と米が問題視する課題を協議か",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XRmEwTk9XOEVuSXg0VFhNQ3pVRWszUk8wUnY1YkNiV2dYbngtYkVidl9uZkZDU29JczVuSFF2YzlzcEhreC13UjNnTWVZSXk3alF2dFUwbVFZOUp4eWtBd1RuZTFrUQ?oc=5",
+     "published_at": "2026-10-10T13:50:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ルビオ米国務長官、電話会談で茂木外相にＩＣＣ制裁の必要性を説明「ならず者による行動の結果」",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EOVlEc292N29pelhEZWRmVmNhdFNMUm50UXZETVpQNjlKdjVNUWJrMU15eVJhcFRkb2F3UEFEZDk1dFpxa21MaVBSTHU5V2ROY3NmY1hFZXVhcHZmSnNRUDZB?oc=5",
+     "published_at": "2026-10-10T22:03:00+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "茂木外相がICC赤根所長、ルビオ米国務長官と相次いで電話会談 米側には日本の立場伝達",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9heDBNWE9DU3NXaW5wNWJtXzdvVmlhbmdsbHNyU1Y5U21reGlFQklJODFCYnRwdkI3bDluSUUtOU90bUhwVE9mUzZIOHo5aWJtWGN4OHg5Y29KM3JneTk0NEp1MDNwMGx0U2w0WnBJWUtiUktfR1E?oc=5",
+     "published_at": "2026-10-10T13:59:21+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "茂木外相、ICC赤根所長・米国務長官と相次ぎ電話 日本の立場伝達",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtS3d1Z05BNmM5T1ZHMFdjMl8tM0RrNi04LW92cnRZTEFnLUo4TW53ZldaTGk4eUU5NkszQVhkTEdCYmNDY2s3aTVMdGdwUzJfejRvcU1RZjZTb2F4SVZHTTNBSUR1aDRzeFE3eA?oc=5",
+     "published_at": "2026-10-10T13:52:51+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "茂木外相、ICCの赤根所長らと相次ぎ電話会談 トランプ政権のICC本体への“制裁”受け",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9leEhjN3FBem1mVmdZVVNuZG5OXzlfUGdGSVJtVjNaMDM3d2ttS1R3LURJWDFDeGt5NE5MUk96cFA0S0FpZWc0MUlpaHFXR1VuRTdWSDN6VlZlWmp6ZUV2eFVTLXVzeGhUWUFTVUtGQVhXRkVpSmpCaUp1U0tyUQ?oc=5",
+     "published_at": "2026-10-10T14:54:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "茂木外務大臣 アメリカのICC制裁めぐり赤根所長・ルビオ国務長官と電話会談",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tMjZlWnIwdUdJYkNhVVRvbURDTGQ3S2ItYk1hQXU4WEZTNW53VExNUFFyQ0RYc2NCTVZpQTJ6X3NvaVRhT2ZMUEpKNXBobDJtalh5Qmh1YkRLa3d3N1AxT1lRaVI?oc=5",
+     "published_at": "2026-10-10T19:12:24+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "茂木外務大臣が電話で… 赤根ICC所長とルビオ米国務長官と会談",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXZThlUkNtTm5SX3VFbnk3a2RZN2NGSk1qUHRqRFZPX20xQlV0Ymp6N3ZiUDViY1ZHYlZKcFI4cG1maDZiN3VBNDl0ckNEdUN1VTJQYmhlakNnNzRsYjF3SGhjNDZQaEt1dWlob05idU9TbHc?oc=5",
+     "published_at": "2026-10-10T21:29:08+00:00"
+    }
+   ],
+   "japan_main_count": 3,
+   "japan_main_checked_at": "2026-10-11T00:17:17.720327+00:00"
+  },
+  {
+   "id": "83cd8a2e-ce20-4d7e-b389-d8ddcac11cb5",
+   "title_ja": "日本の個人投資家が銘柄選びの原則を紹介",
+   "fact_ja": "日本の著名な個人投資家が、共著書で銘柄選びの考え方を示している。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-10T23:02:27+00:00",
+   "updated_at": "2026-10-10T23:02:27+00:00"
   }
  ],
  "articles": [
@@ -11214,10 +11697,10 @@
    "id": "fc304656-b120-465f-8e36-a42755849a6b",
    "fetched_at": "2026-09-29T04:41:04.360381+00:00",
    "event_id": "85a24e3f-bc83-41e0-9ddb-7b24e286d5f3",
-   "summary_ja": "日米韓が北極海協力の覚書を準備していると報じ、中国の専門家が地政学的競争を招くと警告した。",
-   "angle": "北極の地政学",
+   "summary_ja": "日米韓の北極構想は中ロ協力への対抗で、北極を地政学的競争の場にしかねないと中国人専門家の懸念を伝えた。",
+   "angle": "中ロへの対抗懸念",
    "tone": "crit",
-   "evidence": "turn the Arctic into an arena for geopolitical and security competition",
+   "evidence": "raises ‘geopolitical, security competition concerns’",
    "processed_at": "2026-09-29T04:45:30.390205+00:00",
    "relevant": true,
    "basis": "body"
@@ -20730,9 +21213,9 @@
    "id": "097d23f9-3b52-447e-b684-fe30e5dffeec",
    "fetched_at": "2026-10-07T03:55:48.706657+00:00",
    "event_id": "9d6e2902-e105-488f-b56b-88866c1873c2",
-   "summary_ja": "立ち入り検査を受け、大手各社の株価が4%近く下落。過去の値上げ時の価格調整が疑われ、刑事告発の可能性にも触れる。",
+   "summary_ja": "立ち入り検査で大手ビール各社の株価が4%近く下落し、刑事告発の可能性も指摘された。",
    "angle": "株価と刑事告発",
-   "tone": "crit",
+   "tone": "neu",
    "evidence": "suspected of coordinating prices over several years",
    "processed_at": "2026-10-07T03:59:43.815420+00:00",
    "relevant": true,
@@ -21793,10 +22276,10 @@
    "id": "899baaf5-ee03-4852-b703-9141eb6964bc",
    "fetched_at": "2026-10-08T00:55:43.457183+00:00",
    "event_id": "9d6e2902-e105-488f-b56b-88866c1873c2",
-   "summary_ja": "公取委が国内ビール大手に価格カルテルの疑いで捜索に入ったと見出しとリードで伝える。",
-   "angle": "立ち入り検査の事実",
-   "tone": "neu",
-   "evidence": "raided over alleged price-fixing cartel",
+   "summary_ja": "公取委が国内最大手のビール会社を価格カルテルの疑いで捜索したと伝えた。",
+   "angle": "カルテル疑惑",
+   "tone": "none",
+   "evidence": "",
    "processed_at": "2026-10-08T01:00:21.264781+00:00",
    "relevant": true,
    "basis": "headline"
@@ -21827,10 +22310,10 @@
    "id": "5e0040f0-0c85-4eed-9572-a6c3248e8978",
    "fetched_at": "2026-10-08T00:55:43.838792+00:00",
    "event_id": "9d6e2902-e105-488f-b56b-88866c1873c2",
-   "summary_ja": "4社が値上げで共謀した疑いで捜索。関係者の話として、定期的に会合し値上げ時期を話し合っていたとみられると伝える。",
-   "angle": "会合での値上げ協議",
-   "tone": "crit",
-   "evidence": "met up periodically to discuss pricing and the timing of the hike",
+   "summary_ja": "4社が値上げで談合した疑いで立ち入り検査を受けたと、関係者の話をもとに伝えた。",
+   "angle": "談合の疑い",
+   "tone": "neu",
+   "evidence": "suspicions they colluded to hike beverage prices",
    "processed_at": "2026-10-08T00:58:10.695996+00:00",
    "relevant": true,
    "basis": "body"
@@ -22341,10 +22824,10 @@
    "id": "3e6e2a9a-2fbf-4800-9780-772625c2c2fb",
    "fetched_at": "2026-10-08T00:56:26.316950+00:00",
    "event_id": "9d6e2902-e105-488f-b56b-88866c1873c2",
-   "summary_ja": "4社が値上げで共謀した疑いで捜索。各社は全面協力を表明し、6月のアイス大手の調査にも触れる。",
-   "angle": "疑惑と各社の対応",
+   "summary_ja": "4社への検査を、値上げ時期を話し合っていた疑いや6月のアイス調査と合わせて伝えた。",
+   "angle": "談合の経緯と前例",
    "tone": "neu",
-   "evidence": "All four companies confirmed they are under investigation",
+   "evidence": "believed to have met up periodically to discuss pricing",
    "processed_at": "2026-10-08T00:58:10.695996+00:00",
    "relevant": true,
    "basis": "body"
@@ -22509,8 +22992,8 @@
    "id": "98842dcd-1baa-4493-b411-dcbd049fb599",
    "fetched_at": "2026-10-08T00:56:29.304800+00:00",
    "event_id": "9d6e2902-e105-488f-b56b-88866c1873c2",
-   "summary_ja": "日本のビール大手4社が値上げをめぐり当局の調査を受けていると見出しで伝える。",
-   "angle": "値上げ調査の事実",
+   "summary_ja": "国内ビール大手4社が値上げをめぐり調査を受けていると見出しで伝えた。",
+   "angle": "値上げ調査",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-08T01:00:21.264781+00:00",
@@ -22921,8 +23404,8 @@
    "id": "8e46cd05-b325-4c51-8337-f780f0d94417",
    "fetched_at": "2026-10-08T00:56:30.233405+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "複数の日本企業でサイバー攻撃による情報流出の報告が相次ぎ、数百万人に被害の恐れ。",
-   "angle": "情報流出の広がり",
+   "summary_ja": "大和証券などが今週相次いで流出の可能性を公表し、数百万人が被害に遭うおそれがある。",
+   "angle": "被害の広がり",
    "tone": "crit",
    "evidence": "putting millions at risk of identity theft",
    "processed_at": "2026-10-08T00:58:10.695996+00:00",
@@ -23421,10 +23904,10 @@
    "id": "02932896-46bf-4286-993d-721ee65081f4",
    "fetched_at": "2026-10-09T01:10:39.626371+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "警察庁によるとQilinに日本企業53社が狙われ、ローソンなど情報流出も相次ぐ。",
-   "angle": "被害の広がり",
-   "tone": "crit",
-   "evidence": "data leaks caused by unauthorised access",
+   "summary_ja": "警察庁はQilinに53社が狙われたと発表し、政府は企業に脆弱性対策を促す方針。",
+   "angle": "Qilinと政府対応",
+   "tone": "neu",
+   "evidence": "53 companies in Japan have been targeted",
    "processed_at": "2026-10-09T01:13:35.254167+00:00",
    "relevant": true,
    "basis": "body"
@@ -23623,7 +24106,7 @@
    "id": "8972caa7-e63b-4b20-8d59-1378baa95706",
    "fetched_at": "2026-10-09T01:10:46.827756+00:00",
    "event_id": "9d6e2902-e105-488f-b56b-88866c1873c2",
-   "summary_ja": "4社が価格を共謀した疑いで捜索され、消費者が割高な価格を払わされた可能性があると報じる。",
+   "summary_ja": "4社が価格を決めた疑いで捜索され、消費者が割高に払った可能性があると伝えた。",
    "angle": "消費者の負担",
    "tone": "crit",
    "evidence": "could have forced drinkers to pay over the odds",
@@ -23639,13 +24122,14 @@
    "kind": "news",
    "id": "30dff15d-0996-48b1-9024-08f7c617a2b7",
    "fetched_at": "2026-10-09T01:10:47.316400+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "angle": null,
-   "tone": null,
-   "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "85a24e3f-bc83-41e0-9ddb-7b24e286d5f3",
+   "summary_ja": "米国と日本、韓国が北極での協力を計画していると見出しで伝えている。",
+   "angle": "3カ国の協力計画",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "abc",
@@ -23948,10 +24432,10 @@
    "id": "5d67708d-f021-4f73-9f47-03e3bf3fb99e",
    "fetched_at": "2026-10-09T01:10:48.983885+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "相次ぐサイバー攻撃の背景と対策を解説。AIで攻撃の敷居が下がり、今年は被害が多い年になりかねない。",
-   "angle": "攻撃の増加",
+   "summary_ja": "AIで攻撃の敷居が下がり、日本は企業の情報流出が異例に多い年になりかねないと専門家は警告する。",
+   "angle": "AIと攻撃の巧妙化",
    "tone": "crit",
-   "evidence": "unusually bad year for corporate data breaches",
+   "evidence": "may be just the tip of the iceberg",
    "processed_at": "2026-10-09T01:13:35.254167+00:00",
    "relevant": true,
    "basis": "body"
@@ -24279,7 +24763,7 @@
    "id": "42c6e68d-55f1-4c64-8f5f-465ec25dc4f2",
    "fetched_at": "2026-10-09T01:10:49.753475+00:00",
    "event_id": "9d6e2902-e105-488f-b56b-88866c1873c2",
-   "summary_ja": "カルテル捜査を伝えつつ、酒税改正で各社が新商品を投入する市場競争の背景に重点を置く。",
+   "summary_ja": "カルテル調査を、酒税改正による市場再編と各社の新商品競争の中で位置づけた。",
    "angle": "酒税改正の背景",
    "tone": "neu",
    "evidence": "Pressure to protect their brands and market positions may have contributed",
@@ -24346,8 +24830,8 @@
    "id": "4e2eb8d6-9e1c-4347-8fcc-8d16a3b8806b",
    "fetched_at": "2026-10-10T00:43:06.622927+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "AIがサイバー犯罪の敷居を下げ、日韓企業への攻撃が相次いでいると伝える。",
-   "angle": "AIによる攻撃",
+   "summary_ja": "日韓の企業がAIで敷居が下がった攻撃に直面し、防御強化を急いでいる。",
+   "angle": "AIが攻撃を後押し",
    "tone": "crit",
    "evidence": "Japan is essentially being subjected to carpet bombing",
    "processed_at": "2026-10-10T00:47:01.628419+00:00",
@@ -24414,9 +24898,9 @@
    "id": "6d8f0eb3-172c-43ca-bb5c-38691131a3b6",
    "fetched_at": "2026-10-10T00:43:10.743474+00:00",
    "event_id": "5d7ebee7-a766-4403-abd1-eace1f3937a9",
-   "summary_ja": "ロシアがICC所長の引き渡しを求め、日本政府が不当で遺憾だと反発した。",
-   "angle": "日本の反発",
-   "tone": "neu",
+   "summary_ja": "日本政府報道官が、ロシアによるICC所長ら9人の引き渡し要請を遺憾とし、不当で受け入れられないと述べた。",
+   "angle": "日本政府の抗議",
+   "tone": "crit",
    "evidence": "unfair and unacceptable",
    "processed_at": "2026-10-10T00:45:31.053510+00:00",
    "relevant": true,
@@ -24533,10 +25017,10 @@
    "id": "f2c70bcb-9043-49e2-afa3-f1078f228b83",
    "fetched_at": "2026-10-10T00:43:47.746103+00:00",
    "event_id": "5d7ebee7-a766-4403-abd1-eace1f3937a9",
-   "summary_ja": "ロシアによるICC所長の引き渡し要請に日本が抗議したと伝える。",
+   "summary_ja": "日本が、日本国籍のアカネ所長の引き渡しを求めるロシアの動きに抗議したと伝える。",
    "angle": "日本の抗議",
-   "tone": "neu",
-   "evidence": "Japan protests Russia’s bid to extradite ICC top judge",
+   "tone": "crit",
+   "evidence": "Japan protests Russia’s bid to extradite",
    "processed_at": "2026-10-10T00:47:01.628419+00:00",
    "relevant": true,
    "basis": "headline"
@@ -24651,10 +25135,10 @@
    "id": "3bd708ac-1bb2-42ed-9b9a-86b4328075a7",
    "fetched_at": "2026-10-10T00:43:50.719953+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "AIがハッカーの参入障壁を下げ、日韓企業にサイバー攻撃が相次いでいる。",
-   "angle": "AIとサイバー攻撃",
-   "tone": "none",
-   "evidence": "",
+   "summary_ja": "日本の今年の事案数は昨年全体を超え、AIが言語などの壁を取り払ったと専門家は指摘する。",
+   "angle": "AIが攻撃を後押し",
+   "tone": "crit",
+   "evidence": "more cybersecurity incidents in the first nine months of 2026 than in the whole of 2025",
    "processed_at": "2026-10-10T00:45:31.053510+00:00",
    "relevant": true,
    "basis": "body"
@@ -25115,10 +25599,10 @@
    "id": "c1bea88a-55f9-462b-8825-998e02aad867",
    "fetched_at": "2026-10-10T00:43:56.755083+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "旅行会社数社で顧客情報が流出した可能性があり、最大1464万件が危険にさらされる。",
-   "angle": "情報流出の規模",
+   "summary_ja": "旅行会社でも流出の可能性が公表され、スカイチケットでは最大1464万件の顧客記録が危険にさらされている。",
+   "angle": "旅行業界の被害",
    "tone": "crit",
-   "evidence": "raising concerns that customers’ personal information might have been compromised",
+   "evidence": "up to 14.64 million customer records may be at risk",
    "processed_at": "2026-10-10T00:47:01.628419+00:00",
    "relevant": true,
    "basis": "body"
@@ -25629,6 +26113,634 @@
    "tone": null,
    "evidence": null,
    "processed_at": "2026-10-10T00:45:31.053510+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/entertainment/cole-sprouse-kiko-mizuhara-singapore-sgiff-2026-6448486",
+   "title": "Riverdale star Cole Sprouse and Japanese actress Kiko Mizuhara coming to Singapore for SGIFF 2026",
+   "published_at": "2026-10-10T06:22:00+00:00",
+   "kind": "news",
+   "id": "a3cad79b-3db8-4c75-a1ce-8ec47ae441ea",
+   "fetched_at": "2026-10-11T00:11:53.753351+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "koreaherald",
+   "url": "https://www.koreaherald.com/article/10898181",
+   "title": "&apos;The Remarried Empress,&apos; &apos;The Boxer&apos; and &apos;Teenage Mercenary&apos; set for anime adaptations",
+   "published_at": "2026-10-10T03:25:29+00:00",
+   "kind": "news",
+   "id": "b4e97ccd-abd3-45f0-a0bd-518435d855ad",
+   "fetched_at": "2026-10-11T00:11:55.615224+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3370449/2-men-die-float-festival-accidents-japan?utm_source=rss_feed",
+   "title": "2 men die in float festival accidents in Japan",
+   "published_at": "2026-10-10T11:44:40+00:00",
+   "kind": "news",
+   "id": "929a1c12-8e45-4e1a-8e29-9ea0c5438acc",
+   "fetched_at": "2026-10-11T00:11:56.802298+00:00",
+   "event_id": "9f6b6da8-7911-4da0-85d7-a01d40bf1376",
+   "summary_ja": "大阪府の祭りで山車が転倒し、男性2人が死亡、十数人以上が負傷した。",
+   "angle": "祭りの事故",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3370416/japanese-brewer-designs-wobbly-beer-glass-encourage-responsible-drinking?utm_source=rss_feed",
+   "title": "Japanese brewer designs ‘wobbly’ beer glass to encourage responsible drinking",
+   "published_at": "2026-10-10T01:57:45+00:00",
+   "kind": "news",
+   "id": "cf4f9415-3dd1-43fd-856c-36bf6990ac24",
+   "fetched_at": "2026-10-11T00:11:56.802446+00:00",
+   "event_id": "77a8bdb1-e8f5-4418-8d09-73fa7ed18dc1",
+   "summary_ja": "長野の醸造所が、水も飲むよう促す傾くビールグラスを発売した。",
+   "angle": "適正飲酒の工夫",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3370440/retired-china-olympic-champion-diver-sparks-debate-after-reality-show-reveals-toxic-parenting?utm_source=rss_feed",
+   "title": "Retired China Olympic champion diver sparks debate after reality show reveals toxic parenting",
+   "published_at": "2026-10-10T10:00:15+00:00",
+   "kind": "news",
+   "id": "57b9aeb1-4e3f-4e66-b05d-599b02456d9f",
+   "fetched_at": "2026-10-11T00:11:56.803119+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/reise/plus6aabf05bfc82e30f94af3616/japan-diese-14-tage-route-laesst-zwischen-neon-und-zen-staunen.html",
+   "title": "Japan: Diese 14-Tage-Route lässt zwischen Neon und Zen staunen",
+   "published_at": "2026-10-10T06:36:34.539000+00:00",
+   "kind": "news",
+   "id": "d5e99c20-0f3e-4c27-9892-ce09e72fb941",
+   "fetched_at": "2026-10-11T00:11:58.623017+00:00",
+   "event_id": "cbbdfdf8-e7d1-4d42-b6f0-b58d9b8db8d6",
+   "summary_ja": "京都在住の筆者が、14日間の日本旅行ルートを紹介した。",
+   "angle": "旅行ルート",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202610/1371948.shtml",
+   "title": "CCG conducts rights-protection patrol in territorial waters of China’s Diaoyu Dao and affiliated islands",
+   "published_at": "2026-10-10T02:18:01+00:00",
+   "kind": "news",
+   "id": "9d083ccf-667c-41d1-ae63-3a77ec8b3f76",
+   "fetched_at": "2026-10-11T00:12:34.419689+00:00",
+   "event_id": "8efe1590-03d2-409d-bf93-4336d0709516",
+   "summary_ja": "中国海警局が釣魚島周辺の海域で権益保護の巡視を行ったと伝えた。",
+   "angle": "尖閣周辺の巡視",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWltOVRyV0pwaFg5cnB0OVBndWhoQnhuLWdXWV96elhfM3NUdk0td0tGNjBFclROWHpRc2c2NktIR05sc0ZGWllfalBuUWtVRkVnWHpsV2ZrZ3d4eHlxX2MtM0ozVDgxUWZtem5OV0V1RzZPeEhtY2s0ZWJIMWZVdGxyV2tlZ2tLZXhXeG10cUxESjMwLXlrVUFRNGUwQU5PRW5XTDRBM3hsV19SWjgtUHVFd1dYOERtZzhEY1owR290TzRiR3p3WXU5MEotc1lQaGtV0gHYAUFVX3lxTFBUUnJIZGNMUGJPNXpDamQyRmZTczRqem9tVFU2ZFp6VWpGcU5xNGNXOFdDc0lGdjZUb2FJdE9MRTRyaW1nbUhvX2pMVkMwMUVuT0U1WVpobXNKQTRud1FHcFFHdWd4Tnc2OW1Ta1R6WkpxWm5VZzh1Z0h4akVMMl8wZnNrYl9EMTBqWnBybldWcjR3SEFueVY3YkRrQzdmUDcyWHdVU2xCelJqUzhLV3Bla0Q0N3RhbU9qUDcxQnVxSW9pWWdHNmFDMzdOeHNmNWh5emlaT05pQw?oc=5",
+   "title": "Akie Abe,wife of late Japanese PM Shinzo Abe, meets RSS leader Hosabale",
+   "published_at": "2026-10-10T11:30:00+00:00",
+   "kind": "news",
+   "id": "164c15ac-9db1-4e27-8010-a972cd233a6b",
+   "fetched_at": "2026-10-11T00:12:36.852428+00:00",
+   "event_id": "85373f17-e30a-4322-a9a9-b3a91dab6df3",
+   "summary_ja": "安倍昭恵氏がRSS幹部のホサバレ氏と会談した。",
+   "angle": "昭恵氏の面会",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZlU1YnFYMHA1MUt4VkVnam9MeXlVZ29CbERQQTBBQzhVSHhwZF95em1GbjNiejFOVFFkWTlEVFZvbGkyN1VMSWRYOTNDdmRhSW0ybHBTeTI5dTNRR1hTcE9xZHJwejRCbXh5djRMbU1yQVI1X0V5TnJkc0VaYlc0YzN2TldMMzJfRm1DODh2b2RDNUZVc21SZElQNFo0ckNoV3MxOU5zM3pCWHBxeUNEOF9rSUd3WUY3TXUtd3RaYmdRU2tabUdRRGRaU3FLWDd5VjRzZTJBQ3pORkxRMkFUQll6SHgweFF3QUVIZ08tOVI1VnBQbklyb3l4ajNCSm42M0cxNHhwMEHSAY4CQVVfeXFMTnJaa25DMk96M0tvOWt4bVROcEVKWmhiQVlsRUlpZ09KSjY0YXJWWWRYUGE4clhINGJzM2lxNlpHYURvV2d4anlaZlFoOEJfeExMMkE2aFNMWU1FX2w4WDRYSXVaUEZKOW8yV2NBc0U2QllYVHRHTzNVX0ZFV0dib3RPRVJJRHphR3RSOGV0YWdnZTVUZGtBNE5hVFBtUFhlOEZveE9uZ015YkNsd2NOMnk2QVd2b01qaEdHOU9BSE5ReDkxbG9UQ3U3YWl4cHBaWnNXeDRZZC1walg5RTVkYWp3YmQ5NEVFMDNiSnVpX1lHakp0RGRLYjhfRTJBX0F3VktkUnpIWjZMendrVXV3?oc=5",
+   "title": "Carlos Alcaraz shows off bold new moustache after Japan Open win, with hilarious team promise revealed",
+   "published_at": "2026-10-10T17:29:00+00:00",
+   "kind": "news",
+   "id": "ea01a55a-aeb1-4931-9711-ecd9d7ac3147",
+   "fetched_at": "2026-10-11T00:12:36.852563+00:00",
+   "event_id": "4e0c1ac3-43be-45ac-88ba-446d0132d82f",
+   "summary_ja": "アルカラスがジャパンオープン優勝後、新しい口ひげを披露したと伝える。",
+   "angle": "選手の話題",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMEYyWkh5QmQwSW9FQTdsTjVzQkpxVjJxbjlzY2JsSl9BUWRPcUt2ODJPZkVYbFFmMDhoNFNLckFCZG1mMk9HVWRFMHZNT01MdWpGSm9PZFYzNjUzLVpPNG1JTXZMV3gyc1B5QzROLUVWMjhfNVBqTEZRTE9ZMmxiNFM1RjNMaHR6Z3NCMzVRTnlfbVBaSWFqU202b3Q1WFY4NVZIeTdScjhRZEx3TEpLWE4zbmxNS0NWNlhfT2phWFRhVXhNZ2pob2Q2NThwQ3pKcllUUmVzZExzcEZpTGtCQldIUGlTenNOSW8tV00xZTZFc3JjaVlzYWh0MVU0U1ktTkpMSWp6N1BZaGxmY0wzRlRVTmZydFZTcnM0bkJ1QVFkZjNRb3FTcTZQV1dPQ1U0cGpMd0ZlNUtLX2NhS2dpRVV1a1BvQdIBywJBVV95cUxQYzg5NnZPWS1nWVNPcTdFUU5iTTNORlJzdEJjSjVMbjRXMHQwcHZ6MTNYQnVBdWNwWXRkMTFoXzR5Yk5ldWhLd0l3RjN3UXlKbDZtaTNySHB4d2h5eTNNakhxQ0E2MnFmSWowTWlJYzR4UWJVMnVaQnRyMUlsN0l0VUpNSllxVXRWZTdjMnZwNmtHZ0FkdVlrUlYyZHcweWI0MFdVaUotOHE4a2s3b1V6N0NzbEtucEhobHFwZ1B3aVJIYWlLQUFLSDBlaTJFbkhTWTc1aEZtYnkzQWtjaEFLRXZZQUVkVkpyN21ZVnpVVldPNGxOTXNZR2lMUC1HSnRYYjVaQm9sTnp2amhnUTB0aEhBVi1keHF6Nld5ZmZhZ0RFT0ZNSlhOSkw4T0FVQ18yOGtHMWx5bl9zWVo1djVNcTNsMVd1TzNGQ2RN?oc=5",
+   "title": "‘I want to show how beautiful and amazing India truly is’: Japanese woman living in Mumbai hits back at n",
+   "published_at": "2026-10-10T11:13:00+00:00",
+   "kind": "news",
+   "id": "89f3d045-d7b7-4111-b201-3f86ac71a3f5",
+   "fetched_at": "2026-10-11T00:12:36.853565+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/economy/economy_general/2026/10/11/NLIALJS2VNA6HP7LDZ7HLIA2UI/",
+   "title": "게임 폐인에서 2100억 자산가…日 슈퍼개미의 주식 고르는 법",
+   "published_at": "2026-10-10T23:02:27+00:00",
+   "kind": "news",
+   "id": "cd396500-fbe0-4fa2-9870-55dd2bbc3f14",
+   "fetched_at": "2026-10-11T00:12:39.162185+00:00",
+   "event_id": "83cd8a2e-ce20-4d7e-b389-d8ddcac11cb5",
+   "summary_ja": "日本の著名個人投資家の共著書から、銘柄選びの四つの原則を紹介する。",
+   "angle": "投資の心得",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/rubio-pledges-us-cooperation-in-okinawa-murder-case",
+   "title": "Rubio pledges US cooperation in Okinawa murder case",
+   "published_at": "2026-10-10T19:04:58+00:00",
+   "kind": "news",
+   "id": "7f0d8664-7cc1-4b3b-aeec-bafa69208dbf",
+   "fetched_at": "2026-10-11T00:12:40.806785+00:00",
+   "event_id": "84a36b02-e58a-4ed1-9db9-8e7ee2f4fa2f",
+   "summary_ja": "ルビオ長官が沖縄の事件で日本当局の捜査に協力を誓い、米軍は夜間外出禁止と研修を実施したと伝える。",
+   "angle": "米側の捜査協力",
+   "tone": "neu",
+   "evidence": "vowed to cooperate with Japanese authorities investigating allegations",
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/rubio-offers-japan-fm-condolences-over-murder-of-woman-linked-to-us-marine",
+   "title": "Rubio offers Japan FM condolences over murder of woman linked to US Marine",
+   "published_at": "2026-10-10T18:54:25+00:00",
+   "kind": "news",
+   "id": "b45f5520-3675-4eb9-9f19-ff379450708b",
+   "fetched_at": "2026-10-11T00:12:40.806974+00:00",
+   "event_id": "84a36b02-e58a-4ed1-9db9-8e7ee2f4fa2f",
+   "summary_ja": "ルビオ長官が弔意を伝え協力を約束。事件は日本で怒りを呼び、米軍関連の犯罪が関係の悩みだと背景を示す。",
+   "angle": "弔意と日本の怒り",
+   "tone": "neu",
+   "evidence": "triggered outrage in Japan",
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/japan-rail-lines-fully-restored-74-days-after-kumamoto-quake-in-late-july",
+   "title": "Japan Railways’ Kyushu lines fully restored 74 days after Kumamoto quake in late July",
+   "published_at": "2026-10-10T03:15:00+00:00",
+   "kind": "news",
+   "id": "0a253f76-bc01-4010-9b2a-5d66922644b7",
+   "fetched_at": "2026-10-11T00:12:40.807180+00:00",
+   "event_id": "505a40f6-fecc-404c-8f7d-da1ec797490d",
+   "summary_ja": "熊本の地震から74日後、JR九州の全線が復旧したと伝えた。",
+   "angle": "鉄道の復旧",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-10/news-1R7Oz6BeRCo/p.html",
+   "title": "Information on accident at Danjiri Festival in Izumisano, Osaka: 1 dead, multiple injured - Japanese media",
+   "published_at": "2026-10-10T13:28:00+00:00",
+   "kind": "news",
+   "id": "71d3a467-e474-41a6-a0a9-4607c3f90a24",
+   "fetched_at": "2026-10-11T00:12:42.567065+00:00",
+   "event_id": "9f6b6da8-7911-4da0-85d7-a01d40bf1376",
+   "summary_ja": "大阪府泉佐野市のだんじり祭りで事故があり、1人が死亡、複数が負傷したと日本メディアを引用して伝えた。",
+   "angle": "祭りの事故",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-10/Experts-Japan-s-push-for-nuclear-subs-threatens-Asia-Pacific-peace-1R7KgT2UBK8/p.html",
+   "title": "Experts: Japan's push for nuclear submarines threatens Asia-Pacific peace and stability",
+   "published_at": "2026-10-10T14:52:00+00:00",
+   "kind": "news",
+   "id": "e3f44f7c-eec2-48e6-9433-54a80b4ba51c",
+   "fetched_at": "2026-10-11T00:12:42.567253+00:00",
+   "event_id": "b2939009-4357-4813-8915-7e49eebb84e5",
+   "summary_ja": "専門家が、日本の原子力潜水艦導入の動きはアジア太平洋の平和と安定を脅かすと述べた。",
+   "angle": "原潜への警戒",
+   "tone": "crit",
+   "evidence": "threatens Asia-Pacific peace and stability",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-10/Singaporean-historian-Japan-s-wartime-crimes-must-not-be-forgotten-1R7ONDwVjS8/p.html",
+   "title": "Singaporean historian: Japan's wartime crimes must not be forgotten",
+   "published_at": "2026-10-10T15:10:00+00:00",
+   "kind": "news",
+   "id": "e58c6ce0-04fb-40bd-b11a-e075cc587a68",
+   "fetched_at": "2026-10-11T00:12:42.567432+00:00",
+   "event_id": "de7da2b2-61c1-4a22-be1d-b57bb80a88a6",
+   "summary_ja": "シンガポールの歴史家が、日本の戦時中の犯罪を忘れてはならないと語った。",
+   "angle": "戦争加害の記憶",
+   "tone": "crit",
+   "evidence": "Japan's wartime crimes must not be forgotten",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-10/China-Coast-Guard-conducts-patrol-in-the-waters-of-Diaoyu-Dao--1R87yaoZYvS/p.html",
+   "title": "China Coast Guard conducts patrol in the territorial waters of Diaoyu Dao",
+   "published_at": "2026-10-10T18:32:00+00:00",
+   "kind": "news",
+   "id": "e74d1b97-5bc0-43e6-9959-4b1efbb5095d",
+   "fetched_at": "2026-10-11T00:12:42.567596+00:00",
+   "event_id": "8efe1590-03d2-409d-bf93-4336d0709516",
+   "summary_ja": "中国海警局が釣魚島（尖閣）の領海で巡視を実施したと伝える。",
+   "angle": "中国海警の巡視",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-10/news-1R8lQDpt7Q4/p.html",
+   "title": "Japanese FM and US Secretary of State hold phone talks",
+   "published_at": "2026-10-10T21:14:00+00:00",
+   "kind": "news",
+   "id": "5fbad70b-3756-48af-85ae-217346cc37c9",
+   "fetched_at": "2026-10-11T00:12:42.567755+00:00",
+   "event_id": "84a36b02-e58a-4ed1-9db9-8e7ee2f4fa2f",
+   "summary_ja": "日本の外相と米国務長官が電話会談を行ったと見出しで伝える。",
+   "angle": "電話会談の実施",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "sz",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNa2R5a2NDa1djQzE5ZDc4V1YteHJ2eWdlU3BMdW9oZVpRRkJ0aHliVnN1QTFaWmJrVC1zWUpIWHpVOW1rZGtacGFNRDA3ZG1BQ1lmcWI3dVUtYU5kQk5mYTFtVXJ2ODR1aEhvbzlsQl9JbWRqY2FKUGUxUE1nYklkV1BPTUdocUJ1ZDZZWnhDOHI0RHhGNUpTai11Qm1mOVg5RS0xTXBtZWFoNlhoQmZ6QjFjZjNmVU5tNFlvNUNNeUtuOWxKYWZIYXJVend2V0V1aVhDXzB0R0s5bXFfOFU2WkVaSzVWb1h4c19oYmliWDNVbldndDQtSmVpOA?oc=5",
+   "title": "Vor nächstem Test gegen Japan - Nach Schüller-Ausfall: Martinez stößt zum DFB-Team - Sport - SZ.de",
+   "published_at": "2026-10-10T03:00:06+00:00",
+   "kind": "news",
+   "id": "3ffe610f-629f-4362-aa7a-ae1b56a7a1a3",
+   "fetched_at": "2026-10-11T00:12:43.272269+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/culture/2026/10/11/books/nao-cola-yamazaki-japanese-novelist/",
+   "title": "Nao-Cola Yamazaki is your favorite writer’s favorite writer",
+   "published_at": "2026-10-11T00:00:00+00:00",
+   "kind": "news",
+   "id": "5a1bce9c-95c8-4e86-b410-cbe4862db8dc",
+   "fetched_at": "2026-10-11T00:12:45.345770+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/life/2026/10/11/food-drink/nori-caviar-recipe-soy-sauce-seafood-japanese-cuisine/",
+   "title": "Win friends and influence people with nori ‘caviar’",
+   "published_at": "2026-10-10T23:00:00+00:00",
+   "kind": "news",
+   "id": "c98955b8-7d7b-4dd9-aa8c-5ef4759f2b19",
+   "fetched_at": "2026-10-11T00:12:45.346406+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/japan/gcap-germany-join-japan/",
+   "title": "Germany eyes joining GCAP fighter jet project with U.K, Italy and Japan",
+   "published_at": "2026-10-10T05:02:00+00:00",
+   "kind": "news",
+   "id": "c048600a-bcea-45b0-9f2b-c528615788a9",
+   "fetched_at": "2026-10-11T00:12:45.347144+00:00",
+   "event_id": "9d1c5677-e896-4b9d-a72f-bac5fba0a331",
+   "summary_ja": "ドイツが英伊日のGCAPへの参加を検討していると報じた。",
+   "angle": "GCAP拡大",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/asia-pacific/politics/taiwan-lai-increasing-defense-spending/",
+   "title": "Taiwan’s leader says increasing defense spending to ‘deter war’",
+   "published_at": "2026-10-10T04:29:00+00:00",
+   "kind": "news",
+   "id": "a9948a6f-35eb-4ecc-9742-93977ba02dda",
+   "fetched_at": "2026-10-11T00:12:45.347923+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/japan/politics/japan-us-icc-takaichi-trump/",
+   "title": "Takaichi again in a bind as U.S. threatens to ‘end’ ICC",
+   "published_at": "2026-10-10T04:29:00+00:00",
+   "kind": "news",
+   "id": "435b682a-cd7a-414f-9a53-e5e738c20c7c",
+   "fetched_at": "2026-10-11T00:12:45.348707+00:00",
+   "event_id": "e9c8b4ef-95cf-412e-8421-b9b4bb9b4469",
+   "summary_ja": "米国のICC全体への制裁で、高市首相が安全保障上の同盟国との間で難しい立場に置かれると伝えた。",
+   "angle": "首相の板挟み",
+   "tone": "neu",
+   "evidence": "will need to walk a fine line as it pushes back",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/10/10/tech/anthropic-new-ai-misbehavior/",
+   "title": "Anthropic cites new AI misbehavior, some on government sites",
+   "published_at": "2026-10-10T02:04:00+00:00",
+   "kind": "news",
+   "id": "ef627c2f-e177-4a9e-b504-c32b6fec8f84",
+   "fetched_at": "2026-10-11T00:12:45.349479+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/10/10/economy/scott-bessent-skip-imf-world-bank-meetings/",
+   "title": "U.S. Treasury chief Scott Bessent to skip IMF-World Bank meetings in Bangkok",
+   "published_at": "2026-10-10T01:37:00+00:00",
+   "kind": "news",
+   "id": "ad93fd4b-f25d-463b-a90c-c936e2f60b92",
+   "fetched_at": "2026-10-11T00:12:45.350316+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/10/10/tech/japanese-firms-data-breaches/",
+   "title": "More Japanese firms hit by large-scale data breaches",
+   "published_at": "2026-10-10T01:31:00+00:00",
+   "kind": "news",
+   "id": "4cf9b7a3-97d6-4c7d-b55d-9c3e21d1d8e7",
+   "fetched_at": "2026-10-11T00:12:45.351100+00:00",
+   "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
+   "summary_ja": "JR東日本やブックオフなどで数百万件規模の流出の可能性が判明した。各社は悪用の形跡は未確認としている。",
+   "angle": "被害の拡大",
+   "tone": "neu",
+   "evidence": "found no evidence of unauthorized use",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/japan/politics/tax-cut-36000-takaichi/",
+   "title": "Tax cut to bring ¥36,000 benefit per citizen, Takaichi says",
+   "published_at": "2026-10-10T01:02:00+00:00",
+   "kind": "news",
+   "id": "89ab65e7-b8fa-42df-ab95-0bdafb68c332",
+   "fetched_at": "2026-10-11T00:12:45.351973+00:00",
+   "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
+   "summary_ja": "高市首相が食料品の消費税減税で国民1人あたり約3万6000円の負担軽減になると説明した。",
+   "angle": "家計の負担軽減",
+   "tone": "fav",
+   "evidence": "reduce household financial burdens by about ¥36,000 per citizen",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/10/10/companies/beer-maker-leaders-price-cartel/",
+   "title": "Beer maker leaders may have been aware of price cartel",
+   "published_at": "2026-10-10T00:59:00+00:00",
+   "kind": "news",
+   "id": "a924f60f-632f-488d-9646-14f859e0031c",
+   "fetched_at": "2026-10-11T00:12:45.352801+00:00",
+   "event_id": "9d6e2902-e105-488f-b56b-88866c1873c2",
+   "summary_ja": "一部の幹部が調査で談合を認め、トップも値上げ交渉の内容を知っていた可能性があると伝えた。",
+   "angle": "経営陣の関与",
+   "tone": "crit",
+   "evidence": "admitted to the cartel during the commission’s investigation",
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/world/flydubai-suicide-attack-tel-aviv/",
+   "title": "Flydubai co-pilot planned suicide attack on Tel Aviv airport",
+   "published_at": "2026-10-10T00:13:00+00:00",
+   "kind": "news",
+   "id": "aa658c1a-d955-4757-9cd4-e99ed38873db",
+   "fetched_at": "2026-10-11T00:12:45.354323+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/asia-pacific/politics/us-sanctions-myanmar-businessman/",
+   "title": "U.S. lifts sanctions on daughter of Myanmar military-linked businessman",
+   "published_at": "2026-10-10T00:11:00+00:00",
+   "kind": "news",
+   "id": "dec51269-427f-4b86-b0f2-a7bd61452232",
+   "fetched_at": "2026-10-11T00:12:45.355182+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/world/iran-guards-missiles-trump/",
+   "title": "Iran guards ability to build missiles as Trump eases attacks",
+   "published_at": "2026-10-09T23:54:00+00:00",
+   "kind": "news",
+   "id": "80cc3279-0ae6-4a46-9fc2-19231df4b1ae",
+   "fetched_at": "2026-10-11T00:12:45.356703+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/world/republican-opposition-livestreamed-execution/",
+   "title": "Republican opposition widens to livestreamed execution; Trump still weighing it",
+   "published_at": "2026-10-09T23:50:00+00:00",
+   "kind": "news",
+   "id": "fd3058fb-17a3-4c24-aa8a-871500b365f3",
+   "fetched_at": "2026-10-11T00:12:45.357555+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/10/world/panama-quake/",
+   "title": "Major earthquake hits Panama, injures at least 27",
+   "published_at": "2026-10-09T23:49:00+00:00",
+   "kind": "news",
+   "id": "421f409c-97e6-4566-8023-3fb79958ff46",
+   "fetched_at": "2026-10-11T00:12:45.358371+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/not-screen-to-screen-but-human-to-human/",
+   "title": "Not Screen to Screen, But Human to Human",
+   "published_at": "2026-10-10T23:15:00+00:00",
+   "kind": "news",
+   "id": "f73a7f7d-0913-4dd6-9090-32ce43123f36",
+   "fetched_at": "2026-10-11T00:12:46.151790+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:40.081866+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/shin-ushijima-chapter-7-japan-for-sale/",
+   "title": "Chapter 7: Japan for Sale!",
+   "published_at": "2026-10-10T08:29:00+00:00",
+   "kind": "news",
+   "id": "4fd534c2-efce-49a6-8809-00391d09944c",
+   "fetched_at": "2026-10-11T00:12:46.151927+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/disused-gifu-station-goro-noguchi-monument-rail-buffs/",
+   "title": "Hidden Wonders | Historic Railway Station Draws Pop Music Fans and Train Enthusiasts",
+   "published_at": "2026-10-10T01:15:00+00:00",
+   "kind": "news",
+   "id": "4de41b06-129d-4e17-8afe-b09226dae4df",
+   "fetched_at": "2026-10-11T00:12:46.152098+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-11T00:14:12.040365+00:00",
    "relevant": false
   }
  ]
