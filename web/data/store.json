@@ -3878,7 +3878,7 @@
    "target": "タイムズモビリティの情報管理",
    "judged_count": 0,
    "first_seen": "2026-09-30T07:19:00+00:00",
-   "updated_at": "2026-09-30T07:19:00+00:00"
+   "updated_at": "2026-10-11T09:07:00+00:00"
   },
   {
    "id": "a7547531-3cdd-489f-9f22-6c210e476fd7",
@@ -3952,61 +3952,55 @@
   },
   {
    "id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "title_ja": "政府が永住許可の要件を厳格化、申請手数料は20倍に",
-   "fact_ja": "政府は10月1日、永住許可の指針を改定し、平均を上回る収入、年金、日本語能力などの基準を明確にした。新基準の多くは2027年4月申請分から段階的に適用され、申請手数料は同日から1万円から20万円に上がった。",
+   "title_ja": "永住許可の要件を厳格化、手数料は20倍に",
+   "fact_ja": "政府は10月1日、永住許可の指針を改定し、平均を上回る収入、年金、日本語能力などの基準を明確にした。新基準の多くは2027年4月申請分から段階的に適用され、収入要件の改定は今年4月以降の申請分にも適用される。申請手数料は同日から1万円から20万円に上がった。",
    "category": "社会政策",
    "target": "政府の永住許可要件の厳格化",
-   "judged_count": 8,
+   "judged_count": 9,
    "first_seen": "2026-09-30T15:15:00+00:00",
-   "updated_at": "2026-10-08T05:27:00+00:00",
-   "japan_position_ja": "政府は永住許可の指針を改定し、収入・年金・日本語能力の基準を明確にした。高市首相は、外国人の増加に一部の国民が不安や不公平感を抱いているとして「秩序ある共生」を進める考えを示し、法相も外国人排斥ではないと説明した。",
-   "japan_basis": "japanese_media",
+   "updated_at": "2026-10-11T09:00:00+00:00",
+   "japan_position_ja": "政府は指針を改定し、収入・年金・日本語能力の基準を具体化した。高市首相は、外国人が増える中で一部の国民が不安や不公平感を抱いているとして「秩序ある共生」を進める考えを示している。山下法相も、一部の外国人の逸脱行為への国民の不安が背景にあり、外国人排斥ではないと説明した。",
+   "japan_basis": "overseas_reports",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "改定の内容と日本語要件（CEFR B1以上）を淡々と伝える一方、論説では、労働力不足の中で移民を罰する方向だと懸念を示し、別の寄稿は、一時的な労働者を受け入れつつ定住を絞る「選別」の動きと位置づけた。"
+     "view_ja": "改定内容や申請上の注意点を伝える記事が中心で、日本語要件や遡及適用の厳しさを指摘する。社説的な記事では、移民は必要で、不安を利用する政策は問題だと批判した。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "AFP配信を載せたストレーツ・タイムズやジャカルタ・ポストは、高市首相の移民管理強化の一環と伝え、労働力不足にもかかわらず反移民感情が強まっている点を強調した。専門家や経済界は外国人受け入れ拡大が必要だと警告しているとも伝えた。朝鮮日報は、反移民感情をなだめる政治的な狙いと見つつ、人手不足の中で矛盾した孤立主義的政策だとの批判を紹介し、手数料の急騰や永住権更新を拒まれた米国人教師の例も挙げた。シンガポールのCNAは国営・政府系として分類され、同じAFP配信を載せている。",
+   "overseas_view_ja": "AFP配信のStraits TimesとJakarta Postは、高市首相の入国管理強化の一環と位置づけ、人手不足にもかかわらず反移民感情が強まっていると伝えた。あわせて専門家や経済界が外国人の受け入れ拡大を求めていること、SNS上に誤情報があることも紹介している。朝鮮日報は、労働力不足の中で移民を締め付ける「二律背反」の政策だと批判的に報じ、保守層への政治的配慮と見る。CNAは政府系で、申請者の声を交えて事実を伝えた。",
    "judge_version": 2,
    "search_ja": "永住許可 厳格化 手数料 20万円",
    "japan_main": [
     {
-     "outlet": "NHK",
-     "title": "外国人の永住許可厳格化へ 当事者からは戸惑いの声",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aT2dYcTU0bHMwd2d1SF9KdllGQVlwb0QybXU4WVVnTzhfbkg4S1VTZF9EcHRnTkhGSWRvRHV1UFdoUGtsdDJkZ24wZFNMX2xDSkJINE5acWU?oc=5",
-     "published_at": "2026-09-30T09:49:00+00:00"
-    },
-    {
      "outlet": "朝日新聞",
      "title": "在留審査の手数料値上げスタート 永住許可の厳格化ガイドラインも [外国人]",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ERjRsQmxwYVVfdXZldE9GNzJYWjFwRGRDRTY1S0FoaFNsaFVaVWo0UHU0ZXRhekZ6QmRkWTFMXzdBMFFQVGFZX0tmSHAzUzBuMVZSQ29CdjBHY19oWlliaGdYc05MalE?oc=5",
-     "published_at": "2026-09-30T15:15:00+00:00"
+     "published_at": "2026-10-01T07:00:00+00:00"
     },
     {
      "outlet": "朝日新聞",
      "title": "外国人の永住厳格化、開始 「収入要件」明確化／在留手数料値上げも",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXWkN0R1Zad2I5cTY3RGs2b2gtcUFlNEZjMXE2dGgtNnFGMWpoNlBpVEFuQ2xiZE5CYWhuRTJncVotZzI4Tko3dWlMN1Q3UlZiVHJrWnE2QU05ZExJ?oc=5",
-     "published_at": "2026-09-30T20:00:00+00:00"
+     "published_at": "2026-10-01T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
      "title": "外国人の永住許可、きょうから厳格化…「日本人世帯の平均収入を上回る水準の額」要件に",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1md3REd1F1eFRYRHlhbW9BN2loS1pFY0R1aFNqNk4xVlBtc24zNUVubDNKUi13WDJmTUlCNDF2M1RRREdKM2REemo2T0d5bVZ2UkdqZHpLZmpocUVsRzg3NTBTVUhnUQ?oc=5",
-     "published_at": "2026-09-30T15:15:00+00:00"
+     "published_at": "2026-10-01T07:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
      "title": "10月から外国人永住許可が厳格化 「日本人平均年収」が新基準",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rMnNKdXNfN3RzZU80NVRnOXJzWXJOTl9GX1h4dk9XbnZMRHBFQmlwa3YzbWtoWEZsa1NzN0xNaFpILXNFbGtUbkdETWpfQTM5OVBoRkhpMWVvWF80cTVOYXBXNnp3TWJD?oc=5",
-     "published_at": "2026-09-30T15:15:00+00:00"
+     "published_at": "2026-10-01T07:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
      "title": "「共生」掲げ永住「狭き門」に 外国人政策厳格化、政府の狙いは [写真特集1/4]",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzYzOEw3Z3hGUjBKd1JpeDhqaDQxWDZfdk4xYS11RmozeE1QekN5b0c1UDd0dGN4STlSaTJCQnFGamxkNjl1YXJUc1hURm9nNElrcTNVR0lzYkFuUTdYX0V2dThBaTF5UVlXcmFabGZZeXkxam1ib05JUGx6eTZYSmZhZGo0SWM?oc=5",
-     "published_at": "2026-09-30T21:59:00+00:00"
+     "published_at": "2026-10-01T07:00:00+00:00"
     },
     {
      "outlet": "産経新聞",
@@ -4024,25 +4018,31 @@
      "outlet": "日本経済新聞",
      "title": "外国人の永住許可ガイドライン、収入要件など厳格化 1日に改定",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vcDdtSVJ2LW1EbU9CWWQ2ZnZwbmVFb2lEX0hGU3FwZnFRUmx4OHpjcXVycWJWanY2NkpPN3BHTDVRaG1nWTZoblFWV01OUE9QcmV2cFlFU19GSWdjRUprSlNIV2FVM1VZaWNhaQ?oc=5",
-     "published_at": "2026-09-30T15:15:00+00:00"
+     "published_at": "2026-10-01T07:00:00+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "外国人永住許可、収入要件厳しく きょう改定",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45SEJ0SVc3UVoyanZNaDdqZ2lCRVl6aFpoaERvNGNlc21JNVdTQ2tHQ2hvUzVmOEd5LWsyOURvd3hUeVlXWEdDalNxQktIMFlmT1puMmVKUDhjXzlvUGg4WFQ0WGRXeGU5dnRMVw?oc=5",
+     "published_at": "2026-09-30T17:00:00+00:00"
     },
     {
      "outlet": "日本テレビ",
      "title": "1日から在留手数料“大幅値上げ” 永住許可の基準に「収入」追加（2026年9月30日掲載）｜日テレNEWS NNN",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEb1g1U1VnWmVFSDVPelNFVzFnMWR0MTN1dkhzZmNMcHAxeHJUeTZhV18wamVadXZUaU1tbWdENTgyaHQ1c3lKYVFiRm9DcFROMjhveVQ4NktVSUlzajRhWFRUQVdSQTEybk5WTDVOLVVPZHFwMjBIOThNVW8?oc=5",
-     "published_at": "2026-09-30T15:15:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "外国人の永住許可「厳格化」の波紋…年収基準の設定は社会秩序の維持か、それとも“選ばれぬ国”への道か",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwUVZKdV9LZTVEUmZNNEF5YXpMRWVMeG9zVUJaSnNhcFZWaDNVVEg4cFhsS3NyTTJDQWpJcUpWNlJFVmhRY3JWdXNtdE02Y09CcXIxS0F4ZWRtaGVZTl9pVEF4ZElFRzBlOTl0Wm44cnpFZw?oc=5",
-     "published_at": "2026-10-04T22:45:00+00:00"
+     "published_at": "2026-09-30T07:00:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
      "title": "「ここ最近ヘイトが向けられている」 来日21年のロシア出身声優が明かす“風当たりの強さ”…永住許可の厳格化で「これ以上私に何ができるんだ」の本音",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUdteWhyLXZTVTNBbERRSy1WSEg5eFoyNjdpSXZVbHg3bl8tdmhiOW9Sc3B0NmhXeURPRE1sbHpVWHFTckNnQ3ByOEZwNmZtREphNGhSdUZnYUZ3a1lSblV6YllYcjZWRE9GbE9SbjRZeHU2c2tyX2M1d25xVmFWZnVJbw?oc=5",
      "published_at": "2026-10-08T07:00:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "外国人の永住許可「厳格化」の波紋…年収基準の設定は社会秩序の維持か、それとも“選ばれぬ国”への道か",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFZiZU1RMXFRLTFqSjlPdEdyN3pmcjMxeUFUdURjYWpVR2lWZXkxekxuUWxKdlBJendSbGw2UUlyVWh2OXJSMDBaUXJMRHhLSDd4Nk1fNnkxek50MUR3VzJyQncwcGVYelFOOUducUVMQjQxZHBhbzFWTXV0Y1I0S0ZjRQ?oc=5",
+     "published_at": "2026-10-04T22:45:00+00:00"
     },
     {
      "outlet": "フジテレビ",
@@ -4054,17 +4054,11 @@
      "outlet": "フジテレビ",
      "title": "「在留資格」手数料引き上げ 地域経済や社会への影響は 永住資格の申請手数料は1万円が20万円に",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53aVNqdFBrWlV5U185MW9zMG9DY2dwWk9ROFpQbHpXNEdvazBIMThSRUFOY19kR3c2UXlueHBhS0pRNHNaU2UzaUkwNTFjNHFIdVViME5STXE3bzBTazV3?oc=5",
-     "published_at": "2026-09-30T14:07:00+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "きょうから外国人の永住許可審査が厳格化…「日本人世帯の平均年収継続して上回る」条件追加",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxbHRySEd0aHZNcHRXdDIwRmRfWE1VQmVJYXlBZEhlRzlSSjl3Nlc0Q2JXZXZoVXFaSXBXUXpnUGVuZ3lxeEZIV3NvVTFRdw?oc=5",
-     "published_at": "2026-09-30T19:04:00+00:00"
+     "published_at": "2026-09-30T07:00:00+00:00"
     }
    ],
-   "japan_main_count": 8,
-   "japan_main_checked_at": "2026-10-09T01:18:07.124942+00:00",
+   "japan_main_count": 9,
+   "japan_main_checked_at": "2026-10-12T00:34:00.090428+00:00",
    "read_count": 0
   },
   {
@@ -5136,25 +5130,25 @@
    "fact_ja": "那覇市のホテルで39歳の女性を殺害し、財布やリュックを奪った疑いで、普天間飛行場所属の米海兵隊員（20）が逮捕された。隊員は容疑を否認し、5日に送検された。高市首相は米側に強く抗議し、捜査への全面協力と規律の徹底、再発防止を求め、国会でも触れた。外相は駐日米大使に、防衛相は在日米軍司令官に抗議した。就任したばかりの古謝玄太沖縄県知事も首相に抗議する意向を示した。防衛相は知事と会談して再発防止を協議するとし、県議会は9日、地位協定の改定を求める決議を可決した。",
    "category": "安全保障",
    "target": "日本政府の米側への抗議と対応",
-   "judged_count": 38,
+   "judged_count": 40,
    "first_seen": "2026-10-04T03:36:00+00:00",
-   "updated_at": "2026-10-09T13:43:00+00:00",
-   "japan_position_ja": "高市首相は「極めて残虐で卑劣」な事件として米側に強く抗議し、捜査への全面協力、米軍の規律徹底、再発防止を求めた。国会の所信表明でもこの事件に触れた。外相は駐日米大使に、防衛相は在日米軍司令官に抗議し、防衛相は沖縄県知事と会談して再発防止策を協議するとしている。",
+   "updated_at": "2026-10-11T05:12:00+00:00",
+   "japan_position_ja": "高市首相は事件を極めて残忍で遺憾だとし、米側に強く抗議して、捜査への全面協力、規律の徹底、再発防止を求めた。外相は駐日米大使、防衛相は在日米軍司令官に抗議した。防衛相は沖縄県知事と会談し、米側と意思疎通しながら再発防止策を検討する考えを示している。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "政府の「強い抗議」や首相の国会での言及、防衛相と知事の会談予定を伝えた。論説では、国会開会や新知事就任と重なった時期の悪さから緊張は収まりにくいとし、迅速で大胆な対応を促している。"
+     "view_ja": "政府の「強い抗議」、首相が施政方針演説の冒頭で事件に触れたこと、防衛相が知事と会談し再発防止策を協議することを伝えた。論説では、国会開会や新知事就任の直後というタイミングから緊張は収まりにくいとし、迅速な対応を求めた。"
     },
     {
      "outlet": "JAPAN Forward",
-     "view_ja": "事件の経緯と捜査状況を詳しく伝え、知事が首相に直接抗議する意向や、米軍・大使館が協力を表明したことを紹介した。基地負担への地元の反発が強まったと記している。"
+     "view_ja": "逮捕の経緯と捜査状況、知事が首相に直接抗議するため上京する方針、県が米軍関係者らを呼んで抗議することを中心に、事実を淡々と伝えた。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "独立系の海外媒体の多くは、事件が在日米軍をめぐる緊張を再燃させかねないと伝えている（NYT、WSJ、ストレーツ・タイムズ）。BBCは長年の不満が噴き出したと報じ、沖縄県知事が米軍の規律教育は機能していないと指摘したことを紹介した。NYTは高市首相がトランプ氏に近い同盟者として、米軍への監督強化を迫られていると伝えた。ストレーツ・タイムズ（ロイター）は、抗議の広がりは1995年の事件後より小さいとも書いた。中国の国営メディアのグローバル・タイムズは、日本政府の抗議は「見せ物」で同じ約束が繰り返されるだけだと主張している。",
+   "overseas_view_ja": "NYTとWSJは、米軍駐留をめぐる緊張が再燃しかねない問題として報じ、NYTは後に、トランプ氏に近い高市首相が米軍への監督強化を求める圧力下にあると伝えた。BBCは「またか」と沖縄で数十年来の不満が噴き出していると報じ、知事が米軍の規律教育は機能していないと述べたことも伝えた。ロイター配信のStraits Timesは、普天間からの移設計画が複雑化し得ると指摘し、抗議は1995年の事件時より控えめだったとも伝えた。SCMPは新知事への圧力や安全保障上の沖縄の重要性に触れた。国営・政府系の中国Global Timesは、日本の抗議は形だけの外交的演出だと主張している。",
    "judge_version": 2,
-   "search_ja": "沖縄 米海兵隊員 強盗殺人 抗議",
+   "search_ja": "米海兵隊員 沖縄 強盗殺人 抗議 高市",
    "japan_main": [
     {
      "outlet": "NHK",
@@ -5164,27 +5158,21 @@
     },
     {
      "outlet": "NHK",
-     "title": "那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認 | NHKニュース | 事件・事故、沖縄県、アメリカ",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKY2Y2d0pySTR1UjFhbmMxTGFZM0hCeUdCdzJINjNjQkpqb3R4Qk9MWFBmVkZMY3J2RWJ5aUhOVmxYdUJQRS1DQ3A1U1NXUUlZYTFjcTVFbnVoU3hCbllV?oc=5",
-     "published_at": "2026-10-03T22:26:02+00:00"
+     "title": "沖縄の米軍トップ 「48時間活動停止」「夜間外出禁止」を発表 | NHKニュース | 事件・事故、沖縄県、アメリカ",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NdlhKa0dTNlhrTWdkak5KTlB5dHBJZGlLNHlYS1c5M1d6S2FBMmpKaFZBZ1I2Y3UtdWZyNGlCZWEwVGFLSW92dDl3b2xUNGUwTnVQeFJqX3ctVlZZaGpV?oc=5",
+     "published_at": "2026-10-06T20:57:00+00:00"
+    },
+    {
+     "outlet": "NHK",
+     "title": "米海兵隊員逮捕 葉梨沖縄北方相「断じて容認できない」 | NHKニュース | 事件・事故、沖縄県、アメリカ",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hWm9JQkpiX1RXUXkxVkhKdlFTRE15U0VEWjZQWkhQQ0NNVmxBVkg2dl9YcE0yazhVMVJaU28yLVlVQTNGdURQTWpGdzhlSVFPbDU2Nm9rRlNYQ3NHcmNN?oc=5",
+     "published_at": "2026-10-06T03:21:56+00:00"
     },
     {
      "outlet": "NHK",
      "title": "古謝知事 米海兵隊員逮捕で在沖米軍トップらに抗議",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yMGZvLU9ZYURWRF9yLVVXYnNvWHhKQ0c5RHIxN0NTUU5ncmw0SG1fbi1lVDYtcnZocjQzdjB5SDRNYlZobHBJclV6amsydENwclJHSnlTeWt1S2VsNzV3?oc=5",
      "published_at": "2026-10-05T10:53:45+00:00"
-    },
-    {
-     "outlet": "NHK",
-     "title": "沖縄 逮捕の米兵 事件前に被害女性とタクシーや繁華街で行動か",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43d09IQWt3bkdteGhXd29hT2hNSEoyY2JaYXhnc2JCQmhtenltc0N5ZGdDczRka1JhYTc1TExJUFVKS09meFBfbHE0dE9uT3p1QmFhaEpuTUJpMjdoX21j?oc=5",
-     "published_at": "2026-10-05T10:55:00+00:00"
-    },
-    {
-     "outlet": "NHK",
-     "title": "米兵逮捕の強盗殺人事件受け 那覇で緊急の抗議集会",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XSDZzdU9mVTNkVFhTTUh3dWE3aUJvTzVyVEhWVktEODJpNzVVQ0V4dWxKZTNxcS1Gc3hLVE5rUWZ3S3FhdG9PZnllNkJzMEUxSXJXTGk0N204a3dPcUNB?oc=5",
-     "published_at": "2026-10-04T14:24:20+00:00"
     },
     {
      "outlet": "朝日新聞",
@@ -5194,9 +5182,9 @@
     },
     {
      "outlet": "朝日新聞",
-     "title": "沖縄に怒りと不信、繰り返される米兵の犯罪 地位協定の改定も進まず [沖縄県]",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hVEhVQlVXRVNpdWVkU0x3RXVtMW5JNjVhc1ZJQjk4MXNpQmlWaXhYUkZETlo0ZTJ1LUNFMV9TUFdSNXV6ZGd1ekNiVTRUNjY4TFVDclp0SUhWUDdEQm9zaERGdkdXSTg?oc=5",
-     "published_at": "2026-10-04T12:59:58+00:00"
+     "title": "高市首相「遺憾の意」表明へ 強盗殺人容疑で米海兵隊の男逮捕",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KSXFESnpjR29YX0Z3amo4WGxFdXRRM21kY1hyNTlGdkI5VFBNbTdScV80SVZ6OVdLXzJKSEVvbUxuLXVrVFplWEdSejRqNDVyQ1NPMjNUbUlnTF9oQmVsclY3WF9GT3c?oc=5",
+     "published_at": "2026-10-05T02:47:10+00:00"
     },
     {
      "outlet": "朝日新聞",
@@ -5206,27 +5194,15 @@
     },
     {
      "outlet": "朝日新聞",
-     "title": "沖縄県議会、日米地位協定の抜本改定の要求など可決 米兵逮捕を受け [沖縄県]",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Pc1JPMHgzbkZaZkVoVl9LYVlPY0dQZV8wa1hWVE40TmRoOGtEUFc1X1NlUEhNN1h0dzBWZEtlNjVqWkhBdXB3aDVWNmt2YVZOSXFOV2VtOVZrdm9pSmZySmpvVTdlMGc?oc=5",
-     "published_at": "2026-10-09T02:45:56+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
      "title": "【社説】繰り返される在沖米軍の犯罪 米軍は再発防止の約束を果たせ",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SS1h2YTN6VDhtbUJKdjdrLXNSdHFRTlBndDFXQzR3UGtDdFUzWWpkYmt4N2tiSGtMV1IwdEJWaUw3TWtXZzFWNGU3V1dTQm9BTGpBT1F1TGxqMHI4OEZfRWFfZGpjSEE?oc=5",
      "published_at": "2026-10-06T10:00:00+00:00"
     },
     {
-     "outlet": "読売新聞",
-     "title": "米海兵隊員が強盗殺人容疑で逮捕された事件受け、沖縄県議会が米政府と米軍への抗議決議案を可決…日本政府宛ての意見書も",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WWmxhYTg1MXo0bEhrX2NQMFVmdk1xZldZUGdJWHJnQVprcVN0OUdXSkxxcWM2WEl1MkppS19tdlZuUm9ZYS1tSjd5SjBoM0V0ckd3MGxFWEtrbHZvUTNzekJhcVJsdw?oc=5",
-     "published_at": "2026-10-09T04:17:00+00:00"
-    },
-    {
-     "outlet": "読売新聞",
-     "title": "米海兵隊員による女性強盗殺人事件、沖縄県議会が日米地位協定の改定求める抗議決議…「極めて凶悪かつ卑劣」",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1odjViZ3dTeXhkNS11Q0tTcjBvUEZOQ25tN3htUURkdUEtS3Q0MnhJVkhPbkRGQmxNNmlNaDlXVFA1TjFyTXN5TThiaFBTS0txM29NMnNDaFN4eUstN1hsNGdXMWthMER1S1FKejFiWGY0UQ?oc=5",
-     "published_at": "2026-10-09T07:11:00+00:00"
+     "outlet": "朝日新聞",
+     "title": "高市首相「遺憾の意」表明へ 強盗殺人容疑で米海兵隊の男逮捕 [沖縄県]",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SVlMakVYMS1HbjZxOFhZOU5WbUpqb1Bna2FlOE5Zc3VRVTg0Z2J1bXg5c1pyYURjWGdUU2ZzV0JtYnJrSk96dlRRRmFqVXF1a0ttTDRTT0kxT2ZRNGYycXFnVlUxejVDOGNPZWpR?oc=5",
+     "published_at": "2026-10-05T02:47:10+00:00"
     },
     {
      "outlet": "読売新聞",
@@ -5236,9 +5212,21 @@
     },
     {
      "outlet": "読売新聞",
-     "title": "沖縄の古謝玄太知事「激しい怒り」「人権教育が全く機能していない」…海兵隊員の強盗殺人受け米軍・政府に抗議",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwM1VBZnNEYUIyZWRCNmRzbzFQWTNIMW5qdTRGUFUwalYwNHBZdjE3SGZtbzBOdm1WcjB5X3NadGp3dTZHU3hFX0c0RmRtVUhnVE50MFBEanotTHNGTDFfb1dhQy10Zw?oc=5",
-     "published_at": "2026-10-05T13:16:00+00:00"
+     "title": "沖縄の米海兵隊員逮捕、高市首相は所信表明に先立ち「ご遺族に心からお悔やみ」…米側に強く抗議",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UZ2xvaHRhWjZwdXgtUFZNZVllcDVmZnc0eHZQbkFUeDhtSm1mWHVpRVd0LVZ3Y2xCUUtadDlLWXdsOUJEa0lONW1fbllkLVVuTGcwZ1U3aWI5dUcydVJCeEVLVzJpQQ?oc=5",
+     "published_at": "2026-10-05T11:30:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "高市首相「凶悪事件の発生極めて遺憾」…強盗殺人容疑で沖縄の米海兵隊員逮捕、所信表明演説に先立ち言及",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9icWdmZ3BLZjc0eEhlQTRWTE1JZDd5emx4Rk1hRWhYSlVBc2g3LVc2cjhWQlNpUWt1LWxaZWxuUmZObVpNWGpZdThPRnN3cldVRGlkbG9HYnFLVlBOZG04NFRCeTctUQ?oc=5",
+     "published_at": "2026-10-05T05:25:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "米兵による女性殺害事件で古謝玄太・沖縄県知事、週内に上京し高市首相らに抗議…「米軍の綱紀粛正」要求へ",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NRERRT000MmtzYzhrNmJGZmtUTm03MzVjcGdWUVgxSW93UlJ1bjlTZnBDYklHRXg5MUYxcmdXVUkyZldXMDRJOEo4OHM2QllfTWVnUFZQX3dJZnlyRUpyTHE2Z3FYQWpRWGNzdjdTMkVrQQ?oc=5",
+     "published_at": "2026-10-05T05:47:00+00:00"
     },
     {
      "outlet": "読売新聞",
@@ -5248,51 +5236,33 @@
     },
     {
      "outlet": "毎日新聞",
+     "title": "高市首相も沖縄知事と面会へ 米兵の強盗殺人事件巡り協議か",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2TW5PckoweUJUWDQ1WUZORjhfdFh0eF9iVDhBV0swTWUwUmdGMmFmM3RibHdUSHA0WGgxS3htRVlNMHVEaF9kR2h1djdkU1ZKd29MSWc2VTc0ZWN6dzBuVFcwLTdNTUs3?oc=5",
+     "published_at": "2026-10-06T10:40:59+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "高市首相「日米で再発防止協議」 那覇・強殺事件受け沖縄知事に",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WRnJ4cEJEOGQxYmV4aVNMT0FPYm1lMEdNdVBCcC0tVnJKaHNPaW1uNnVWcGVRZXlROG0tS2VFMXBpZGtvd2VxRnVlNTBpQktMYTFlRHRTVUhCaGVSc0hsakgtcFJyQWp1?oc=5",
+     "published_at": "2026-10-07T11:03:22+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
      "title": "沖縄知事と那覇市長が抗議 在沖米軍トップは謝罪せず 強盗殺人",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04NnpMOXNyYXhjbWZSUHpZUGJCUlhYeVAweEkxcTZVYU9MYlpsNnBySkJBWW9pT0FxT3pJNHV5M2p1THBiRzdzTWlyMTVmbHhNRkNZbTg2VnEwMi1zTDRyUHlmeVFsRURV?oc=5",
      "published_at": "2026-10-05T10:45:30+00:00"
     },
     {
      "outlet": "毎日新聞",
-     "title": "強盗殺人：在沖米軍トップに抗議 沖縄知事 地位協定見直し要求",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZY0E5QzNQR21YRzVIbzdzQktCQ2c3aTZtb0swRF9DQVRtdTJqaVFwdUlIYzNuZURmenNIdkhKRTZlb2pMLWx4YUlWcXJMNWhKUHQxb09iM1FXMzU3LVpWZVZCdDRWRlI4?oc=5",
-     "published_at": "2026-10-05T17:00:41+00:00"
+     "title": "米軍事件はなぜ？注目されるのか 日米地位協定の専門家に聞く",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VbTdqRWhnWVhRdHBRbWlwSkpSQkdnZ0E5Zm1CYWZzX1JiNFFUaHpLYWQzM2pWYzB4eWhJSTYyaFhVZHRUVnFYMU0yRVp0Vzh4SWtJMVd5d2NOdG1pYW1XR0YyWTBwLXIt?oc=5",
+     "published_at": "2026-10-06T21:30:00+00:00"
     },
     {
      "outlet": "毎日新聞",
-     "title": "行方注視の日本政府、沖縄県と対応協議へ 那覇・強殺で米兵逮捕",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zM01jYlVMNlVNUWt2aVZfaTNicTlWSFoyWlBJaGNwbU9LZzhFcWVFekV6MHE1X1hTcERxTlZVcklhZVpjNmhpUFBfY0twVFVJMnpSVWU3TnE3MEdtaVFBWk5GY3ppMW5O?oc=5",
-     "published_at": "2026-10-04T10:05:10+00:00"
-    },
-    {
-     "outlet": "毎日新聞",
-     "title": "「米側に強く抗議」 高市首相がX投稿 那覇・強殺で米兵逮捕",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QaWJuWjNHanp2LW1nem1ucnlyUk9XTmRtSDluWEpMZTFJTS1HSlQyUXdQOGlwYi1ldU9zOGVfanRLSzJfNG42V3pGdjU2RnJVWjdDNUtRSUVWNkE2dUlQdjJWZlRaWGc4?oc=5",
-     "published_at": "2026-10-04T07:10:49+00:00"
-    },
-    {
-     "outlet": "毎日新聞",
-     "title": "SNSで相次ぐ被害女性への中傷、知事も苦言 沖縄強盗殺人",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iVUNkZkVCNGNvSS1hQXpSd2x0ek9ncTIxY3FWM3VDLXZjejJXeWpqT1lHcENrYl9QRmRzWlEtb01lUzdMQXFLVUk4NHlxZXRWTElkU3hFTV93TVJ6X3FqYmVpUFVtT0RG?oc=5",
-     "published_at": "2026-10-06T10:07:36+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "「日本で激しい怒り」「緊張再燃させかねない」沖縄米兵逮捕、米メディアが大きく報道",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrS25fMkxaTjZpeDZGaDRuZDEtekVtS2hZUnJ3X2dpWHB6SDZzMmhlLXkzYnBCb0VfdUkwbkdWeHBLUFlOMnF4MzU1Z0w4NE8wT3Z2TFdTMmVEakZZbmEzcW1rQnoyZTI1M3dpeTVEb0FEbXdQSHc?oc=5",
-     "published_at": "2026-10-05T01:46:41+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "沖縄県の古謝知事「事件が起きるたびに再発防止求めている」 米兵逮捕で在沖米軍トップに",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tZ2hiaFgzcktYLS1hSEN0d1FJczM5Z0J6ZW9GT3RXaVF2NWQwb2FOVUJoWm1Nc2F6dGRGNVZWQVpUZjhacDN6T0toNzFkaEtLckFZNjlpNFJfZlliZ1d1RTRLSHFwRFpyYXliR1VVVlBnSW1vRHc?oc=5",
-     "published_at": "2026-10-05T08:44:01+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "「重く受け止める」と米軍 沖縄強盗殺人事件、哀悼の意 海兵隊員逮捕で",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mTzZHN0oza1o0d0puY0JKV1gtT211TjJWdXVGdW5CRW1PdEJ1Zl96T01lai1iS05rT3V0aDd5RUpsX3NLbHluM3RxMTA3UjdKRm9TMThEVXRnbEpucW1fa0lmZGtSNUFnTGhXQWxtQVVFRXpVSlE?oc=5",
-     "published_at": "2026-10-04T04:45:14+00:00"
+     "title": "小泉防衛相、米兵事件巡り沖縄知事と7日面会 再発防止協議へ",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTG52dzJzeVFrZ0xGNjJKZE5IMHZPTFRhdDQ1dWkzT1YtSmw0TlhiaGVUZGRFSlVLUEZLd3ZYRTI3Z0NjTGxlNE5GUjNEMjdlcUtFb2NJVkdxUmRRSFJ1S0lNSG9JMm1n?oc=5",
+     "published_at": "2026-10-06T02:55:18+00:00"
     },
     {
      "outlet": "産経新聞",
@@ -5302,15 +5272,27 @@
     },
     {
      "outlet": "産経新聞",
-     "title": "沖縄県の古謝知事「県民に大きな衝撃。非常に憤り感じる」 米兵の強殺容疑逮捕に",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sQ0VwbVM4MnJMSUphWDJEMWo2bl9Lc0dOUGhqTDNVcS1rcjU3dDlqSWxEQVN2dWxhcEhXY3dXUi1NUUFFdEFINUstM3NTblF6dTNEa2p5YzlrNWlYaHpfTTl2Q1JFS0lvTUZIMl8tbElJSzJDWUE?oc=5",
-     "published_at": "2026-10-04T09:02:29+00:00"
+     "title": "沖縄米兵逮捕、古謝知事が高市首相に再発防止要請へ 今週にも上京「看過できない」",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZERqTmE1b0R3Vl83cGtPcjZhVjBobUJYbHBld2ZNQUJfQlFtaG81aUc1UUV2TkMwdlJxV2xaeWgwcXowWlYtQ2NXS2lHVldSNk9hTHJVMGdFS21idXVYX09GYmw2LWhveGZVeFMyVUVpT293ZGc?oc=5",
+     "published_at": "2026-10-05T01:44:22+00:00"
     },
     {
-     "outlet": "日本経済新聞",
-     "title": "沖縄県知事、在沖縄米軍トップ呼び抗議 強盗殺人容疑で米兵逮捕",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SN2l3aTZObmFTbXRQVjk3a19senZXckJNZ1JfMU9qWktsbzJLVlNpVi04OGFzRjlYcVhoUmpxYVc3NHA2N0FINUFqYklNTDFGcC1HWDJmOU5sak9WWUI2b0Zsei0xNGJJT0VWbw?oc=5",
-     "published_at": "2026-10-05T07:02:12+00:00"
+     "outlet": "産経新聞",
+     "title": "政府・自民党、米兵の沖縄強殺事件に危機感 高市早苗首相は7日に古謝玄太県知事と面会",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LU3Y1OTZLc0RJSmg2LW85UFRBS3hzeFczTURZTjNxZ05iWnBKY2lBWkVITGVfb0Myc1I4SzVPS2RwVjRfb202TFdlNlNiVzdKUkRYRTB4N040Yk1ZRElLb2I3dzJCN2l3Z2dGQmYxQ0RnQmxCSHc?oc=5",
+     "published_at": "2026-10-06T12:11:21+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "古謝知事、12年ぶりの保守県政も政府との協調路線転換で難路 米兵強殺事件発生1週間",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nSGh4NVFuVFRsUlY5b3ZSRU1RRThONXFoekJmc21PY3hWXzNXcU1FWlhQdi1fb1RId2RvbUJwMzV4T2VSNWl1aWtWbi12UlVha2ExQ2xJbk5jbFZ0V0NvT0tsME1UTC1ud3RQeTdRaUNMN1JUYkE?oc=5",
+     "published_at": "2026-10-09T09:00:08+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "「日本で激しい怒り」「緊張再燃させかねない」沖縄米兵逮捕、米メディアが大きく報道",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrS25fMkxaTjZpeDZGaDRuZDEtekVtS2hZUnJ3X2dpWHB6SDZzMmhlLXkzYnBCb0VfdUkwbkdWeHBLUFlOMnF4MzU1Z0w4NE8wT3Z2TFdTMmVEakZZbmEzcW1rQnoyZTI1M3dpeTVEb0FEbXdQSHc?oc=5",
+     "published_at": "2026-10-05T01:46:41+00:00"
     },
     {
      "outlet": "日本経済新聞",
@@ -5320,27 +5302,39 @@
     },
     {
      "outlet": "日本経済新聞",
+     "title": "米兵逮捕、高市首相「極めて遺憾」 外相は駐日米大使呼び抗議",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMWDRoQUZ5anB1ZTJtTGVEcDY4TEp6MWdrTThfdk5ldkZ6WlV6ZGtRdjYteS1ZYWhlUkwtUmFna2RyeGhyVTU4TGM1eTN6RFh3X3FaWkNHNWJnMG9aNDBUNG5iYUdkUzRaZDExbw?oc=5",
+     "published_at": "2026-10-04T06:22:16+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "沖縄県知事、在沖縄米軍トップ呼び抗議 強盗殺人容疑で米兵逮捕",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SN2l3aTZObmFTbXRQVjk3a19senZXckJNZ1JfMU9qWktsbzJLVlNpVi04OGFzRjlYcVhoUmpxYVc3NHA2N0FINUFqYklNTDFGcC1HWDJmOU5sak9WWUI2b0Zsei0xNGJJT0VWbw?oc=5",
+     "published_at": "2026-10-05T07:02:12+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "高市首相が沖縄知事と面会へ 米海兵隊逮捕、自民部会でも懸念の声",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tQ0gwNE5zNjctZ0ZRemlseG5ZXzh1SEtwOHgwSHVsTHQxeW5CUUliNVNQYWJFYVVlZVA3bUpkNTZjRjV5RjNoRkt1R3VXRmFCemRVRVR3Y29BNUhkRW9OLTdrbV9lTXpGRndZaw?oc=5",
+     "published_at": "2026-10-06T04:21:50+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
      "title": "米兵逮捕の女性殺害事件から1週間、沖縄に渦巻く不安 新知事に洗礼",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yOFBmV1JjSE9jeHBGVGZpM2FUUlNGY1lSSnFOWDhOUTJ3UzBoeENlQko4b1Z0WmV1eTJpTTJDTFo0X05MR2x4bDQ2c2ZCV1dwXzRBVmQtWHN5VkFEa2t1VXNHbVpWVTE0R1M1Tw?oc=5",
      "published_at": "2026-10-09T09:41:55+00:00"
     },
     {
-     "outlet": "日本経済新聞",
-     "title": "沖縄県議会、米兵事件で抗議決議 米軍は訓練再開",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NcHdadVBaUTJCYzFsMUk1NFVUQjdWQlRZaEQxanlGVS0wa2FlX2pBWmlXTUotSVcxMUd6U3c0UHBnb2xvbXgyQnRabkVPX1pWUnJyc001QVMtRFBZQkpnNmYweTREMHdzTS1sMA?oc=5",
-     "published_at": "2026-10-09T02:17:28+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "那覇のホテルに女性遺体、強盗殺人容疑で米兵逮捕",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2FzamhkTXNHVjJpOFJYNFMtaktLSW9qY0RZcFdlSktBRFJzaE9Xb3F0WS1JVTdNYmQybHEzR01zaUcyZUU3cGM2RjlQd1hnaHVWSnhOMllMT3RNRkJBanNaUTdUZnp1OWpsQQ?oc=5",
-     "published_at": "2026-10-03T23:49:51+00:00"
+     "outlet": "日本テレビ",
+     "title": "沖縄のホテルで39歳女性が窒息死“強盗殺人”米兵を逮捕 高市首相が抗議「極めて遺憾」（2026年10月5日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DYTdNbzJXNzdySkRta1U2RDJCT2xQREdoZGRXOFQ3NklsZjdZM1Q5MHloUTFqdXpGNDEyZGgwMHA0enFUUC10OFNBbW1WRWVKc3NPZVZwWkV4dDZiZm1IOUtyQ1B0U0xjMjlBN3ZlclNrYXVaZTd3WlZTRUw?oc=5",
+     "published_at": "2026-10-05T09:29:00+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "沖縄のホテルで39歳女性が窒息死“強盗殺人”米兵を逮捕 高市首相が抗議「極めて遺憾」",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DYTdNbzJXNzdySkRta1U2RDJCT2xQREdoZGRXOFQ3NklsZjdZM1Q5MHloUTFqdXpGNDEyZGgwMHA0enFUUC10OFNBbW1WRWVKc3NPZVZwWkV4dDZiZm1IOUtyQ1B0U0xjMjlBN3ZlclNrYXVaZTd3WlZTRUw?oc=5",
-     "published_at": "2026-10-05T09:29:00+00:00"
+     "title": "高市首相「事件の発生は極めて遺憾」女性殺害でアメリカ海兵隊員逮捕（2026年10月5日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tMURpYk9WbnI0Um1oNUdkcE1LNDl4a1hpV3RUcHIwMV9vZzlLYU9aeG8zVUxURmx4cTR1RnVxV3VQWkx1ekF6ajFJcjZmYWFmbXVHRWtQY29GN1l6X0tKRUktYVhDTkdpeUdVUmNSRmtUZGFXV3djdUd0Qy1mZw?oc=5",
+     "published_at": "2026-10-05T09:46:00+00:00"
     },
     {
      "outlet": "日本テレビ",
@@ -5350,27 +5344,33 @@
     },
     {
      "outlet": "日本テレビ",
-     "title": "茂木外相がグラス駐日大使に抗議 沖縄駐留の米兵逮捕受け（2026年10月4日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MOE5DSFlfU1RUa3p6SzRMcVNIOUdpZFhzbWMtRzZqMFo5cmdidTBkdzRlTnVmSU5iSG9OTDJ4Q0VkdHgxLVVpRk5Mc0F2Vm5Lc1p3VXZWMXNueUVJR25pWkR2M3N3Q011cERJYVNpUU1uSVNwTjhBSVQ5b004dw?oc=5",
-     "published_at": "2026-10-04T08:46:00+00:00"
+     "title": "ホテル女性殺害事件受け…米軍に再発防止求め抗議決議 那覇市議会が全会一致で可決（2026年10月5日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVTk4VjhzdVFJMGdlM2V6NFZtbUdzWEthVF9uRE5sckxOWmdyZG5jbnctNU1VOHZmeVg0VDRLbGJkT3FXcVBpQ1ZCYjJxLWRvNWlkbFJQenRHcUpGR1V6WlJJZEV1eEFRbjBER0RSTFBUbjN6YlZzcmtJUGw?oc=5",
+     "published_at": "2026-10-06T06:55:00+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "【速報】沖縄県議会 兵士らの犯罪根絶求める意見書・抗議決議を可決 強盗殺人容疑で米兵逮捕を受け",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9obVZpcmNKajh0S0lOanRFQUExMHM1aHZ1cjhtY2k2LXhwS0dqeXlDSDVNOXlLNjZmNTBwTU1EMklWSTdtaWVFZVJQNVFXT0daTFMxTWg2VkpPYVEyREE2T0k4NWlpZ3Q2X2NMVHNYNXp6eTZxUmtubHVpZ3g?oc=5",
-     "published_at": "2026-10-09T02:47:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "沖縄の米軍 きょう正午から「48時間の業務停止」 基地外での自由行動や飲酒の禁止も",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aQkJHWEdHUkZ2ckRYOV9lamZqa3BkMjNLMVdzUVV0aXlaYzZMNEJBRXZJTmtDX2c1U1pvTTg3aEhMejZzMHplbHBOT3FhQ1lfaUZWUnNuQWZibExabEhxd1RFYkh4aWhHaGpudjV0bG9TbFJSckctR2hoMnU?oc=5",
-     "published_at": "2026-10-07T02:48:00+00:00"
+     "title": "高市首相と古謝知事が面会 米兵逮捕の強盗殺人事件受け「抜本的対策を」（2026年10月7日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLMjN3QmdmekVaVjh5UFN5NlNKX3JFcjlydTk4eUxxcTJkYjRyblhCZ3Y4bllGVTB6el8wTm02T3R4THNHR3VFMHR5SlZGMncyMjRVNGFPLUVUblU2MVI1Y3NZUlRKWktxME1rRVhBMmFtSUgwdV9SVERkYXJoUQ?oc=5",
+     "published_at": "2026-10-07T09:57:00+00:00"
     },
     {
      "outlet": "TBS",
-     "title": "米海兵隊員強盗殺人事件で県議会が抗議決議",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRDZ2SG5QTFV3UWFYSzRVYUwyX1QtdnZFWDdQb0JzOGw1bFdXbVN5cW1rZDNGU2Z5RnFaVWZsaGt6czJZYThaZTlTZVdob3ltMkhPajEtRzI4dw?oc=5",
-     "published_at": "2026-10-09T03:04:00+00:00"
+     "title": "米海兵隊強盗殺人事件 古謝沖縄県知事が政府に抗議",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5NTRaZWNRdUp1Nl9Od3JYZUFOeVRYdHJyamo3eGpaYzFVLU9uS0oxa2JDUGhWZEdubWlqUW1KNXQ0TEMxTjRTMXZmNzB3ZUlyWTQ5czFWeEQzdFI2Qk1IUl9ialQ3OG8?oc=5",
+     "published_at": "2026-10-07T10:36:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "米海兵隊強盗殺人事件 古謝沖縄県知事が政府に抗議",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Za19DV1hsVXljaHE0STl1ZzBHUjlQd29TMU1BYjM3SFV3bnZOR0xkbXdJU2xCS1dPSVRNSHk1OFpsNUZwNEU3UVRZOUNqdS04RE82VGxoNnZYSWMtX2ZDT2M4S3g5ZmV2OFlSRnJKVklJZFk?oc=5",
+     "published_at": "2026-10-07T10:36:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "「日米の信頼関係にも影響が」自民党・臨時会合で政府への対応求める 那覇市・女性強盗殺人事件で",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82UXNBRDhJQzNhM3drVUk4UVZTaDg0UTFuVU54Z1R0UUQ3ajR1eFdIZkx4cmFBZ0RHM3lENUpMMFBLckZ5TEJjUVVVSFNEREZRTHpraXBrLXo3c0p5MVBEMS1uRVA2YXhWNWJxTjh1T0NKZHE0?oc=5",
+     "published_at": "2026-10-06T03:02:28+00:00"
     },
     {
      "outlet": "TBS",
@@ -5380,21 +5380,9 @@
     },
     {
      "outlet": "TBS",
-     "title": "米海兵隊強盗殺人事件 古謝沖縄県知事が政府に抗議",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BS2Q4NzRkcHFTakpVWUxvZVBjOUxnRXlKT0djb1hWMkhua2U0NVJrejNJZDRYcmVwbVRSalB1UGUybzB5UHlJak1PTWF0NEJzSjBCMXNvaXM1QQ?oc=5",
-     "published_at": "2026-10-07T10:36:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "米海兵隊強盗殺人事件 古謝沖縄県知事が政府に抗議",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fOXJzM2pqSExzS1Z2YmVyN3FONlA1RzNYNEd6UFp1dDljQkI5bTdMZmdON3hPbnRUd2dodjFkdlFZZjRyWTBRTnJBZkthT0Y4RlVoRkhIZw?oc=5",
-     "published_at": "2026-10-07T10:36:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "在沖米軍トップ、強盗殺人事件で哀悼の意示すも謝罪は回避 古謝知事「断じて許せるものではない」と抗議",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04bXVHZGZrUWlOblVhbFZfd3lOVUVkWERWR0VDTEpYX3pUd0FrVkxtU3JqUUFJZXViM3RfaXpfUF9ydG5sRmpEV000Ni16OVV6VzhKMlZUNmFZdw?oc=5",
-     "published_at": "2026-10-05T08:07:00+00:00"
+     "title": "「日米の信頼関係にも影響」自民党 那覇市・女性強盗殺人事件で臨時会合 沖縄・古謝知事あす（7日）上京へ 高市総理・茂木外務大臣・小泉防衛大臣などとの面会調整",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVVQ1SXZsc0ctYk1RM3l3YzUyZFgyUnl6WFFFMG0yM1NGNlV4SWU1NUZkWkVPaWlpQTRpRF9YT2QwZkRzUk41QTVOUFJnRWJtelVpTFVnbw?oc=5",
+     "published_at": "2026-10-06T07:52:21+00:00"
     },
     {
      "outlet": "テレビ朝日",
@@ -5416,15 +5404,15 @@
     },
     {
      "outlet": "テレビ朝日",
-     "title": "【速報】沖縄・那覇市 ホテルに女性遺体 強盗殺人の疑いで米海兵隊員の男逮捕",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzQXkyUkNkRDFLbnYzMXp2c3RTbzNNc0JnZHZFYnFJMDl6Zk9Yc2RHU3BDdldNX1ZOZ2FLdHR6RTNGS0ZFNGlHaE90QW9nbng5WFZmc3cwTGh1UzJuNEpZamNrbnZWMktnT0hZUUhUOWVmZw?oc=5",
-     "published_at": "2026-10-03T22:15:51+00:00"
+     "title": "那覇市強盗殺人 古謝知事 日米両政府に抗議「地位協定の見直し」求める",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IY2pFbUY3WjI3ejJLNDNNZVF3NGtJbkdVcWF5czdRVXJKSWRGLVdlZF9NN0tzMHc0YlpJd2VHSk9UU3lDNk9hMTRDQlFtNFFzT3c0aWlZMjd0c0FFbXhjdktNN05LYWlvelZYQ0FPRmpJZw?oc=5",
+     "published_at": "2026-10-05T20:55:42+00:00"
     },
     {
      "outlet": "テレビ朝日",
-     "title": "目撃した人は？沖縄ホテル女性殺害 米兵を緊急逮捕 知事は「日米両政府に抗議」",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FdEVKTGV5NXU3QmZLZVBPaEFwbnZlS1NCcVpyTUxDd2E0cGxzQWlPbl9SNXI1ajJDeGFxV0FNQmpCeGRmaE9zUThrYjJGenBYeWVHV0RqcF9JX2RmMXloa0tTQ0xxYkc0MWd6NFQ2SHRSQQ?oc=5",
-     "published_at": "2026-10-04T14:30:25+00:00"
+     "title": "米軍基地に入れば“逃げ得”なのか…22年ぶり100件超の米軍関係者犯罪、地位協定と捜査の壁 元海兵隊員「基地内でも裁判にかけられる。情報共有しないのはアメリカ側の落ち度」",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wWG85SkFiSDlyaEdUTW9EMU5Lb3ZYbWJ1WExIdWpxeDZkbDhzaWplTEY5aTc5Y1dvMTBOeWpIR0I5RFAxNEZodmhBeEZacFczX3k5WkVnUk9SYm9FUlQ4OVAxMkdyODRfWkpFZjNQRHc1bmFEQWZqRXJ3?oc=5",
+     "published_at": "2026-10-10T03:00:00+00:00"
     },
     {
      "outlet": "フジテレビ",
@@ -5434,31 +5422,31 @@
     },
     {
      "outlet": "フジテレビ",
-     "title": "小泉防衛大臣「極めて深刻に受け止めている」 在日米軍の司令官呼び直接抗議「徹底した綱紀粛正と再発防止策を」 沖縄・那覇市の強盗殺人事件で海兵隊の男逮捕",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HYzRyZFZWaEVPc0lBOGNNa2pfTFRyb2d2Zm41ZTVJWVhXM2tUaEQ3c3JsRElCYmxWT0NyYkVTTzUyQXpLRFBkWDJHUjFJQQ?oc=5",
-     "published_at": "2026-10-04T09:13:00+00:00"
+     "title": "「私は知りません」逮捕のアメリカ兵の男 “ひも”で女性の首を絞め殺害か 高市総理「極めて遺憾」 古謝知事「看過できない事態」 沖縄・那覇市",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yVmxfczA3TUQyUlhzcGdDR1owbzh6TFIwQnpDN2NicnBObWFfSlZWdnZLNmhWbGdHMFB4MDlsWXQyOHlIVEN3VlVmR1hEQQ?oc=5",
+     "published_at": "2026-10-05T08:25:00+00:00"
     },
     {
      "outlet": "フジテレビ",
-     "title": "米海兵隊員強盗殺人事件 防犯カメラに男の姿 米軍は活動停止へ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HckRPOU5IWkFLUF9aVmJqRmZkaEQ2NWVwWE12UU95UTlKZlQyd2U1enV5U0dUazBiRTVycTlJWnA0eDdVNnViZ2F5WnRUZw?oc=5",
-     "published_at": "2026-10-07T02:40:00+00:00"
+     "title": "【那覇市強盗殺人】電話コードで殺害したか 室内設置電話の受話器が外れた状態",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45MHNKUWdpM2hkNTNCeGw5NDY4czlZZUE2NFV0VWNPNmoxUkhDb3BqUnJNS1NnQkV0MzVVMWs3ZFFrWXJuLVJNWkhtY0h4dw?oc=5",
+     "published_at": "2026-10-06T09:09:00+00:00"
     },
     {
      "outlet": "フジテレビ",
-     "title": "米海兵隊員を強盗殺人の容疑で緊急逮捕",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ubGVNSFphT1k0a0ZxQmZ1MFpEbVprbTRCNDc5d1YwSnI5eDRTVUJyVjRVM0dyS2taRjhuUXdNMGozYmdmQWJJMWtzTTVVQQ?oc=5",
-     "published_at": "2026-10-04T03:00:00+00:00"
+     "title": "沖縄県議会が副知事人事と日米両政府への抗議決議を可決",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIRXBvQjU2RVRHanU5aUlMMXZHUXREOFU0enROZHp2NENlanZzSFhvU1o5SjJoUmRtWVRiNW5tWlRmZEdvemVfc0ZaUm1IQQ?oc=5",
+     "published_at": "2026-10-09T02:40:00+00:00"
     },
     {
      "outlet": "フジテレビ",
-     "title": "アメリカのグラス駐日大使「捜査に全面協力」 外務省・沖縄県知事と協議 米海兵隊員の強盗殺人事件での逮捕受け",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Q1F2U0pCSk9zYzc0TUVOdW9QQXdlQVBoaWtEdmJpbE5Ccm5SWEVLWUc1d1FtOWt6bnl6NU5jeGFoeXlJMVE0Sk1OSUlxUjhtbDVlOGlCQ3VEUm9jNVVj?oc=5",
-     "published_at": "2026-10-04T05:38:00+00:00"
+     "title": "逮捕の米兵（20）は公務外か 基地の外での逮捕、身柄引き渡しでの問題は生じず 沖縄・那覇市ホテル強盗殺人",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mb2FJU3BaN3FoaEdBN0k4amY0NGZ0MlRablM5OEpBR011aXBMY29fRkpBY3FzOEUyMkZQNEgyalJxSmx3S0VmZWVnU0tYZzVpVTQ1ZmxNMjRnX05QZTJn?oc=5",
+     "published_at": "2026-10-05T09:20:00+00:00"
     }
    ],
-   "japan_main_count": 38,
-   "japan_main_checked_at": "2026-10-10T00:51:31.616203+00:00",
+   "japan_main_count": 40,
+   "japan_main_checked_at": "2026-10-12T00:34:13.412239+00:00",
    "read_count": 1
   },
   {
@@ -5539,7 +5527,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-10-04T18:58:00+00:00",
-   "updated_at": "2026-10-04T18:58:00+00:00"
+   "updated_at": "2026-10-11T17:55:00+00:00"
   },
   {
    "id": "9b843888-09f3-4d46-8e5e-e7bcb3e74bb9",
@@ -6143,7 +6131,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-10-04T23:38:00+00:00",
-   "updated_at": "2026-10-04T23:38:00+00:00"
+   "updated_at": "2026-10-10T23:38:00+00:00"
   },
   {
    "id": "caeb77d9-78cb-4142-abb9-feb60427793d",
@@ -6518,25 +6506,25 @@
   {
    "id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
    "title_ja": "日本企業で相次ぐサイバー攻撃と大規模な情報流出",
-   "fact_ja": "大和証券、ローソン、JR東日本など多数の日本企業が、不正アクセスやランサムウェア攻撃による情報流出の可能性を相次いで公表した。政府は関係省庁の会合を開き、企業に対策を促す方針。",
+   "fact_ja": "大和証券、ローソン、JR東日本、スカイチケットの運営会社など多数の日本企業が、不正アクセスやランサムウェア攻撃による情報流出の可能性を相次いで公表した。政府は関係省庁の会合を開き、企業に対策を促す方針。",
    "category": "企業・産業",
    "target": "日本企業の情報管理",
-   "judged_count": 7,
+   "judged_count": 8,
    "first_seen": "2026-10-07T04:13:00+00:00",
-   "updated_at": "2026-10-10T01:31:00+00:00",
+   "updated_at": "2026-10-11T06:33:00+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "政府は古川大臣のもとで関係省庁の会合を開き、システムの脆弱性対策と流出情報の悪用防止を企業に促す方針を示した。国のサイバー担当部局も企業に注意喚起を出す予定。",
+   "japan_position_ja": "政府は古川デジタル相のもとで関係省庁の会合を開き、国家サイバー統括室が企業に注意喚起を行う方針。システムの脆弱性への対処と、流出情報の悪用防止を企業に促す。日本の媒体は、数百万件規模の流出が各業種に広がり、AIで攻撃が巧妙化していると伝えている。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "被害が業種を超えて広がり、数百万件規模の個人情報が危険にさらされていると、事例を重ねて伝える。AIで攻撃の敷居が下がり、今年は企業の流出が異例に多い年になりかねないという専門家の警告も紹介している。"
+     "view_ja": "各業種で流出が相次ぎ、数百万人が成りすましの危険にさらされていると伝える。AIが攻撃の敷居を下げ、今年は企業の情報流出が異例に多い年になりかねないとの専門家の警告や、サイバー防御サービスへの問い合わせ急増も報じている。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "独立系のストレーツ・タイムズは、日本の被害の広がりを具体的な数字で伝えている。警察庁によるとランサムウェア集団Qilinに53社が狙われたという。また、AIが技術力の低い犯罪者の敷居を下げているとして、日本は「絨毯爆撃」を受けているという専門家の声を載せた。韓国の銀行への攻撃と並べ、日韓共通の脅威として描く。シンガポール政府系とされるCNAも、同じ配信記事で同様の見方を伝えている。",
-   "search_ja": "サイバー攻撃 情報流出 大和証券 ローソン",
+   "overseas_view_ja": "海外の独立系媒体は、日本の被害を大規模ランサムウェア集団や、AIによる攻撃の低コスト化という大きな流れの中で捉えている。Straits Timesは、警察庁によるとQilinが日本企業53社を標的にしたと伝え、具体的な被害規模も列挙した。配信記事では、専門家が日本は「絨毯爆撃」を受けていると述べ、格付け会社は規制上の罰則や補償費用、対策費の増加を見込む。韓国の銀行への攻撃と並べて地域的な課題として描く点も特徴だ。CNAはシンガポール政府系とされ、同じロイター配信記事で企業が防御強化を急いでいると伝えている。",
+   "search_ja": "サイバー攻撃 情報流出 大和証券 ローソン JR東日本",
    "japan_main": [
     {
      "outlet": "NHK",
@@ -6557,46 +6545,10 @@
      "published_at": "2026-10-08T13:00:00+00:00"
     },
     {
-     "outlet": "朝日新聞",
-     "title": "【随時更新】個人情報の流出が相次ぐ 漏洩の恐れがあった企業一覧",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiVFY5MFcwTHZndk4wbGVVR0FuUldaMnNsOTlMTjE3MFcxWndLR2l6b2VsWHBPQjdGLVNfcDExRGNtcXpVMl9ySmFTMVJqUHItZGE4bWlMMkNKMVFkV1dCMXlDUkR4amRBdGJlNThFel9ZQlphVnkwWGZZdzBJZw?oc=5",
-     "published_at": "2026-10-08T13:00:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "岩手銀や四国銀、損保ジャパンでも情報漏洩か 関係先に不正アクセス",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1ZIZUxkdVRYYXc4VWY2RGVFV0lUSmhmLUwtbzVnTEFlbHV0RlM3V1QzWXlXNFlDdTZFTEQ3WXBQTkM4UzBSeUY2UzE1OTF4R3FMVWRlU2REc3RZZjZPQlRyV2IyMERndjZGc21NRnJiUTI4R3o5RHliVG9iMUwwUVlYb1hPeGl3YU1rTlZiRnZXcDQ?oc=5",
-     "published_at": "2026-10-08T13:07:16+00:00"
-    },
-    {
      "outlet": "読売新聞",
      "title": "サイバー攻撃で個人情報などの流出が判明した企業・団体の一覧",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KbV80VkdHNVhFRlFkT1ljclpGbnhseGYzUXZQRXJ4a1JpVjVldC1pcjVQTkZpdnRjZlZaSk5RUUtpMWZ6X01wNFU0UXNKbm1PVTFKNE55bUVtR1QxaUJubFk3Njd2Zw?oc=5",
      "published_at": "2026-10-09T11:31:00+00:00"
-    },
-    {
-     "outlet": "読売新聞",
-     "title": "サイバー攻撃",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10aWFrQ2tMVjVtMkVBOUE5RVNMbzNuc1hPVXNmZDhCcE1RN1JpOW5yUDBwLWtUaVRBVmxtMTYzb3JSejFoZ0tuM2tpR0lUajJUZFNBVTFpR08weXRTUURjdFd4bHFMbW5R?oc=5",
-     "published_at": "2026-10-10T07:00:00+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "相次ぐ不正アクセス、企業や政府機関でも情報漏洩 AI悪用の影に「一刻の猶予もない」",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DbTNlVjhRbld1UnJZYVRPcUxmdkJqQ0RlWDB5WlBVUENlQjZXcS1aSXpwZXE0WnVCeG5XckYwMWp4aGNCN0sxRU1fVEp5OFp0ZTg0UGc4ak5vNEMtbGs1dlhvSjd0X01NZWdoM2FzMTdfX2lxNWc?oc=5",
-     "published_at": "2026-10-05T09:15:37+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "「いきなり増えた」専門家が指摘するサイバー攻撃の新手法 焼肉きんぐ1080万件など相次ぐ情報漏洩、AIが悪用されている可能性【なるほどッ！】（2026年10月6日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xVERSdnJaemtQZFh4UjRHSlhxS284dlIxY3RTdU1yNEVPNmNmZV9VdUpuZjBuUU0xM0xJNi1fRzg2RkVCLWtXRlJhUURQRW9vbTdEVzVXcV9QZnJhX3NmNGs5Z1llZXJHYlNlQV9IZmhCVXZIMHRsRm5TWlI?oc=5",
-     "published_at": "2026-10-06T12:32:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "「焼き肉きんぐ」に不正アクセス 公式アプリ利用者の個人情報1000万件以上漏えい",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hM0o3T2Izbko0MHRlQU94TEJDMmVSSFlqX3lCTFdrUlhnY1I0N21XYWtyaHBhNFctejlJMktKSG1xNWxxS1ZoRDdyTkNwWnVQYnJ1dVpIa09Yb2RoaWVFMm1xcHF0RHFHUUE1aXpaVm95U1FuU3pzRW5lVlo?oc=5",
-     "published_at": "2026-10-05T10:00:00+00:00"
     },
     {
      "outlet": "日本テレビ",
@@ -6605,16 +6557,10 @@
      "published_at": "2026-10-09T07:08:00+00:00"
     },
     {
-     "outlet": "日本テレビ",
-     "title": "不正アクセス「シチズン」約10万人分の個人情報漏えいか 「焼肉きんぐ」も…漏えい相次ぐ",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04U1owa0JGcjNZdDJGQ3VwQUtVekNPZWJlMmUzc1NOaUk3cjFzU2R5QjdJYVd4dFNOTndJdFpGR3d1QUVBT2I4S3dWeGNsMjA0M0U3QjF4WGttTnI3bGtJdXc0ZW51MUZLeWduTml2cEN3YWUyQ2sxWHVlUEk?oc=5",
-     "published_at": "2026-10-06T21:44:00+00:00"
-    },
-    {
      "outlet": "TBS",
-     "title": "「焼肉きんぐ」へ不正アクセス 約1079万件の個人情報が流出 防御措置もアプリ登録者ほぼ全てのメールアドレスや電話番号などが流出する",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3eW9TNGpoeE5zOUM2X2RhSDdYb29YSFFjR19KVWIxQ2dWY052T1hfeGNhSUY2YmZ5T3VWS3VDUmdoQjJmdG9lNExQZUUyd21yVHNKVUxOXy1pZWFvYWRxaDl6YS1tMGR0aTI1QzJSTC1wQVFY?oc=5",
-     "published_at": "2026-10-05T10:09:00+00:00"
+     "title": "“運転免許証の個人情報が…勝手にお金借りられたら” 急増するサイバー攻撃 迫る情報漏洩の危機 AIで“日本語の壁突破”か【サンデーモーニング】",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NVEVEQi1nRkFua193a0VoYlJqYlNCSlFIRFhGTU9YRXU3ckVCTEZOV1JIcnptYXVOc0NlZERJanRJTjVaaUNETjFRLVctYzhMelpZX3J1Y1FJemtUbUpQYg?oc=5",
+     "published_at": "2026-10-11T05:00:00+00:00"
     },
     {
      "outlet": "TBS",
@@ -6624,21 +6570,21 @@
     },
     {
      "outlet": "テレビ朝日",
+     "title": "【更新中】《サイバー空間の有事》JR東グループ「えきねっと」など600万件の情報漏洩か スカイチケットで1464万件…一部パスワードも流出 ブックオフ、GMO、タイムズカーも＜不正アクセス＞",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+     "published_at": "2026-10-10T00:00:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
      "title": "カラオケの第一興商で872万件情報流出の恐れ ローソンでも215万件確認",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWWFIWHMwbnFYNm9zRmh3NTZtOHozaVNUR3FFbU1ZUkdRZFFtZjZ2dHRoMkM1Z2VoSXlrcnQwdTJRYzd1dzVkdmlaQk9tcl9vX24zc1llMlRoeXNPcmtNUkNWcUpaNGlVMXhGVEMzRnpiZw?oc=5",
      "published_at": "2026-10-09T02:34:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
-     "title": "【更新中】“サイバー空間の有事” JR東グループ「えきねっと」など600万件の情報漏洩か スカイチケットで1464万件…一部パスワードも流出 ブックオフ、GMO、タイムズカーも＜不正アクセス＞",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
-     "published_at": "2026-10-10T00:00:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
      "title": "急増するサイバー攻撃 情報漏洩相次ぐ",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-     "published_at": "2026-10-10T23:12:57+00:00"
+     "published_at": "2026-10-10T21:13:56+00:00"
     },
     {
      "outlet": "フジテレビ",
@@ -6653,8 +6599,8 @@
      "published_at": "2026-10-09T08:47:00+00:00"
     }
    ],
-   "japan_main_count": 7,
-   "japan_main_checked_at": "2026-10-11T00:16:52.852811+00:00"
+   "japan_main_count": 8,
+   "japan_main_checked_at": "2026-10-12T00:34:25.513539+00:00"
   },
   {
    "id": "0aa07668-fed8-4cfe-9544-f7e40414c676",
@@ -7294,7 +7240,7 @@
    "target": "ソフトバンクのAI投資資金の調達",
    "judged_count": 0,
    "first_seen": "2026-10-09T08:37:00+00:00",
-   "updated_at": "2026-10-09T08:37:00+00:00"
+   "updated_at": "2026-10-11T12:50:32+00:00"
   },
   {
    "id": "9e29ec7a-813a-411b-b7cd-80c98d833ec5",
@@ -7384,7 +7330,7 @@
    "target": "米国のICC制裁への日本政府の対応",
    "judged_count": 0,
    "first_seen": "2026-10-09T22:02:00+00:00",
-   "updated_at": "2026-10-10T04:29:00+00:00"
+   "updated_at": "2026-10-11T01:41:00+00:00"
   },
   {
    "id": "77a8bdb1-e8f5-4418-8d09-73fa7ed18dc1",
@@ -7454,7 +7400,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-10-10T11:44:40+00:00",
-   "updated_at": "2026-10-10T13:28:00+00:00"
+   "updated_at": "2026-10-11T09:27:00+00:00"
   },
   {
    "id": "de7da2b2-61c1-4a22-be1d-b57bb80a88a6",
@@ -7557,6 +7503,126 @@
    "judged_count": 0,
    "first_seen": "2026-10-10T23:02:27+00:00",
    "updated_at": "2026-10-10T23:02:27+00:00"
+  },
+  {
+   "id": "049faf8b-3705-4113-a97b-f67b0d2e344e",
+   "title_ja": "インドで日印関係に関するオンライン投票",
+   "fact_ja": "インド紙が、文明的なつながりが日印関係を強めるかを問う読者投票を掲載した。",
+   "category": "外交",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T00:51:49+00:00",
+   "updated_at": "2026-10-11T00:51:49+00:00"
+  },
+  {
+   "id": "581a5b6c-9431-47ad-9563-2a1717876852",
+   "title_ja": "報道業界団体の調査で米国を世界平和への脅威とする回答が増加",
+   "fact_ja": "日本新聞協会系の調査で、世界平和への最大の脅威として米国を挙げた人が26.8%となり、中国の32.5%に次ぐ2位だった。",
+   "category": "外交",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T01:31:00+00:00",
+   "updated_at": "2026-10-11T01:31:00+00:00"
+  },
+  {
+   "id": "c6a716ff-df61-432b-a6aa-028e2dee27d0",
+   "title_ja": "青森のサッカー選手がリンゴ農園で働く",
+   "fact_ja": "弘前を拠点とするサッカー選手2人が、引退後の進路を広げるためリンゴ農園で働いている。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T02:35:00+00:00",
+   "updated_at": "2026-10-11T02:35:00+00:00"
+  },
+  {
+   "id": "9333699e-9568-4634-980b-76ee131cab82",
+   "title_ja": "住友ベークライトが中国・シンガポールで半導体封止材を増産",
+   "fact_ja": "住友ベークライトが、先端半導体パッケージ材料の生産を中国とシンガポールで拡大すると発表した。",
+   "category": "企業・産業",
+   "target": "住友ベークライトの中国での増産",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T03:04:32+00:00",
+   "updated_at": "2026-10-11T03:04:32+00:00"
+  },
+  {
+   "id": "c30d152c-5bd8-4853-984a-a3c09029065c",
+   "title_ja": "CNAの731部隊ドキュメンタリーが受賞",
+   "fact_ja": "シンガポールCNA制作の731部隊に関するドキュメンタリーが、アジアのクリエイティブ賞で最優秀歴史ドキュメンタリーに選ばれた。",
+   "category": "歴史認識",
+   "target": "日本政府の歴史認識",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T04:00:00+00:00",
+   "updated_at": "2026-10-11T04:00:00+00:00"
+  },
+  {
+   "id": "e574c65a-c4cd-4459-a580-d7c9568acecc",
+   "title_ja": "日産が中国開発のピックアップをメキシコで発売",
+   "fact_ja": "日産が、中国の合弁会社が開発・生産したピックアップ「フロンティア・プロ」を今月メキシコで発売すると発表した。",
+   "category": "企業・産業",
+   "target": "日産の中国開発車の輸出戦略",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T04:50:04+00:00",
+   "updated_at": "2026-10-11T04:50:04+00:00"
+  },
+  {
+   "id": "e8b4e0e6-acd9-4d0c-bba0-5d0a64b81377",
+   "title_ja": "日中の貿易拡大の一方で緊張が高まる背景をめぐる論評",
+   "fact_ja": "2024年の日中貿易額は3083億ドルに達する一方、両国は相互依存を減らす動きを進めている。",
+   "category": "外交",
+   "target": "日中の経済関係と相互依存",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T05:31:00+00:00",
+   "updated_at": "2026-10-11T05:31:00+00:00"
+  },
+  {
+   "id": "3f00b802-6642-4a81-81c7-e3403c9a924b",
+   "title_ja": "GCAP開発企業エッジウィングが愛知県に拠点開設へ",
+   "fact_ja": "日英伊の次期戦闘機を担う合弁企業エッジウィングが、来年初めに愛知県で設計・開発拠点を開く方針を明らかにした。",
+   "category": "安全保障",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T06:05:59+00:00",
+   "updated_at": "2026-10-11T06:05:59+00:00"
+  },
+  {
+   "id": "68fba111-50ce-449a-b798-e36c78165c40",
+   "title_ja": "アップル折りたたみ式スマホに日本の消費者は消極的",
+   "fact_ja": "日経MJの調査で、日本の消費者の約9割が折りたたみ式スマートフォンを購入する意向がないと回答した。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T07:33:35+00:00",
+   "updated_at": "2026-10-11T07:33:35+00:00"
+  },
+  {
+   "id": "f4142240-751b-4850-9e42-6b4d46a0aa6e",
+   "title_ja": "横浜でPGAツアーのベイカレント・クラシック開催、ブレナン選手が優勝",
+   "fact_ja": "横浜カントリークラブで行われたPGAツアーの大会でマイケル・ブレナン選手が優勝した。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T07:58:00+00:00",
+   "updated_at": "2026-10-11T07:58:00+00:00"
+  },
+  {
+   "id": "8c9ae36e-e179-42f5-b554-5350a7a62d70",
+   "title_ja": "日本の海運・娯楽各社が若年層向けの短期クルーズ船を投入",
+   "fact_ja": "国内の海運や娯楽の大手が、短く低価格な日程のクルーズ船を投入し、若い層の取り込みを図っている。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T08:00:00+00:00",
+   "updated_at": "2026-10-11T08:00:00+00:00"
+  },
+  {
+   "id": "43fc11dd-a427-44c0-92f1-e59aac300e93",
+   "title_ja": "米中日が東南アジア向け援助を削減",
+   "fact_ja": "米国、中国、日本が東南アジア向けの対外援助を減らし、開発資金が落ち込んでいると報じられた。",
+   "category": "外交",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-10-11T11:31:04+00:00",
+   "updated_at": "2026-10-11T11:31:04+00:00"
   }
  ],
  "articles": [
@@ -13930,10 +13996,10 @@
    "id": "0b007839-4036-4fca-8b18-620e9ddf7021",
    "fetched_at": "2026-10-01T00:31:01.532508+00:00",
    "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "summary_ja": "永住許可の指針が正式に改定され、収入・年金・日本語の基準が厳しくなり、多くは2027年4月申請分から適用される。",
+   "summary_ja": "永住許可の指針が正式に改定され、収入や日本語などの要件が厳しくなった。",
    "angle": "改定内容の説明",
    "tone": "neu",
-   "evidence": "stricter income and pension standards, as well as Japanese-language requirements",
+   "evidence": "stricter income and pension standards",
    "processed_at": "2026-10-01T00:34:29.308267+00:00",
    "relevant": true,
    "basis": "body"
@@ -14572,10 +14638,10 @@
    "id": "bb5fdf55-0415-452f-b218-5a56945c93a8",
    "fetched_at": "2026-10-02T00:41:19.668673+00:00",
    "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "summary_ja": "高市首相の移民管理強化の一環で永住の要件が厳しくなり、手数料20倍を前に入管に長い行列ができた。",
-   "angle": "申請者の駆け込み",
+   "summary_ja": "高市首相の入管強化の一環で要件が厳しくなり、手数料20倍の前に申請者が列を作った。",
+   "angle": "駆け込み申請",
    "tone": "neu",
-   "evidence": "toughened on Thursday requirements for foreigners wanting to obtain permanent residency",
+   "evidence": "Japan toughened on Thursday requirements for foreigners",
    "processed_at": "2026-10-02T00:43:32.037551+00:00",
    "relevant": true,
    "basis": "body"
@@ -14914,10 +14980,10 @@
    "id": "f2a05b4d-4b6b-4e54-868e-8400803876c1",
    "fetched_at": "2026-10-02T00:42:05.620265+00:00",
    "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "summary_ja": "要件厳格化を伝えつつ、労働力不足の中で反移民感情が強まる矛盾と、受け入れ拡大を求める声を紹介する。",
-   "angle": "反移民と人手不足",
-   "tone": "neu",
-   "evidence": "opposition to immigration is growing; Japan must welcome more foreign workers",
+   "summary_ja": "人手不足でも反移民感情が強まる中の厳格化で、専門家や経済界は受け入れ拡大を求める。",
+   "angle": "受け入れの必要性",
+   "tone": "crit",
+   "evidence": "experts and many business leaders warn that Japan must welcome more",
    "processed_at": "2026-10-02T00:43:32.037551+00:00",
    "relevant": true,
    "basis": "body"
@@ -15029,10 +15095,10 @@
    "id": "ebbcea16-0371-4dfe-917b-31997f1fed9a",
    "fetched_at": "2026-10-02T00:42:06.748840+00:00",
    "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "summary_ja": "AFP配信で、永住要件の厳格化と手数料20倍、反移民感情と受け入れ拡大を求める声の双方を伝える。",
-   "angle": "反移民と人手不足",
-   "tone": "neu",
-   "evidence": "false claims have circulated widely; Japan must welcome more foreign workers",
+   "summary_ja": "高市首相の厳格化を伝え、専門家らが外国人労働者の受け入れ拡大を求めていると紹介する。",
+   "angle": "受け入れの必要性",
+   "tone": "crit",
+   "evidence": "Japan must welcome more foreign workers to sustain itself",
    "processed_at": "2026-10-02T00:43:32.037551+00:00",
    "relevant": true,
    "basis": "body"
@@ -16460,10 +16526,10 @@
    "id": "5dfd58dd-f047-449f-8fb1-844a68141b4e",
    "fetched_at": "2026-10-03T00:25:11.216606+00:00",
    "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "summary_ja": "永住申請に求める日本語力がB1以上となり、日本語試験の需要が急増していることを実用面から伝える。",
-   "angle": "日本語試験の需要",
+   "summary_ja": "永住の日本語要件はCEFR B1以上で、日本語試験の需要が急増していると伝える。",
+   "angle": "日本語要件",
    "tone": "neu",
-   "evidence": "require permanent residency applicants to demonstrate ability at B1 or above",
+   "evidence": "surge in demand for the Japanese-Language Proficiency Test",
    "processed_at": "2026-10-03T00:28:49.251451+00:00",
    "relevant": true,
    "basis": "body"
@@ -16804,10 +16870,10 @@
    "id": "438c83fc-93f3-4fe9-abeb-7de1c931d539",
    "fetched_at": "2026-10-03T00:25:11.238324+00:00",
    "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "summary_ja": "論説は、移民の増加が悪影響という見方は印象にすぎないとし、人手不足の中で移民を罰する改定を批判する。",
-   "angle": "移民政策への批判",
+   "summary_ja": "移民は必要であり、不安を利用する短期的な政治より長期的な必要性に目を向けるべきだと主張する。",
+   "angle": "移民の必要性",
    "tone": "crit",
-   "evidence": "unfounded fear; should help the country, not punish immigrants",
+   "evidence": "exploiting unfounded fear",
    "processed_at": "2026-10-03T00:26:54.502324+00:00",
    "relevant": true,
    "basis": "body"
@@ -17856,10 +17922,10 @@
    "id": "92ac24f9-de87-48c2-ad05-a16a89cd5b35",
    "fetched_at": "2026-10-04T23:55:45.443433+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "米兵の殺害容疑に日本が抗議し、米軍駐留をめぐる緊張が再燃しかねないと伝える。",
+   "summary_ja": "日本が抗議。米軍駐留をめぐる緊張が再燃しかねないと伝えた。",
    "angle": "駐留の緊張再燃",
    "tone": "neu",
-   "evidence": "threatened to revive tensions over the American military presence",
+   "evidence": "Japan Protests",
    "processed_at": "2026-10-04T23:59:22.054608+00:00",
    "relevant": true,
    "basis": "headline"
@@ -17873,10 +17939,10 @@
    "id": "b2d78feb-47cd-46ec-a817-f196ee90405c",
    "fetched_at": "2026-10-04T23:55:45.856076+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "殺人容疑で日本が抗議し、米軍駐留をめぐる緊張が再燃する恐れがあるとする。",
+   "summary_ja": "日本が抗議。殺害が米軍駐留への緊張を再燃させる恐れがあると伝えた。",
    "angle": "駐留の緊張再燃",
    "tone": "neu",
-   "evidence": "risks rekindling tensions over the presence of the U.S. military",
+   "evidence": "Japan Protests",
    "processed_at": "2026-10-04T23:59:22.054608+00:00",
    "relevant": true,
    "basis": "headline"
@@ -17890,10 +17956,10 @@
    "id": "b7e7e869-af23-47bd-b7cf-ea7dd65ce8fe",
    "fetched_at": "2026-10-04T23:55:46.332129+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "日本政府が米側に規律を求めて抗議し、知事は教育が効果的でないと指摘した。",
-   "angle": "規律と再発",
+   "summary_ja": "政府が正式に抗議し米軍に対応を要求。知事は規律教育が効いていないと指摘。",
+   "angle": "政府抗議と知事の批判",
    "tone": "neu",
-   "evidence": "lodged a formal protest with the US, demanding that military officials take action",
+   "evidence": "lodged a formal protest with the US",
    "processed_at": "2026-10-04T23:59:22.054608+00:00",
    "relevant": true,
    "basis": "body"
@@ -17907,10 +17973,10 @@
    "id": "6aff042b-ca68-4cd1-939c-3c924315370b",
    "fetched_at": "2026-10-04T23:55:46.700005+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "隊員逮捕を伝え、首相が「極めて残虐」と述べ、米大使は全面協力を表明した。",
-   "angle": "逮捕の事実",
+   "summary_ja": "逮捕を速報。首相は犯行を極めて残忍と呼び、米大使は全面協力を表明。",
+   "angle": "逮捕と各方面の反応",
    "tone": "neu",
-   "evidence": "pledging full cooperation as the investigation continues",
+   "evidence": "\"exceptionally brutal and vicious\"",
    "processed_at": "2026-10-04T23:58:05.506883+00:00",
    "relevant": true,
    "basis": "body"
@@ -18006,10 +18072,10 @@
    "id": "906ab743-e086-43eb-b225-9f4e403a2a3a",
    "fetched_at": "2026-10-04T23:55:49.918409+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "高市首相が米側に強く迫ったと報じ、隊員の否認も伝える。",
-   "angle": "首相の対米要求",
+   "summary_ja": "高市首相が米国に圧力をかけたと見出しで伝え、容疑者は否認と報じた。",
+   "angle": "首相の対米圧力",
    "tone": "neu",
-   "evidence": "Japan’s Takaichi presses US",
+   "evidence": "Takaichi presses US",
    "processed_at": "2026-10-04T23:59:22.054608+00:00",
    "relevant": true,
    "basis": "headline"
@@ -18137,10 +18203,10 @@
    "id": "2bb124e9-d2f1-4839-8b7c-ad9ad3f486e3",
    "fetched_at": "2026-10-04T23:56:30.171360+00:00",
    "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "summary_ja": "人手不足なのに移民を締め付けるとして、政治的な狙いと矛盾を指摘し、手数料急騰や被害例を詳しく伝える。",
-   "angle": "矛盾と負担増",
+   "summary_ja": "労働力不足なのに移民を締め付ける矛盾した政策で、反移民感情への配慮だと批判的に報じる。",
+   "angle": "政策の矛盾",
    "tone": "crit",
-   "evidence": "이율배반적인 고립주의 정책을 내놨다는 비판",
+   "evidence": "이율배반적인 고립주의 정책",
    "processed_at": "2026-10-04T23:59:39.982782+00:00",
    "relevant": true,
    "basis": "body"
@@ -18170,10 +18236,10 @@
    "id": "cf3f13d6-f93e-4b3f-b1fb-c2af2b3b1c49",
    "fetched_at": "2026-10-04T23:56:31.665625+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "首相の抗議と防衛相の怒りを伝え、基地移設への影響の可能性にも触れる。",
-   "angle": "抗議と移設影響",
+   "summary_ja": "首相が米側に抗議。事件が普天間移設に影響し得る点や沖縄の歴史的不満も伝えた。",
+   "angle": "抗議と移設への影響",
    "tone": "neu",
-   "evidence": "could complicate Takaichi’s efforts to relocate some Marines",
+   "evidence": "strongly protests to the US side",
    "processed_at": "2026-10-04T23:58:05.506883+00:00",
    "relevant": true,
    "basis": "body"
@@ -18305,10 +18371,10 @@
    "id": "21b59a31-3780-4efb-a596-9097a1d689f7",
    "fetched_at": "2026-10-04T23:56:33.819127+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "外相が駐日米大使に抗議し、再発防止を求めたと日本メディアを引いて伝える。",
+   "summary_ja": "日本メディアを引き、外相が駐日米大使に抗議し再発防止を求めたと伝えた。",
    "angle": "外相の抗議",
-   "tone": "none",
-   "evidence": "",
+   "tone": "neu",
+   "evidence": "protested to the US Ambassador",
    "processed_at": "2026-10-04T23:59:22.054608+00:00",
    "relevant": true,
    "basis": "headline"
@@ -18322,10 +18388,10 @@
    "id": "eb492dc3-366e-498a-8dc6-219fe8c7efde",
    "fetched_at": "2026-10-04T23:56:33.819357+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "米海兵隊員の強盗殺人容疑に日本が抗議したと伝える。",
+   "summary_ja": "日本が米海兵隊員の強盗殺人容疑に抗議したと見出しで伝えた。",
    "angle": "日本の抗議",
-   "tone": "none",
-   "evidence": "",
+   "tone": "neu",
+   "evidence": "Japan protests to US",
    "processed_at": "2026-10-04T23:59:39.982782+00:00",
    "relevant": true,
    "basis": "headline"
@@ -18339,10 +18405,10 @@
    "id": "8b97bb87-3a84-4528-a2e7-0d8a27cabf54",
    "fetched_at": "2026-10-04T23:56:33.819602+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "防衛相が在日米軍司令官を呼び抗議したと日本メディアを引いて伝える。",
+   "summary_ja": "日本メディアを引き、防衛相が在日米軍司令官を呼び抗議したと伝えた。",
    "angle": "防衛相の抗議",
-   "tone": "none",
-   "evidence": "",
+   "tone": "neu",
+   "evidence": "lodge protest",
    "processed_at": "2026-10-04T23:59:39.982782+00:00",
    "relevant": true,
    "basis": "headline"
@@ -18749,10 +18815,10 @@
    "id": "aa034d04-5fe2-45f0-8fe4-61cb942d738b",
    "fetched_at": "2026-10-04T23:56:34.814177+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "日本が「強い抗議」を米側に伝達し、容疑者は否認していると報じる。",
-   "angle": "政府の抗議",
+   "summary_ja": "日本政府が「強い抗議」を米側に伝達。容疑者は否認していると淡々と報じた。",
+   "angle": "政府の強い抗議",
    "tone": "neu",
-   "evidence": "Japan delivered a “strong protest” to the U.S.",
+   "evidence": "Japan delivers ‘strong protest’",
    "processed_at": "2026-10-04T23:58:05.506883+00:00",
    "relevant": true,
    "basis": "body"
@@ -18912,8 +18978,8 @@
    "id": "f8b109be-5ef6-46af-90e0-72c596a3a22a",
    "fetched_at": "2026-10-06T01:43:52.974685+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "逮捕が沖縄の長年の不満を呼び起こし、抗議が再燃したと伝える。",
-   "angle": "地元の不満",
+   "summary_ja": "逮捕が沖縄の長年の不満を呼び起こし、抗議が再燃していると伝えた。",
+   "angle": "住民の長年の不満",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-06T01:48:18.430955+00:00",
@@ -18929,10 +18995,10 @@
    "id": "7167a05d-3eb1-4e1a-92d0-f99243d80059",
    "fetched_at": "2026-10-06T01:43:53.542088+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "首相が国会で抗議を説明し、官房長官も再発防止を述べ、知事の怒りを伝える。",
-   "angle": "政府の対応",
+   "summary_ja": "首相が国会で強い抗議を表明。官房長官や知事の発言、過去の事件も紹介。",
+   "angle": "首相の怒りと知事",
    "tone": "neu",
-   "evidence": "government has lodged a strong protest with the US",
+   "evidence": "lodged a strong protest with the US",
    "processed_at": "2026-10-06T01:48:18.430955+00:00",
    "relevant": true,
    "basis": "body"
@@ -19043,7 +19109,7 @@
    "id": "54c83532-8b28-4b91-ab79-8b8fbdf4a9c0",
    "fetched_at": "2026-10-06T01:43:56.470841+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "事件が米軍駐留への疑問を呼び、就任直後の知事への圧力になると伝える。",
+   "summary_ja": "逮捕が米軍駐留への怒りを強め、就任直後の知事への圧力になると伝えた。",
    "angle": "知事への圧力",
    "tone": "none",
    "evidence": "",
@@ -19110,8 +19176,8 @@
    "id": "11f0a04c-6dda-4432-a981-16d31971225c",
    "fetched_at": "2026-10-06T01:44:52.487653+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "日本の抗議は繰り返される「見せ物」で、実効性がないと批判する。",
-   "angle": "抗議は形式的",
+   "summary_ja": "日本の抗議は毎回同じ筋書きで、形だけの演出だと断じ、根本的な改善はないと論じた。",
+   "angle": "抗議は演出",
    "tone": "crit",
    "evidence": "Protest has become a form of diplomatic theater",
    "processed_at": "2026-10-06T01:46:47.166106+00:00",
@@ -19340,8 +19406,8 @@
    "id": "3a4f74ea-5836-4655-9f5f-f56bb159e47c",
    "fetched_at": "2026-10-06T01:44:57.456888+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "送検と首相の国会での抗議表明、外相・防衛相の抗議を詳しく伝える。",
-   "angle": "各層の抗議",
+   "summary_ja": "送検を受け、首相が国会で強く抗議。外相・防衛相の抗議や知事の上京意向も伝えた。",
+   "angle": "各層での抗議",
    "tone": "neu",
    "evidence": "Tokyo protested to the United States at various levels",
    "processed_at": "2026-10-06T01:46:47.166106+00:00",
@@ -19820,10 +19886,10 @@
    "id": "2fdef441-2d47-4cf8-8581-bb119d289efd",
    "fetched_at": "2026-10-06T01:44:59.950547+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "首相が施政方針演説の冒頭で事件に触れ、事件を重視する姿勢を示したと伝える。",
-   "angle": "首相の言及",
+   "summary_ja": "首相が施政方針演説の冒頭で事件に触れ、米側は服喪期間などを検討と伝えた。",
+   "angle": "首相演説と米側対応",
    "tone": "neu",
-   "evidence": "apparent symbol of the importance Takaichi has placed on the incident",
+   "evidence": "touched on the “heinous crime” at the beginning",
    "processed_at": "2026-10-06T01:48:18.430955+00:00",
    "relevant": true,
    "basis": "body"
@@ -20118,10 +20184,10 @@
    "id": "28e0bf95-d3c4-4c1b-8d65-466269b0c421",
    "fetched_at": "2026-10-06T01:45:02.191788+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "事件の経緯と捜査状況、知事が首相に直接抗議する意向を伝える。",
-   "angle": "経緯と知事抗議",
-   "tone": "neu",
-   "evidence": "he will protest the case directly to the prime minister",
+   "summary_ja": "逮捕の経緯と捜査状況、知事の抗議方針や米軍の声明を淡々と伝えた。",
+   "angle": "事件の経緯",
+   "tone": "none",
+   "evidence": "",
    "processed_at": "2026-10-06T01:48:18.430955+00:00",
    "relevant": true,
    "basis": "body"
@@ -20520,10 +20586,10 @@
    "id": "c8a00d0e-0b6b-4b1b-95de-1fa2ff58d080",
    "fetched_at": "2026-10-07T00:37:30.700948+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "米兵逮捕を受け日本が抗議したと伝える。",
+   "summary_ja": "米海兵隊員の逮捕を受け日本が抗議したと見出しで伝えた。",
    "angle": "日本の抗議",
-   "tone": "none",
-   "evidence": "",
+   "tone": "neu",
+   "evidence": "Japan protests",
    "processed_at": "2026-10-07T00:40:49.666802+00:00",
    "relevant": true,
    "basis": "headline"
@@ -20571,7 +20637,7 @@
    "id": "4383ab3e-866e-468b-9816-9e47762a4fe2",
    "fetched_at": "2026-10-07T00:37:30.701617+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "首相官邸前での抗議集会を伝える。",
+   "summary_ja": "首相官邸前で抗議の集会が開かれたと伝えた。",
    "angle": "官邸前の集会",
    "tone": "none",
    "evidence": "",
@@ -20964,7 +21030,7 @@
    "id": "07303692-9c88-4a5f-b773-0c4383be40b2",
    "fetched_at": "2026-10-07T00:37:32.302219+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "防衛相が知事と会談し、再発防止策を協議する予定だと伝える。",
+   "summary_ja": "防衛相が知事と会談し、再発防止策を協議する方針。時期は示さず。",
    "angle": "再発防止の協議",
    "tone": "neu",
    "evidence": "measures to prevent a recurrence set to top the agenda",
@@ -21415,8 +21481,8 @@
    "id": "3cd1a41d-2f77-4c25-8864-83a0a809fb09",
    "fetched_at": "2026-10-07T03:56:31.363624+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "米軍に反発する日本の声が噴出したと見出しで伝える。",
-   "angle": "反米軍の声",
+   "summary_ja": "日本で米軍への怒りが噴出していると、扇情的な見出しで伝えた。",
+   "angle": "住民の怒り",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-07T03:57:56.820854+00:00",
@@ -21432,8 +21498,8 @@
    "id": "19069def-d562-43ae-b089-a5b03b9cd3b2",
    "fetched_at": "2026-10-07T03:56:31.363763+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "米海兵隊員の殺人・強盗容疑での逮捕を伝える。",
-   "angle": "逮捕の事実",
+   "summary_ja": "米海兵隊員が殺人・強盗容疑で逮捕されたと速報した。",
+   "angle": "逮捕の速報",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-07T03:57:56.820854+00:00",
@@ -21449,7 +21515,7 @@
    "id": "636fd41c-477a-40af-a8b4-6af7e7afdf25",
    "fetched_at": "2026-10-07T03:56:31.363919+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "「残虐で卑劣」との表現を使い、事件を報じる。",
+   "summary_ja": "首相の「残忍」との言葉を引き、逮捕を衝撃的な見出しで伝えた。",
    "angle": "事件の衝撃",
    "tone": "none",
    "evidence": "",
@@ -21598,7 +21664,7 @@
    "id": "16357f40-f4cd-4a54-b487-9c45f1903681",
    "fetched_at": "2026-10-07T03:56:33.854570+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "米海兵隊員による殺害を非難する日本の集会を伝える。",
+   "summary_ja": "事件を非難する日本の集会を伝えた。",
    "angle": "抗議集会",
    "tone": "none",
    "evidence": "",
@@ -21615,8 +21681,8 @@
    "id": "f3b06d3f-eb84-4787-b186-07ea0755c8ef",
    "fetched_at": "2026-10-07T03:56:33.854743+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "事件の詳細が日本で怒りを呼んでいると伝える。",
-   "angle": "怒りの広がり",
+   "summary_ja": "事件の詳細が日本で怒りを呼んでいると伝えた。",
+   "angle": "国内の怒り",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-07T03:59:52.628013+00:00",
@@ -21632,10 +21698,10 @@
    "id": "0eaa794b-8e81-419f-ae58-830b0987136e",
    "fetched_at": "2026-10-07T03:56:34.423151+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "高市首相が抗議の先頭に立ち、米軍に規律を求めたと伝える。",
-   "angle": "首相の抗議",
+   "summary_ja": "首相が国会演説で事件を「凶悪」とし、米軍に規律徹底を求め抗議を主導と伝えた。",
+   "angle": "首相の抗議主導",
    "tone": "neu",
-   "evidence": "Takaichi has led public outcry",
+   "evidence": "Japan PM leads outcry",
    "processed_at": "2026-10-07T03:59:43.815420+00:00",
    "relevant": true,
    "basis": "headline"
@@ -21665,10 +21731,10 @@
    "id": "5904217f-e004-4fd6-83b3-6242d3eede6d",
    "fetched_at": "2026-10-07T03:56:34.423313+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "隊員の逮捕を伝え、首相が「極めて残虐」と述べたと報じる。",
-   "angle": "逮捕の事実",
+   "summary_ja": "逮捕を速報。首相は犯行を極めて残忍と呼んだ。",
+   "angle": "逮捕の速報",
    "tone": "neu",
-   "evidence": "prime minister calls crime ‘exceptionally brutal and vicious’",
+   "evidence": "calls crime ‘exceptionally brutal and vicious’",
    "processed_at": "2026-10-07T03:57:56.820854+00:00",
    "relevant": true,
    "basis": "headline"
@@ -21801,8 +21867,8 @@
    "id": "f2591266-ae5c-411d-a7d9-da3307b4afb2",
    "fetched_at": "2026-10-07T03:56:36.324936+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "沖縄での殺人・強盗容疑による米兵逮捕を伝える。",
-   "angle": "逮捕の事実",
+   "summary_ja": "米海兵隊員が殺人・強盗容疑で逮捕されたと伝えた。",
+   "angle": "逮捕の速報",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-07T03:57:56.820854+00:00",
@@ -22225,7 +22291,7 @@
    "id": "1a7fa562-78b2-40c7-a794-40794a9c7bbc",
    "fetched_at": "2026-10-08T00:55:42.751303+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "事件が怒りを呼び、首相は米軍への監督強化を迫られていると伝える。",
+   "summary_ja": "事件が怒りを呼び、トランプ氏に近い首相は米軍監督強化を迫られていると伝えた。",
    "angle": "首相への圧力",
    "tone": "neu",
    "evidence": "under pressure to strengthen oversight of the U.S. military",
@@ -22690,8 +22756,8 @@
    "id": "2cff67b6-eddc-46a5-8fd9-7f80ef1a5e8c",
    "fetched_at": "2026-10-08T00:56:23.576628+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "「トランプの殺人軍」という強い言葉を見出しに、日本の抗議を伝える。",
-   "angle": "反米の怒り",
+   "summary_ja": "日本で抗議が噴出していると、トランプ氏を絡めた扇情的な見出しで伝えた。",
+   "angle": "抗議の噴出",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-08T00:59:29.993316+00:00",
@@ -22942,8 +23008,8 @@
    "id": "8ba3fbd7-3c92-4115-99dc-b5c917f650e7",
    "fetched_at": "2026-10-08T00:56:28.619949+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "日本は米兵を必要としつつ好いてはいない、という構図を示す。",
-   "angle": "駐留の複雑な感情",
+   "summary_ja": "日本は米兵を必要とするが好いてはいない、という構図を見出しで示した。",
+   "angle": "駐留への複雑な感情",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-08T01:00:21.264781+00:00",
@@ -22975,7 +23041,7 @@
    "id": "283316ff-7275-49bf-955a-ef2faf23b40b",
    "fetched_at": "2026-10-08T00:56:28.873459+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "沖縄の強盗殺人で米兵が日本での抗議を招いたと伝える。",
+   "summary_ja": "沖縄の強盗殺人で米兵が日本に抗議を引き起こしたと伝えた。",
    "angle": "抗議の広がり",
    "tone": "none",
    "evidence": "",
@@ -23404,10 +23470,10 @@
    "id": "8e46cd05-b325-4c51-8337-f780f0d94417",
    "fetched_at": "2026-10-08T00:56:30.233405+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "大和証券などが今週相次いで流出の可能性を公表し、数百万人が被害に遭うおそれがある。",
+   "summary_ja": "複数業種で攻撃による流出が相次ぎ、数百万人が成りすましの危険にさらされていると報じる。",
    "angle": "被害の広がり",
    "tone": "crit",
-   "evidence": "putting millions at risk of identity theft",
+   "evidence": "put millions at risk of identity theft",
    "processed_at": "2026-10-08T00:58:10.695996+00:00",
    "relevant": true,
    "basis": "body"
@@ -23887,10 +23953,10 @@
    "id": "b511767e-cbba-4deb-a2cb-80d78b8789ea",
    "fetched_at": "2026-10-09T01:10:39.626129+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "東京の抗議は1995年より小さく、米軍は活動停止と飲酒禁止を実施したと伝える。",
-   "angle": "抗議の規模",
+   "summary_ja": "外務省前で数十人が抗議。反応は1995年より控えめで、米は活動停止や飲酒禁止を実施。",
+   "angle": "東京の抗議と米の措置",
    "tone": "neu",
-   "evidence": "Public reaction ... has been muted compared with the mass demonstrations",
+   "evidence": "Tokyo said it had strongly protested to the US",
    "processed_at": "2026-10-09T01:13:35.254167+00:00",
    "relevant": true,
    "basis": "body"
@@ -23904,8 +23970,8 @@
    "id": "02932896-46bf-4286-993d-721ee65081f4",
    "fetched_at": "2026-10-09T01:10:39.626371+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "警察庁はQilinに53社が狙われたと発表し、政府は企業に脆弱性対策を促す方針。",
-   "angle": "Qilinと政府対応",
+   "summary_ja": "警察庁によるとQilinが日本企業53社を標的にした。ローソンなど最近の流出事例と政府の対策方針も伝える。",
+   "angle": "ランサム集団の実態",
    "tone": "neu",
    "evidence": "53 companies in Japan have been targeted",
    "processed_at": "2026-10-09T01:13:35.254167+00:00",
@@ -24432,10 +24498,10 @@
    "id": "5d67708d-f021-4f73-9f47-03e3bf3fb99e",
    "fetched_at": "2026-10-09T01:10:48.983885+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "AIで攻撃の敷居が下がり、日本は企業の情報流出が異例に多い年になりかねないと専門家は警告する。",
-   "angle": "AIと攻撃の巧妙化",
+   "summary_ja": "AIで攻撃の敷居が下がり、今年は情報流出が異例に多い年になりかねず、対策が十分か問う。",
+   "angle": "AIによる脅威の高度化",
    "tone": "crit",
-   "evidence": "may be just the tip of the iceberg",
+   "evidence": "tip of the iceberg",
    "processed_at": "2026-10-09T01:13:35.254167+00:00",
    "relevant": true,
    "basis": "body"
@@ -24597,8 +24663,8 @@
    "id": "2b39a016-b8f1-42fd-8cf8-7c90f2f3b535",
    "fetched_at": "2026-10-09T01:10:48.996068+00:00",
    "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
-   "summary_ja": "外国人労働者は過去最多だとして、今回は排除ではなく、定住を絞る「選別」だと位置づける寄稿。",
-   "angle": "選別という見方",
+   "summary_ja": "一時的な外国人労働者は増やしつつ永住は絞る「選別」が富裕国に共通すると論じる。",
+   "angle": "受け入れの選別",
    "tone": "neu",
    "evidence": "That is not simply exclusion. It is selection",
    "processed_at": "2026-10-09T01:12:24.242597+00:00",
@@ -24713,10 +24779,10 @@
    "id": "542024bd-8bfc-487d-b6f9-b9d76d876d90",
    "fetched_at": "2026-10-09T01:10:49.013798+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "国会開会や新知事就任と重なり緊張は収まりにくいとし、迅速な対応を促す。",
-   "angle": "対応を促す論説",
-   "tone": "neu",
-   "evidence": "Move quickly and bravely in the Okinawa killing case",
+   "summary_ja": "論説は、政府と米側は迅速かつ果敢に動くべきで、時期も悪く緊張は収まりにくいとした。",
+   "angle": "迅速な対応の要求",
+   "tone": "crit",
+   "evidence": "Move quickly and bravely in the Okinawa killing case — or else",
    "processed_at": "2026-10-09T01:12:24.242597+00:00",
    "relevant": true,
    "basis": "body"
@@ -24830,8 +24896,8 @@
    "id": "4e2eb8d6-9e1c-4347-8fcc-8d16a3b8806b",
    "fetched_at": "2026-10-10T00:43:06.622927+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "日韓の企業がAIで敷居が下がった攻撃に直面し、防御強化を急いでいる。",
-   "angle": "AIが攻撃を後押し",
+   "summary_ja": "AIが犯罪者の敷居を下げ、日韓で攻撃が急増。専門家は日本が絨毯爆撃を受けていると語る。",
+   "angle": "AIと日韓の攻撃急増",
    "tone": "crit",
    "evidence": "Japan is essentially being subjected to carpet bombing",
    "processed_at": "2026-10-10T00:47:01.628419+00:00",
@@ -24847,10 +24913,10 @@
    "id": "ca1b0762-ef31-4f95-8cff-c35ece3f6b8d",
    "fetched_at": "2026-10-10T00:43:06.623232+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "県議会が地位協定の改定を求める決議を可決したと伝える。",
+   "summary_ja": "県議会が地位協定の改定を求める決議を可決。米軍は組織として機能していないとの声。",
    "angle": "地位協定の改定",
    "tone": "neu",
-   "evidence": "calling for revisions to a pact seen as giving the United States military preferential treatment",
+   "evidence": "calling for revisions to a pact",
    "processed_at": "2026-10-10T00:45:31.053510+00:00",
    "relevant": true,
    "basis": "body"
@@ -25118,7 +25184,7 @@
    "id": "74407eb9-a52c-49b0-bef7-f0917b3e0a8a",
    "fetched_at": "2026-10-10T00:43:50.719675+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "県議会が地位協定の抜本改定を求める決議を可決したと伝える。",
+   "summary_ja": "県議会が地位協定の抜本改定を求める決議を可決。2024年にも同様の決議があった。",
    "angle": "地位協定の改定",
    "tone": "neu",
    "evidence": "fundamental revision of the Japan Status of Forces Agreement",
@@ -25135,10 +25201,10 @@
    "id": "3bd708ac-1bb2-42ed-9b9a-86b4328075a7",
    "fetched_at": "2026-10-10T00:43:50.719953+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "日本の今年の事案数は昨年全体を超え、AIが言語などの壁を取り払ったと専門家は指摘する。",
-   "angle": "AIが攻撃を後押し",
+   "summary_ja": "AIが攻撃の敷居を下げ、日本の今年の件数は昨年1年分を超えた。専門家は高水準が続くと見る。",
+   "angle": "AIと件数の急増",
    "tone": "crit",
-   "evidence": "more cybersecurity incidents in the first nine months of 2026 than in the whole of 2025",
+   "evidence": "attackers have crossed a threshold",
    "processed_at": "2026-10-10T00:45:31.053510+00:00",
    "relevant": true,
    "basis": "body"
@@ -25285,8 +25351,8 @@
    "id": "79ba84c5-45ff-469e-9738-48d68591df5d",
    "fetched_at": "2026-10-10T00:43:54.110402+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "沖縄県議会が地位協定の見直しを求めたと伝える。",
-   "angle": "地位協定の改定",
+   "summary_ja": "県議会が殺人事件を受け日米地位協定の見直しを求めたと伝えた。",
+   "angle": "地位協定の見直し",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-10T00:47:59.544766+00:00",
@@ -25599,7 +25665,7 @@
    "id": "c1bea88a-55f9-462b-8825-998e02aad867",
    "fetched_at": "2026-10-10T00:43:56.755083+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "旅行会社でも流出の可能性が公表され、スカイチケットでは最大1464万件の顧客記録が危険にさらされている。",
+   "summary_ja": "旅行会社で流出の可能性が判明し、スカイチケットでは最大1464万件の顧客情報が危険にさらされた。",
    "angle": "旅行業界の被害",
    "tone": "crit",
    "evidence": "up to 14.64 million customer records may be at risk",
@@ -25713,10 +25779,10 @@
    "id": "90205d7e-de59-43a2-884a-b3bff8592ed5",
    "fetched_at": "2026-10-10T00:43:56.763629+00:00",
    "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
-   "summary_ja": "県議会が地位協定の改定を求める決議を可決したと伝える。",
+   "summary_ja": "県議会が地位協定の改定を求める決議を賛成多数で可決したと伝えた。",
    "angle": "地位協定の改定",
    "tone": "neu",
-   "evidence": "calling for revisions to a pact seen as giving the United States military preferential treatment",
+   "evidence": "calling for revisions to a pact",
    "processed_at": "2026-10-10T00:47:01.628419+00:00",
    "relevant": true,
    "basis": "body"
@@ -26573,8 +26639,8 @@
    "id": "4cf9b7a3-97d6-4c7d-b55d-9c3e21d1d8e7",
    "fetched_at": "2026-10-11T00:12:45.351100+00:00",
    "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
-   "summary_ja": "JR東日本やブックオフなどで数百万件規模の流出の可能性が判明した。各社は悪用の形跡は未確認としている。",
-   "angle": "被害の拡大",
+   "summary_ja": "JR東日本など新たに複数社が大規模流出を公表。第三者による不正利用の証拠は未確認という。",
+   "angle": "新たな被害公表",
    "tone": "neu",
    "evidence": "found no evidence of unauthorized use",
    "processed_at": "2026-10-11T00:14:12.040365+00:00",
@@ -26741,6 +26807,797 @@
    "tone": null,
    "evidence": null,
    "processed_at": "2026-10-11T00:14:12.040365+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/east-asia/japan-okinawa-alleged-murder-woman-us-marine-6449876",
+   "title": "'Everyone is angry': Okinawans fearful and frustrated after alleged killing by US Marine",
+   "published_at": "2026-10-11T02:24:51+00:00",
+   "kind": "news",
+   "id": "058267de-5595-47f4-9a94-11f7bea0e90f",
+   "fetched_at": "2026-10-12T00:27:30.105422+00:00",
+   "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
+   "summary_ja": "事件から1週間、住民の恐れと怒りを紹介。基地依存や米軍の必要性にも触れた。",
+   "angle": "住民の声",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "koreaherald",
+   "url": "https://www.koreaherald.com/article/10898561",
+   "title": "Samsung to expand chip capacity in Vietnam, boost high-end production in Korea",
+   "published_at": "2026-10-11T04:46:03+00:00",
+   "kind": "news",
+   "id": "a6ba3558-631f-415f-98fe-92164e492040",
+   "fetched_at": "2026-10-12T00:27:31.901766+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
+   "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
+   "published_at": "2026-10-11T03:04:32+00:00",
+   "kind": "news",
+   "id": "356f2932-b695-4c52-aa36-2c8b4f15e7c0",
+   "fetched_at": "2026-10-12T00:27:33.066038+00:00",
+   "event_id": "9333699e-9568-4634-980b-76ee131cab82",
+   "summary_ja": "住友ベークライトがAI需要を受け、中国で先端半導体封止材の生産を増強する。",
+   "angle": "AI需要と増産",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "tagesschau",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xdlhEbzBWVmFQMUZ6eDAtTU9ub2VtUERzLXNaU1MyUUhaTFpYZURUQUVGczdXSVdaaDM5aGc3TDJRaVVqYU84Nmc1YjlTMkRkX09fY3hqZE9QNHc5V1hUM3UtaDRoT29RZkowVjJFcWVGal9uN2dQN2R1RQ?oc=5",
+   "title": "Deka MSCI Japan UCITS ETF Kurs aktuell",
+   "published_at": "2026-10-09T03:30:00+00:00",
+   "kind": "news",
+   "id": "a95bddc4-d760-43b9-bb8b-9ee699908659",
+   "fetched_at": "2026-10-12T00:27:39.618297+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202610/1372009.shtml",
+   "title": "Nissan to launch China-developed pickup truck in Mexico",
+   "published_at": "2026-10-11T04:50:04+00:00",
+   "kind": "news",
+   "id": "46277112-de13-41c7-a4f8-4cae4a9e2454",
+   "fetched_at": "2026-10-12T00:28:47.986271+00:00",
+   "event_id": "e574c65a-c4cd-4459-a580-d7c9568acecc",
+   "summary_ja": "日産が中国開発のピックアップをメキシコで発売し、競争力強化につながると専門家が見る。",
+   "angle": "中国発の輸出",
+   "tone": "fav",
+   "evidence": "could help Nissan strengthen competitiveness in overseas markets",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202610/1372000.shtml",
+   "title": "for global audience: Japanese scholar",
+   "published_at": "2026-10-11T04:00:00+00:00",
+   "kind": "news",
+   "id": "a8399980-9c01-43f9-bc51-a904e5b7612a",
+   "fetched_at": "2026-10-12T00:28:47.986560+00:00",
+   "event_id": "c30d152c-5bd8-4853-984a-a3c09029065c",
+   "summary_ja": "731部隊のドキュメンタリーが受賞し、日本の学者が現政権は戦争への反省を語らなくなったと述べた。",
+   "angle": "戦争加害の記憶",
+   "tone": "crit",
+   "evidence": "current Japanese government no longer talks about reflecting on that war",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-investing-65-billion-in-sam-altmans-openal-japans-richest-man-masayoshi-son-is-seeking-100-billion-to-fund-other-ai-projects/articleshow/134870942.cms",
+   "title": "After investing $65B in OpenAl, Japan's richest man seeks $100B for other AI projects",
+   "published_at": "2026-10-11T12:50:32+00:00",
+   "kind": "news",
+   "id": "9b3d65d5-610c-406e-a44f-7214d98826aa",
+   "fetched_at": "2026-10-12T00:28:49.851316+00:00",
+   "event_id": "3661bbba-46df-48b5-9280-91a7034d2cae",
+   "summary_ja": "孫氏が湾岸勢から最大1000億ドルを募り、伝統企業をAIで再生する基金を構想と報じる。",
+   "angle": "買収型AI基金",
+   "tone": "neu",
+   "evidence": "facing mounting market scrutiny over its $65 billion commitment",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOalVINHBVVHpfOXBkaW5lUkMtclBYaUpuTkViajdoME8tVGg4WWwxOGhqZGVMXzNaZnh2R1VQVVNka05wV3RXYmszYVhOM0NKekRfeXBIdHNfOWNkc0RmbGdXMF81c2p2NU1IbGM1TjdHb2pIekpIZXlfMzQzenJIYVpNa3JfWlJfTUEyR1p4VW5obTZFLWRpSW5qZE1zNHNnWG8tc0wwZXRpODljUFB6T09NNmNvX3J3MjdZVFVNQzN4M2hINFAwMkN0UkswTXJSZmhuajJNTi0zdS1DNmtPYV9oUWJVZUxieGtreUlSMVFrYW1yTU9UZF9ld3N6TnJTVnBZd1haZ0pvanNvT3M3TXk1alEyaDNuTXpXdlVMLWhZUUJVVWlkVFJvV0pUWWVFSWF3b0lxbjXSAb4CQVVfeXFMTXZtZ2hRN0syajhvSnNEOWZZZFYzaXdpMVZ1dEphY3FCSlVQb3RNWFpiX051QThUZ2NOLWMya2VDWGtUc3ZFTlUxVVhlaFZuS2I4YzBKVUJOaUlxWC1YcmpZaExhVlBZcHhVMTI2NUU5ekZGM1hrSVhSQ0h3TGhNcFQtak1raUVPOFNYYmRvVWtRM3F1Rk1uX3dPQ3hSVG9ITVZldGxPY0VremJyVUdYTWFsaEtVV2FDSjlrdnZwTWVUQXNMZnlpT29EQTVsVW9qejhwbnNVS05rLWRfSkhYV3hlUkhtTzg2OFJiZEhYRXZjWWlmNk5ERzNjbXZjbGs3Tk5MN1VMMVNNZU5NeVFKRG5SVWxVbS1iQTJNRDNLRElvZ1BiUl9TSzFvSzk4SHpGRjZ0WG5CcVc2NGVydGF3?oc=5",
+   "title": "After investing $65 billion in Sam Altman's OpenAl, Japan's richest man Masayoshi Son is seeking $100 bil",
+   "published_at": "2026-10-11T12:50:00+00:00",
+   "kind": "news",
+   "id": "19010b85-cb4d-4455-b2ef-1d21665cad47",
+   "fetched_at": "2026-10-12T00:28:49.851553+00:00",
+   "event_id": "3661bbba-46df-48b5-9280-91a7034d2cae",
+   "summary_ja": "OpenAI投資後、孫氏が湾岸投資家から1000億ドルを求めていると伝える。",
+   "angle": "資金調達",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdHV4WkMyd1Rfb2ZBc1NNRGc1Q2NkNjdhMWFDTHlsQmFGOXdlVllEZkFfOHAwUk9HQngzbkx4bHloeEwzUEhiR1JxeDMtZW9KcUQxZVpsQ0RlSDFPRUxITzdObE5TRVZZMkFIaXRxem9BZ010Zk5ncTVEZlRQMVdDRjgtblMwOWJsU2x1cUtJVlJZYXBQYXVLcUhBWEc1WE5nQkU1QlBCVFBZRW9DUU1EVGZSbmxYNkc5cFg2QVZDQzBlSnRGcF8tUW1Pb2xKZVZ0Q2VqcHNmWWxrSXJRVExMWXQ1eWZ6ajYtelJpR0tPc3l6Z0U?oc=5",
+   "title": "Do you believe that civilizational ties can enhance Bharat-Japan relations? | Cast your vote and share your opinion - TOI",
+   "published_at": "2026-10-11T00:51:49+00:00",
+   "kind": "news",
+   "id": "24397f07-fb3e-4b6f-a90b-7cf4bf727d19",
+   "fetched_at": "2026-10-12T00:28:49.851790+00:00",
+   "event_id": "049faf8b-3705-4113-a97b-f67b0d2e344e",
+   "summary_ja": "文明的なつながりが日印関係を強めるかを問う読者投票。",
+   "angle": "日印関係",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOOWtpT25aQVdnNkpiaWFLWFBHdGgtQ1BEbmxMRnVvRlFlbmhXRm91M2FDcUxzRlRLVURJUzdrWlY5Mmw0dlJXZ2FRVnBBem95Sk5CQ0FEZG5ZM0tTWlVUVmJSMi1qUkp2REhfSUNOVHpGLWRoWDk2eVhWSDM3blNEUXpSUXV4Zjc2clVhdDZfZHpZMXlkNGlrdm9SenZGOUVXRzFFdDV3NjlOVk9McWtXcDlxQXB1Nm1pcUFEUGo4V1p2bm5uNFpIOHEyeE9mNW5zRmJIaTNKS2ttWWhRVkgxaVVoemlFeURYWTNZS2VxM00tWGZHM0hLbi1nWFBNYkc4OEFGOXJJRnEzMGVEZmx2bHEwZGdZazJWTVlmMG5wcXVGeEdFWkJkemJfSVlKQUNOSjBQT2ZLWkFFMEtONEtUS1Zqb9IByAJBVV95cUxNb2xKbFZneEc1djVFUVRiWXVrbkN6ajFZaXA0UlRLZTRZOXU3Uk1YRXNjSVpBZW9HR0tBMDVFMXNhSnJhOUVidFZrNHJIWFRIU0RXdHItd1c5RTNxVHdyZlVMUjZZcWZER0FiUnJlTmQ5aFRldXVYQmJBNXVtTzJ3VWVjZUNGbDRYa1V0WWFubHVpZmEzQmdXa05NZXdUN1hRTWM4QzVQbEljVWkyNUdvUXVWajJLR3RlZEpTUUgtWTJ0M0pPTFB1c2VDZk5DMnZ5dVlaSEZ5cUJpRkNxNGRNM3A3cUhGbFNIWTNkVTBSbWw1RjdHemlnc0llX2RKd2VYM0g0b24yZm5TMWgxb3NQQnVJNm9NWHhwX2UwZFlYRTRXV3NZYXBKaS1GTkVUU0lHdkxkSzBXMmhTMmFjUjJpSUlwU0FKREZP?oc=5",
+   "title": "'I'm just trying to do the best': Naomi Osaka reveals how daughter Shai helped her see life beyond tennis",
+   "published_at": "2026-10-10T23:38:00+00:00",
+   "kind": "news",
+   "id": "b9ef9b18-a193-4c9b-b7db-8483f9d84f7c",
+   "fetched_at": "2026-10-12T00:28:49.853342+00:00",
+   "event_id": "e8dfd67f-7b6b-4d71-b94d-7f91932410f0",
+   "summary_ja": "オオサカ・ナオミ選手が、娘のおかげでテニス以外の人生に目を向けられたと語った。",
+   "angle": "選手の家族観",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/11/MJTDMMJTGQZTKYRYGVSWCNTEMI/",
+   "title": "日·英·伊 차세대 전투기 개발사, 일본에 설계·개발 거점 구축",
+   "published_at": "2026-10-11T06:05:59+00:00",
+   "kind": "news",
+   "id": "d9860088-2e1c-4593-a428-552f978c1d01",
+   "fetched_at": "2026-10-12T00:28:51.572656+00:00",
+   "event_id": "3f00b802-6642-4a81-81c7-e3403c9a924b",
+   "summary_ja": "エッジウィングが来年初めに愛知県へ設計・開発拠点を設け、約1000人を雇用する方針を伝えた。",
+   "angle": "開発拠点の新設",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/economy/science/2026/10/12/MRRWMNRXGJSWCYLFGRSGMMZTME/",
+   "title": "동아에스티 빈혈치료제 바이오시밀러 ‘다베크론’, UAE 출시",
+   "published_at": "2026-10-12T00:17:21+00:00",
+   "kind": "news",
+   "id": "5f51e485-2295-4b94-aea3-11e9f4b649d3",
+   "fetched_at": "2026-10-12T00:28:51.573089+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/economy/market_trend/2026/10/12/MM3TMZDCMFTGGNTCGJTDENBQME/",
+   "title": "호텔김치 1㎏ 당 1만원 비싼데… 생산지는 파주·청주·홍천 중소기업 공장",
+   "published_at": "2026-10-11T21:00:00+00:00",
+   "kind": "news",
+   "id": "e942ef64-a567-46fb-b82e-ddb30a0f065b",
+   "fetched_at": "2026-10-12T00:28:51.573237+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/economy/tech_it/2026/10/11/MQ4WGNRWHFSWCMTGGJSDOZBZGM/",
+   "title": "애플 첫 폴더블폰 310만원…日 소비자 90% “구매 의향 없다”",
+   "published_at": "2026-10-11T07:33:35+00:00",
+   "kind": "news",
+   "id": "7a0d859b-ce1c-49e8-94b3-17ba8b098b88",
+   "fetched_at": "2026-10-12T00:28:51.573394+00:00",
+   "event_id": "68fba111-50ce-449a-b798-e36c78165c40",
+   "summary_ja": "アップルの折りたたみ式発売を前に、日本の消費者の約9割が購入意向なしと答えた調査を伝えた。",
+   "angle": "消費者の購買意向",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/two-men-die-16-injured-in-float-festival-accidents-in-japans-osaka-prefecture",
+   "title": "Two men die, 16 injured in float festival accidents in Japan’s Osaka prefecture",
+   "published_at": "2026-10-11T09:27:00+00:00",
+   "kind": "news",
+   "id": "a5f0bc64-d5bb-4201-b624-eca57570ba9f",
+   "fetched_at": "2026-10-12T00:28:53.262333+00:00",
+   "event_id": "9f6b6da8-7911-4da0-85d7-a01d40bf1376",
+   "summary_ja": "大阪府でだんじりが転倒し、男性2人が死亡、16人が負傷した。",
+   "angle": "祭りの事故",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/japan-cruises-courting-younger-travellers-with-shorter-cheaper-trips",
+   "title": "Japan cruises courting younger travellers with shorter, cheaper trips",
+   "published_at": "2026-10-11T08:00:00+00:00",
+   "kind": "news",
+   "id": "59136a94-d574-4eae-8ba4-62264703e185",
+   "fetched_at": "2026-10-12T00:28:53.262662+00:00",
+   "event_id": "8c9ae36e-e179-42f5-b554-5350a7a62d70",
+   "summary_ja": "日本の海運・娯楽各社が短く安いクルーズで若い層の開拓を狙う動きを伝えた。",
+   "angle": "若年層の開拓",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/japanese-football-players-work-in-apple-orchards-to-broaden-career-options",
+   "title": "Japanese football players work in apple orchards to broaden career options",
+   "published_at": "2026-10-11T02:35:00+00:00",
+   "kind": "news",
+   "id": "c8b26135-2d79-4b01-84b4-3db276b96932",
+   "fetched_at": "2026-10-12T00:28:53.262985+00:00",
+   "event_id": "c6a716ff-df61-432b-a6aa-028e2dee27d0",
+   "summary_ja": "青森・弘前のサッカー選手2人が、引退後を見据えリンゴ農園で働いている。",
+   "angle": "選手の第二の道",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/sport/golf/michael-brennan-holds-off-xander-schauffele-in-japan-for-his-third-pga-tour-win",
+   "title": "Michael Brennan holds off Xander Schauffele in Japan for his third PGA Tour win",
+   "published_at": "2026-10-11T07:58:00+00:00",
+   "kind": "news",
+   "id": "7e587be0-f592-4acd-b97b-aacf7c3e652f",
+   "fetched_at": "2026-10-12T00:28:53.264138+00:00",
+   "event_id": "f4142240-751b-4850-9e42-6b4d46a0aa6e",
+   "summary_ja": "横浜でのPGAツアーでブレナン選手がシャウフェレ選手らを抑え優勝した。",
+   "angle": "大会結果",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-11/We-Talk-Rising-prices-in-Japan-squeezing-household-budgets-1R9IvWwR8dy/p.html",
+   "title": "We Talk: Rising prices in Japan squeezing household budgets",
+   "published_at": "2026-10-11T17:55:00+00:00",
+   "kind": "news",
+   "id": "cb3488a6-5691-429b-be18-ef0b0b6345ce",
+   "fetched_at": "2026-10-12T00:28:54.680533+00:00",
+   "event_id": "04786234-12ab-485b-8449-434d8658189d",
+   "summary_ja": "日本の物価上昇が家計を圧迫している点を取り上げる番組。",
+   "angle": "家計の負担",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "abc",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVS1NaGpDWlFmNkNFTHZfdGV5QXVFUGZNSGJOcGktRXJ2WkNFU3RZVlRLUDktZ1ZXazZBeGREcHdfSmVaV2JUNGtJWmNMRHprUTItUnZEZzBaRXN0UnBCbEdCcEJ1UU5Oa2ttM2VvaW9iT0Z4T2szNXpIVUlMOXhMMWpHQm9qSjhwUTBubkxfV3V0SnQ1ejIzWHd4NUJnanNXWi1lVQ?oc=5",
+   "title": "US, China and Japan cut foreign aid to South-East Asia as development finance plummets",
+   "published_at": "2026-10-11T11:31:04+00:00",
+   "kind": "news",
+   "id": "90945f65-3d0c-4266-8680-f735465afa8d",
+   "fetched_at": "2026-10-12T00:28:56.221516+00:00",
+   "event_id": "43fc11dd-a427-44c0-92f1-e59aac300e93",
+   "summary_ja": "米中日が東南アジア向け援助を減らし、開発資金が急減していると伝える。",
+   "angle": "援助の削減",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/10/12/tech/hydrovault-startup/",
+   "title": "Cooling innovation from a hot startup",
+   "published_at": "2026-10-11T23:00:00+00:00",
+   "kind": "news",
+   "id": "e843e4ad-e9e9-4bd9-ad68-ca7fbb777041",
+   "fetched_at": "2026-10-12T00:28:57.138834+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/world/pope-lung-growth/",
+   "title": "Pope Leo says will undergo surgery for small growth on lung",
+   "published_at": "2026-10-11T11:59:00+00:00",
+   "kind": "news",
+   "id": "59c64cc2-9848-4197-9d03-b8408db8bf37",
+   "fetched_at": "2026-10-12T00:28:57.139759+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/crime-legal/japan-drivers-license-data-breach-spread/",
+   "title": "Driver’s license data breaches becoming major concern",
+   "published_at": "2026-10-11T09:07:00+00:00",
+   "kind": "news",
+   "id": "6fbdd80e-2800-45ba-8085-86f291db1a59",
+   "fetched_at": "2026-10-12T00:28:57.140769+00:00",
+   "event_id": "0db34dbd-d930-4f74-bc66-c573b7222074",
+   "summary_ja": "タイムズカーの免許証情報流出を受け、免許再発行に人が殺到。警察は再発行の防犯効果は小さいと説明。",
+   "angle": "免許情報の悪用不安",
+   "tone": "crit",
+   "evidence": "fears that their license data could be abused",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/community/2026/10/11/how-tos/permanent-residency-application-dos-donts/",
+   "title": "The do’s, don’ts and pitfalls when applying for permanent residency in Japan",
+   "published_at": "2026-10-11T09:00:00+00:00",
+   "kind": "news",
+   "id": "bb24c6c7-2430-47bf-9c24-c3e0caa3f4c4",
+   "fetched_at": "2026-10-12T00:28:57.141813+00:00",
+   "event_id": "1a83c261-6e22-420b-bdfe-0c79df3afd02",
+   "summary_ja": "永住申請が大幅に難しくなったとし、遡及適用を混乱を招く動きと指摘して注意点を解説する。",
+   "angle": "申請の難化",
+   "tone": "crit",
+   "evidence": "In a particularly disruptive move",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/culture/2026/10/11/tv-streaming/netflix-strategy-plastic-beauty/",
+   "title": "Netflix vies to be a cut above in TV production",
+   "published_at": "2026-10-11T09:00:00+00:00",
+   "kind": "news",
+   "id": "ee69c535-2c20-44db-abff-447e9a9869d4",
+   "fetched_at": "2026-10-12T00:28:57.142748+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/asia-pacific/politics/cockroach-members-released/",
+   "title": "India releases ‘cockroach’ leaders as movement calls for more protests",
+   "published_at": "2026-10-11T08:27:00+00:00",
+   "kind": "news",
+   "id": "8279e695-163e-4c67-b688-3be4989db6a5",
+   "fetched_at": "2026-10-12T00:28:57.143771+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/10/11/companies/japan-cyber-defense-services-inquiry-surge/",
+   "title": "Major electronics firms bombarded with cyberdefense inquiries",
+   "published_at": "2026-10-11T06:33:00+00:00",
+   "kind": "news",
+   "id": "faeca6c6-b84b-4545-b80d-4940c727a908",
+   "fetched_at": "2026-10-12T00:28:57.144717+00:00",
+   "event_id": "b4636147-2ae8-4708-a862-0f7e46a4d426",
+   "summary_ja": "攻撃の増加を受け、大手電機メーカーにサイバー防御サービスへの問い合わせが急増している。",
+   "angle": "防御需要の拡大",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:31:24.600012+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/commentary/2026/10/11/japan/japan-china-tensions-rise/",
+   "title": "With bilateral trade booming, why are Japan-China tensions rising?",
+   "published_at": "2026-10-11T05:31:00+00:00",
+   "kind": "opinion",
+   "id": "eb5cc3ef-7a6e-40fb-8f08-5e8880ffb713",
+   "fetched_at": "2026-10-12T00:28:57.146715+00:00",
+   "event_id": "e8b4e0e6-acd9-4d0c-bba0-5d0a64b81377",
+   "summary_ja": "貿易が拡大する一方で日中が相互依存を減らそうとする逆説を論じる論評。",
+   "angle": "相互依存の逆説",
+   "tone": "neu",
+   "evidence": "weaponized interdependence",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/okinawa-murder-us-marine-arrest-local-reaction/",
+   "title": "‘Everyone is angry’: Okinawans fearful and frustrated after killing",
+   "published_at": "2026-10-11T05:12:00+00:00",
+   "kind": "news",
+   "id": "6b469a7d-54a5-4ee0-b039-68de4531f1fc",
+   "fetched_at": "2026-10-12T00:28:57.147826+00:00",
+   "event_id": "0f7a27b9-9bc8-448a-b032-912b8ad79f89",
+   "summary_ja": "事件から1週間、住民が米兵の撤退を望む声を紹介し、首相が「凶悪」と批判したと伝えた。",
+   "angle": "住民の怒り",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/asia-pacific/science-health/indonesia-fires-orangutan-released/",
+   "title": "Indonesia releases eight orangutans rescued from fires to protected forest",
+   "published_at": "2026-10-11T05:11:00+00:00",
+   "kind": "news",
+   "id": "da6a77bf-5fdd-4975-8b89-6518cd1e4017",
+   "fetched_at": "2026-10-12T00:28:57.148861+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/10/11/baseball/mlb/guardians-beats-white-sox-alds/",
+   "title": "Guardians beat White Sox to complete comeback and punch ticket to ALCS",
+   "published_at": "2026-10-11T04:39:00+00:00",
+   "kind": "news",
+   "id": "2fb0383c-6c3d-422a-95bb-b5c163e5dbbe",
+   "fetched_at": "2026-10-12T00:28:57.149963+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/10/11/more-sports/cancel/",
+   "title": "NASCAR and IndyCar look to generate Formula One-type growth overseas",
+   "published_at": "2026-10-11T04:00:00+00:00",
+   "kind": "news",
+   "id": "390d86a2-c6b5-4b88-a4d9-210b21513d06",
+   "fetched_at": "2026-10-12T00:28:57.151078+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/10/11/baseball/brewers-dodgers-nlcs-rematch/",
+   "title": "Brewers out for revenge against Dodgers as teams prepare for NLCS rematch",
+   "published_at": "2026-10-11T03:37:00+00:00",
+   "kind": "news",
+   "id": "a2a04b6e-8475-48db-890b-181919c90daa",
+   "fetched_at": "2026-10-12T00:28:57.152200+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/media/newspaper-subscriptions-below-50-percent/",
+   "title": "Newspaper subscription rate in Japan falls below 50% for first time",
+   "published_at": "2026-10-11T03:36:00+00:00",
+   "kind": "news",
+   "id": "bb8de3f3-40c8-4a75-b151-58ada35bb239",
+   "fetched_at": "2026-10-12T00:28:57.153309+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/world/politics/trump-replacing-ukraine-zelenskyy/",
+   "title": "Trump calls for replacing Zelenskyy in tussle over diesel deal with Russia",
+   "published_at": "2026-10-11T03:06:00+00:00",
+   "kind": "news",
+   "id": "55d15eac-4887-4358-8b65-5b424d9a5c7c",
+   "fetched_at": "2026-10-12T00:28:57.154489+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/10/11/more-sports/eliud-kipchoge-sydney-marathon/",
+   "title": "Eliud Kipchoge wins first marathon since 2023",
+   "published_at": "2026-10-11T02:53:00+00:00",
+   "kind": "news",
+   "id": "6a716fcf-011b-46fb-9465-a36bbf27378e",
+   "fetched_at": "2026-10-12T00:28:57.155598+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/politics/rubio-motegi-icc-sanctions/",
+   "title": "Rubio cites ‘necessity’ of U.S. sanctions on ICC in call with Japanese counterpart",
+   "published_at": "2026-10-11T01:41:00+00:00",
+   "kind": "news",
+   "id": "bf8019da-e251-43f2-9f63-2d66afbf9527",
+   "fetched_at": "2026-10-12T00:28:57.156909+00:00",
+   "event_id": "e9c8b4ef-95cf-412e-8421-b9b4bb9b4469",
+   "summary_ja": "ルビオ長官が茂木外相との電話でICC制裁の必要性を主張し、日米の見解の違いが浮き彫りに。",
+   "angle": "日米の見解相違",
+   "tone": "neu",
+   "evidence": "further highlighting the allies’ conflicting views",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/commentary/2026/10/11/world/netanyahu-isolation-legacy/",
+   "title": "Three years after Oct. 7, Netanyahu’s legacy is isolation",
+   "published_at": "2026-10-11T01:31:00+00:00",
+   "kind": "opinion",
+   "id": "8b4f46ec-72e6-4407-a8b8-027523b68be5",
+   "fetched_at": "2026-10-12T00:28:57.158120+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/japan-survey-us-biggest-threat-to-peace/",
+   "title": "26% in Japan see U.S. as biggest threat to world peace: survey",
+   "published_at": "2026-10-11T01:31:00+00:00",
+   "kind": "news",
+   "id": "529e2d48-eb7a-46cd-aed7-a39bb91aaaea",
+   "fetched_at": "2026-10-12T00:28:57.159322+00:00",
+   "event_id": "581a5b6c-9431-47ad-9563-2a1717876852",
+   "summary_ja": "世界平和への最大の脅威として米国を挙げる人が26.8%に増え、中国に次ぐ2位となった。",
+   "angle": "対米意識の変化",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/community/2026/10/11/autumn-beagle-adopt-me/",
+   "title": "People-loving Autumn is ready for a new home",
+   "published_at": "2026-10-11T01:21:00+00:00",
+   "kind": "news",
+   "id": "76b6e82a-37ec-406d-8e8b-d026e42e8410",
+   "fetched_at": "2026-10-12T00:28:57.160460+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/10/11/soccer/portugal-ronaldo-provisionally-suspended/",
+   "title": "Ronaldo suspended by Portugal FA after leaving camp and criticizing coach",
+   "published_at": "2026-10-11T01:08:00+00:00",
+   "kind": "news",
+   "id": "65443f3e-2867-44cf-b758-e766aea32e83",
+   "fetched_at": "2026-10-12T00:28:57.161655+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/japan-first-female-kishi-shogi-player/",
+   "title": "Tomoka Nishiyama earns right to become shogi’s first female kishi player",
+   "published_at": "2026-10-11T01:06:00+00:00",
+   "kind": "news",
+   "id": "beb1e4e7-40c8-4e2a-9c04-fc2b272deb4c",
+   "fetched_at": "2026-10-12T00:28:57.162989+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/world/science-health/trust-in-science-falls-survey/",
+   "title": "Trust in science falls as COVID-era confidence fades, global survey finds",
+   "published_at": "2026-10-11T00:48:00+00:00",
+   "kind": "news",
+   "id": "614e3f51-edf0-43d6-b49f-83aa0dd1d16e",
+   "fetched_at": "2026-10-12T00:28:57.164218+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/japan-float-festival-deaths/",
+   "title": "Two die and 16 hurt in Osaka danjiri float festival accidents",
+   "published_at": "2026-10-11T00:31:00+00:00",
+   "kind": "news",
+   "id": "8e85c3d0-aa1d-4042-8eca-bf54245af9b9",
+   "fetched_at": "2026-10-12T00:28:57.165453+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/world/hunger-malnutrition-gaza-ceasefire/",
+   "title": "Hunger and malnutrition stalk Gazans, one year on from ceasefire",
+   "published_at": "2026-10-11T00:12:00+00:00",
+   "kind": "news",
+   "id": "84d96d60-3c83-4c3a-a96f-f704e5989de0",
+   "fetched_at": "2026-10-12T00:28:57.166673+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/world/crime-legal/us-lethal-injection-survivor-returns-prison/",
+   "title": "Survivor of botched U.S. lethal injection returns to prison",
+   "published_at": "2026-10-11T00:11:00+00:00",
+   "kind": "news",
+   "id": "0706b927-e521-43d9-bc5f-60316bbc0f07",
+   "fetched_at": "2026-10-12T00:28:57.167890+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/10/11/tech/trump-ai-liability-models-rogue/",
+   "title": "Trump’s AI liability push opens blame game for models gone rogue",
+   "published_at": "2026-10-10T23:43:00+00:00",
+   "kind": "news",
+   "id": "78488958-f386-4f7d-bdd8-00d4a780f375",
+   "fetched_at": "2026-10-12T00:28:57.170229+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/10/11/world/houthi-attack-saudi-airport/",
+   "title": "Houthi strike on airport kills 12 as Saudi coalition vows ‘decisive’ response",
+   "published_at": "2026-10-10T23:41:00+00:00",
+   "kind": "news",
+   "id": "2ee39543-bc83-4951-9706-3130060651fa",
+   "fetched_at": "2026-10-12T00:28:57.171620+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-10-12T00:30:26.286696+00:00",
    "relevant": false
   }
  ]
