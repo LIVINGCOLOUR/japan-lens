@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { isGovernment, JAPAN_MAIN_COUNT, MIN_OUTLETS } from "@/lib/rules";
+import { REGION_LABEL } from "@/lib/regions";
 import type { Article, Feed, NewsEvent, Outlet, Tone } from "@/lib/types";
 
 const TONES: { key: Tone; label: string }[] = [
@@ -11,19 +12,6 @@ const TONES: { key: Tone; label: string }[] = [
 ];
 const TONE_LABEL: Record<Tone, string> = { crit: "批判的", neu: "中立", fav: "好意的", none: "評価なし" };
 const TONE_RANK: Record<Tone, number> = { crit: 0, neu: 1, fav: 2, none: 3 };
-const REGION_LABEL: Record<string, string> = {
-  US: "米国",
-  GB: "英国",
-  DE: "ドイツ",
-  CN: "中国",
-  HK: "香港",
-  TW: "台湾",
-  KR: "韓国",
-  IN: "インド",
-  AU: "オーストラリア",
-  SG: "シンガポール",
-  ID: "インドネシア",
-};
 
 type Sort = "tone" | "time";
 type Lang = "en" | "ja";

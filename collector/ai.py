@@ -324,3 +324,137 @@ def confirm_japan_coverage(event, candidates):
     result = _run(CONFIRM_SYSTEM, CONFIRM_SCHEMA,
                   "次の候補から、出来事を報じている記事を選んでください。\n\n" + json.dumps(payload, ensure_ascii=False))
     return [i for i in result["matches"] if isinstance(i, str)]
+
+
+# ---- 世界の主要ニュース（日本以外の出来事を、各国の媒体がどう報じたか） ----
+
+# 「その他」（スポーツ・芸能・生活情報・その国の中だけの小さな事件など）は掲載しない
+WORLD_CATEGORIES = ["政治", "外交", "紛争・安全保障", "経済", "社会", "災害・事故", "科学・環境・保健", "その他"]
+
+WORLD_CLUSTER_SYSTEM = f"""あなたは、世界の出来事を各国の媒体がどう報じたかを比べるニュースサイトの編集者です。
+各国の媒体の見出しを「id|媒体の国|見出し」の形で渡します（あれば「 / 」のあとにリード文の冒頭）。
+同じ出来事を報じた見出しをまとめてください。
+
+- 同じ出来事とは、同じ会談・発表・攻撃・選挙・判決・災害などを指す。テーマや地域が近いだけの別の出来事はまとめない
+  （例: 「ウクライナがロシアの製油所を攻撃」と「ロシアがキーウを空爆」は別の出来事）。
+- 出来事への反応・論評・続報は元の出来事にまとめる。ただし、新しい決定や行動が起きた場合は新しい出来事にする。
+- existing_stories に同じ出来事があれば、その key を使う。なければ新しい key（"n1", "n2", ...）を作る。
+- 新しい出来事を作るのは、国際的に重要になりうるものだけ: 各国の政治・選挙、外交、紛争・安全保障、経済・市場の大きな動き、
+  大きな災害・事故、科学・環境・保健。その国の中だけの小さな事件、スポーツの結果、芸能、生活情報、一般的なコラムなどは
+  出来事を作らず、その見出しはどの出来事にも入れない。
+- 見出しが1件だけでも、上の条件に合えば出来事を作ってよい（あとで別の媒体の見出しが加わることがある）。
+- 日本が主な対象の出来事（日本政府・日本企業・日本国内の出来事）は japan_subject を true にする（別のページで扱う）。
+- 新しい出来事には title_ja（中立的な一文の見出し、30字程度まで。評価を含む言葉は使わない）、category、
+  search_ja（日本の新聞・テレビがこの出来事を報じたかを調べる日本語の検索語。出来事を特定できる語を2〜4個、半角スペース区切り）を書く。
+  既存の出来事では title_ja と search_ja は空文字でよい。
+- category: {"・".join(WORLD_CATEGORIES)} から1つ。
+- 出来事ごとの articles には、その出来事を報じた見出しの id をすべて入れる。1つの見出しは1つの出来事にだけ入れる。
+
+{WRITING_RULES}"""
+
+WORLD_CLUSTER_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "stories": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "key": {"type": "string"},
+                    "title_ja": {"type": "string"},
+                    "category": {"type": "string", "enum": WORLD_CATEGORIES},
+                    "japan_subject": {"type": "boolean"},
+                    "search_ja": {"type": "string"},
+                    "articles": {"type": "array", "items": {"type": "string"}},
+                },
+                "required": ["key", "title_ja", "category", "japan_subject", "search_ja", "articles"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["stories"],
+    "additionalProperties": False,
+}
+
+WORLD_COMPARE_SYSTEM = f"""あなたは、世界の出来事を各国の媒体がどう報じたかを比べるニュースサイトの編集者です。
+1つの出来事について、各国の媒体の記事（見出しと、あればリード文）と、
+日本の新聞・テレビのサイトを検索して見つかった見出しの候補（japan_candidates）を渡します。
+このサイトの目的は、日本の報道だけに頼らず、同じ出来事を世界の各国がどう伝えたかを並べて見せることです。
+
+次を書いてください。
+- title_ja: 出来事を表す中立的な一文の見出し（30字程度まで）。評価を含む言葉は使わない。
+- fact_ja: 複数の媒体が一致して伝えている事実だけを1〜2文で。推測や評価は書かない。
+- country_views: 記事のある国ごとに、その国の媒体がこの出来事のどこに焦点を当て、どう伝えているかを1〜2文で。
+  country には記事の country をそのまま書く。government_affiliated が true の媒体（国営・政府系）の記事だけの国は、
+  「国営・政府系の媒体は」と主語を明記する。独立した媒体と国営・政府系の媒体が両方ある国は、分けて書く。
+- difference_ja: 国による伝え方の違いを2〜3文で。何を強調し、何に触れていないか、誰の声を載せているか、言葉の強さの違いなど。
+  違いを無理に作らない。どの国も事実を淡々と伝えているなら、そう一文で書く。
+  国営・政府系の媒体の主張を「その国の見方」「各国では」のような全体の見方として書かない。
+- articles: 記事ごとに summary_ja（何を伝えているかを日本語の一文、60字程度まで）と angle（何に焦点を当てているか、12字以内）。
+- japan_matches: japan_candidates のうち、この出来事そのもの（同じ会談・発表・攻撃・決定など）を報じている見出しの id。
+  テーマが近いだけの別の出来事、検索語が偶然一致しただけのものは含めない。見出しだけで判断できないものも含めない。
+- japan_view_ja: japan_matches の見出しから、日本の主要媒体がこの出来事のどこに焦点を当てているかを、各国の伝え方と比べて1〜2文で。
+  見出しから分かる範囲に限る（例: 日本人の被害や日本への影響を中心に伝えている、など）。japan_matches が空なら空文字。
+- search_ja: 日本の新聞・テレビがこの出来事を報じたかを調べる日本語の検索語（2〜4語、半角スペース区切り）。
+- place_countries: 出来事が起きた国、または出来事の主な当事者の国の ISO 3166-1 alpha-2 コード（例: 米大統領の決定なら ["US"]、
+  ウクライナとロシアの攻撃の応酬なら ["UA", "RU"]）。国際会議など特定の国に当たらなければ空の配列。
+
+- 媒体を「右派」「左派」「保守」「リベラル」などの立場の言葉で呼ばない（このサイトは媒体の立場を表示しない方針）。
+- 材料についての説明（「見出しだけでは分からない」「今回の材料は○○のみ」など）は書かない。内容だけを書く。
+- 記事に書かれていないことは足さない。
+
+{WRITING_RULES}"""
+
+WORLD_COMPARE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "title_ja": {"type": "string"},
+        "fact_ja": {"type": "string"},
+        "country_views": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {"country": {"type": "string"}, "view_ja": {"type": "string"}},
+                "required": ["country", "view_ja"],
+                "additionalProperties": False,
+            },
+        },
+        "difference_ja": {"type": "string"},
+        "articles": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {"id": {"type": "string"}, "summary_ja": {"type": "string"}, "angle": {"type": "string"}},
+                "required": ["id", "summary_ja", "angle"],
+                "additionalProperties": False,
+            },
+        },
+        "japan_matches": {"type": "array", "items": {"type": "string"}},
+        "japan_view_ja": {"type": "string"},
+        "search_ja": {"type": "string"},
+        "place_countries": {"type": "array", "items": {"type": "string"}},
+    },
+    "required": ["title_ja", "fact_ja", "country_views", "difference_ja", "articles", "japan_matches",
+                 "japan_view_ja", "search_ja", "place_countries"],
+    "additionalProperties": False,
+}
+
+
+def cluster_world(lines, existing):
+    """見出しの行（"id|国|見出し"）を出来事にまとめ、{"stories": [...]} を返す。
+    existing は [{"key", "title_ja", "headlines": [...]}]。"""
+    payload = {"existing_stories": existing, "headlines": lines}
+    return _run(WORLD_CLUSTER_SYSTEM, WORLD_CLUSTER_SCHEMA,
+                "次の見出しを出来事にまとめてください。\n\n" + json.dumps(payload, ensure_ascii=False))
+
+
+def compare_world(story, articles, japan_candidates):
+    """1つの出来事について、国ごとの伝え方と日本の主要媒体との違いをまとめる。"""
+    payload = {
+        "story": {"title_ja": story["title_ja"], "fact_ja": story.get("fact_ja", "")},
+        "articles": articles,
+        "japan_candidates": [{"id": c["id"], "outlet": c["outlet"], "headline": c["title"],
+                              "published_at": c["published_at"]} for c in japan_candidates],
+    }
+    return _run(WORLD_COMPARE_SYSTEM, WORLD_COMPARE_SCHEMA,
+                "次の出来事について、各国の伝え方を比べてください。\n\n" + json.dumps(payload, ensure_ascii=False))

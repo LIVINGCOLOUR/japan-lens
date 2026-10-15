@@ -152,10 +152,17 @@ def _parse_gt_search(query, pages):
 
 def fetch_outlet(outlet, max_age=MAX_AGE, search_pages=2):
     """1媒体ぶんの日本関連記事を返す。同じ URL が複数フィードにあれば1件にまとめる。"""
+    # 日本の媒体はほぼ全記事が日本の話題なので語で絞らない（AI が掲載対象かを判定する）
+    return fetch_feeds(outlet, outlet["feeds"], japan_only=outlet.get("side") != "japan",
+                       max_age=max_age, search_pages=search_pages)
+
+
+def fetch_feeds(outlet, feeds, japan_only, max_age=MAX_AGE, search_pages=2):
+    """フィードの記事を返す。japan_only なら日本関連の語を含む記事だけ（「世界の主要ニュース」では絞らない）。"""
     found = {}
     errors = []
     oldest = datetime.now(timezone.utc) - max_age
-    for url in outlet["feeds"]:
+    for url in feeds:
         if url.startswith("gnews:"):
             # "gnews:検索語|言語|国"。RSS に日本の記事がほとんど流れない媒体を、Google News のサイト内検索で補う
             query, hl, gl = url.split(":", 1)[1].split("|")
@@ -189,8 +196,7 @@ def fetch_outlet(outlet, max_age=MAX_AGE, search_pages=2):
             if published < oldest:
                 continue
             description = _clean(entry.get("summary"))
-            # 日本の媒体はほぼ全記事が日本の話題なので語で絞らない（AI が掲載対象かを判定する）
-            if outlet.get("side") != "japan" and not JAPAN_PATTERN.search(f"{title} {description}"):
+            if japan_only and not JAPAN_PATTERN.search(f"{title} {description}"):
                 continue
             found[link] = {
                 "outlet_id": outlet["id"],

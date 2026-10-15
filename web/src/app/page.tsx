@@ -1,5 +1,6 @@
 import Link from "next/link";
 import FeedView from "@/components/FeedView";
+import SiteNav from "@/components/SiteNav";
 import { getFeed } from "@/lib/data";
 import { MIN_OUTLETS } from "@/lib/rules";
 
@@ -20,6 +21,7 @@ export default function Home() {
         )}
         <Link href="/about" className="about-link header-about">このサイトを作った背景を読む →</Link>
       </header>
+      <SiteNav current="japan" />
 
       <FeedView feed={feed} />
 

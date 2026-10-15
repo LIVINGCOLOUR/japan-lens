@@ -269,6 +269,7 @@ def main():
     load_dotenv(Path(__file__).with_name(".env"))
     parser = argparse.ArgumentParser()
     parser.add_argument("--no-ai", action="store_true", help="収集だけ行い AI 処理をしない")
+    parser.add_argument("--no-world", action="store_true", help="世界の主要ニュース（world.py）を処理しない")
     args = parser.parse_args()
 
     store = Store()
@@ -286,6 +287,15 @@ def main():
     finally:
         store.save()
         leads.save()
+    if not args.no_world:
+        # 世界の主要ニュースは日本の出来事とは別のファイルに書く。失敗しても日本の出来事の更新は残す
+        import world
+
+        print("世界の主要ニュース")
+        try:
+            world.run(use_ai=not args.no_ai and ai_available())
+        except Exception as e:
+            print(f"  世界の主要ニュースの処理に失敗しました: {type(e).__name__}: {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,2608 @@
+{
+ "generated_at": "2026-10-15T16:29:18.485757+00:00",
+ "rules": {
+  "min_countries": 3,
+  "min_areas": 2,
+  "per_day": 5,
+  "days": 7,
+  "per_outlet": 40
+ },
+ "areas": {
+  "US": "米州",
+  "BR": "米州",
+  "GB": "欧州",
+  "DE": "欧州",
+  "FR": "欧州",
+  "RU": "欧州",
+  "CN": "アジア",
+  "HK": "アジア",
+  "TW": "アジア",
+  "KR": "アジア",
+  "IN": "アジア",
+  "PK": "アジア",
+  "SG": "アジア",
+  "ID": "アジア",
+  "TH": "アジア",
+  "QA": "中東・アフリカ",
+  "IL": "中東・アフリカ",
+  "NG": "中東・アフリカ",
+  "AU": "オセアニア"
+ },
+ "outlets": [
+  {
+   "id": "nyt",
+   "name": "The New York Times",
+   "country_code": "US",
+   "flag": "🇺🇸",
+   "region": "US",
+   "ownership": "民間",
+   "homepage": "https://www.nytimes.com",
+   "side": "overseas"
+  },
+  {
+   "id": "wsj",
+   "name": "The Wall Street Journal",
+   "country_code": "US",
+   "flag": "🇺🇸",
+   "region": "US",
+   "ownership": "民間",
+   "homepage": "https://www.wsj.com",
+   "side": "overseas"
+  },
+  {
+   "id": "bbc",
+   "name": "BBC News",
+   "country_code": "GB",
+   "flag": "🇬🇧",
+   "region": "GB",
+   "ownership": "公共放送",
+   "homepage": "https://www.bbc.com/news",
+   "side": "overseas"
+  },
+  {
+   "id": "cna",
+   "name": "CNA",
+   "country_code": "SG",
+   "flag": "🇸🇬",
+   "region": "SG",
+   "ownership": "政府系",
+   "homepage": "https://www.channelnewsasia.com",
+   "side": "overseas"
+  },
+  {
+   "id": "koreaherald",
+   "name": "The Korea Herald",
+   "country_code": "KR",
+   "flag": "🇰🇷",
+   "region": "KR",
+   "ownership": "民間",
+   "homepage": "https://www.koreaherald.com",
+   "side": "overseas"
+  },
+  {
+   "id": "scmp",
+   "name": "South China Morning Post",
+   "country_code": "HK",
+   "flag": "🇭🇰",
+   "region": "HK",
+   "ownership": "民間",
+   "homepage": "https://www.scmp.com",
+   "side": "overseas"
+  },
+  {
+   "id": "welt",
+   "name": "Die Welt",
+   "country_code": "DE",
+   "flag": "🇩🇪",
+   "region": "DE",
+   "ownership": "民間",
+   "homepage": "https://www.welt.de",
+   "side": "overseas"
+  },
+  {
+   "id": "taz",
+   "name": "taz",
+   "country_code": "DE",
+   "flag": "🇩🇪",
+   "region": "DE",
+   "ownership": "協同組合",
+   "homepage": "https://taz.de",
+   "side": "overseas"
+  },
+  {
+   "id": "tagesschau",
+   "name": "tagesschau",
+   "country_code": "DE",
+   "flag": "🇩🇪",
+   "region": "DE",
+   "ownership": "公共放送",
+   "homepage": "https://www.tagesschau.de",
+   "side": "overseas"
+  },
+  {
+   "id": "globaltimes",
+   "name": "Global Times",
+   "country_code": "CN",
+   "flag": "🇨🇳",
+   "region": "CN",
+   "ownership": "国営",
+   "homepage": "https://www.globaltimes.cn",
+   "side": "overseas"
+  },
+  {
+   "id": "focustaiwan",
+   "name": "Focus Taiwan",
+   "country_code": "TW",
+   "flag": "🇹🇼",
+   "region": "TW",
+   "ownership": "政府系",
+   "homepage": "https://focustaiwan.tw",
+   "side": "overseas"
+  },
+  {
+   "id": "toi",
+   "name": "The Times of India",
+   "country_code": "IN",
+   "flag": "🇮🇳",
+   "region": "IN",
+   "ownership": "民間",
+   "homepage": "https://timesofindia.indiatimes.com",
+   "side": "overseas"
+  },
+  {
+   "id": "chosun",
+   "name": "朝鮮日報",
+   "country_code": "KR",
+   "flag": "🇰🇷",
+   "region": "KR",
+   "ownership": "民間",
+   "homepage": "https://www.chosun.com",
+   "side": "overseas"
+  },
+  {
+   "id": "straitstimes",
+   "name": "The Straits Times",
+   "country_code": "SG",
+   "flag": "🇸🇬",
+   "region": "SG",
+   "ownership": "民間",
+   "homepage": "https://www.straitstimes.com",
+   "side": "overseas"
+  },
+  {
+   "id": "jakartapost",
+   "name": "The Jakarta Post",
+   "country_code": "ID",
+   "flag": "🇮🇩",
+   "region": "ID",
+   "ownership": "民間",
+   "homepage": "https://www.thejakartapost.com",
+   "side": "overseas"
+  },
+  {
+   "id": "cgtn",
+   "name": "CGTN",
+   "country_code": "CN",
+   "flag": "🇨🇳",
+   "region": "CN",
+   "ownership": "国営",
+   "homepage": "https://www.cgtn.com",
+   "side": "overseas"
+  },
+  {
+   "id": "guardian",
+   "name": "The Guardian",
+   "country_code": "GB",
+   "flag": "🇬🇧",
+   "region": "GB",
+   "ownership": "民間",
+   "homepage": "https://www.theguardian.com",
+   "side": "overseas"
+  },
+  {
+   "id": "sz",
+   "name": "Süddeutsche Zeitung",
+   "country_code": "DE",
+   "flag": "🇩🇪",
+   "region": "DE",
+   "ownership": "民間",
+   "homepage": "https://www.sueddeutsche.de",
+   "side": "overseas"
+  },
+  {
+   "id": "faz",
+   "name": "Frankfurter Allgemeine Zeitung",
+   "country_code": "DE",
+   "flag": "🇩🇪",
+   "region": "DE",
+   "ownership": "民間",
+   "homepage": "https://www.faz.net",
+   "side": "overseas"
+  },
+  {
+   "id": "abc",
+   "name": "ABC News (Australia)",
+   "country_code": "AU",
+   "flag": "🇦🇺",
+   "region": "AU",
+   "ownership": "公共放送",
+   "homepage": "https://www.abc.net.au/news",
+   "side": "overseas"
+  },
+  {
+   "id": "aljazeera",
+   "name": "Al Jazeera",
+   "country_code": "QA",
+   "flag": "🇶🇦",
+   "region": "QA",
+   "ownership": "政府系",
+   "homepage": "https://www.aljazeera.com",
+   "side": "overseas"
+  },
+  {
+   "id": "timesofisrael",
+   "name": "The Times of Israel",
+   "country_code": "IL",
+   "flag": "🇮🇱",
+   "region": "IL",
+   "ownership": "民間",
+   "homepage": "https://www.timesofisrael.com",
+   "side": "overseas"
+  },
+  {
+   "id": "lemonde",
+   "name": "Le Monde",
+   "country_code": "FR",
+   "flag": "🇫🇷",
+   "region": "FR",
+   "ownership": "民間",
+   "homepage": "https://www.lemonde.fr/en/",
+   "side": "overseas"
+  },
+  {
+   "id": "tass",
+   "name": "TASS",
+   "country_code": "RU",
+   "flag": "🇷🇺",
+   "region": "RU",
+   "ownership": "国営",
+   "homepage": "https://tass.com",
+   "side": "overseas"
+  },
+  {
+   "id": "folha",
+   "name": "Folha de S.Paulo",
+   "country_code": "BR",
+   "flag": "🇧🇷",
+   "region": "BR",
+   "ownership": "民間",
+   "homepage": "https://www1.folha.uol.com.br/internacional/en/",
+   "side": "overseas"
+  },
+  {
+   "id": "premiumtimes",
+   "name": "Premium Times",
+   "country_code": "NG",
+   "flag": "🇳🇬",
+   "region": "NG",
+   "ownership": "民間",
+   "homepage": "https://www.premiumtimesng.com",
+   "side": "overseas"
+  },
+  {
+   "id": "dawn",
+   "name": "Dawn",
+   "country_code": "PK",
+   "flag": "🇵🇰",
+   "region": "PK",
+   "ownership": "民間",
+   "homepage": "https://www.dawn.com",
+   "side": "overseas"
+  },
+  {
+   "id": "bangkokpost",
+   "name": "Bangkok Post",
+   "country_code": "TH",
+   "flag": "🇹🇭",
+   "region": "TH",
+   "ownership": "民間",
+   "homepage": "https://www.bangkokpost.com",
+   "side": "overseas"
+  }
+ ],
+ "stories": [
+  {
+   "id": "10dcc54e-269e-4055-a959-24b63fa5ee73",
+   "title_ja": "トランプ米大統領、フォートフッド銃撃犯の処刑を生配信しないと表明",
+   "fact_ja": "トランプ米大統領は、2009年にテキサス州の米軍基地フォートフッドで銃撃事件を起こしたニダル・ハサン元陸軍少佐の処刑を生配信しないと表明した。国防総省側が打ち出していた生配信の計画は批判を受けていた。",
+   "category": "社会",
+   "first_seen": "2026-10-15T14:26:02+00:00",
+   "updated_at": "2026-10-15T22:08:00+00:00",
+   "country_views": [
+    {
+     "country": "SG",
+     "view_ja": "独立系のストレーツ・タイムズは、トランプ氏の表明に加え、世論調査で米国人の多数が生配信に反対していたことを伝えた。国営・政府系のCNAは、生配信しないとの表明を見出しで短く伝えた。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系の媒体（アルジャジーラ）は、強い反発を受けて大統領が国防総省の生配信計画を覆したという流れに焦点を当てた。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "朝鮮日報は、ハサン元少佐が13人を殺害したことや、トランプ氏がトゥルース・ソーシャルへの投稿で表明したことを伝えた。批判が強まった結果、ヘグセス国防長官の決定を覆した形だと詳しく報じた。"
+    },
+    {
+     "country": "DE",
+     "view_ja": "4媒体が報じ、多くが方針転換であることを強調した。生配信の計画は世界的な批判やヘグセス国防長官の発表への憤りを招いていたと伝え、tazは撤回の背景にも関心を向けた。"
+    },
+    {
+     "country": "IN",
+     "view_ja": "ハサン元少佐の銃殺刑が12月3日に予定されていることや、国防総省の以前の発表に反して生配信しないこと、遺族は希望すれば立ち会えることなど、執行の具体的な内容を伝えた。"
+    },
+    {
+     "country": "AU",
+     "view_ja": "米国内外で強い反発があったことに加え、オーストラリアでも与野党がそろって非難していたことを取り上げ、自国の反応と結びつけて伝えた。"
+    },
+    {
+     "country": "PK",
+     "view_ja": "遺族は直接立ち会えることや、12月3日の執行が米軍の銃殺隊によるものとしては1945年以来初めてになることを伝えた。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "BBCは「見たくない人もいる」というトランプ氏の発言と、60年以上ぶりの軍による処刑である点を伝えた。ガーディアンは与野党の議員が決定を歓迎したことを取り上げ、計画を「病的」と呼んだ民主党のスロットキン上院議員や、「抑止効果はない」とした共和党のカーティス上院議員の声を載せた。"
+    },
+    {
+     "country": "CN",
+     "view_ja": "国営・政府系の媒体（CGTN）は、処刑を配信しないというトランプ氏の表明を見出しで短く伝えた。"
+    }
+   ],
+   "difference_ja": "ドイツやカタールのアルジャジーラ、韓国は、批判を受けた方針転換という流れを前に出した。一方、インドとパキスタンは執行日や遺族の立ち会いなど執行の中身を中心に伝えた。英国のガーディアンは米国の与野党議員の発言を、オーストラリアは自国の与野党の反応を載せ、誰の声を伝えるかに違いがあった。シンガポールのCNAと中国のCGTNは表明の事実だけを短く伝えた。",
+   "japan_main": [],
+   "japan_view_ja": "",
+   "japan_main_checked_at": "2026-10-15T16:22:10.909714+00:00",
+   "place_countries": [
+    "US"
+   ],
+   "day": "2026-10-15",
+   "n_outlets": 14,
+   "n_countries": 9,
+   "n_independent_countries": 7,
+   "n_areas": 3
+  },
+  {
+   "id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22",
+   "title_ja": "ウクライナ、ロシアの製油所への攻撃を再開すると表明",
+   "fact_ja": "ゼレンスキー大統領は、トランプ米大統領が発表したエネルギー施設への攻撃停止をやめ、ロシアの製油所への攻撃を再開すると表明した。その後、ロシアの製油所へのドローン攻撃が伝えられ、ロシア側はウクライナによる攻撃だと非難した。",
+   "category": "紛争・安全保障",
+   "first_seen": "2026-10-15T08:08:11+00:00",
+   "updated_at": "2026-10-15T15:27:08+00:00",
+   "country_views": [
+    {
+     "country": "HK",
+     "view_ja": "ゼレンスキー氏の「もう終わりだ」という発言を見出しにとり、トランプ氏に逆らって攻撃を再開したと伝えた。停戦はロシアが守らなかったことと、トランプ氏が製油所への攻撃を問題視してきたことにも触れている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "政府系の媒体（アルジャジーラ）は、ウクライナが攻撃を再開したというロシア側の発表と、ウクライナは米国の和平努力に反しているというロシアの非難を中心に伝えた。"
+    },
+    {
+     "country": "DE",
+     "view_ja": "フランクフルター・アルゲマイネ紙は、ゼレンスキー氏の表明の後に攻撃が実際に行われたことを速報で伝え、マスク氏の辞任要求やスターシールドの復旧も並べた。ヴェルト紙は、ゼレンスキー氏がトランプ氏に盾突き、新たな攻撃を予告したという対立の面を強調した。"
+    },
+    {
+     "country": "TH",
+     "view_ja": "ゼレンスキー氏がトランプ氏に逆らったという構図で伝え、米ロのディーゼル合意をめぐって両首脳の関係が悪化していることを背景に挙げた。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "ゼレンスキー氏の「トランプ氏に裏切られたと感じる」という発言を見出しに入れ、米国への不満を前に出して伝えた。"
+    },
+    {
+     "country": "RU",
+     "view_ja": "国営の媒体（タス通信）は、米国が9月以降6回にわたり製油所への攻撃をやめるようウクライナに求めていたという新聞報道を紹介した。米国が提供した資源で攻撃し、米国の消費者に害が及ぶおそれがあることにトランプ氏が苛立っていたという点を強調している。"
+    },
+    {
+     "country": "AU",
+     "view_ja": "米国が仲介した停戦をモスクワが守らなかったことを強調し、ゼレンスキー氏が停戦への協力をやめた理由として伝えた。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "ガーディアン紙は、ロシアが過去最大規模のドローンでウクライナ中部を攻撃したことと合わせて、米国のエネルギー停戦が崩れたと伝えた。BBCは、製油所攻撃をめぐるロシア側の非難と、新たなロシアの攻撃を受けて攻撃の停止を終えたというゼレンスキー氏の説明の両方を載せた。"
+    },
+    {
+     "country": "US",
+     "view_ja": "ゼレンスキー氏がトランプ氏に逆らったと伝え、フィナンシャル・タイムズ紙のインタビューで米国への不満をはっきり示したこと、それまでは米国の要求に従って攻撃を止めていたことを説明した。"
+    }
+   ],
+   "difference_ja": "香港、タイ、ドイツのヴェルト紙、米国、韓国の媒体は、ゼレンスキー氏とトランプ氏の対立という見方を前に出した。オーストラリアと英国の媒体は、ロシアが停戦を守らず攻撃を続けたことを再開の背景として強調した。ロシアの国営タス通信は、米国が繰り返し攻撃停止を求めていたことを伝えたが、ロシア側の攻撃には触れておらず、カタールの政府系媒体アルジャジーラもロシア側の非難を中心に伝えた。",
+   "japan_main": [
+    {
+     "outlet": "日本経済新聞",
+     "title": "ゼレンスキー氏「製油所の攻撃を再開」 スペースX通信制限で米批判",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NSzJDbF8yRlEwUmhtdVhfbFBmSzNuZWFfNkxHNWt6NFUxcXhmdF9SX2RLRHFnczlscERHcmNhOGxCdU9MZUE1NDd3NzRxamFNZ2ZNZlVoSE5FNXBJX0dab2tGb2xMaEI3Z2Y3dQ?oc=5",
+     "published_at": "2026-10-15T08:12:43+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "ロシア西部で大規模な無人機攻撃 製油所で火災…ウクライナ軍がエネルギー施設への攻撃再開か（2026年10月15日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONzd4cm5LZlltdEtmR0JXbUthWWZUMFVlb1RwZ0ZFQ1BOSUNOeG4ydEpwZk1JTHdnR0ZXNVBYRm9FMVZvcWZHcjBNMVdjWlNPdmUybUJMNzl0ME9nRmtESnBoeVN2SVp1STJnVWpPNExNWXp1cldBSndIb1FpMjZHeE1BWGI?oc=5",
+     "published_at": "2026-10-15T13:41:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ドローン攻撃などに使用「スターリンク」軍事版の制限解除 ゼレンスキー氏、ロシアのエネルギー施設への攻撃再開を発表",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qMlMxTGhMSmZMSUJSZUw5Y3lSckVDWlVPaEZub2R6NHQ4Z3J4bkpzblZPNnVqcEkzX0tUbDl4NTRLMXhKVlFjd2xLX0FYN2xKVlBrVHZnNTZlRWdtYnZUMy0yQWJjampSUlM2aFBoRm1kQmo5?oc=5",
+     "published_at": "2026-10-15T13:06:26+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "ウクライナ ロシア製油所へ攻撃再開か“エネルギー停戦合意”後もロ軍の攻撃止まらず",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjTTU3Mzk4QnVBU0dIbGJVSlE5QXYwM1RnajRRQTg3NUQ2ZWQtMkhYeHlWMFNnbTRXcU1Fb1d1anJ6RzZ0SWFkRm4xbGdQcVNjQ1N5UTRVekUxNzdkRXRuVlZQNzAyRDQ0VDBUaFVaTHFqNzJFVlVYN1p3?oc=5",
+     "published_at": "2026-10-15T13:41:08+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "ウクライナ、ロシア製油所へのドローン攻撃を再開か 「攻撃禁止は解除」ゼレンスキー大統領は再開の方針を表明",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8waEktQXpFYnMzdnJ4ejl1V1RpR0Q4QWhWSlRiTGIzQ005Q1oteHpUZm5mRXZGTWM1bDNHeGo1SUc0V3VRN3g5YzZyYWlnUQ?oc=5",
+     "published_at": "2026-10-15T10:10:00+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体は、攻撃再開の表明と、ロシア西部の製油所で起きた火災などを「再開か」として伝えた。日経とTBSはスペースXの通信制限やスターリンクの問題と結びつけ、テレビ朝日は合意後もロシアの攻撃が止まらなかった点に触れている。多くの国の媒体が見出しにしたトランプ氏との対立は、見出しでは前に出ていない。",
+   "japan_main_checked_at": "2026-10-15T16:23:02.913611+00:00",
+   "place_countries": [
+    "UA",
+    "RU"
+   ],
+   "day": "2026-10-15",
+   "n_outlets": 11,
+   "n_countries": 9,
+   "n_independent_countries": 7,
+   "n_areas": 4
+  },
+  {
+   "id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88",
+   "title_ja": "パキスタン・ペシャワルで学校の屋根が崩落、児童ら死亡",
+   "fact_ja": "パキスタン北西部ペシャワルの学校で屋根が崩落し、子どもたちと教師1人が死亡した。死者数は媒体によって28人から30人以上まで幅がある。",
+   "category": "災害・事故",
+   "first_seen": "2026-10-15T07:30:54+00:00",
+   "updated_at": "2026-10-15T15:26:16+00:00",
+   "country_views": [
+    {
+     "country": "AU",
+     "view_ja": "少なくとも児童32人と教師1人が死亡したと伝え、犠牲になった児童が6〜14歳だったことを示している。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "国営・政府系の媒体は、死者28人とし、さらに増えるおそれがあると伝えた。救助当局者の話として、上の階の屋根が崩れて2階分がつぶれ、天井が児童の上に落ちたという崩落の様子を載せている。"
+    },
+    {
+     "country": "TH",
+     "view_ja": "病院関係者の話として、児童27人と教師1人の計28人が死亡したと、事実を簡潔に伝えている。"
+    },
+    {
+     "country": "DE",
+     "view_ja": "少なくとも33人が死亡し、その多くが授業中の児童だったと伝えた。警察がすでに1人を逮捕したことにも触れている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系の媒体は、少なくとも29人が死亡し、その大半が子どもだったと伝え、「数十人の子ども」が犠牲になったと見出しで強調している。"
+    },
+    {
+     "country": "US",
+     "view_ja": "児童32人と教師1人が死亡し、数十人が負傷したと伝えた。地元当局者の話として、建物が老朽化していたとみられることを紹介している。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "現地からのウルドゥー語特派員の報告で、崩落の直前に児童が「ミシミシという音」を聞いたという証言を伝えた。別の記事では、警察の話として屋根が3つの教室を突き抜けて落ち、児童が瓦礫の下敷きになったとし、少なくとも児童33人と教師1人が死亡したと報じている。"
+    }
+   ],
+   "difference_ja": "どの国も崩落と死者の発生を中心に伝えているが、死者数は28人から30人以上まで媒体によって異なる。崩落の原因や責任については、米国の媒体が建物の老朽化を指摘する地元当局者の話を、ドイツの媒体が警察による逮捕を伝えているのに対し、多くの媒体は救助当局や病院関係者による被害の状況にとどめている。英国の媒体は現地特派員の報告や児童の証言を載せ、現場の様子に重点を置いている。",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "パキスタンの学校の屋根崩落 子どもなど33人死亡",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdVVWOXVKZ2hNM1VpRUNTNFZlUFl5cTZ0YWE4S21HamZSbW9KSzVmY3ZlX0N5TFhCZHpmUS11LU9ITUU4Ukd5VFJKbnNna3NIMEZ0LXpENjJmUm9maG44?oc=5",
+     "published_at": "2026-10-15T15:13:00+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "パキスタンで学校の屋根が崩落 生徒29人含む少なくとも30人死亡（2026年10月15日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUZyRDhWMGVPTXRISnF3aVI2NHE3cnpjRERUWEFpR0c2dlJ1dWJlX2kzR2JVVGNuRE0yN0FTZTJpVFFPYWk3Si1oZ3FUUVVBZjRCX1pEc1hCQy1hdnhnc05tZVhEV1hOQzVSNDBiUVFLZmlWVTZXTzFDYzBOWDdxbzFmMGY?oc=5",
+     "published_at": "2026-10-15T10:14:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "パキスタン北西部の学校で屋根が崩落 児童・生徒ら35人が死亡",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oRkJiQkxEYUl0Vk1UVmJLcmdGWlM3M3k4dFoyek4yZE5Yd0dIR3liSmNTU2RMelJqQkV5YXBqeUhERDNqbU1UMFhQbHh2eEY2ZXZBUDdEbw?oc=5",
+     "published_at": "2026-10-15T11:16:23+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "生徒30人以上死亡 学校で屋根崩落 パキスタン 教師も1人死亡 学校所有者を逮捕",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVSlZPTTNxT0FGalJsRGRlcnUxdm1qRkxMSEQwNm1lbUhTcDFKZzFkc000Mzl3Nkxfdjk1YkhqRjhIcFdZd3dmbjBfOFk3d2ZtMV9KUEt4VkNuMENmWUh3eUtmN0pnRGhxWkkzYmxNZk1rcjk4Y3hMYTl3?oc=5",
+     "published_at": "2026-10-15T12:49:31+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "校舎の屋根崩れ生徒や教師巻き込まれる 28人死亡大半が12歳以下 約20人負傷で数人が重体 当時は授業中 パキスタン北西部",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yXzJFdzlTenJMMUpXaXFGYjlGbGt0b3NzMGJhajJKVy1KXzhlR2RqSkF4aWF6X1hPeDZWUGVHY2RQd1E4eFduNk9pODhnQQ?oc=5",
+     "published_at": "2026-10-15T09:57:00+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体も各国と同じく死者数を中心に伝えており、その数は28人から35人まで媒体によって異なる。テレビ朝日は学校の所有者の逮捕、フジテレビは犠牲者の大半が12歳以下で授業中だったことに触れている。",
+   "japan_main_checked_at": "2026-10-15T16:23:35.574274+00:00",
+   "place_countries": [
+    "PK"
+   ],
+   "day": "2026-10-15",
+   "n_outlets": 7,
+   "n_countries": 7,
+   "n_independent_countries": 5,
+   "n_areas": 4
+  },
+  {
+   "id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b",
+   "title_ja": "米9月消費者物価が予想上回り、NY株式市場が下落",
+   "fact_ja": "米国の9月の消費者物価指数が予想を上回る伸びとなり、FRBの利上げ観測が強まった。14日のニューヨーク市場では主要3指数がそろって下落し、ダウ平均は48ドル安だった。ナスダックはAI関連株を中心に下げた。",
+   "category": "経済",
+   "first_seen": "2026-10-14T17:53:00+00:00",
+   "updated_at": "2026-10-15T14:49:08+00:00",
+   "country_views": [
+    {
+     "country": "SG",
+     "view_ja": "国営・政府系の媒体は、物価上昇率が3.7%に高まった要因をガソリン価格の上昇とし、家計への負担と、今月の利上げが再び検討対象になったことを中心に伝えている。"
+    },
+    {
+     "country": "HK",
+     "view_ja": "株式市場の反応に焦点を当て、7月以来最悪の下げとなったことを各指数の下落率とともに伝え、AI関連株が下げを主導したと説明している。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "株価の終値を細かく伝えたうえで、中東での戦争による原油高・関税・AIが重なった物価上昇や11月の中間選挙への影響を分析している。翌日の生産者物価の急騰や、AI・半導体株の続落も続報として伝えている。"
+    },
+    {
+     "country": "ID",
+     "view_ja": "物価が予想を上回ったことを中間選挙が近づく時期の出来事として伝え、物価上昇がAI関連への不安を呼んでハイテク株の売りが広がったことも報じている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "サムスンやソフトバンクなどの急落を挙げ、インフレと利上げへの懸念に、借り入れの多いAI関連企業への不安が重なり、世界の市場でハイテク株の売りが加速していると伝えている。"
+    }
+   ],
+   "difference_ja": "シンガポールの国営・政府系の媒体はガソリン価格と家計、利上げの判断を中心に伝え、香港の媒体は米国株の下げ幅に焦点を当てた。韓国とインドネシアの媒体は11月の中間選挙を控えた政治的な時期であることに触れ、韓国の媒体はさらに中東での戦争や関税を物価上昇の要因として挙げている。英国の媒体は、AI関連企業の借り入れへの懸念やアジア企業の株価急落など、世界の市場への広がりを強調している。",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "NY市場 ナスダック株価指数大幅安 AI関連企業資金調達など懸念",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbGhLa0M2c3N2TF9feTJReUhWLXVGMFA4aHJuZ0dUeUtUZ2F3dWtsTnJoa29Ndm5hOG1SYzYxNTNlQVNaOFoyZDRBTUxkMDNQWWROZjNvQy1ZcW9rNWpR?oc=5",
+     "published_at": "2026-10-15T01:11:58+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "日経平均、一時3200円超安 米国のインフレ懸念で利上げ観測再燃",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xNFA3TG9OTDFrVlFKejQ0RG44d0xTU0lZN0NpUlgwSlV1NThCOHVIN1pIbmdLT3phS0cySllROWo0eXdENXBmMjg0anNyT1VUanBzakRRYXk2Z00wd0xDb2ZWQ0p5Y1U?oc=5",
+     "published_at": "2026-10-15T01:35:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "日経平均急落、午前の終値３２５５円安の６万４４８９円…米の利上げ観測再燃で投資家心理冷え込む",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3d0hGMFIteG94M1NrWGVEMUl0U2tKVS1hcEh6ak53akxuQVhUS1dKSEVBWlJ6a3FwUjA3OEVpX0l6Z2tFd2ZsTTA4Slp5ZGVvTXdOUXRSd1RQd29oT09uVFJ4aWI?oc=5",
+     "published_at": "2026-10-15T02:46:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ＮＹダウ２日続落の４８ドル安、インフレ長期化警戒で売り注文優勢に…ナスダックは５００ポイント超下げる",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TbENkVXVrVDJnNTZfZmoyeVNXTWJrV1NENXpTbmVjZWNxcEVTZmZCSk5tMDJOQUliemF1S0Rfa3VDaUxZZkpjTmFqdjZpdmFBQURlbE83VDIxaHhTVVFIczFFcWM?oc=5",
+     "published_at": "2026-10-14T20:35:00+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "NY株続落、48ドル安 米国のインフレ加速懸念から、売り注文優勢",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92M1pUbF8tSm1kRzh5REJZd25PUWliTVJtZ21CNF9HNjFxY3pGV2NYLVRSN2ZUMFNMbkVDVlBjX3Vud3V6YUhGNmR6NTBILVJOVjhEbXp6LUg3bEhHb1dCR3pDRmotTm5fVG53bFdNSnloWXdMTUE?oc=5",
+     "published_at": "2026-10-14T23:15:46+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "米CPI、上振れサプライズ 10月利上げ見送り論に水差す",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0U1ppTnZQUTJsUFY0RVhEczZxS0JRRFZxNDMwZVFCXzNrRkxjTTVUR0ZGTm9icUNEZUhLeG1VXzVnancxVlU0Rm9pN0tKTlRzdHFFNlhOM3AwUkxrZlEwRlVYNW1DWkhSM216cA?oc=5",
+     "published_at": "2026-10-15T00:10:57+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "米国株、ダウ続落 米CPI上振れ AI投資不透明感でSOX6日続落",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mQnlaTkVaelVEWUJVd1kwZlVENXVJcEI0RkE1WFNEdUROQkpBUkxhYWZrRXBNQ2dOdGlhM2hyRVd1MEE4ZktRMlBKdXY3dnMzendMcnpJczlONGtzVVA4ZEJwZzA4OTB3Mlczag?oc=5",
+     "published_at": "2026-10-14T20:06:30+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体は、NY市場の下落やCPIの上振れに加え、米国の利上げ観測が再び強まって日経平均が3000円を超えて急落したことを大きく取り上げており、自国の株式市場への影響を中心に伝えている。AI関連企業の資金調達への懸念や10月の利上げ見通しにも触れている点は、英国やインドネシアの媒体と共通している。",
+   "japan_main_checked_at": "2026-10-15T16:24:14.929305+00:00",
+   "place_countries": [
+    "US"
+   ],
+   "day": "2026-10-15",
+   "n_outlets": 5,
+   "n_countries": 5,
+   "n_independent_countries": 4,
+   "n_areas": 2
+  },
+  {
+   "id": "c8b40631-950b-4e66-85a4-e9366af9fdb4",
+   "title_ja": "中国と北朝鮮を結ぶ新鴨緑江大橋が開通",
+   "fact_ja": "中国の丹東と北朝鮮の新義州を結ぶ「新鴨緑江大橋」が15日に開通した。開通は12年にわたって延期されていた。",
+   "category": "外交",
+   "first_seen": "2026-10-14T22:49:19+00:00",
+   "updated_at": "2026-10-15T23:08:00+00:00",
+   "country_views": [
+    {
+     "country": "CN",
+     "view_ja": "国営・政府系の媒体は、中朝国境の新しい橋が開通したことを見出しで簡潔に伝え、遅れや制裁には触れていない。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "12年遅れた開通を中朝関係の改善の流れの中に位置づけ、経済協力が強まるとみている。続く記事では最大の物流ルートが開いたことで、北朝鮮への制裁が事実上効かなくなると強い言葉で伝えている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "12年遅れた開通として伝え、中国は北朝鮮にとって最大の貿易相手で、制裁を受ける中での命綱だと説明している。"
+    },
+    {
+     "country": "US",
+     "view_ja": "両国最大の国境橋の開通として伝え、北朝鮮への国際制裁があるにもかかわらず中朝が貿易を広げている点に注目している。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系の媒体は、写真特集の形で、両国の結びつきが深まる中での開通と伝え、地域の貿易や協力を強めるものと紹介している。"
+    }
+   ],
+   "difference_ja": "韓国・英国・米国の媒体は、開通の遅れと北朝鮮への制裁との関係に焦点を当てています。特に韓国の朝鮮日報は「制裁が事実上無力化」と最も強い表現を使っています。中国の国営・政府系の媒体は開通の事実だけを伝え、遅れや制裁には触れていません。カタールの政府系媒体は、貿易と協力の強化という前向きな面を中心に伝えています。",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "中国と北朝鮮を結ぶ橋が開通 現地で式典 本体工事完了は12年前",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83TTlSMWF3RE1BYVVPWG9oeVdFYXBmaF9VWmM3TEFncmNwRS00bHJxVUVpUlczSVRaOVhCd3RheFNudmRGdWE5M1d5OFBaZlNLLUEwT3J2MnVNd0pVM1Zv?oc=5",
+     "published_at": "2026-10-15T13:58:22+00:00"
+    },
+    {
+     "outlet": "NHK",
+     "title": "中国と北朝鮮を結ぶ橋が15日に開通 両国貿易拡大の可能性も",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pVzBYb2s4aklPV2xYZzlYLUp2ejlyaU14M2RWRDBKbnNfWDBCYUFTdV9qS2NFeG9mZ2xUYVY1MTRJQXdXQXN2anVQTVJSalJUNXpVRGFUZTByeWJfcEVZ?oc=5",
+     "published_at": "2026-10-14T06:51:14+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "中国と北朝鮮を結ぶ新鴨緑江大橋が開通 完成から10年以上開かず",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XQjIwMjFWN0dJWGxadDJyOWdHUmJsM3h2YWJ2b2cwVjExYU9zV0o0V00yc1FhMHZjX0VoTUtINUdRcHBOM3g1b19vLVNNSUZ1M3VxbkJ3ZW5iRHg0NXRuLWlScU84M0k?oc=5",
+     "published_at": "2026-10-15T02:45:51+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "中国と朝鮮を結ぶ新鴨緑江大橋が開通 完成から10年以上開かず",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0FzQkZTMUVGcjZzSW5GeTR2QlBEak1mNHFSdGc1MnBwNUVSdWdtbXlqWmZwMjdiSXJxVzl0MnRRRjY4WjdzbnBiaUJOaTZOTVlWRzVEdUdjZlVXaDZpOElPSjBUTEt0WmhDS2xmcnh6TDJtU0lXNEVrWm1YenA4T3A4bWdSamhZaVdCMndRTk14Zw?oc=5",
+     "published_at": "2026-10-15T02:45:51+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "温家宝訪朝から17年、中朝の新橋開通がこれほど遅れた理由とは",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XUS02alp3T0xJMTNSbU53emUwZ2FHVnJJQWd5Q3g2SWI1RHFpT0kxdzdfcGdsUkxtNGJKbi1WT2hQZ19KdmNWX2RFeDJSODJwdW9RbGthT19NMnV6Tkh2OTIxWThCOWc?oc=5",
+     "published_at": "2026-10-15T03:40:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "中朝を結ぶ新橋、15日開通へ 完成から10年以上が経過",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kSV9idzFkWFpZYWdxTGpMcDdGeFBsWjVvRnZBMUxWMjZQTVp3d0toQVF4ak8xU3g0ZWJ3MkM1QjB6WjJ6eUZ4ZWZJS1dSYkZmeWU3SXNkdmxRMVFBbERVWVJLbkZ2SFU?oc=5",
+     "published_at": "2026-10-14T03:57:14+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "中朝結ぶ「鴨緑江大橋」が開通 完成から12年、関係緊密化へ",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RS1hDemRBT0dNR3lHZHZjZXduSXVpOWtaeFJHQXFVZFlnY1Zwa0J0WmpXcklUUk1QdmtaSnlCMm5SMUtCWXJKMVh5LS1UTjhtVFFvdXA2QnJuNXdBUm5hLXZiZzhqTVN0?oc=5",
+     "published_at": "2026-10-15T09:29:41+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "中朝結ぶ「鴨緑江大橋」が開通 完成から12年、関係緊密化へ [写真特集3/6]",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUkVEQ1kta05keUpEb2sxaTdwWko5aDJKYXRSUi1LMUxONEF2TkxVSGtTVDZKQkhJN09TTDVTZ3VxWllwaTVuZkRSUDRON2hlb1l6YWVFd0QxYjVqQWpHVk16WWJDSnlkYzU4Y2F3YzJnbHJJNGZVRGQycUlHSk1PcnhNWmdUSjA?oc=5",
+     "published_at": "2026-10-15T10:23:26+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "中朝国境の「開かずの橋」、15日に正式開通 完成から12年",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRFI4cGVfOW9ZYnd0bkkxWW5aZXhNMGg4cE9JMmZsYmtWaVludW1zRnBSeURHbTBoZjFFaGNwek5fd2h1ZEJwSm55UnpvRDlrRlZtNFN5czd3M19ncjdyM1J3MzlIWGlx?oc=5",
+     "published_at": "2026-10-14T06:30:39+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "中朝「開かずの橋」きょう開通",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WdVFWV1FPWVg2R3ZRSmVyOXl6UzhQVGIxX2dnV0UyR2FLODJUekoxNjcwUHowdnRTRHVJSGdFRnlfNV9ielZtSUlfWWVUSWtVX0Z1SlhZbWhESnV2T3pPWTQ0V1VkdkFt?oc=5",
+     "published_at": "2026-10-14T17:01:08+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "中朝両首相が「伝統的友好を象徴」とメッセージ 完工から12年越しに開通の新鴨緑江大橋",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XeWRGSk1EbTlCRXdjSmhES3ozZmpXV2YwUHExaHU2N2lmVjJmY1dwaWthbTNEWE9PUFJjVG9nYzN1NDV2RFlOTDNxWVJMa2lqYnBQM3dlbVpxTnY4bDNoUENHNnV3Yk55Ym9PVG9OX0tDUEhscUE?oc=5",
+     "published_at": "2026-10-15T08:28:51+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "金正恩氏の露中「バランス外交」を象徴 中朝鴨緑江大橋の開通で韓米メディアが分析",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04WGpNbUhKeDVTRWhQQjhua3NVZ3FFT3h0ZFlXRk1sN3QydGRHckg1Z3ZTMWs3S1VpMk1RLThkbWFhaEpzR0RZMUczbk1HUS1IUjh2ODVjZEpwSkhjUk4tOW4wRGRwQlFsSjhMNjdjUWRzYTRuaXc?oc=5",
+     "published_at": "2026-10-15T08:35:48+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "【動画】中朝国境「鴨緑江大橋」で開通式 完工から12年、新たな要路で人や物の往来を活発化",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBESUdER3hoSmk1aUFjNHlPa2pqRXJ6Yk5lQl80SUk0YnNkeTM2NGpTWmRNeTgwa0U0ZmhfUTR5Q0oxV2loYVd1T2xDeUdfV0lReDBxLXcyYkEyd3NIbWYwWmluTmFVNmt1VVYwaHZQN1BpNHBIcWc?oc=5",
+     "published_at": "2026-10-14T22:18:34+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "中朝を結ぶ新橋が開通 本体工事完了から12年、現地で記念式典を開催",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UUWxNTzFuajhuNThGVUluOEdPdEV0R2VPcU5Jd0NyNkFCajU1a2JqcXNkYXNiUXBUUkhCb3NJSXRXdVpTMXVTd2x3N0txeUZfT3BwM2tlVVlGR2tzYzdoaWhUc2Y4ZlY0bkd1SUEyZ0FhNi1aUHc?oc=5",
+     "published_at": "2026-10-15T03:08:05+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "中国・北朝鮮の国境で新たな自動車橋が15日に開通へ 新華社報道、本体工事完了から12年",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lVEVETnl0OGpnVkIyVTNRVXlpRGJRUVJISWdVLTM5TjJfb3VaSTQzaHhfclhqNFpraTlpTENXQmVaVjJjQmo5UGhCU0I3QjIwR0pyT1dSZ3ZnNFU0S0Y5bS1iMV9pcF94RWw1czF3M0hxVVZJdlE?oc=5",
+     "published_at": "2026-10-14T02:49:19+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "中国と北朝鮮結ぶ新橋が15日開通へ 完成から12年、関係改善映す",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NndJaGdyN0xKRWpRTjNJemh2cmQxNEZ0Ty1vdUoyTmI1N1R6OUYtcTQ4empNTUczbGdDTmt4UzVwb3lZejZZQXA5LVk4X0ZRekV2UlcyTllVVDhqUk1faGtzc0lFVDFRY3JNTA?oc=5",
+     "published_at": "2026-10-14T03:19:01+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "中国と北朝鮮、80年ぶり新たな貿易大動脈 「開かずの新橋」が開通",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDZnRpandobkN6SUlWLWFfTEhZYmxJX0Jyd3U0TjNXcHJBWnU5OUtOejRxTngzc04zMW5ucE4wM21IQUZtNEJZc25TamhBRmF5ekFUNktIbXNwU2xieTJYN2Z0VzM5Q3hUSm9rQQ?oc=5",
+     "published_at": "2026-10-15T03:10:02+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "中国と北朝鮮の国境結ぶ「新鴨緑江大橋」 完成から12年を経て…あす開通へ（2026年10月13日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUF8zQzhlUjNNN2NRMDBlWE5tTDBXaWc2LVdaZEpjNnpXUUtvSzNEN1YxZVlSNWdpdTE0Y1ZUQnJUdi1HQXYtU1lfM05rcmlyTl9FQmNBMXlsVXBoVU43NFFaWWF4ZzVNQXlzbzVXcXVmU1lUZ0lNb2JhV2lQNXNRMXJvdE4?oc=5",
+     "published_at": "2026-10-14T03:55:01+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "中朝結ぶ“開かずの橋”10年以上前に完成も…なぜいま開通？【#みんなのギモン】（2026年10月15日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEFOYUtvZTZxbzlrUjFjSWNkcXdfaVJQQUZqdlBuYzdzMXdOeHdUNERZSVFBZEpOSDYzdlFmTUY4Y1FZNjlqeGZqZE9iMVgyajhhMkZqVllmbjUtZWllal81T0psa3Awellvd0M1UkJTeUtiQS1tc2lHVmtGeUNwQTZyZXY?oc=5",
+     "published_at": "2026-10-15T08:45:01+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "完成から12年を経て…中朝国境結ぶ橋きょう開通 両国関係改善で“制裁”形骸化か（2026年10月15日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXBlT21rWXJvOFZnbTFjZGRPcGtEWGNhdWVYenU4dmtlTG1heTlDS3VNa1pQQ0ZqcW5NcEo1ekRuUUgySHRIY1Z1YTQ1eEpSQTZKemFHZGxLTXA5YVNzMUVMbXJ6c3VEamlaWVJQWVl2ODFQM3dldmVib0FPNW53Yzl1eWI?oc=5",
+     "published_at": "2026-10-15T07:48:01+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "中国と北朝鮮の国境を結ぶ橋きょう開通 完成から12年を経て（2026年10月14日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkVZaEY0d3pndWFOd0RrYjd5M3JtUTBGSmNKR1pLa0hYaHduVURPTDU2ZVJlbUlXMlpua3RreUh4NUhTY1FnZFRhVTZSNnluQ0E1WlhNMEVqaE1lenRRWWh6VFJSMlFBblFfS1FYUnk4bTdhdDlDaUJOTFhKTkt6OFZyZk0?oc=5",
+     "published_at": "2026-10-15T02:54:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "“未開通のまま12年”…中国と北朝鮮を結ぶ自動車橋が開通「関係より強固に」トランプ大統領など念頭？専門家の分析",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lZE5RSFBnbHlxemxjcnkzckFXZ0hnLU5jVDNTaWNsREVEd2pac1g4WkoyZXlpRjFXeDdLdUpIOVFZMkhmbWFld3lRSkg4UEEwQmt2ZTlmUndQRnVWR0tLcTVmREN4TE1wbm84M3FIanZtZGIx?oc=5",
+     "published_at": "2026-10-15T08:56:31+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "【速報】中国と北朝鮮を結ぶ自動車橋10月15日開通へ 中国国営メディア 完成から10年以上未開通",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNWg1NmtHVVBEMjdlc2NadUdMcG9MdTJIeTQ3aUVsdTE4QllIaThZUDZxUnVic190YkdTMzBkT2pyQ0tPLTdEUjY4MFE2aFpxclVVczNybUp5VjRHQTRCS2V6YVFMMG1CTEl5MXlqZ1J5dklv?oc=5",
+     "published_at": "2026-10-14T02:22:23+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "中国と北朝鮮を結ぶ自動車橋開通式典の準備「両国人民の揺るぎない友情と団結万歳」",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NYzh2eEtTZW9rM2VDb1ZCeTRMX0lQX1VwcnpMYmc3WW9tMVRmYzA1cEpYM3E2d2lwc05YdUxHeUNBSmpFTUMtWUwxRGhJMzd4aVNDdXhHZTNNNjJVQ09GdXl4QkxvejRQX3dfYTY1OTZFbS1m?oc=5",
+     "published_at": "2026-10-14T13:55:36+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "【速報】中国と北朝鮮を結ぶ自動車橋10月15日開通へ 中国国営メディア 完成から10年以上未開通",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SUzZLU1JKOGxjVkVxaVpNOHY5OGRGbG9uV3EwQTlhUUxkUF9fYzdMZmsxY0xkanhVc3psV0lCVF9DNmtiTDJabEJFNHljcVR5aGwtcm1ySWhsVFVYakpJ?oc=5",
+     "published_at": "2026-10-14T02:22:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "完成から約12年開かず 中国と北朝鮮を結ぶ自動車橋が開通 トランプ氏など念頭に象徴的な意味合いも…識者見解",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rWmtqUlVoOEVYVkZQY083RlJ1ZTR2Sm9zQzhjY2xXajBMZ2FDb3FOak8wNXF3S01NWGpERHljTUJhMDVScHg1UG1BRGZmNG9aVTRLcWoydw?oc=5",
+     "published_at": "2026-10-15T15:08:21+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "中朝国境を結ぶ橋が15日開通へ 12年近く使用されず 2国間の物流・貿易拡大へ",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdjJ2Z25FQVlDeXVqYVVKQ0R2aHVBSTlGUldxc1hTMy1yUW9ocU9fQUZRSUdEZnhvWExKcXpLNzd5QnZRLVowUU40RUZBZTlqRDBaWW56cUF4cnB2b1pIb1RGYnBRYUF4QXlnb0pDazR3V3hRbktVa2F3?oc=5",
+     "published_at": "2026-10-14T09:15:51+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【速報】中朝国境を結ぶ橋が開通 12年近く使用されず 2国間の物流・貿易拡大へ",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WbVdkN0RKM2RsZU5RMjZ6ZGhfdkFpR25QVU5JN0xqRUtEemlzOXM4aHRubFZVWTE2VU02cnZUSDNqbW5OWWZSejZtV0JnWXl1SEpIZXZxSjVRZGhqSVQ4VjVVaExKUmJtbk43VlJlbWNRdFNfam53MEdn?oc=5",
+     "published_at": "2026-10-15T02:49:30+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "中国の狙いはレアメタル？完成から12年…中朝国境“開かずの橋”が開通",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YcldsZ3E2alk3NTZQeTZ0M2VubEZtbVlnZlVweE94NnhFV3RzYTktSUFVSnN0R3U1Zi1WVjhjTl9HVnFma0hPUllMaFkxWG8yWGFEUEFYV1VCU2pYUUd3QmhSLWNDbVlWWVlKakpOMXgyQzFNRUkxbVhR?oc=5",
+     "published_at": "2026-10-15T15:00:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "中朝結ぶ新大橋きょう開通 制裁対象の北朝鮮にマネー流入か",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FVzNoNldEYmRnd2c1Q05xb3NLNWhBdGctYk9VNEtfMFZ5ejI0bWQxQVhlQUUyMFJsYzQ0Snd5cm5nSmRyOTAtN2J5a192UQ?oc=5",
+     "published_at": "2026-10-15T03:27:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "中国と北朝鮮を結ぶ新大橋が開通 制裁対象の“北”にマネー流入か",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03d2t4a1NaTkxFdHFJX2ZhWWZIRi1IcnBDMGVJeWtaeE1sLW5lQnpVZ2FmYUtHVVZzeUdLSC1nZGRQOTRheWdlZHNzYWE5Zw?oc=5",
+     "published_at": "2026-10-15T08:07:00+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体は、完成から12年使われなかった「開かずの橋」がなぜ今開通したのかを多く取り上げています。制裁の形骸化や北朝鮮への資金流入、トランプ大統領を意識した動き、中国のレアメタルへの狙いといった背景の分析にも踏み込んでいます。制裁の観点は韓国・英国・米国の媒体と共通ですが、日本の媒体は開通の遅れの理由と中国側の思惑をより詳しく伝えています。",
+   "japan_main_checked_at": "2026-10-15T16:25:37.013843+00:00",
+   "place_countries": [
+    "CN",
+    "KP"
+   ],
+   "day": "2026-10-15",
+   "n_outlets": 6,
+   "n_countries": 5,
+   "n_independent_countries": 3,
+   "n_areas": 3
+  },
+  {
+   "id": "624e3f74-4756-4bc4-b593-c5ce78741362",
+   "title_ja": "ウクライナ軍の衛星通信に制限、マスク氏は責任を否定",
+   "fact_ja": "ウクライナは、軍が使うスターリンク（軍用版スターシールド）に制限がかかり、軍事作戦に支障が出ていると明らかにした。マスク氏は、軍用版は米政府が管理しているとして自社の責任を否定し、ゼレンスキー大統領に「辞めるべきだ」と求めた。",
+   "category": "紛争・安全保障",
+   "first_seen": "2026-10-14T09:10:59+00:00",
+   "updated_at": "2026-10-15T15:42:00+00:00",
+   "country_views": [
+    {
+     "country": "ID",
+     "view_ja": "スペースXがスターリンクの運用を制限し、軍事作戦に支障が出ているというウクライナ側の主張を伝えている。"
+    },
+    {
+     "country": "US",
+     "view_ja": "制限によってロシアの標的への攻撃やドローン迎撃の能力が落ちたという作戦面の影響を中心に伝えている。さらに、ロシアの大規模攻撃で首都キーウの60万人が停電したことと合わせてウクライナの弱さが増していると報じ、制限がトランプ政権のゼレンスキー氏への態度の変化とどう関わるのか、米議員にも動揺が広がった経緯も掘り下げている。論説ではウクライナの懸念はもっともだと論じている。"
+    },
+    {
+     "country": "HK",
+     "view_ja": "マスク氏が米政府の責任だと主張したうえでゼレンスキー氏に退陣を求め、対立が深まったことに焦点を当てている。ウクライナが米国の支援に疑問を示し、ロシアを利していると非難していることも伝えている。"
+    },
+    {
+     "country": "DE",
+     "view_ja": "軍用版は米軍と最終的にはトランプ大統領が管理しているというマスク氏の反論を伝えている。ロシアのメドベージェフ前大統領がゼレンスキー氏を侮辱したこともマスク氏の退陣要求と並べて報じ、トランプ氏とマスク氏がそろってゼレンスキー氏と対立し、トランプ氏がプーチン氏と取引を進めているという構図や、EUの対応も取り上げている。"
+    },
+    {
+     "country": "PK",
+     "view_ja": "マスク氏がゼレンスキー氏に退陣を求めたことを見出しにしている。ミサイル攻撃の事前警告がなかったことや衛星システムの変更をめぐり、ウクライナが米国はロシアを助けていると非難していることも伝えている。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "マスク氏が米政府の責任だとしてゼレンスキー氏に退陣を求めたことを報じている。また、ヨーロッパの同盟国には代わりとなる手段がすぐには用意できないという現実に焦点を当てている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "スターリンクがウクライナ軍の通信の基盤として戦場でなぜ重要なのかを解説している。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "政府系の媒体は、スターシールドとは何か、誰がウクライナの利用を制限したのかを解説する形で伝えている。"
+    },
+    {
+     "country": "FR",
+     "view_ja": "2025年に仲たがいしたトランプ大統領とマスク氏が、ウクライナや米中間選挙をめぐって再び接近していることに焦点を当てている。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "スターリンクの制限でウクライナのドローンや防空網がまひしたと伝え、テクノロジー企業が戦争を左右している点を強調している。"
+    }
+   ],
+   "difference_ja": "米国、インドネシア、韓国の媒体は、攻撃やドローン迎撃に出た支障など作戦への影響を中心に伝えている。これに対し、香港、パキスタン、シンガポール、ドイツの媒体は、マスク氏がゼレンスキー氏に退陣を求めた発言を前面に出している。ドイツやフランスの媒体はトランプ氏とマスク氏の関係や対ロシア外交という政治の流れの中で取り上げ、シンガポールはヨーロッパが代わりを担えるか、英国とカタールの政府系の媒体はシステムの仕組みや役割の解説に重点を置いている。",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "ウクライナ側“スターリンクの利用一部制限 迎撃など支障”",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rb3ROUnZBQ29kVHd6dXNiVk9iSWlWYTZtVmtCYm85bzlOZjVHeEYteUFFTWZSd3h1UTk3YVJLbVRPSnVLUkhUVTNnc2psWTR6bkRhazBsTEh3YUc1OHYw?oc=5",
+     "published_at": "2026-10-14T22:37:48+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "トランプ米政権、ウクライナに当てつけか 通信や情報提供を｢制限｣",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93MlRXUUJEQlR1OFJlVGxZNXhrSlJkQW1ILThmWC1CUlBOVWx4ckkxVmhJZUZ2eFRGZ0UzV1pTeWtLVXB2VUZJNV9kNFN2dDQwb0s1UGtOM3BvLUdGQWVGcVFBZFljNEU?oc=5",
+     "published_at": "2026-10-15T11:32:06+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ウクライナ軍向けスターリンクに速度制限か、無人機の制御できず一部作戦中止…「政治状況と関連」か",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JRWxEOVFJWWRNVUpnekk3c1ZlWXMxci02RHNENnYzQnctakwwVWNYeFBLQUNOVXJOaWtYb1RnV0hqcUhDWHUwMEhxLWdiNHR6OUtmVjhsbjBKWkNoY2hpX2hn?oc=5",
+     "published_at": "2026-10-14T20:00:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ウクライナ「通信網制限で作戦中止」 スターリンク 無人機運用に支障",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43RnRIY1Q1MFE2TkVkWnlRb3pjRldWRXFlTUxsYlpKQklyNDVUVWdDN2ZVSnVpbFJSNzJRN2UtWE1JcFR1LUVzZVZyalZVWVJKYkhDVkNQMzByeE9JVmhFd3h5QQ?oc=5",
+     "published_at": "2026-10-14T20:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "ウクライナ、スターリンク「回復した」 米が一時制限か、検証へ",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtSVBXRXE0UnlUYWRkVXFuTVZpV3RqQTk2SVNFU3loTkVzblRWaEZ2YzhZelZXNkdSbjJHQ3RFcXRkS1lNaFhZTERFbmUtQUszYW5ieGpvQ3BvVnNXX3F6YmZSSmFWV1Y3?oc=5",
+     "published_at": "2026-10-15T12:03:42+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "ウクライナ侵攻：ウクライナへ提供、通信サービス制限 スターリンク 米政権圧力か",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBENG9KU2R2WTJSSVN0YnpyaWk5N1NZa3JmclotYVBfWUJkZzN3eU1fNnFZRnU2WEVpc1AwOG1EN21aVmg3b1hrMnc3eDJvVHJJZVZyNlhaVDBBUmMxOGtBNFZpZUlxbHYx?oc=5",
+     "published_at": "2026-10-14T17:02:14+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "ゼレンスキー氏、米にスターリンク復旧要求 「多くの命犠牲に」",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsWXd0eTJoaXJhTjBKTzVPQUhSMmxHdE5mdmRnNHhJUzUxQ2ZZQmg1ZEg4RnFzVy1UMmZUQ09VRm56Zm1CRkMyZUJYQkZGVzRuNXh5TG94SUNWRTFUT2RSQUZxb2gzVEk3?oc=5",
+     "published_at": "2026-10-15T00:57:08+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "WSJ日本版：ウクライナの軍事作戦に支障、スターリンクの新たな制限で",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HeDFwVnZUUWJKUFN5a0lRZGRlbGRaXzAzeEFscjA5UjdPTmJXaWZCdVBhODJ4X1R2SHNUNUFNRzFhLXNBaXNibElLWS1zM1JZdHQtQnM1QWt3OEdLNUlPdUdZM2RueUZw?oc=5",
+     "published_at": "2026-10-14T22:21:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "米スペースX、ウクライナ軍の衛星通信サービスに速度制限か",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wZFgzMHhpbHhVeWhXaWhwUUxVd3JJekQxRWdyY1pRZ1NER05reHNsRlNxTmQ0MHBFRFctT3MtYUd3WTZ2THFuTEhZcWRibEFKNmxtOTRtYlNYRXN4ZlExNnZTN0hUdHF2?oc=5",
+     "published_at": "2026-10-14T09:10:51+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "「速く移動すると使えない」ウクライナのスターリンクに利用制限 迎撃に影響",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMG1meXIwRHVUckdiMTBOQ0R4S2JMbmJXa3hKYUhSdkFaQ0xmeVpRMVViRElMMEN1dEQ0dGpLTXR3WllLN0xJak1FdUJwZGdzbG96cXhXWkZXQTAtVnNzVWplTEctWm9oZkN3MGlDU0MxOUV2WlE?oc=5",
+     "published_at": "2026-10-14T21:00:01+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "マスク氏、スターリンク利用制限「大統領が決定」 ウクライナ「ロシア攻撃に影響」と説明",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByWEdOMWRhaGxQS1RtQUIwWlJJeTZNWUNzcjJraVVxbVhPVFU0VVRsYnhDQ0l6dWhsNmJlWTNhMTNrRHdKQlAtTkdZclBWMFRlMzlDd1ZxNmYzTzh6T29IY2FlSUdXTU5CWW1mVzZLbWFoOUpSR2c?oc=5",
+     "published_at": "2026-10-14T22:41:48+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "ドローン速度250→160キロ…ゼレンスキー氏、スターリンク制限で米批判「非理性的」",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nbHpGVm9fOUgzTzVkVWcwR1ZyMXhpN3N3SG1sZmwyZmN2RUFjNHNzSm5BZ2NvTlFFcUdTQTdaV1I2YmlCdlc3T2J6R241Z1l6UV9IaU9XdUZPektuVnJYYUpGbk1iRVBDbTdfQjU0cEhkSVNaZEE?oc=5",
+     "published_at": "2026-10-15T05:13:42+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ウクライナ軍「スペースXがスターリンクに通信制限」 軍事作戦に影響",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EdUYyOVRvcWZYcE8ySDV0NUQ3aGlDUlgwQlZBV3ZGOGp6Q09nMHpmT25HZWNISXkxVC1JN1R6anN0Z2JQVGh1Z29VNkdwbEtjN18tS1V3cWF4U21lNWhFcXdQUVdkYldjZ0l0dA?oc=5",
+     "published_at": "2026-10-14T16:45:48+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ウクライナ、スターリンク「制限」で作戦に支障 情報共有不備も指摘",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5V3ZUc2FkeFpPQVlsUDVYQjlLUV9NLWpUQjc3NF9peE5mRG04b0dNTllZYmxmU1VjTHBwY1pDYmhZVnJJSVpmNXNNaExjZm1PbkUxd25sQjNLbkxueWpmSkNLdmpHTFozVzh3c216YzRIV0ZoSmZn?oc=5",
+     "published_at": "2026-10-15T04:49:20+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "マスク氏、スターリンク巡りウクライナに反論 「軍用は米政府管轄」",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55TTdIRXhMN2xCS3pKUDRsT2E5R2pQczc3UzFaZmF5WW9zYmZ5M2txSVN2aXF3V3c5U1JpZnptMWd3NDY4WjU4cHFVeENiZ2tZVTFJUF9yVlpaOFlCaGJsUTI2MW95VWp3dk9Jbw?oc=5",
+     "published_at": "2026-10-15T05:54:38+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ゼレンスキー氏「製油所の攻撃を再開」 スペースX通信制限で米批判",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NSzJDbF8yRlEwUmhtdVhfbFBmSzNuZWFfNkxHNWt6NFUxcXhmdF9SX2RLRHFnczlscERHcmNhOGxCdU9MZUE1NDd3NzRxamFNZ2ZNZlVoSE5FNXBJX0dab2tGb2xMaEI3Z2Y3dQ?oc=5",
+     "published_at": "2026-10-15T08:12:43+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "ウクライナ高官“スペースXが衛星通信サービスに速度制限” ロシア軍の攻撃への対応に影響と明らかに（2026年10月15日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlBmU1VYRWJfRFJZVWlybnBCcFVCeWF5aGU3dlJVbkh3UEF3Ny12MHJXNlJId1RvTlg3TWlzNEw3OUh0VDd5NHEtTEhRSXZHNEVLa3oxNWVqOUJsV0d2U19veWpZdjNiQmhJRTJxSWVONHdPNDNOc1lfSnVWV2FIRTR4MUE?oc=5",
+     "published_at": "2026-10-15T09:27:01+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "米宇宙企業スペースXが提供「スターリンク」がウクライナでの使用一部制限か 軍事当局者明らかに トランプ大統領とゼレンスキー大統領の関係悪化するなか情報遮断か",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13QjBiM21uTEg1TFJXYi13VEhVZDJFUzFocnNoTU9hZXpPZjRJMlAwaU9yV3VDLTVHQ19fTVB3MDRMU0R6ek1sc0FLcVl5WkFkZWJLR2JqMA?oc=5",
+     "published_at": "2026-10-14T16:52:22+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ドローン攻撃などに使用「スターリンク」軍事版の制限解除 ゼレンスキー氏、ロシアのエネルギー施設への攻撃再開を発表",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qMlMxTGhMSmZMSUJSZUw5Y3lSckVDWlVPaEZub2R6NHQ4Z3J4bkpzblZPNnVqcEkzX0tUbDl4NTRLMXhKVlFjd2xLX0FYN2xKVlBrVHZnNTZlRWdtYnZUMy0yQWJjampSUlM2aFBoRm1kQmo5?oc=5",
+     "published_at": "2026-10-15T13:06:26+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "スペースXがウクライナ軍の衛星通信を一部制限 ドローン攻撃に支障 アメリカの圧力の一環か",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GSmFfenFWaWYwUzk3NDZfVDU2d0wxUmV1Uzh6RnhCV3NFVmxTb3pjVzVwM1l1Y2hTSGNQR3BxOU9scXRfUThGYktwV1lkRXZVRUtDUHJleE1BMVJ5LUZ3RERuZHF0aTJwMGRYeVhrY1dhcGhZ?oc=5",
+     "published_at": "2026-10-14T21:06:29+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "ウクライナのスターリンクに速度制限か 前線で作戦中断も 米ロ関係に関連と懸念",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMazV2Rkt3alV6SkduX19rQkY2UTI3SlVpU0dsSi1LMHV4TGF4X2RPX2dBOVdKeG1PTDY4OGJZWTJWQzQ5VWM2RmNacXdHRU5DcElQUVg4ajFwZEk5YV9qYlZBQnpwRHpHSjVTUElraEpGOGlPREw1QUlB?oc=5",
+     "published_at": "2026-10-14T12:22:34+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "“スターリンクの通信速度を制限された”とウクライナ大統領顧問 軍の複数作戦を中断 ゼレンスキー氏「人々が命落とすことになる」",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JbUJyNWxMWVA3aDBNYUdQbnpnZ0F6b25sNEo5b3phWGJ2d1h5UzYtb3g5akZGRDdZYkR3b005TTlwNUI5RnBZY0NtZmZQUQ?oc=5",
+     "published_at": "2026-10-15T04:21:00+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体は、ドローンの速度制限や迎撃、作戦の中止など作戦への具体的な影響と、トランプ政権の圧力が背景にあるのかという点を中心に伝えている。制限の解除やロシアのエネルギー施設への攻撃再開も報じる一方、各国の媒体が大きく取り上げたマスク氏の退陣要求は、見出しには出ていない。",
+   "japan_main_checked_at": "2026-10-15T16:26:33.646053+00:00",
+   "place_countries": [
+    "UA",
+    "US"
+   ],
+   "day": "2026-10-14",
+   "n_outlets": 12,
+   "n_countries": 10,
+   "n_independent_countries": 9,
+   "n_areas": 3
+  },
+  {
+   "id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93",
+   "title_ja": "ローマ教皇レオ14世、肺の手術で肺がんと判明",
+   "fact_ja": "ローマ教皇レオ14世（71）がローマのジェメリ病院で右肺の一部を切除する手術を受け、バチカンは肺がんと確認されたと発表した。バチカンによると、教皇は術後に回復に向かっている。",
+   "category": "科学・環境・保健",
+   "first_seen": "2026-10-13T20:04:00+00:00",
+   "updated_at": "2026-10-15T15:23:58+00:00",
+   "country_views": [
+    {
+     "country": "HK",
+     "view_ja": "手術で右肺の下葉が切除されたこと、がんが最も一般的な肺腺がんだったことを、バチカンの医療発表に沿って伝えている。追加の検査結果を待っていることにも触れている。"
+    },
+    {
+     "country": "DE",
+     "view_ja": "肺がんと判明したことと、術後の経過が良いことを伝えている。連邦大統領のお見舞いの言葉に触れたほか、運動好きで健康そうに見えた教皇の診断は予想外だったとして、今後の在位がどうなるかにも目を向けている。"
+    },
+    {
+     "country": "US",
+     "view_ja": "診断と手術の内容に加え、世界の指導者からのお見舞い、病院に寄せられた励まし、早期のがん検診を呼びかける声を伝えている。病気が始まったばかりの在位にどう影響するか、教皇不在でもバチカンの組織が動き続ける仕組みなど、背景を掘り下げる記事が多い。"
+    },
+    {
+     "country": "FR",
+     "view_ja": "教皇が回復に向かっていることを伝え、選出から1年ほどで、日曜の祈りの後に突然手術を受けると発表していたことに触れている。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "国営・政府系の媒体は、回復の様子と、がんが広がっているかを調べる検査の結果を待っていることを伝え、診断について分かっていることをまとめている。独立した媒体は、教皇が入院する「教皇の病院」と呼ばれるジェメリ病院を解説している。"
+    },
+    {
+     "country": "PK",
+     "view_ja": "教皇がベッドから起きて歩き、食事もしていて、医師が術後の経過を「通常どおり」と話したことを伝えている。生検の結果を待っていることにも触れている。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "手術の翌日に教皇が病室で自分で歩き、普段どおり食事をしていることと、検査の数値が正常の範囲にあるとのバチカンの発表を、回復の様子を中心に伝えている。"
+    },
+    {
+     "country": "TH",
+     "view_ja": "教皇が病院で「よい夜」を過ごし朝食をとったとのバチカンの発表を伝えている。選出から2年もたたないうちの病気が在位をどう変えるかにも目を向けている。"
+    }
+   ],
+   "difference_ja": "回復の様子については、どの国もバチカンや医師の発表に沿って淡々と伝えている。違いが出ているのは焦点の置き方で、米国とドイツの媒体は在位の先行きや世界の反応、バチカンの組織の動き方まで掘り下げている。一方、韓国やパキスタンの媒体は、歩行や食事、検査の数値など術後の経過を中心に伝えている。",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "ローマ教皇の手術成功 肺腺がん確認",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hZ2g2RzBUYy1hbWVDV2J1VjNfZEdYWnMwdTFNQWJWSVZIVzk3aG5CRFJIMUlZQ1dDTW1XQkp4NGtGeGxOa24tX0lBYXR5RW5LWXcyUFhPM2duc3k1T0dZ?oc=5",
+     "published_at": "2026-10-14T01:16:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ローマ教皇レオ１４世、肺の結節除去する手術受け成功…肺腺がんだったと確認",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BSW85MnpLRWEyZHhncTBfd1RNUVhHMVlOTF9NbTJqbjJjMmtvaVBuNGNtbXBwbVVQa2c3dGdmMDdwVC1Ic21GY2lSWlVpcXBuZ1J2YmN3SWVSeDF0cXJVaERR?oc=5",
+     "published_at": "2026-10-14T11:02:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ローマ教皇レオ１４世、肺の結節除去する手術受け成功…肺腺がんだったと確認",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUExGWDltTjVObFIyTHpVLWNWb2ZjYm11ejZvVUN4UGN1MUtUakVWVFAxTXczSjhleVFWOGJfeEZzOTQ0OUlfek15bVlVbEJFbkduVDA4cjhQVmtUa09GZEgwN20zUGllYjA4bDF4b3ktOGFVSy1hV3M5RkJlVEo0OWROZmtZQi1NNExKYWhXaGxiWE9rR1E?oc=5",
+     "published_at": "2026-10-14T19:18:45+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "教皇レオ14世の肺結節手術成功 バチカン",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1b1UxaW1KRlRSWFBSTHdMelFYYXJMdFR0N3A0d1dvN3VFLTVkU041b0ZrQ3h5NnlZRm5HMXNkTjdlekpWWjZZNklkT0hvc3hNa2VyNEF2MWpNaTJaT0FEaHpETmViZlFs?oc=5",
+     "published_at": "2026-10-14T04:05:35+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "ローマ教皇レオ14世が手術受ける 肺腺がんを確認 右側下部切除に成功",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZVlEWVNOOGNIQl9MTFFPdDc4SkFXYWFhb2ExS1N5N0VSQUhBbDRRZzNRQUozdjdqNjJ1N09zM05ONnBJYmxkaWx0WGJ2eU5MR0ljQm8tT1cyZTRCVnBLZnBUWTFseFNqbWFMd0xDUVB1WlU1bVE?oc=5",
+     "published_at": "2026-10-13T21:50:57+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "ローマ教皇の術後経過順調 がんで右肺の一部切除、通常の食事で室内歩行開始",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWTzNWMmd0c01oRWl4Wk85Q01oSHU4RHlwYXZNWDFtd0xMcGwwLVppUnBOQ205RF9Wd08tRy01M05nM2tNd1BacG1McFN5M3k3bTZ1VmFaS2dtbWpCeUhkUGVaOGRiN184NVVqWjBuQTFiR1pVVGc?oc=5",
+     "published_at": "2026-10-14T23:30:04+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ローマ教皇が肺腺がん、切除手術に成功 「早期発見」と説明",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vWk1fQmRtUFZmSXozSU9rTktCUmN0NUtzSWFoWXdPOHdHd1N4dEpJdkFCWU0zSnNrdGFSMnVkUGl1WkdoWlVZNG1YakZIVnFjTVZGUFpfRVJVZVppYUo0R2VoeDBSUnh1ZXo0bg?oc=5",
+     "published_at": "2026-10-14T00:06:43+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ローマ教皇レオ14世「肺腺がん」判明 肺に“しこり”のようなもの確認され切除手術 術後は順調 ローマ教皇庁発表",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOZmxDZFBtMEd6YVRSQUZ6X1NnSUk3SHQ2THkzU0MwSzg3NWlBV095YjVrQlh5WVcwMkc2Rzd5SEdBQ2l4Qi1QVWk3LThsalRiM1BiUWgzRQ?oc=5",
+     "published_at": "2026-10-13T21:41:24+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ローマ教皇レオ14世が「肺結節」で手術 組織検査で「肺腺がん」と判明も手術は成功 ローマ教皇庁発表",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBS1ZFQjJ3c0VCSDNqR1ZhUTA3OEJFOVRGVU1xX3l0bGlIWml5bjYwelJiNGNDQy1Td3NnZDBhRU5sN1ZMZS12YjNhUzZiQVdPZ1JUYmktZzBkc2h3YTk3emQxVkpjek9BWVBPT3NzRk9IU0R0?oc=5",
+     "published_at": "2026-10-13T21:41:24+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体は、手術が成功したことと肺腺がんと確認されたこと、術後の経過が順調なことを中心に伝えている。米国やドイツの媒体のように在位の先行きや世界の反応を取り上げた見出しはない。",
+   "japan_main_checked_at": "2026-10-15T16:27:18.185003+00:00",
+   "place_countries": [
+    "VA",
+    "IT"
+   ],
+   "day": "2026-10-14",
+   "n_outlets": 13,
+   "n_countries": 8,
+   "n_independent_countries": 8,
+   "n_areas": 3
+  },
+  {
+   "id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd",
+   "title_ja": "アルバニアの首都ティラナで学生主導の抗議デモが続き警察と衝突",
+   "fact_ja": "アルバニアの首都ティラナで、大学の環境改善などを求める学生主導のデモが数日続き、デモ隊が政府の建物を襲撃・放火し、警察は放水銃と催涙ガスで応じた。エディ・ラマ首相は辞任要求を拒んでいる。",
+   "category": "政治",
+   "first_seen": "2026-10-14T08:49:39+00:00",
+   "updated_at": "2026-10-15T14:22:13+00:00",
+   "country_views": [
+    {
+     "country": "DE",
+     "view_ja": "FAZは、学費の高さや将来への展望のなさに対する学生の怒りが政治家層全体に向いていると、背景に焦点を当てている。ターゲスシャウは、教育省に火炎瓶が投げ込まれ火災が起きたことなど、デモが激しくなった様子を伝えている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "BBCは、学生が政府の建物を襲撃・放火したことと、大学環境や就職の見通しの改善という要求を伝えている。ガーディアンは、3日続いた衝突の中でラマ首相が辞任しないと明言したことを主に扱っている。"
+    },
+    {
+     "country": "FR",
+     "view_ja": "ル・モンドは、首相の辞任と大学環境の改善を求める反政府デモとして報じ、数時間にわたる放水銃・催涙ガスでの鎮圧や建物への放火を詳しく伝えている。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "ストレーツ・タイムズは、デモ隊が窓を壊し機動隊と衝突する中、ラマ首相が辞任要求をはねつけたことを中心に伝えている。"
+    },
+    {
+     "country": "TH",
+     "view_ja": "バンコク・ポストは、3日目の衝突とともに、ラマ首相が被害を受けた政府の建物を視察したことや、首相が「混乱」を非難したことなど、首相の動きに焦点を当てている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系の媒体は、専門家の見方を紹介しながら、学生の不満が放置されてきたことや広がるいら立ちを取り上げ、デモが起きた理由を解説している。"
+    }
+   ],
+   "difference_ja": "ドイツと英国のBBC、フランスは建物への放火や襲撃、警察による鎮圧など衝突の激しさを中心に伝え、シンガポール、タイ、英国のガーディアンは辞任を拒むラマ首相の発言や動きに重心を置いている。ドイツのFAZとカタールの政府系媒体は、学費や将来への不安、放置されてきた不満など、抗議の背景に重きを置いている。",
+   "japan_main": [
+    {
+     "outlet": "日本経済新聞",
+     "title": "フランスのデモ、欧州各地に飛び火 アルバニアでは参加者が暴徒化",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PR0wyV29MMWRqX2NyOXdfaHllM3g0NnNZZ2JWQ3RVaWRsYjZmVWJZZmFBWUp3Ny1BeDlPMmlGR25ubGNXNzN1TUZhYmVXZlptbFFsb1NBWTBGcFBhb1JGYktkaVZyWWNSRlJRRQ?oc=5",
+     "published_at": "2026-10-15T08:17:42+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "アルバニアで学生らの抗議デモ 学費削減やラマ首相の辞任を求める 一部暴徒化も",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HZS1SME9JSDNJcWx0QlI2ZjBRV0VENkVhY0Zoc01EZl93aDdPNlBza1VZbFJ6WUZmT19GVnU5cFQ2d1pmZm5TdU9lTmZoRHJHTTlacEZNSkg0M1lGajUxVkdXYjhJMndNb1ZLUXdsUy1DVklUR1dCSnNB?oc=5",
+     "published_at": "2026-10-15T15:49:03+00:00"
+    }
+   ],
+   "japan_view_ja": "テレビ朝日は学費削減や首相の辞任といった要求と一部の暴徒化を伝え、日本経済新聞はフランスのデモが欧州各地に広がった動きの一つとして位置づけている。各国の媒体には見られない、他国のデモと結びつける伝え方が日本の報道の一部にある。",
+   "japan_main_checked_at": "2026-10-15T16:27:51.552625+00:00",
+   "place_countries": [
+    "AL"
+   ],
+   "day": "2026-10-14",
+   "n_outlets": 8,
+   "n_countries": 6,
+   "n_independent_countries": 5,
+   "n_areas": 2
+  },
+  {
+   "id": "15aa0517-988f-4e28-80fc-ff75961377e3",
+   "title_ja": "フーシ派とサウジ連合が攻撃応酬、アラムコ施設に被害",
+   "fact_ja": "イエメンのフーシ派とサウジアラビアの戦闘が激しくなるなか、サウジアラムコの施設の建物が攻撃を受けた。サウジ主導の連合軍はフーシ派の支配地域を攻撃し、フーシ派はさらに攻撃すると表明した。",
+   "category": "紛争・安全保障",
+   "first_seen": "2026-10-14T01:33:54+00:00",
+   "updated_at": "2026-10-15T22:56:00+00:00",
+   "country_views": [
+    {
+     "country": "HK",
+     "view_ja": "アラムコの事務棟が攻撃され、小規模な火災が起きたというサウジ・エネルギー省の発表を中心に伝えている。フーシ派をイランと手を結ぶ勢力と紹介している。"
+    },
+    {
+     "country": "PK",
+     "view_ja": "連合軍によるイエメンの燃料施設への攻撃と、フーシ派の報復予告やさらなる攻撃の表明を続けて報じている。トランプ氏の警告やエルドアン氏のサウジ支持、サウジ外務省がイランの関与を非難したことなど、周辺国の反応も載せている。"
+    },
+    {
+     "country": "US",
+     "view_ja": "アラムコ本社の建物への攻撃で、空港攻撃に続いて紛争が広がっていると伝えている。サウジ軍が高価な装備を持ちながら、ミサイルやドローンを防ぎきれない理由を分析する記事もある。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系の媒体は、戦闘激化の最新状況をまとめ、フーシ派がサウジにとっての戦争のコストを引き上げようとしているという見方を示している。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "国営・政府系の媒体は、メディナ地域でミサイルを迎撃したという連合軍の発表と、それを否定するフーシ派の反応を伝えている。独立した媒体は、フーシ派が数十か所の空港や港、石油施設を狙ったという連合軍の発表を報じ、イランがフーシ派を使ってサウジに圧力をかけているという分析も載せている。"
+    },
+    {
+     "country": "CN",
+     "view_ja": "国営・政府系の媒体は、サウジ側が2350回を超える空爆やミサイル攻撃を行ったとするフーシ派報道官の発言と、ナジュランへの早期警戒警報を短く伝えている。"
+    }
+   ],
+   "difference_ja": "香港・米国はアラムコ施設への被害そのものを中心に伝える一方、パキスタンは連合軍側の攻撃やトランプ氏・エルドアン氏の反応、サウジによるイラン非難まで幅広く報じている。米国とシンガポールの独立した媒体は、サウジの防空の限界やイランの関与といった背景の分析にも重点を置いている。中国の国営・政府系の媒体はフーシ派報道官の発言を載せ、サウジ側の空爆の多さを伝えている点が目立つ。",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "サウジアラビア国営石油会社に攻撃 フーシ派は攻撃継続主張 | NHKニュース | 原油価格、資源・エネルギー、サウジアラビア",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyMkh0RjhvZE1MRkkyU3VScll3dmVqZlgzOFFkblNYVTY2OGV5VEpIbmlqUmJBR3otc2U1bWhwRHhCMGhVUFVuUGhUaF9Mc29mT3FRWHN1aEV1NHlvMUJ3?oc=5",
+     "published_at": "2026-10-14T03:38:21+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "サウジ国営石油会社の本社付近で爆発音 フーシ派攻撃か",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMT2dPMkdfbjFsRE9vY2hZQlBfOVRHblV3Y3FFTDFTY1c5bWtRT1k3ZFdBd0xjWS0tVDZwbFpORUV2MlFiZFI1dncwVmhWak1YN2FaZDYwZExycER2NFBtc2ZLRlI4MXVu?oc=5",
+     "published_at": "2026-10-14T01:00:11+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "フーシ派がサウジ攻撃 ドローン・ミサイルでアラムコ本社と空港を標的",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fVzZlc09oQTUtWGE0V2hGckZZckhsSjNHTjNTZm1qVUFFeEtLLTI3cXFwU2pQMlc2MHJNRndHVlZhSWtTaUxiajFGU2x5RjdjMWZvT1dxYVczUTlTVUI5U2t2YmF1VF9mTTRUUHA0OGx2a3BoU1E?oc=5",
+     "published_at": "2026-10-14T11:46:15+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "フーシ派「サウジの空港標的」継続表明 石油関連施設も狙う、情勢さらに緊迫",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BeUFuTURobjhzSjZINnh3WGpZWi1lemxMY1ctcVoyYkxnU1dZYTc3bnFNdTdtMmtaNjdGV0lKUFczY0hobmIxZjhLYktYeGQyQWIxbjhHd2E5N1lqUy1mOXBXUGVpUTNIenVhb2ZSX0loNUpSU2c?oc=5",
+     "published_at": "2026-10-14T23:27:24+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "NY原油続伸、終値95ドル台 フーシ派によるサウジ国有石油会社攻撃情報で買い優勢",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM3czbWhVM1lCSG91YjdpN3otYklFUFZjdlJfN0xhLUI3ekJaUUp3RzBiQWNRR01aS1IwNi1CVUw5UzZaTDlob0hBbnV4UGtpcTRJTkpTdERqczI1cFc5WEZmQ1NkN01JeElIWU1fZFRRc3NsZUE?oc=5",
+     "published_at": "2026-10-14T23:18:41+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "サウジアラムコ本社に攻撃 フーシが事前に報復宣言",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVeG12blBlaGZrb25YSmVDNjNIdDVQODd1ZzFmWXM1Z3VlRTRWeXJ5TzQwSTdGLW5PeW4xZ3FjSmFQYkdNUzhpOXNrQTluYUo4UGhXY3pubjRnY2dtZkU4NU5jcW42SVNtTWlJSA?oc=5",
+     "published_at": "2026-10-14T00:51:24+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "サウジアラムコ本社にフーシ派のミサイル攻撃－施設の一部で火災",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qYk84ajdtbjJINFBFZkJWZXpCUzJ2T1RMZTAxZ19QQlRfT0VXUUZrMEJpeXRtbmE2ZHEyVElfT1M4ZWxveDRxNEFEblpLLVJwTktfcG4yLWpDZVJDYkhBaFEyanpzTkU?oc=5",
+     "published_at": "2026-10-13T22:06:50+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "サウジアラムコ本社にフーシ派のミサイル攻撃－施設の一部で火災 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOWZTQjd4Qi1OTEY5bHZkOWtuQXpoMnUzVi1YN3lXM2lxT21zVkpRT3NxU2VtSF9tWVZkRUJ0LXNqSnpwekJVbklvem15MkpzR19SRktkcTA2dmJETFJRcHVIOVlUbk8xX1JzY0ZKcEJDaGs2MlNwdU1zS2FoSGlBMnZReENjQlotWnRpLVMtRWVvY3VKQjBveV9DMFZyM0lMRUZQcUJ0NDFfZVU1X1NJS1JQNWc1SEN3N0Zxak04WmFwaHkzakhLdS1RSE5ZcjVaVlBGMERhYmxibUtLRzFSYjdMOEZENzl0bURzUnBzZV96VVAtZWVWaVkzb3BJRGRRTjRhOUdoVHg?oc=5",
+     "published_at": "2026-10-15T05:27:16+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "原油相場、小幅上昇－サウジアラムコ本社に攻撃、供給回復に不透明感",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hYWY1SnFmWGh6LV90VVdrZUtxNDQ1MG03TTY0WWhhc1JKbW9Dd0RlWHhQZ2dFVXJxVjVYWGdMYjloVVBBa05zbkpsWkdvYUxwUi11Qy1yNFE1YlJvSW1WemV6VlZvQVdUakZoYkFMWGZKZGxl?oc=5",
+     "published_at": "2026-10-14T08:48:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "原油相場、小幅上昇－サウジアラムコ本社に攻撃、供給回復に不透明感 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1NiYW40Zk5wdURpNGduek14UTFqQTB5WHhTWnBMRWw0di1uYi05bGkwVmVMRTJBMnpSdElZUkl6TU90VHRiVEZGNGpaXzF2VjlGaUtMSndfMzBOTXJGTktNN3A3QWRCSHNELXdPWG9FSkllVXlPWXhYamhPYXRjcDFHNkl1bzA?oc=5",
+     "published_at": "2026-10-14T10:10:26+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "サウジアラビア連合軍がイエメン首都サヌアにある石油施設などを攻撃 親イラン武装組織フーシ派が軍事目的で使用か",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OanA1RWdNREloVmo5dTBJazZCdWtTUHQwclZtQTZGNjMwLUFnTGRCT3p1UHBZamZDYzZ1YUJQZXNCREJ4T0FpaGRNdWNISHVKcmQxeVhQMVN2bWpESmZv?oc=5",
+     "published_at": "2026-10-14T01:19:00+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体は、アラムコ本社への攻撃とフーシ派の攻撃継続の表明を中心に伝えており、原油価格への影響を見出しにした記事が複数ある点が目立ちます。連合軍によるサヌアの石油施設への攻撃も報じていますが、各国の媒体に見られるイランの関与やサウジ防空の限界といった背景の分析は、見出しには見当たりません。",
+   "japan_main_checked_at": "2026-10-15T16:28:37.408653+00:00",
+   "place_countries": [
+    "YE",
+    "SA"
+   ],
+   "day": "2026-10-14",
+   "n_outlets": 8,
+   "n_countries": 6,
+   "n_independent_countries": 4,
+   "n_areas": 2
+  },
+  {
+   "id": "9538cc33-4be4-42cb-8e71-2805fcc665b1",
+   "title_ja": "ウクライナ、ミサイル攻撃の事前警報がなかったと米国を批判",
+   "fact_ja": "ロシアのミサイル攻撃がキーウを襲い、ゼレンスキー大統領は、攻撃の前に米国側から警報がなかったと批判した。複数の媒体は、ウクライナが戦場で使う衛星通信スターリンクが制限されたことへの不満もあわせて伝えている。",
+   "category": "外交",
+   "first_seen": "2026-10-14T05:26:14+00:00",
+   "updated_at": "2026-10-15T13:19:09+00:00",
+   "country_views": [
+    {
+     "country": "DE",
+     "view_ja": "警報がなかった理由や、トランプ大統領の関与を問う記事が多い。NATOとEUがウクライナの批判に反論・沈静化を図ったこと、ロシアとの「ディーゼル取引」でゼレンスキー氏が裏切られたと感じていること、ドイツの政治家がトランプ氏を強く非難したことなど、米国との関係の悪化として幅広く伝えている。"
+    },
+    {
+     "country": "FR",
+     "view_ja": "ウクライナが「米国は警報を出さずにロシアを助けている」と非難したことを見出しにし、スターリンクをめぐるゼレンスキー氏とマスク氏のやりとりを伝えている。続報では、ワシントンがウクライナへの支援を絞っているという構図で報じている。"
+    },
+    {
+     "country": "US",
+     "view_ja": "2夜続けて攻撃の情報が届かなかったというウクライナ側の訴えと、情報は引き続き提供されているとするトランプ大統領の説明を並べて伝えている。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "国営・政府系の媒体は、米国が警報を出さず、スターリンクの変更で反撃も妨げてロシアを助けているとするウクライナの非難を、通信社の記事に近い形で伝えている。"
+    },
+    {
+     "country": "PK",
+     "view_ja": "ウクライナが米国を「ロシアを助けている」と非難したことを伝え、ゼレンスキー氏が警報の欠如を「まったく不当」と述べた発言を載せている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系の媒体は、警報が減ったことで市民への脅威が増していることや、住宅が壊されたキーウの市民がトランプ氏に怒りを向ける様子など、ウクライナの人々の受け止めを中心に伝えている。トランプ氏が「エネルギー停戦」と和平交渉を進めていることにも触れている。"
+    }
+   ],
+   "difference_ja": "ドイツとフランスの媒体は、警報の欠如とスターリンクの制限を米国の支援縮小やトランプ大統領の姿勢と結びつけて伝え、NATO・EUの反応やマスク氏の言い分、ドイツの政治家の非難も載せている。米国の媒体はウクライナ側の訴えとトランプ氏の「情報は流れている」という説明を並べている。カタールの国営・政府系の媒体は、指導者同士のやりとりよりも、市民の被害や不安、怒りの声に焦点を当てている。",
+   "japan_main": [],
+   "japan_view_ja": "",
+   "japan_main_checked_at": "2026-10-15T16:29:18.471147+00:00",
+   "place_countries": [
+    "UA",
+    "US",
+    "RU"
+   ],
+   "day": "2026-10-14",
+   "n_outlets": 8,
+   "n_countries": 6,
+   "n_independent_countries": 4,
+   "n_areas": 3
+  }
+ ],
+ "articles": [
+  {
+   "id": "839f103f-a096-4f21-a9ef-593c2e23bd62",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+   "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+   "published_at": "2026-10-15T15:52:10+00:00",
+   "summary_ja": "「見たくない人もいる」としてトランプ氏が生配信を中止。60年以上ぶりの軍による処刑だと伝えた。",
+   "angle": "大統領の説明",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "e780c6e8-eaa2-4356-93a7-a78d7bace41c",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/trump-us-military-execution-not-livestream-6462851",
+   "title": "Trump says military execution will not be livestreamed",
+   "published_at": "2026-10-15T14:53:00+00:00",
+   "summary_ja": "トランプ氏が軍による処刑を生配信しないと述べたことを伝えた。",
+   "angle": "大統領の発言",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "ba2c07fe-8d57-4a40-a465-6ef133e15c4f",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Todesstrafe-fuer-Attentaeter/!6222109/",
+   "title": "Todesstrafe für Attentäter: Trump sagt Live-Übertragung von Hinrichtung ab",
+   "published_at": "2026-10-15T15:15:00+00:00",
+   "summary_ja": "世界に見せるはずだった処刑の生中継をトランプ氏が撤回したと伝え、その背景を探った。",
+   "angle": "撤回の背景",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "bf5c1518-29e0-43b3-875b-f9ced5f9b337",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
+   "title": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
+   "published_at": "2026-10-15T15:57:03+00:00",
+   "summary_ja": "ヘグセス国防長官の発表が憤りを招いた後、トランプ氏が予定されていた生配信を取りやめたと伝えた。",
+   "angle": "批判と撤回",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "48849025-00b6-47a3-b8bb-aace58a0b9f9",
+   "outlet_id": "toi",
+   "url": "https://timesofindia.indiatimes.com/world/us/victims-families-may-witness-in-person-us-not-to-livestream-execution-of-fort-hood-gunman-nidal-hasan/articleshow/134970388.cms",
+   "title": "US not to livestream execution of Fort Hood gunman Nidal Hasan",
+   "published_at": "2026-10-15T14:38:38+00:00",
+   "summary_ja": "12月3日に予定されるハサン元少佐の銃殺刑は生配信されないが、遺族は立ち会えると伝えた。",
+   "angle": "執行の詳細",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "33bc1255-43ea-4506-bf97-cd92a865194c",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/15/GQYTCYLGMI3DCMBSG43DAODFGU/",
+   "title": "트럼프 “미군기지 난사범 총살형 생중계 안해”",
+   "published_at": "2026-10-15T14:58:49+00:00",
+   "summary_ja": "13人を殺害したハサン元少佐の銃殺刑の生中継について、批判を受けトランプ氏がヘグセス長官の決定を覆したと伝えた。",
+   "angle": "国防長官決定の撤回",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "788f9837-bac7-4bc4-bd37-270cda974cf6",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/us/2026/10/15/KPJL67LDT5B4JAJAY75ZVPIS4Q/",
+   "title": "트럼프 “미군기지 난사범 총살형 생중계되지 않을 것”",
+   "published_at": "2026-10-15T14:32:34+00:00",
+   "summary_ja": "トランプ氏が米軍基地で銃を乱射した犯人の銃殺刑を生中継しないと述べたと伝えた。",
+   "angle": "大統領の発言",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "75723661-9ef6-44f7-9804-1afaa145f963",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/united-states/trump-says-military-execution-will-not-be-livestreamed",
+   "title": "Trump says military execution will not be live-streamed",
+   "published_at": "2026-10-15T14:26:02+00:00",
+   "summary_ja": "トランプ氏が軍による処刑を生配信しないと表明。米国人の多数が生配信に反対していたとの世論調査も紹介。",
+   "angle": "米国の世論",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "b58b004a-beb8-4610-b548-7026a0175ef9",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-15/news-1RgIaTMKtqg/p.html",
+   "title": "TRUMP: EXECUTION EVENT WILL NOT BE STREAMED",
+   "published_at": "2026-10-15T22:08:00+00:00",
+   "summary_ja": "トランプ氏が処刑を配信しないと述べたことを見出しで伝えた。",
+   "angle": "大統領の発言",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "c38dd269-2bed-4111-a777-546fc7bbbe70",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "title": "Lawmakers from both parties welcome Trump’s decision to cancel livestream of firing squad execution – live",
+   "published_at": "2026-10-15T15:56:13+00:00",
+   "summary_ja": "与野党の議員が生配信中止を歓迎したと伝え、計画を批判していた上院議員の発言を紹介した。",
+   "angle": "議員の反応",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "82951ab8-8fbc-407f-abbe-aefcf35b7d25",
+   "outlet_id": "sz",
+   "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kein-livestream-hinrichtung-attentaeter-todesstrafe-li.3558046",
+   "title": "USA-Newsblog: Trump: Kein Livestream bei geplanter Hinrichtung durch Militär",
+   "published_at": "2026-10-15T14:41:37+00:00",
+   "summary_ja": "トランプ氏が軍による処刑の生配信を取りやめ、世界的に批判された計画から方針転換したと伝えた。",
+   "angle": "方針転換",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "c6fd427b-6d25-4983-8c38-bcc4940d251f",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-hinrichtung-wird-doch-nicht-live-uebertragen-faz-19444916.html",
+   "title": "USA unter Trump: Trump: Hinrichtung wird doch nicht live übertragen",
+   "published_at": "2026-10-15T14:34:39+00:00",
+   "summary_ja": "米政治のライブティッカーの中で、トランプ氏が処刑の生中継をやめたと伝えた。",
+   "angle": "方針の撤回",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "40416760-a8e6-46f6-a186-c4b79932f2cc",
+   "outlet_id": "abc",
+   "url": "https://www.abc.net.au/news/2026-10-16/trump-cancels-livestream-execution-fort-knox/107273194",
+   "title": "Donald Trump calls off planned live stream of firing squad execution",
+   "published_at": "2026-10-15T14:44:53+00:00",
+   "summary_ja": "米国内外の強い反発を受けた取りやめで、オーストラリアでも与野党が非難していたと伝えた。",
+   "angle": "豪州の反応",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "90908075-e928-4d53-9bf4-70a891507856",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
+   "title": "Trump says Fort Hood US shooter execution will not be livestreamed",
+   "published_at": "2026-10-15T14:27:35+00:00",
+   "summary_ja": "強い反発を受け、トランプ氏が国防総省によるハサン元少佐の処刑の生配信計画を覆したと伝えた。",
+   "angle": "国防総省案の撤回",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "6abe5d05-1d45-4e42-9235-5b7dc2bb009d",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2037379/trump-says-military-execution-of-fort-hood-gunman-will-not-be-livestreamed",
+   "title": "Trump says military execution of Fort Hood gunman will not be livestreamed",
+   "published_at": "2026-10-15T15:26:48+00:00",
+   "summary_ja": "処刑は生配信しないが遺族は立ち会えると伝え、1945年以来初の軍の銃殺刑になる点にも触れた。",
+   "angle": "執行の詳細",
+   "story_id": "10dcc54e-269e-4055-a959-24b63fa5ee73"
+  },
+  {
+   "id": "78d66968-5b14-47ab-a6e0-7d12b6162be2",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+   "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+   "published_at": "2026-10-15T15:27:08+00:00",
+   "summary_ja": "ゼレンスキー氏が英紙のインタビューで米国への不満を示し、製油所への攻撃を再開すると述べた。",
+   "angle": "トランプ氏への反発",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "a461da49-7ded-4ac7-83d0-9fe3e7a08ebc",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+   "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+   "published_at": "2026-10-15T15:09:15+00:00",
+   "summary_ja": "ロシアがウクライナの製油所攻撃を非難した。ゼレンスキー氏はロシアの新たな攻撃を受け停止を終えたと説明した。",
+   "angle": "双方の主張",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "5b4fae32-0284-45ac-8905-d2b79de95150",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/europe/article/3370993/were-done-ukraine-resumes-russian-refinery-strikes-zelensky-defies-trump?utm_source=rss_feed",
+   "title": "‘We’re done’: Ukraine resumes Russian refinery strikes, defying Trump",
+   "published_at": "2026-10-15T08:08:11+00:00",
+   "summary_ja": "ゼレンスキー氏がエネルギー停戦への協力をやめると述べた後、ウクライナがロシアの製油所を攻撃した。",
+   "angle": "トランプ氏への反発",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "1c5ff09b-5d05-45a9-b2b4-afbdf46ff63f",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/article6ad0c658199dc15f1abd4f00/ukraine-krieg-selenskyj-brueskiert-trump-und-kuendigt-neue-angriffe-auf-russische-raffinerien-an.html",
+   "title": "Selenskyj brüskiert Trump und kündigt neue Angriffe auf russische Raffinerien an",
+   "published_at": "2026-10-15T13:29:24+00:00",
+   "summary_ja": "ゼレンスキー氏がエネルギー停戦の終わりを宣言し、ロシアのエネルギー施設への新たな攻撃を予告した。",
+   "angle": "トランプ氏との対立",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "bcd62156-24de-44d4-b85e-3ddc4da1e2f7",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/15/WSILW6Z2BFH3VG456ZIEVA2XBE/",
+   "title": "젤렌스키 “트럼프에 배신감 느껴…러 정유시설 다시 공격”",
+   "published_at": "2026-10-15T13:53:01+00:00",
+   "summary_ja": "ゼレンスキー氏がトランプ氏に裏切られたと感じると述べ、ロシアの製油施設への攻撃再開を表明した。",
+   "angle": "米国への不満",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "bb59d422-6687-4260-a432-3a51a7b8756e",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+   "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+   "published_at": "2026-10-15T15:01:10+00:00",
+   "summary_ja": "ロシアの大規模ドローン攻撃とウクライナの攻撃再開表明により、米国のエネルギー停戦が崩れた。",
+   "angle": "停戦の崩壊",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "b093d7d3-62f9-45e6-8c2e-6d3ad7386b96",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-hat-angriffe-auf-raffinerien-in-russland-wieder-aufgenommen-faz-110683325.html",
+   "title": "Liveblog Ukrainekrieg: Ukraine hat Angriffe auf Raffinerien in Russland wieder aufgenommen",
+   "published_at": "2026-10-15T11:35:43+00:00",
+   "summary_ja": "ゼレンスキー氏の予告どおり製油所への攻撃が再開されたと速報し、マスク氏の辞任要求なども伝えた。",
+   "angle": "戦況の速報",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "83ee1e10-4aa6-41dd-bf1d-aeda68cebd2e",
+   "outlet_id": "abc",
+   "url": "https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922",
+   "title": "Zelenskyy 'done' with US-made energy ceasefire that Moscow ignored",
+   "published_at": "2026-10-15T14:28:46+00:00",
+   "summary_ja": "ロシアが守らなかった停戦への協力をゼレンスキー氏がやめると述べ、ウクライナが製油所を攻撃した。",
+   "angle": "ロシアの不履行",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "1122e413-0040-44ee-bbd6-1561d9b7752a",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss",
+   "title": "Russia accuses Ukraine of contradicting US brokered deal",
+   "published_at": "2026-10-15T13:29:38+00:00",
+   "summary_ja": "夜間のドローン攻撃を受け、ロシアはウクライナが米国の和平努力に反していると非難した。",
+   "angle": "ロシアの非難",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "84a07bd1-7e55-4f79-94a5-ea096886b2fb",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+   "title": "Russia says Ukraine resumes attacks on oil refineries",
+   "published_at": "2026-10-15T10:02:17+00:00",
+   "summary_ja": "ウクライナが製油所への攻撃を再開したとロシアが発表した。ゼレンスキー氏は先に停戦の終わりを表明していた。",
+   "angle": "ロシア側の発表",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "1bff5ed1-36f6-47fd-a940-bda90b2e90a9",
+   "outlet_id": "tass",
+   "url": "https://tass.com/world/2202595",
+   "title": "US asks Ukraine six times since Sept to stop attacks on Russian oil refineries — paper",
+   "published_at": "2026-10-15T14:07:25+00:00",
+   "summary_ja": "米国が9月以降6回、製油所への攻撃をやめるようウクライナに求めていたと新聞報道を引いて伝えた。",
+   "angle": "米国の停止要請",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "b968e6df-884b-48a0-8693-391c3915f398",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3337665/zelensky-defies-trump-with-russian-refinery-strikes",
+   "title": "Zelensky defies Trump with Russian refinery strikes",
+   "published_at": "2026-10-15T11:45:00+00:00",
+   "summary_ja": "ゼレンスキー氏が、製油所を攻撃するなというトランプ氏の求めにはもう従わないと述べた。",
+   "angle": "米ウ首脳の対立",
+   "story_id": "77a5b187-2ba8-4cb3-afb8-3177a4d85e22"
+  },
+  {
+   "id": "53ec4802-6e3e-42bc-a18f-22ee6c10547a",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
+   "title": "32 Children Killed After School Roof Collapses in Pakistan",
+   "published_at": "2026-10-15T15:04:12+00:00",
+   "summary_ja": "児童32人と教師1人が死亡し数十人が負傷、建物は老朽化していたとみられると伝える。",
+   "angle": "建物の老朽化",
+   "story_id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88"
+  },
+  {
+   "id": "d7616501-17cb-4d4e-94cb-ec5b42de4504",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+   "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+   "published_at": "2026-10-15T15:26:16+00:00",
+   "summary_ja": "屋根が3つの教室を突き抜けて崩れ、児童少なくとも33人と教師1人が死亡したと警察の話で伝える。",
+   "angle": "被害の規模",
+   "story_id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88"
+  },
+  {
+   "id": "50037285-fba6-49d4-970e-63d5694631f2",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+   "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+   "published_at": "2026-10-15T15:05:29+00:00",
+   "summary_ja": "現地の特派員が、崩落直前に児童がきしむ音を聞いたという証言や救助活動の様子を伝える。",
+   "angle": "現場からの報告",
+   "story_id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88"
+  },
+  {
+   "id": "0191bb5d-4883-4ffd-9ed2-d6320036e3fe",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/asia/pakistan-school-roof-collapse-dozens-students-dead-6461551",
+   "title": "Pakistan school roof collapse kills 28; more deaths feared",
+   "published_at": "2026-10-15T08:00:00+00:00",
+   "summary_ja": "屋根崩落で28人が死亡し、さらに増えるおそれがあるとして、救助当局者による崩落の状況説明を載せる。",
+   "angle": "崩落の状況",
+   "story_id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88"
+  },
+  {
+   "id": "6d5fa7e5-827d-40ea-a929-c42486a90ee7",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html",
+   "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
+   "published_at": "2026-10-15T10:10:33+00:00",
+   "summary_ja": "学校の屋根崩落で授業中の児童を中心に少なくとも33人が死亡し、警察が1人を逮捕したと伝える。",
+   "angle": "被害と逮捕",
+   "story_id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88"
+  },
+  {
+   "id": "b7eb89eb-f19e-490f-9dae-73555af19b06",
+   "outlet_id": "abc",
+   "url": "https://www.abc.net.au/news/2026-10-15/students-and-teacher-dead-in-pakistan-roof-collapse/107272300",
+   "title": "32 students and a teacher dead after school roof collapse in Pakistan",
+   "published_at": "2026-10-15T07:30:54+00:00",
+   "summary_ja": "ペシャワルで学校の屋根が崩れ、6〜14歳の児童少なくとも32人と教師1人が死亡したと伝える。",
+   "angle": "犠牲者の数と年齢",
+   "story_id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88"
+  },
+  {
+   "id": "a06b6b8f-11ae-4d44-b7f2-378a7c039600",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+   "title": "Dozens of children killed after roof collapses in Pakistani school",
+   "published_at": "2026-10-15T10:21:43+00:00",
+   "summary_ja": "ペシャワルの学校が崩れ、子どもを中心に少なくとも29人が死亡したと伝える。",
+   "angle": "子どもの犠牲",
+   "story_id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88"
+  },
+  {
+   "id": "38748f27-3118-484f-b185-ae4c66baf717",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3337613/school-roof-collapse-kills-28-people-in-pakistan",
+   "title": "School roof collapse kills 28 people in Pakistan",
+   "published_at": "2026-10-15T08:45:00+00:00",
+   "summary_ja": "病院関係者の話として、児童27人と教師1人がペシャワルの学校の屋根崩落で死亡したと伝える。",
+   "angle": "被害の事実",
+   "story_id": "df4f18d0-1c14-495b-a0cd-f7c4730d6c88"
+  },
+  {
+   "id": "ca720e82-2221-4e34-8a2d-71e720bffb5d",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/us-inflation-september-fed-rate-hike-6460151",
+   "title": "US inflation heats up in September; Fed rate hike this month back on table",
+   "published_at": "2026-10-14T17:53:00+00:00",
+   "summary_ja": "9月の米物価上昇率は3.7%で、ガソリン高が主因となり、家計とFRBの利上げ判断に重荷になっていると伝える。",
+   "angle": "物価と利上げ判断",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "9bfc5a69-e83a-4129-b3e4-2c8d56dd42bf",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3370922/us-stocks-drop-their-worst-day-july-inflation-worsens?utm_source=rss_feed",
+   "title": "US stocks drop to their worst day since July as inflation worsens",
+   "published_at": "2026-10-14T21:03:28+00:00",
+   "summary_ja": "インフレ悪化を受けて米国株が7月以来最悪の下げとなり、ナスダックはAI関連株主導で1.9%下落したと伝える。",
+   "angle": "米国株の下げ幅",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "214aa3bb-cd6d-40c4-b087-c73f15bc87f6",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/15/HA4DAYJUGYZDGOJRHBQTAMJSMM/",
+   "title": "美 뉴욕 증시서 인공지능株 하락",
+   "published_at": "2026-10-15T14:49:08+00:00",
+   "summary_ja": "15日のNY市場は指数がまちまちとなり、AI・半導体・ロケット関連株が下落していると伝える。",
+   "angle": "AI関連株の続落",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "8bb7e8ed-7ea8-40ba-90bb-5169c7a002f4",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/15/HE3WMZTDMQ3TGNBXMFRGKYJZHE/",
+   "title": "美 9월 생산자 물가 전월 대비 1.3% 급등",
+   "published_at": "2026-10-15T13:24:30+00:00",
+   "summary_ja": "米国の9月の生産者物価が前月比1.3%上昇し、2022年3月以来の高い伸びになったと伝える。",
+   "angle": "生産者物価の急騰",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "4e6b2fa7-f078-4902-ab35-8c405ce2690e",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/15/MFQWKZBYMQ4DOYJSHAZDINRVHA/",
+   "title": "전쟁·관세·AI가 만든 ‘3중 물가 파고’… 사면초가 빠진 美 장바구니",
+   "published_at": "2026-10-15T05:20:53+00:00",
+   "summary_ja": "中東での戦争による原油高などで米国の物価が4カ月ぶりに上昇へ転じ、中間選挙を前に利上げ観測が強まっていると分析する。",
+   "angle": "物価上昇の要因",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "0b790682-e153-45e5-85ba-9e8b0902121c",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/15/MI4DMNJYGVSGKODCGFQTKYJZMY/",
+   "title": "뉴욕증시, 물가 충격·반도체주 약세에 일제히 하락 마감",
+   "published_at": "2026-10-14T21:57:01+00:00",
+   "summary_ja": "9月のCPIが予想を上回ってインフレ懸念が高まり、半導体株安も重なってNY市場の3指数がそろって下落したと伝える。",
+   "angle": "NY市場の終値",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "6b0b0365-4bdd-4fad-800f-e85c201ddaa1",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/business/2026/10/15/tech-sell-off-deepens-as-us-inflation-sparks-ai-jitters",
+   "title": "Tech sell-off deepens as US inflation sparks AI jitters",
+   "published_at": "2026-10-15T13:27:59+00:00",
+   "summary_ja": "米国のインフレがAI関連への不安を呼び、ハイテク株の売りが深まっていると伝える。",
+   "angle": "ハイテク株売り",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "42294d42-6964-483f-9c17-af0d2cd903e0",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/business/2026/10/15/us-consumer-inflation-hotter-than-expected-as-midterms-loom",
+   "title": "US consumer inflation hotter than expected as midterms loom",
+   "published_at": "2026-10-15T01:39:01+00:00",
+   "summary_ja": "中間選挙を前に、米国の消費者物価が予想を上回る伸びとなったと伝える。",
+   "angle": "中間選挙前の物価",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "fae70ad1-022b-4ed3-adae-8f3360f70f37",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+   "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+   "published_at": "2026-10-15T14:33:12+00:00",
+   "summary_ja": "インフレと利上げへの懸念、AI関連企業の借り入れへの不安から、サムスンなどハイテク株の世界的な売りが加速していると伝える。",
+   "angle": "世界の市場への波及",
+   "story_id": "13fcb3dd-f162-42ed-aa50-ee6d8e73374b"
+  },
+  {
+   "id": "5f5643d4-7636-4748-97b2-ed20d8093dad",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
+   "title": "North Korea and China Open Their Biggest Border Bridge",
+   "published_at": "2026-10-15T08:49:12+00:00",
+   "summary_ja": "中朝最大の国境橋が開通し、制裁下でも両国が貿易を広げていると伝える。",
+   "angle": "制裁下の貿易拡大",
+   "story_id": "c8b40631-950b-4e66-85a4-e9366af9fdb4"
+  },
+  {
+   "id": "9d2e3778-0e5e-47da-8439-3f44a98c38ed",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+   "title": "North Korea and China open new bridge after 12-year delay",
+   "published_at": "2026-10-15T06:24:45+00:00",
+   "summary_ja": "12年遅れで橋が開通。中国は制裁下の北朝鮮にとって命綱だと説明する。",
+   "angle": "制裁下の命綱",
+   "story_id": "c8b40631-950b-4e66-85a4-e9366af9fdb4"
+  },
+  {
+   "id": "a2db286b-0ddf-4ec2-a961-df9cf1f693f4",
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202610/1372326.shtml",
+   "title": "New China-DPRK border bridge over Yalu River opens to traffic",
+   "published_at": "2026-10-14T22:49:19+00:00",
+   "summary_ja": "鴨緑江に架かる中朝国境の新しい橋が開通したと伝える。",
+   "angle": "開通の事実",
+   "story_id": "c8b40631-950b-4e66-85a4-e9366af9fdb4"
+  },
+  {
+   "id": "9ca55a1f-ad50-4b77-afc8-5a62f5fd06a0",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/16/NHHA54B7WJGTVCXROB6ZPUHKLY/",
+   "title": "北·中 최대 물류 통로 열렸다… 대북제재 사실상 무력화",
+   "published_at": "2026-10-15T15:41:00+00:00",
+   "summary_ja": "中朝最大の物流ルートが開き、北朝鮮への制裁が事実上無力化すると論じる。",
+   "angle": "制裁の無力化",
+   "story_id": "c8b40631-950b-4e66-85a4-e9366af9fdb4"
+  },
+  {
+   "id": "ab035a84-5aee-4e28-9696-a54eb684b3b6",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/15/MVSDGMBUMYYDSYZVGA2TMYRUGQ/",
+   "title": "북중 다리 12년 만에 뚫렸다… 신압록강대교 정식 개통",
+   "published_at": "2026-10-15T02:30:32+00:00",
+   "summary_ja": "新義州と丹東を結ぶ橋が12年遅れで正式に開通し、中朝の経済協力が強まるとみる。",
+   "angle": "中朝経済協力",
+   "story_id": "c8b40631-950b-4e66-85a4-e9366af9fdb4"
+  },
+  {
+   "id": "f013f4ac-3211-4959-8843-a19462b33d80",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-15/New-China-DPRK-border-bridge-over-Yalu-River-opens-to-traffic-1RgLGCdtx6w/p.html",
+   "title": "New China-DPRK border bridge over Yalu River opens to traffic",
+   "published_at": "2026-10-15T23:08:00+00:00",
+   "summary_ja": "鴨緑江に架かる中朝国境の新しい橋が開通したと伝える。",
+   "angle": "開通の事実",
+   "story_id": "c8b40631-950b-4e66-85a4-e9366af9fdb4"
+  },
+  {
+   "id": "cf922bdf-5496-4032-b827-34fdec7cf338",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties?traffic_source=rss",
+   "title": "Photos: China and North Korea open new border bridge amid deepening ties",
+   "published_at": "2026-10-15T12:54:00+00:00",
+   "summary_ja": "結びつきを深める中朝が新橋を開通させた様子を写真で伝え、貿易と協力の強化を紹介する。",
+   "angle": "関係深化の写真",
+   "story_id": "c8b40631-950b-4e66-85a4-e9366af9fdb4"
+  },
+  {
+   "id": "f3e74c6d-1c75-4307-b7fc-62004a439036",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+   "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+   "published_at": "2026-10-15T13:08:54+00:00",
+   "summary_ja": "キーウで60万人が停電した大規模攻撃と、予告のない衛星通信の制限で、ウクライナの弱さが増していると報じる。",
+   "angle": "露の攻勢と脆弱性",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "8be69e8d-ef2a-451e-8f01-d38a50a043ca",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/world/starlink-suspicions-and-a-frantic-warning-inside-trumps-turn-on-zelensky-595502f1?mod=rss_worldnews",
+   "title": "Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky",
+   "published_at": "2026-10-15T14:42:00+00:00",
+   "summary_ja": "スターリンクの制限が当局者や米議員に動揺を広げた経緯を、トランプ氏のゼレンスキー氏への態度の変化と合わせて描く。",
+   "angle": "米政権の内幕",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "84603e55-aaf7-4a15-b54e-d424d40f5f1c",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/opinion/ukraine-starlink-elon-musk-white-house-russia-e95ff7e6?mod=rss_worldnews",
+   "title": "Opinion | What’s Going on With Starlink in Ukraine?",
+   "published_at": "2026-10-14T21:54:00+00:00",
+   "summary_ja": "スターリンクのデータ制限にウクライナが警戒するのはもっともだと論じる論説。",
+   "angle": "論説・制限への懸念",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "bf50ac7c-8e79-4365-999d-2911b8f4c10b",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews",
+   "title": "Ukraine Says New Limits on Starlink Are Disrupting Its Military Operations",
+   "published_at": "2026-10-14T20:09:00+00:00",
+   "summary_ja": "新たな制限でロシアの標的への攻撃やドローン迎撃の能力が落ちたとウクライナ当局者が述べたと報じる。",
+   "angle": "攻撃・迎撃能力",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "479cc8ab-cdeb-4674-9cf4-2b003dccd8c8",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+   "published_at": "2026-10-15T11:25:19+00:00",
+   "summary_ja": "スターリンクがウクライナ軍の通信の基盤として戦場でなぜ重要なのかを解説する。",
+   "angle": "戦場での役割解説",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "18b7a80f-64b5-465b-be39-bba1f0104382",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370923/musk-suggests-us-government-behind-any-slowdown-ukraines-starshield?utm_source=rss_feed",
+   "title": "‘Time for Zelensky to go’: Musk escalates satellite slowdown row",
+   "published_at": "2026-10-14T21:29:05+00:00",
+   "summary_ja": "マスク氏が混乱は米政府の責任だと主張し、ゼレンスキー氏に退陣を求めて対立が深まったと報じる。",
+   "angle": "マスク氏の退陣要求",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "36686c53-0b8f-4c65-9cc6-c366006a146b",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/video6ad091a16700a833142683f7/ukraine-krieg-medwedjew-nennt-selenskyj-gruene-laus-musk-fordert-ruecktritt-des-ukrainischen-praesidenten.html",
+   "title": "Medwedjew nennt Selenskyj „grüne Laus“ – Musk fordert Rücktritt des ukrainischen Präsidenten",
+   "published_at": "2026-10-15T10:09:07+00:00",
+   "summary_ja": "メドベージェフ前大統領がゼレンスキー氏を侮辱し、マスク氏も辞任を求めたと伝える。",
+   "angle": "露・マスク氏の発言",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "e3affbbd-4c70-4fad-b283-77af3c74342a",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/video6ad06eea02e608379430747b/drohnenabwehr-musk-weist-verantwortung-fuer-starlink-drosselung-in-der-ukraine-zurueck.html",
+   "title": "Musk weist Verantwortung für Starlink-Drosselung in der Ukraine zurück",
+   "published_at": "2026-10-15T06:56:10+00:00",
+   "summary_ja": "軍用版は米軍とトランプ大統領が管理しているとして、マスク氏が制限の責任を否定したと伝える。",
+   "angle": "マスク氏の責任否定",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "dbfec23e-caa3-4e7f-af77-8c2bbbe0443b",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Trump-und-Musk-versus-Selenskyj/!6221939/",
+   "title": "Trump und Musk versus Selenskyj: Wer solche Freunde hat …",
+   "published_at": "2026-10-15T15:09:00+00:00",
+   "summary_ja": "スターリンクの制限やトランプ氏とプーチン氏の取引に、ゼレンスキー氏とEUがどう対応するかを伝える。",
+   "angle": "米露とEUの対応",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "4d94e813-8577-4354-9a17-543530ce963d",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/europe/2026/10/16/KW4H3UDGL5H37ORC7DXZVGBDXM/",
+   "title": "테크가 흔드는 전쟁… 스타링크 제한하자 우크라 드론·방공망 마비",
+   "published_at": "2026-10-15T15:42:00+00:00",
+   "summary_ja": "スターリンクの制限でウクライナのドローンや防空網がまひし、テクノロジー企業が戦争を左右していると伝える。",
+   "angle": "テック企業と戦争",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "4ec7f49b-9c59-43c9-bdc0-3f219d9f5efe",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/europe/musk-calls-on-ukraines-zelensky-to-go-after-satellite-slowdown-row",
+   "title": "Musk calls on Ukraine’s Zelensky to ‘go’ after satellite slowdown row",
+   "published_at": "2026-10-15T09:14:00+00:00",
+   "summary_ja": "マスク氏が混乱は米政府の責任だとし、ゼレンスキー氏に退陣を求めたと報じる。",
+   "angle": "マスク氏の退陣要求",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "7801d90d-0314-46c0-96b2-9ea2cbe576f9",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/europe/can-europe-step-in-as-ukraine-struggles-with-starlink-and-us-satellite-data",
+   "title": "Can Europe step in as Ukraine struggles with Starlink and US satellite data?",
+   "published_at": "2026-10-15T08:56:31+00:00",
+   "summary_ja": "スターリンクや米国の衛星データの問題で、ヨーロッパがすぐに代わりを用意できない現実を論じる。",
+   "angle": "欧州の代替能力",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "a6ca7ee5-9c99-499d-b20c-725a51d832e2",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/world/2026/10/14/ukraine-says-spacex-limits-starlink-operations-disrupting-military",
+   "title": "Ukraine says SpaceX limits Starlink operations, disrupting military",
+   "published_at": "2026-10-14T09:10:59+00:00",
+   "summary_ja": "スペースXがスターリンクの運用を制限し、軍事作戦に支障が出ているとウクライナが主張したと伝える。",
+   "angle": "作戦への支障",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "a569199d-1453-4d32-81f4-282363f29996",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss",
+   "title": "What is Starshield, and who limited Ukraine’s access to it?",
+   "published_at": "2026-10-15T13:32:16+00:00",
+   "summary_ja": "軍用版スターシールドとは何か、誰がウクライナの利用を制限したのかを解説する。",
+   "angle": "仕組みと責任の解説",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "e9293b9a-45d1-49fb-87a8-ef5ef70b304a",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/10/15/trump-and-musk-rekindle-alliance-on-us-politics-and-ukraine_6758642_4.html",
+   "title": "Trump and Musk rekindle alliance on US politics and Ukraine",
+   "published_at": "2026-10-15T15:30:08+00:00",
+   "summary_ja": "トランプ氏とマスク氏が仲たがいを経て、ウクライナや中間選挙をめぐり再び接近していると報じる。",
+   "angle": "トランプ・マスク関係",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "fd9e3696-9558-4bfb-b8a5-214d761cb314",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2037332/elon-musk-calls-on-zelensky-to-go-as-ukraine-leader",
+   "title": "Elon Musk calls on Zelensky to 'go' as Ukraine leader",
+   "published_at": "2026-10-15T08:10:14+00:00",
+   "summary_ja": "マスク氏がゼレンスキー氏の退陣を求め、ウクライナは米国がロシアを助けていると非難したと伝える。",
+   "angle": "退陣要求と対米不信",
+   "story_id": "624e3f74-4756-4bc4-b593-c5ce78741362"
+  },
+  {
+   "id": "67b399d5-f869-4626-9594-8760520df6af",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
+   "title": "Pope Leo Is Recovering After Cancer Surgery, Vatican Says: What to Know",
+   "published_at": "2026-10-15T14:13:05+00:00",
+   "summary_ja": "肺がんと診断された教皇が病院でミサをあげ、ペースを抑えて仕事を再開したことなど要点をまとめている。",
+   "angle": "要点のまとめ",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "035ac752-c77b-44c7-a3ab-2ee235e70dc2",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html",
+   "title": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
+   "published_at": "2026-10-15T13:01:07+00:00",
+   "summary_ja": "教皇が療養する間も、何百年もかけて整えられたバチカンの組織は滞りなく動いている。",
+   "angle": "バチカンの運営",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "162753d4-9955-4c1f-99e6-be6703988cae",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+   "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+   "published_at": "2026-10-14T15:42:26+00:00",
+   "summary_ja": "約1週間入院する見通しの教皇のもとに、ジェメリ病院へ各地から励ましのメッセージが寄せられている。",
+   "angle": "支援の声",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "006e1169-3d64-45d2-a6e1-eea0c003dab3",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
+   "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
+   "published_at": "2026-10-14T10:18:57+00:00",
+   "summary_ja": "時間があると思われていた教皇のがんで、在位の長さに疑問が出て、教会改革の計画が急がれている。",
+   "angle": "在位への影響",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "0373f446-3744-4f44-9c46-6dc7814160f4",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html",
+   "title": "Pope Leo’s Cancer Surgery Draws Outpouring From World Leaders",
+   "published_at": "2026-10-14T08:46:26+00:00",
+   "summary_ja": "教皇の手術に世界の指導者からお見舞いが相次ぎ、早期のがん検診を呼びかける声も上がっている。",
+   "angle": "世界の反応",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "96977fe9-52a8-4d8b-bb8f-41dbdc4498a2",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+   "title": "Pope Leo Has Lung Cancer, Vatican Says",
+   "published_at": "2026-10-14T07:27:26+00:00",
+   "summary_ja": "がんのある結節が見つかり、右肺の下葉を切除したとバチカンが発表した。",
+   "angle": "診断の発表",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "315ebca5-905c-41ab-a47a-61626dbab934",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8?mod=rss_worldnews",
+   "title": "Pope Leo Diagnosed With Lung Cancer After Surgery",
+   "published_at": "2026-10-13T22:18:00+00:00",
+   "summary_ja": "71歳の教皇が右肺の下葉を切除する手術を受け、肺がんと診断された。",
+   "angle": "診断と手術内容",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "6976769b-77c1-4874-8aba-526d1d3f85c7",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/pope-leo-lung-cancer-operation-hospital-vatican-6460486",
+   "title": "Pope Leo back on his feet after shock cancer diagnosis",
+   "published_at": "2026-10-14T18:42:00+00:00",
+   "summary_ja": "術後の回復が予定どおり進み、教皇が病室で歩き始めたとバチカンが発表した。",
+   "angle": "回復の様子",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "69ef5a9c-fcd1-4343-9397-6f7d6bbc4998",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/pope-leo-lung-cancer-diagnosis-hospital-vatican-6457486",
+   "title": "What we know about Pope Leo's lung cancer diagnosis",
+   "published_at": "2026-10-14T09:03:00+00:00",
+   "summary_ja": "右肺のがんを切除した教皇の病状と、今後治療が必要かなど、分かっていることをまとめている。",
+   "angle": "病状の解説",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "8a7e25fa-d72c-4c22-b1fe-be580465eafb",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/pope-leo-recovering-lung-cancer-tumour-removal-operation-6457146",
+   "title": "Pope Leo recovering after lung cancer operation",
+   "published_at": "2026-10-14T06:39:00+00:00",
+   "summary_ja": "肺の一部を切除した教皇は回復に向かっており、がんが広がっていないかを調べる検査の結果を待っている。",
+   "angle": "回復と転移検査",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "b28c06e7-122f-47b3-b4f0-34049c5f91e7",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/europe/article/3370785/pope-leos-lung-surgery-successfully-completed-vatican-says?utm_source=rss_feed",
+   "title": "Pope Leo diagnosed with cancer after surgery to remove part of his lung",
+   "published_at": "2026-10-13T20:04:00+00:00",
+   "summary_ja": "右肺の下葉を切除し、一般的な肺腺がんと確認されたとバチカンが発表。追加の検査結果を待っている。",
+   "angle": "診断と手術内容",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "c8e5ce67-1119-4203-9d92-6377cfebd2b8",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/article6ad098706700a833142684ed/vatikan-wie-der-papst-um-seine-rueckkehr-kaempft.html",
+   "title": "Wie der Papst um seine Rückkehr kämpft",
+   "published_at": "2026-10-15T15:23:58+00:00",
+   "summary_ja": "選出時は健康とみられた教皇が肺がんで入院し、復帰を目指す姿と前任者との違いを描いている。",
+   "angle": "復帰への歩み",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "fa7b46a3-c526-46a5-afd8-a1fa926bca3f",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+   "title": "Papst Leo XIV. hat Lungenkrebs",
+   "published_at": "2026-10-14T08:10:50+00:00",
+   "summary_ja": "医師の勧めで肺の手術を受け、疑われていた肺がんの診断が確定した。手術は無事に終わった。",
+   "angle": "診断の確定",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "192e27d4-5f19-4d2b-aa2a-1329581a0131",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/10/15/MQ2DOOLEMUYDQN3CMMZTSZJTHE/",
+   "title": "레오 14세 교황, 폐암 수술 후 회복세… 교황청 “검사 수치 정상 범위”",
+   "published_at": "2026-10-14T16:12:27+00:00",
+   "summary_ja": "教皇が手術翌日に自分で歩き食事もとり、検査の数値は正常範囲だとバチカンが発表した。",
+   "angle": "回復の様子",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "72efe084-1954-452a-ba9c-3412f4252888",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/europe/explainer-what-is-the-hospital-of-the-popes-where-leo-is-recovering-from-surgery",
+   "title": "Explainer: What is the ‘hospital of the popes’ where Leo is recovering from surgery?",
+   "published_at": "2026-10-15T12:21:03+00:00",
+   "summary_ja": "教皇が入院中のジェメリ病院が「教皇の病院」と呼ばれる理由を解説している。",
+   "angle": "病院の解説",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "4e60ea81-b73a-420b-a414-5689202b68ea",
+   "outlet_id": "sz",
+   "url": "https://www.sueddeutsche.de/politik/nach-eingriff-aerzte-operierte-lunge-des-papstes-erholt-sich-gut-li.3564174",
+   "title": "Nach Eingriff: Ärzte: Operierte Lunge des Papstes erholt sich gut",
+   "published_at": "2026-10-15T12:44:08+00:00",
+   "summary_ja": "医師によると、手術した教皇の肺は順調に回復している。",
+   "angle": "術後の経過",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "ef198953-6e67-4869-9636-b06ea4191bb9",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/papst-hat-lungenkrebs-wie-geht-es-mit-leos-pontifikat-weiter-accg-201316585.html",
+   "title": "Lungenkrebsdiagnose: Wie geht es mit Leos Pontifikat jetzt weiter?",
+   "published_at": "2026-10-14T11:21:07+00:00",
+   "summary_ja": "運動好きで健康そうだった教皇の肺がんは多くの人に予想外で、今後の在位がどうなるかを考える。",
+   "angle": "在位の行方",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "9f4e23cb-3c90-43c8-bd98-3991c4ef3e77",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/lungenkrebs-papst-hat-laut-vatikan-nach-op-ruhige-nacht-verbracht-201315196.html",
+   "title": "Leo XIV. hat Lungenkrebs: Vatikan: Papst hat nach Operation „ruhige Nacht verbracht“",
+   "published_at": "2026-10-13T20:24:46+00:00",
+   "summary_ja": "教皇が肺がんと判明し、肺の結節は無事切除された。術後は穏やかな夜を過ごし、連邦大統領がお見舞いを送った。",
+   "angle": "診断と各界の反応",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "eeceb12f-4557-44df-bf00-b352b8021648",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/10/14/pope-leo-recovering-after-lung-cancer-operation_6758586_4.html",
+   "title": "Pope Leo recovering after lung cancer operation",
+   "published_at": "2026-10-14T06:02:56+00:00",
+   "summary_ja": "昨年選ばれたばかりの教皇が、日曜の祈りの後に手術を発表しており、術後は回復に向かっている。",
+   "angle": "回復と経緯",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "313d1b84-316c-4c46-8fa7-f6a7a7659cb0",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2037070/pope-leo-out-of-bed-progress-normal-doctors-say-after-lung-operation",
+   "title": "Pope Leo out of bed, progress 'normal', doctors say after lung operation",
+   "published_at": "2026-10-14T14:53:02+00:00",
+   "summary_ja": "教皇がベッドから起きて歩き、食事もとっている。医師は経過を「通常どおり」とし、生検の結果を待っている。",
+   "angle": "術後の経過",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "75ebb52e-072c-4667-8cb6-a07359300ece",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3337675/popes-cancer-operation-already-reshaping-papacy",
+   "title": "Pope's cancer operation already reshaping papacy",
+   "published_at": "2026-10-15T12:45:00+00:00",
+   "summary_ja": "選出から2年もたたない教皇の病気が、在位をどう変えるかに関心が集まっている。",
+   "angle": "在位への影響",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "849ee734-9a57-45ab-8e67-c396f99e9aa3",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3337618/pope-has-good-night-in-hospital-vatican-says",
+   "title": "Pope has ‘good night’ in hospital, Vatican says",
+   "published_at": "2026-10-15T08:45:00+00:00",
+   "summary_ja": "教皇は病院で「よい夜」を過ごし朝食もとったとバチカンが発表した。",
+   "angle": "術後の経過",
+   "story_id": "5cb1f4ef-7780-403e-ab3f-99fa9569ee93"
+  },
+  {
+   "id": "b6f4e52d-6024-4190-918f-94c650ed0b53",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+   "title": "Student protesters attack government buildings in Albania",
+   "published_at": "2026-10-14T20:29:05+00:00",
+   "summary_ja": "大学環境と就職の見通しの改善を求める数千人の学生デモの2日目に、政府の建物が放火された。",
+   "angle": "政府施設への襲撃",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "468a2136-24e9-45e3-b0f8-738f45eeb6cd",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html",
+   "title": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
+   "published_at": "2026-10-14T13:56:17+00:00",
+   "summary_ja": "ティラナで再び激しいデモが起き、デモ隊が教育省に火炎瓶を投げて火災が起きたと伝える。",
+   "angle": "教育省への放火",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "710bb2cc-321d-4502-8508-9d65b0282a80",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/europe/albanias-rama-says-he-will-not-resign-over-protests",
+   "title": "Albania's leader defies calls to resign as student protesters rampage in capital",
+   "published_at": "2026-10-15T09:51:02+00:00",
+   "summary_ja": "学生主導のデモ隊が機動隊と衝突する中、ラマ首相が辞任要求を拒んだ。",
+   "angle": "首相の辞任拒否",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "1d90b696-5de1-44b8-af66-797b333c147a",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+   "title": "Albania’s prime minister vows not to resign over student-led protests",
+   "published_at": "2026-10-15T10:34:51+00:00",
+   "summary_ja": "ティラナで3日連続の衝突が続く中、ラマ首相は学生主導のデモを理由に辞任はしないと述べた。",
+   "angle": "首相の辞任拒否",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "358c0b44-8796-47b3-9a9d-3aba08a22f2f",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/studentenproteste-in-tirana-eskalieren-ruecktritt-von-edi-rama-gefordert-accg-201316347.html",
+   "title": "Stundenlange Unruhen: Studentenprotest in Albanien eskaliert",
+   "published_at": "2026-10-14T08:49:39+00:00",
+   "summary_ja": "高い学費や展望のなさに抗議するティラナの学生デモが数時間の騒乱に発展し、怒りは政治家層全体に向いている。",
+   "angle": "学生の怒りの背景",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "7f9d992f-6d09-414b-ace9-967729fe0fbd",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
+   "title": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
+   "published_at": "2026-10-15T14:22:13+00:00",
+   "summary_ja": "専門家の見方として、放置されてきた学生の不満や広がるいら立ちがデモの背景にあると解説している。",
+   "angle": "抗議の背景解説",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "0082e89d-b030-43c1-9c81-3a09d5758f87",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/10/15/violent-anti-government-protests-erupt-in-albania-s-capital_6758620_4.html",
+   "title": "Violent anti-government protests erupt in Albania's capital",
+   "published_at": "2026-10-14T22:26:55+00:00",
+   "summary_ja": "ティラナで数千人が首相辞任と大学環境の改善を求めて集まり、警察が放水銃と催涙ガスで対応した。",
+   "angle": "反政府デモの激化",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "492784fb-26f2-41d5-baed-8ec733514a03",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3337680/albanian-pm-condemns-chaos-surrounding-violent-protests",
+   "title": "Albanian PM condemns 'chaos' surrounding violent protests",
+   "published_at": "2026-10-15T12:45:00+00:00",
+   "summary_ja": "3日連続の衝突で政府の建物が大きく損壊し、ラマ首相が「混乱」を非難した。",
+   "angle": "首相の非難声明",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "1ffc4429-6a6a-4728-bdf8-f5527c935fb7",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3337644/embattled-albanian-pm-tours-protest-aftermath",
+   "title": "Embattled Albanian PM tours protest aftermath",
+   "published_at": "2026-10-15T10:45:00+00:00",
+   "summary_ja": "衝突が3日目に入る中、ラマ首相が大きな被害を受けた政府の建物などを視察した。",
+   "angle": "首相の被害視察",
+   "story_id": "f7467b42-5768-4439-9a8f-7e4eab6e7ddd"
+  },
+  {
+   "id": "4d03501b-9608-4078-a2e9-4d9b02096ce0",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+   "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+   "published_at": "2026-10-15T14:06:33+00:00",
+   "summary_ja": "高価な装備を持つサウジ軍が、探知しにくいミサイルやドローンを防ぎきれない理由を解説。",
+   "angle": "サウジ防空の限界",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "c5885c4c-bfb8-4e9c-a6dc-332007dc6387",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/world/middle-east/houthi-strike-hits-building-at-saudi-aramco-headquarters-a436de59?mod=rss_worldnews",
+   "title": "Houthi Strike Hits Building at Saudi Aramco Headquarters",
+   "published_at": "2026-10-14T14:44:00+00:00",
+   "summary_ja": "フーシ派の攻撃がアラムコ本社の建物に当たり、空港攻撃に続いて紛争が広がったと伝える。",
+   "angle": "紛争の拡大",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "69b9844a-8eb4-41a5-b407-0057a0de0677",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/saudi-arabia-medina-missile-intercepted-houthi-6462156",
+   "title": "Saudi coalition says missile intercepted in Medina region",
+   "published_at": "2026-10-15T10:53:16+00:00",
+   "summary_ja": "メディナ地域でミサイルを迎撃したと連合軍が発表し、フーシ派は同地域を狙っていないと否定。",
+   "angle": "聖地近くの迎撃",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "68a83724-9cd9-4585-a6fe-5fe274f58aa2",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/middle-east/article/3370793/aramco-facility-hit-houthis-and-saudi-coalition-exchange-attacks?utm_source=rss_feed",
+   "title": "Aramco complex hit as Houthis and Saudi coalition trade strikes",
+   "published_at": "2026-10-14T01:33:54+00:00",
+   "summary_ja": "ダーランにあるアラムコの事務棟が攻撃され小規模な火災が起きたと、エネルギー省が発表。",
+   "angle": "アラムコの被害",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "fde72dc6-705f-4faf-95e9-3a3111c3659e",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/middle-east/saudi-led-coalition-says-houthis-attempted-to-attack-dozens-of-saudi-facilities",
+   "title": "Saudi-led coalition says Houthis attempted to attack dozens of Saudi facilities",
+   "published_at": "2026-10-15T14:46:02+00:00",
+   "summary_ja": "フーシ派が数十か所の空港や港、石油施設を攻撃しようとしたと連合軍が発表。",
+   "angle": "連合軍の発表",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "900f0d94-c474-446f-aa5b-1e5b40fe8449",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/middle-east/how-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point",
+   "title": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point",
+   "published_at": "2026-10-15T13:31:02+00:00",
+   "summary_ja": "フーシ派の攻撃はイランがサウジに圧力をかける手段になっていると分析する。",
+   "angle": "イランの思惑",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "abc05e64-93b0-4377-a271-1a079c567ca9",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-15/news-1RgLEe39eyA/p.html",
+   "title": "SAUDI ARABIA ISSUES EARLY WARNING ALERT FOR POTENTIAL THREAT IN NAJRAN -CIVIL DEFENSE",
+   "published_at": "2026-10-15T22:56:00+00:00",
+   "summary_ja": "サウジの民間防衛当局がナジュランで脅威の可能性に対する早期警戒警報を出した。",
+   "angle": "警戒警報",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "ae4408de-3fc9-4a01-b1ff-45888fafa0b5",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-10-15/news-1RgHCEWKeDC/p.html",
+   "title": "Houthis Spox:  'And since the start of the resumption of the operations and the escalation that the Saudi initiated against our country, the Saudi has launched more than 2,350 airstrikes and missiles.'",
+   "published_at": "2026-10-15T22:00:00+00:00",
+   "summary_ja": "フーシ派報道官が、サウジ側は2350回を超える空爆やミサイル攻撃を行ったと主張。",
+   "angle": "フーシ派の主張",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "f7480d14-dcf7-46a8-af05-124b912f57e2",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+   "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+   "published_at": "2026-10-15T10:52:12+00:00",
+   "summary_ja": "イエメンの戦闘激化を受け、フーシ派がサウジの戦争コストを高めようとする戦況をまとめる。",
+   "angle": "戦況のまとめ",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "4ca6a4f3-9629-49b9-853d-1b04e1544ab6",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2037377/saudi-arabia-accuses-iran-of-encouraging-houthis-in-latest-escalation",
+   "title": "Saudi Arabia accuses Iran of encouraging Houthis in latest escalation",
+   "published_at": "2026-10-15T14:47:10+00:00",
+   "summary_ja": "サウジ外務省の高官が、イランがフーシ派に武器や訓練を与え攻撃をあおっていると非難。",
+   "angle": "サウジのイラン非難",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "ef41183c-4613-4ff7-93f0-73b696bb0b96",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2037136/houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-claiming-they-targeted-aramco",
+   "title": "Houthis vow more attacks on Saudi airports, oil facilities after claiming they targeted Aramco",
+   "published_at": "2026-10-14T15:19:12+00:00",
+   "summary_ja": "アラムコを狙ったと主張するフーシ派が、空港や石油施設へのさらなる攻撃を表明。リヤドで爆発音も。",
+   "angle": "フーシ派の攻撃表明",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "6e85cb9e-c90b-4b65-80fb-a98ac266b4e7",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2037026/houthis-warn-of-painful-response-as-saudis-strike-yemen-fuel-sites",
+   "title": "Houthis warn of ‘painful’ response as Saudis strike Yemen fuel sites",
+   "published_at": "2026-10-14T02:33:28+00:00",
+   "summary_ja": "サウジがイエメンの燃料施設を攻撃し、フーシ派が「痛みを伴う」報復を予告。トランプ氏の警告も伝える。",
+   "angle": "連合軍の攻撃と報復予告",
+   "story_id": "15aa0517-988f-4e28-80fc-ff75961377e3"
+  },
+  {
+   "id": "180ee03f-339f-476b-a834-d833377e96cb",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
+   "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
+   "published_at": "2026-10-14T13:11:17+00:00",
+   "summary_ja": "ウクライナが2夜続けて攻撃情報を得られなかったと訴え、トランプ氏は情報提供は続いていると述べた。",
+   "angle": "情報共有の有無",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "bc47ded2-f567-4bf1-a22e-309d251f62dc",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/ukraine-us-russia-missiles-starshield-musk-6460691",
+   "title": "Ukraine accuses US of helping Russia as missiles hit Kyiv",
+   "published_at": "2026-10-14T21:48:00+00:00",
+   "summary_ja": "米国が警報を出さず、スターリンクの変更で反撃を妨げてロシアを助けているとウクライナが非難した。",
+   "angle": "米国への非難",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "b07fbb11-285f-4acb-86b9-751f2e4adccd",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/video6ad0b685685ee9448efa13dd/starlink-drosselung-es-kann-nicht-sein-dass-ein-amerikanischer-praesident-dieses-land-allein-laesst.html",
+   "title": "„Es kann nicht sein, dass ein amerikanischer Präsident dieses Land allein lässt“",
+   "published_at": "2026-10-15T12:46:18+00:00",
+   "summary_ja": "FDPのシュトラック＝ツィマーマン氏が、スターリンクの大幅な制限を受けてトランプ氏を強く批判した。",
+   "angle": "独政治家の批判",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "91bf183c-721b-4656-86b4-4ad9b7d7425a",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/video6ad05c936700a83314267f75/ukraine-krieg-verlieren-einen-starken-partner-selenskyj-fuehlt-sich-von-trump-verraten.html",
+   "title": "„Verlieren einen starken Partner“ – Selenskyj fühlt sich von Trump verraten",
+   "published_at": "2026-10-15T04:56:44+00:00",
+   "summary_ja": "トランプ氏のロシアとのディーゼル取引などで、ゼレンスキー氏が裏切られたと感じていると伝える。",
+   "angle": "米国への不信",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "c265383f-cdf3-46e6-9726-1f79517bef55",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
+   "title": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
+   "published_at": "2026-10-14T15:33:55+00:00",
+   "summary_ja": "米情報が届かなかったとゼレンスキー氏が批判し、EUとNATOが反論して沈静化を図った。",
+   "angle": "NATO・EUの反応",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "061c7e0d-3f6c-4238-a5a8-018c1b9c938a",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+   "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+   "published_at": "2026-10-14T05:26:14+00:00",
+   "summary_ja": "ロシアのミサイルがキーウの熱電併給発電所に当たり、事前に西側から警告がなかったとゼレンスキー氏が述べた。",
+   "angle": "警告の欠如",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "c3370d5d-466e-425d-b985-8b102c6d6024",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/russland-bombt-und-trump-erhoeht-den-druck-auf-kiew-201316633.html",
+   "title": "Ärger mit Trump: Warum bekam die Ukraine diesmal keine Raketen-Warnung?",
+   "published_at": "2026-10-14T16:19:11+00:00",
+   "summary_ja": "電力網に大きな被害が出るなか、なぜ今回は警報がなかったのか、トランプ氏が背後にいるのかを問う。",
+   "angle": "トランプ氏の関与",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "0340d119-040c-4b8e-9579-167a54100a1f",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-ukraine-angry-at-us-sv?traffic_source=rss",
+   "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
+   "published_at": "2026-10-15T13:19:09+00:00",
+   "summary_ja": "キーウの住宅が攻撃で壊されるなか、市民がトランプ氏に怒りを向け、ゼレンスキー氏は米国の裏切りを警告した。",
+   "angle": "市民の怒り",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "a64e8958-cdac-4b43-9499-2256262e5256",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
+   "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+   "published_at": "2026-10-15T11:45:39+00:00",
+   "summary_ja": "ミサイル警報が減って市民への脅威が増し、ウクライナの人々は米情報の削減を恐れている。",
+   "angle": "市民の不安",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "ebc4c992-21cb-4f9e-9813-77702366701e",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/10/15/washington-limits-its-support-to-kyiv-amidst-increased-russian-attacks-on-energy-infrastructure_6758629_4.html",
+   "title": "Washington limits its support to Kyiv amidst increased Russian attacks on energy infrastructure",
+   "published_at": "2026-10-15T08:58:48+00:00",
+   "summary_ja": "米国が情報共有の停止をちらつかせ、スターリンクも制限するなか、ゼレンスキー氏は「裏切られた」と述べた。",
+   "angle": "米国の支援縮小",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "ba2600cf-edb1-4fd0-97ca-40cdac2d4019",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/10/14/russian-energy-strikes-leave-600-000-people-without-power-says-zelensky_6758587_4.html",
+   "title": "Ukraine accuses US of aiding Russia by withholding missile warnings of strikes on Kyiv",
+   "published_at": "2026-10-14T06:50:32+00:00",
+   "summary_ja": "ウクライナが警報を出さない米国はロシアを助けていると非難し、マスク氏はスターリンクの不具合は米政府の責任だと応じた。",
+   "angle": "米国への非難と通信",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  },
+  {
+   "id": "37fad48b-18ef-4154-a72f-ef986c6e3cdc",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2037272/ukraine-accuses-us-of-helping-russia-as-missiles-hit-kyiv",
+   "title": "Ukraine accuses US of helping Russia as missiles hit Kyiv",
+   "published_at": "2026-10-15T04:09:37+00:00",
+   "summary_ja": "ウクライナが米国を非難し、ゼレンスキー氏は警報がなかったことを「まったく不当」と述べた。",
+   "angle": "ゼレンスキー氏の発言",
+   "story_id": "9538cc33-4be4-42cb-8e71-2805fcc665b1"
+  }
+ ]
+}

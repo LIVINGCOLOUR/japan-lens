@@ -25,6 +25,7 @@ OUTLETS = [
             # オピニオン（社説・論説）。各社の見方がはっきり出るので論調判定の材料として重要
             "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml",
         ],
+        "world_feeds": ["https://rss.nytimes.com/services/xml/rss/nyt/World.xml"],
         "lean": -1,
     },
     {
@@ -41,6 +42,7 @@ OUTLETS = [
             "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed",
             "https://feeds.content.dowjones.io/public/rss/RSSOpinion",
         ],
+        "world_feeds": ["https://feeds.content.dowjones.io/public/rss/RSSWorldNews"],
         "lean": 1,
     },
     {
@@ -55,6 +57,7 @@ OUTLETS = [
             "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
             "https://feeds.bbci.co.uk/news/business/rss.xml",
         ],
+        "world_feeds": ["https://feeds.bbci.co.uk/news/world/rss.xml"],
         "lean": 0,
     },
     {
@@ -72,6 +75,7 @@ OUTLETS = [
         # 本文を読んで論調を判定する。robots.txt で AI を拒否していない媒体だけ True にすること
         # （NYT・BBC は Claude を名指しで拒否、WSJ は自動取得を全面拒否しているので False のまま）
         "read_body": True,
+        "world_feeds": ["https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311"],
         "lean": None,
     },
 ]
@@ -88,6 +92,7 @@ OUTLETS += [
         # RSS は約1日分しか残らないので、2日分あるニュース用サイトマップも使う（以下同様）
         "feeds": ["https://www.koreaherald.com/rss/newsAll", "https://www.koreaherald.com/sitemap/latest-articles"],
         "read_body": True,
+        "world_feeds": ["https://www.koreaherald.com/rss/newsAll"],
         "lean": 1,
     },
     {
@@ -101,6 +106,7 @@ OUTLETS += [
         "feeds": ["https://www.scmp.com/rss/3/feed", "https://www.scmp.com/rss/91/feed"],
         # robots.txt は Claude を拒否していないが、記事ページは自動取得に 403 を返すので本文は読まない
         "read_body": False,
+        "world_feeds": ["https://www.scmp.com/rss/5/feed"],
         "lean": 0,
     },
     {
@@ -119,6 +125,7 @@ OUTLETS += [
             f"gnews:{DE_QUERY} site:welt.de|de|DE",
         ],
         "read_body": True,
+        "world_feeds": ["https://www.welt.de/feeds/section/politik/ausland.rss"],
         "lean": 1,
     },
     {
@@ -131,6 +138,7 @@ OUTLETS += [
         "homepage": "https://taz.de",
         "feeds": ["https://taz.de/rss.xml", "https://taz.de/sitemap-google-news.xml", f"gnews:{DE_QUERY} site:taz.de|de|DE"],
         "read_body": True,
+        "world_feeds": ["https://taz.de/rss.xml"],
         "lean": -2,
     },
     {
@@ -148,6 +156,7 @@ OUTLETS += [
         ],
         # robots.txt が ClaudeBot を拒否しているので本文は読まない（見出しで判定）
         "read_body": False,
+        "world_feeds": ["https://www.tagesschau.de/ausland/index~rss2.xml"],
         "lean": 0,
     },
 ]
@@ -180,6 +189,7 @@ OUTLETS += [
             "gtsearch:SDF",
         ],
         "read_body": True,
+        "world_feeds": ["https://www.globaltimes.cn/sitemap.xml"],
         "lean": None,
     },
     {
@@ -192,6 +202,7 @@ OUTLETS += [
         "homepage": "https://focustaiwan.tw",
         "feeds": ["https://feeds.feedburner.com/rsscna/engnews/", "https://focustaiwan.tw/GoogleNewsSitemap_fromRemote_cep2.xml"],
         "read_body": True,
+        "world_feeds": ["https://feeds.feedburner.com/rsscna/engnews/"],
         "lean": None,
     },
     {
@@ -208,6 +219,7 @@ OUTLETS += [
             "gnews:Japan site:timesofindia.indiatimes.com|en|IN",
         ],
         "read_body": True,
+        "world_feeds": ["https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"],
         "lean": 0,
     },
     {
@@ -224,6 +236,7 @@ OUTLETS += [
             "https://www.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml",
         ],
         "read_body": True,
+        "world_feeds": ["https://www.chosun.com/arc/outboundfeeds/rss/category/international/?outputType=xml"],
         "lean": 2,
     },
     {
@@ -241,6 +254,7 @@ OUTLETS += [
             "https://www.straitstimes.com/googlenews.xml",
         ],
         "read_body": True,
+        "world_feeds": ["https://www.straitstimes.com/news/world/rss.xml"],
         "lean": None,
     },
     {
@@ -254,6 +268,7 @@ OUTLETS += [
         # RSS がないので公式のニュース用サイトマップ（直近の記事）を使う
         "feeds": ["https://www.thejakartapost.com/sitemap_news.xml"],
         "read_body": True,
+        "world_feeds": ["https://www.thejakartapost.com/sitemap_news.xml"],
         "lean": 0,
     },
 ]
@@ -270,6 +285,7 @@ OUTLETS += [
         "feeds": ["https://www.cgtn.com/sitemap_latestnews.xml"],
         # 記事ページ（news.cgtn.com）の robots.txt を確認できないので本文は読まない
         "read_body": False,
+        "world_feeds": ["https://www.cgtn.com/sitemap_latestnews.xml"],
         "lean": None,
     },
 ]
@@ -286,6 +302,7 @@ OUTLETS += [
         # 日本の記事だけを集めたフィード
         "feeds": ["https://www.theguardian.com/world/japan/rss"],
         "read_body": False,
+        "world_feeds": ["https://www.theguardian.com/world/rss"],
         "lean": -1,
     },
     {
@@ -298,6 +315,7 @@ OUTLETS += [
         "homepage": "https://www.sueddeutsche.de",
         "feeds": [f"gnews:{DE_QUERY} site:sueddeutsche.de|de|DE"],
         "read_body": False,
+        "world_feeds": ["https://rss.sueddeutsche.de/rss/Politik"],
         "lean": -1,
     },
     {
@@ -310,6 +328,7 @@ OUTLETS += [
         "homepage": "https://www.faz.net",
         "feeds": [f"gnews:{DE_QUERY} site:faz.net|de|DE"],
         "read_body": False,
+        "world_feeds": ["https://www.faz.net/rss/aktuell/politik/ausland/"],
         "lean": 1,
     },
     {
@@ -323,6 +342,7 @@ OUTLETS += [
         # 公式の RSS は総合のものしかなく日本の記事がほとんど流れないので、Google News のサイト内検索を使う
         "feeds": ["gnews:Japan site:abc.net.au|en|AU"],
         "read_body": False,
+        "world_feeds": ["https://www.abc.net.au/news/feed/51120/rss.xml"],
         "lean": 0,
     },
 ]
@@ -363,6 +383,36 @@ OUTLETS += [
 for _o in OUTLETS:
     _o.setdefault("side", "overseas")
 
+# 「世界の主要ニュース」（日本以外の出来事）だけに使う媒体。日本の報道の比較には使わないので OUTLETS とは分ける。
+# 上の OUTLETS はアジア・欧米に偏るので、中東・アフリカ・中南米・ロシアなどの見方を足す。
+# どれも見出し・リード文だけを使い、本文は読まない
+WORLD_ONLY_OUTLETS = [
+    {"id": "aljazeera", "name": "Al Jazeera", "country_code": "QA", "flag": "🇶🇦", "region": "QA",
+     "ownership": "政府系", "homepage": "https://www.aljazeera.com",
+     "world_feeds": ["https://www.aljazeera.com/xml/rss/all.xml"], "lean": None},
+    {"id": "timesofisrael", "name": "The Times of Israel", "country_code": "IL", "flag": "🇮🇱", "region": "IL",
+     "ownership": "民間", "homepage": "https://www.timesofisrael.com",
+     "world_feeds": ["https://www.timesofisrael.com/feed/"], "lean": 0},
+    {"id": "lemonde", "name": "Le Monde", "country_code": "FR", "flag": "🇫🇷", "region": "FR",
+     "ownership": "民間", "homepage": "https://www.lemonde.fr/en/",
+     "world_feeds": ["https://www.lemonde.fr/en/international/rss_full.xml"], "lean": -1},
+    {"id": "tass", "name": "TASS", "country_code": "RU", "flag": "🇷🇺", "region": "RU",
+     "ownership": "国営", "homepage": "https://tass.com",
+     "world_feeds": ["https://tass.com/rss/v2.xml"], "lean": None},
+    {"id": "folha", "name": "Folha de S.Paulo", "country_code": "BR", "flag": "🇧🇷", "region": "BR",
+     "ownership": "民間", "homepage": "https://www1.folha.uol.com.br/internacional/en/",
+     "world_feeds": ["https://feeds.folha.uol.com.br/internacional/en/rss091.xml"], "lean": 0},
+    {"id": "premiumtimes", "name": "Premium Times", "country_code": "NG", "flag": "🇳🇬", "region": "NG",
+     "ownership": "民間", "homepage": "https://www.premiumtimesng.com",
+     "world_feeds": ["https://www.premiumtimesng.com/feed"], "lean": 0},
+    {"id": "dawn", "name": "Dawn", "country_code": "PK", "flag": "🇵🇰", "region": "PK",
+     "ownership": "民間", "homepage": "https://www.dawn.com",
+     "world_feeds": ["https://www.dawn.com/feeds/world"], "lean": 0},
+    {"id": "bangkokpost", "name": "Bangkok Post", "country_code": "TH", "flag": "🇹🇭", "region": "TH",
+     "ownership": "民間", "homepage": "https://www.bangkokpost.com",
+     "world_feeds": ["https://www.bangkokpost.com/rss/data/world.xml"], "lean": 0},
+]
+
 PUBLIC_FIELDS = ("id", "name", "country_code", "flag", "region", "ownership", "homepage", "side")
 JAPAN_SIDE = {o["id"] for o in OUTLETS if o["side"] == "japan"}
 # 国や政府が運営・出資する媒体。政府の見方を伝える材料として載せるが、「海外の見方」の論調の集計と
@@ -385,6 +435,23 @@ JAPAN_MAIN_OUTLETS = [
     {"name": "テレビ朝日", "domain": "news.tv-asahi.co.jp"},
     {"name": "フジテレビ", "domain": "fnn.jp"},
 ]
+
+
+# 「世界の主要ニュース」に使う媒体（日本側の媒体は使わない）
+WORLD_OUTLETS = [o for o in OUTLETS if o.get("world_feeds")] + WORLD_ONLY_OUTLETS
+for _o in WORLD_ONLY_OUTLETS:
+    _o.setdefault("side", "overseas")
+WORLD_GOVERNMENT = {o["id"] for o in WORLD_OUTLETS if o["ownership"] in GOVERNMENT_OWNERSHIP}
+WORLD_COUNTRY = {o["id"]: o["country_code"] for o in WORLD_OUTLETS}
+# 「世界の主要ニュース」の条件で数える地域圏。1つの地域圏の中だけで報じられた出来事は、その地域のニュースとみなす
+AREA = {
+    "US": "米州", "BR": "米州",
+    "GB": "欧州", "DE": "欧州", "FR": "欧州", "RU": "欧州",
+    "CN": "アジア", "HK": "アジア", "TW": "アジア", "KR": "アジア", "IN": "アジア", "PK": "アジア",
+    "SG": "アジア", "ID": "アジア", "TH": "アジア",
+    "QA": "中東・アフリカ", "IL": "中東・アフリカ", "NG": "中東・アフリカ",
+    "AU": "オセアニア",
+}
 
 
 def public_outlet(outlet):

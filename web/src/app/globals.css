@@ -1075,3 +1075,95 @@ footer {
   font-weight: 500;
   color: var(--accent);
 }
+
+/* 画面の切り替え（日本はどう報じられたか / 世界の主要ニュース） */
+.site-nav {
+  display: flex;
+  gap: 4px;
+  border-bottom: 1px solid var(--line);
+  margin-top: 4px;
+  overflow-x: auto;
+}
+.site-nav a {
+  font-size: 14px;
+  color: var(--muted);
+  padding: 10px 14px 8px;
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+}
+.site-nav a:hover {
+  color: var(--ink);
+  text-decoration: none;
+}
+.site-nav a[aria-current="page"] {
+  color: var(--ink);
+  font-weight: 500;
+  border-bottom-color: var(--accent);
+}
+
+/* 世界の主要ニュース */
+.world-intro {
+  display: grid;
+  gap: 8px;
+  margin-top: 16px;
+}
+.world-intro p {
+  margin: 0;
+  max-width: 75ch;
+  font-size: 14px;
+}
+.world-rule {
+  font-size: 13px !important;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 10px 14px;
+}
+.world-rule b {
+  color: var(--ink);
+  font-weight: 500;
+}
+.world-day {
+  display: grid;
+  gap: 32px;
+}
+.world-day-ttl {
+  font-family: var(--display);
+  font-size: 15px;
+  margin: 0;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--line);
+  color: var(--muted);
+}
+.world-side {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+}
+.country-views {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 8px;
+  font-size: 14px;
+}
+.country-views li b {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--muted);
+}
+.world-outlets {
+  display: grid;
+  gap: 4px;
+}
+.world-outlets h3 {
+  margin: 8px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+  font-weight: 500;
+}
