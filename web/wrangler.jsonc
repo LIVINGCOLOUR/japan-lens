@@ -1,6 +1,6 @@
 // Cloudflare Workers の静的アセットとして out/ を配信し、/api/* だけを Worker（worker/index.ts）で処理する。
 // ビルド: npm run build → デプロイ: npx wrangler deploy
-// 「AIで本文を読む」には Claude API のキーが必要: npx wrangler secret put ANTHROPIC_API_KEY
+// 「AIで本文を読む」は予約を受け付けるだけで、AI は呼ばない（読むのは毎朝の収集。collector/reader.py）
 {
   "name": "japan-lens",
   "main": "worker/index.ts",
@@ -11,9 +11,9 @@
     "not_found_handling": "404-page",
     "run_worker_first": ["/api/*"]
   },
-  // 読んだ記事の要約を保存して使い回す
+  // 「AIで本文を読む」の予約を記録する
   "kv_namespaces": [{ "binding": "READS", "id": "d8899d588c604d9d8d2032a4a5b13ecb" }],
-  // まだ読んでいない記事の読み込みは、1つの IP から1分に10件まで
+  // 予約は1つの IP から1分に10件まで
   "ratelimits": [{ "name": "LIMITER", "namespace_id": "1001", "simple": { "limit": 10, "period": 60 } }],
   "observability": { "enabled": true }
 }

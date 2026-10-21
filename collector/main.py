@@ -17,6 +17,7 @@ from ai import available as ai_available
 from body import fetch_body
 from fetch import fetch_outlet
 from outlets import COUNTRY, GOVERNMENT, JAPAN_MAIN_OUTLETS, JAPAN_SIDE, OUTLETS, public_outlet
+from reader import ok_readings, read_reserved
 from store import LEADS_PATH, STORE_PATH, Leads, Store
 
 BATCH_SIZE = 30
@@ -26,8 +27,6 @@ EVENT_WINDOW_DAYS = 30
 MIN_OUTLETS = 2
 # 判定の指示を変えたら上げる。上がると、掲載中の出来事をすべて判定し直す
 JUDGE_VERSION = 2
-# 読者が「AIで本文を読む」を押した記事の判定（web/worker/index.ts）。毎日の判定し直しの材料にする
-READINGS_URL = "https://japan-lens.mon-m.workers.dev/api/readings"
 # 日本の主要媒体の報道を確かめる出来事の数の上限（1回の実行あたり）。残りは次回に回す
 COVERAGE_LIMIT = 20
 # 日本の主要媒体の記事を探す期間。出来事の最初の記事の少し前から、最後の記事の少しあとまで
@@ -106,20 +105,6 @@ def apply_result(store, batch, result, existing_ids):
     return done
 
 
-def load_readings():
-    """読者の操作で AI が本文を読んだ記事の要約。取れなければ空（判定し直しは見出しなどで続ける）。"""
-    import json
-    import urllib.request
-
-    try:
-        req = urllib.request.Request(READINGS_URL, headers={"User-Agent": "JapanLensCollector/0.1"})
-        with urllib.request.urlopen(req, timeout=30) as res:
-            return json.loads(res.read().decode("utf-8"))
-    except Exception as e:
-        print(f"  読者が読ませた記事の判定を取得できませんでした: {e}", file=sys.stderr)
-        return {}
-
-
 def _with_material(articles, leads, readings=None):
     """AI に渡す材料を付ける: 内部保存のリード文・タグと、読める媒体なら本文。
     自動では本文を読めない媒体でも、読者の操作で AI が本文を読んだ記事はその要約を本文の代わりに渡す。"""
@@ -169,7 +154,8 @@ def rejudge_events(store, leads):
     from ai import AIError, rejudge
 
     names = {o["id"]: o["name"] for o in OUTLETS}
-    readings = load_readings()
+    # 読者が「AIで本文を読む」で予約し、本文を読めた記事（reader.py）
+    readings = ok_readings()
     done = 0
     # 期間では絞らない（判定済みで記事が増えていない出来事は下で飛ばすので、毎回の負担は増えない）
     for ev in store.recent_events(days=3650):
@@ -282,6 +268,7 @@ def main():
         elif not ai_available():
             print("  claude コマンドが見つからないため AI 処理をスキップしました", file=sys.stderr)
         elif process(store, leads):
+            read_reserved(store)
             rejudge_events(store, leads)
             check_japan_coverage(store)
     finally:

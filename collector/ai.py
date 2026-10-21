@@ -458,3 +458,40 @@ def compare_world(story, articles, japan_candidates):
     }
     return _run(WORLD_COMPARE_SYSTEM, WORLD_COMPARE_SCHEMA,
                 "次の出来事について、各国の伝え方を比べてください。\n\n" + json.dumps(payload, ensure_ascii=False))
+
+
+READ_SYSTEM = f"""あなたは海外メディアの日本報道を比較するニュースサイトの編集者です。
+読者が「AIで本文を読む」で頼んだ記事の本文（article_text）を、1本ずつ読んで次をまとめます。
+- summary_ja: 記事が何を伝えているかを日本語で3〜4文。
+- angle: 記事が何に焦点を当てているかを12字以内で。
+- tone: 出来事の「評価の対象」（target）に対する記事の見方。"crit"（否定的・懸念や批判を強調）、"fav"（肯定的・成果や支持を強調）、
+  "neu"（両方が釣り合う、または事実を淡々と伝える）、"none"（評価の対象がない、または手がかりがない）。
+  媒体の一般的な評判では判断せず、この記事の本文だけで判断する。記事どうしを比べない。
+- evidence: 判定の根拠にした語句を本文から原文のまま12語以内で。"none" のときは空文字。
+渡した記事はすべて、id をそのまま使って articles に入れる。
+
+{WRITING_RULES}"""
+
+READ_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "articles": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {"id": {"type": "string"}, "summary_ja": {"type": "string"}, **_JUDGEMENT},
+                "required": ["id", "summary_ja", "angle", "tone", "evidence"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["articles"],
+    "additionalProperties": False,
+}
+
+
+def read_requested(articles):
+    """読者が予約した記事の本文を読み、{"articles": [{"id", "summary_ja", "angle", "tone", "evidence"}]} を返す。
+    articles は [{"id", "outlet", "event", "target", "article_text"}]。"""
+    return _run(READ_SYSTEM, READ_SCHEMA,
+                "次の記事の本文を読んでまとめてください。\n\n" + json.dumps({"articles": articles}, ensure_ascii=False))

@@ -18,6 +18,12 @@ USER_AGENT = "JapanLensBot/0.1 (overseas-coverage comparison site; reads article
 # robots.txt の確認では、Claude として読んでよいかも見る
 ROBOT_AGENTS = [USER_AGENT, "Claude-User", "ClaudeBot"]
 MAX_CHARS = 6000
+# 読者が「AIで本文を読む」で予約した記事を読むとき（reader.py）の名乗り。
+# 人に頼まれて読むので、robots.txt は Claude-User（人に頼まれて Claude が読む場合の名乗り）で確かめる
+READER_USER_AGENT = ("JapanLensReader/0.2 (+https://japan-lens.mon-m.workers.dev/about; "
+                     "fetches an article only after a reader asked for an AI summary)")
+READER_ROBOT_AGENTS = ["JapanLensReader", "Claude-User"]
+READER_MAX_CHARS = 12000
 PAUSE_SECONDS = 1.0
 
 _READ_BODY = {o["id"] for o in OUTLETS if o.get("read_body")}
@@ -118,7 +124,7 @@ def _extract(outlet_id, raw):
     return _from_json_ld(raw) or _from_itemprop(raw) or _from_arc(raw) or _from_all_paragraphs(raw)
 
 
-def _allowed(url):
+def _allowed(url, agents=ROBOT_AGENTS):
     host = urlparse(url).netloc
     if host not in _robots:
         # 標準の rp.read() は Python の既定の名乗りで取りに行き、403 だと全拒否扱いになるので自前で取る
@@ -133,7 +139,7 @@ def _allowed(url):
             rp = None  # robots.txt を確認できなければ読まない
         _robots[host] = rp
     rp = _robots[host]
-    return rp is not None and all(rp.can_fetch(agent, url) for agent in ROBOT_AGENTS)
+    return rp is not None and all(rp.can_fetch(agent, url) for agent in agents)
 
 
 def fetch_body(article):
@@ -152,3 +158,29 @@ def fetch_body(article):
     finally:
         time.sleep(PAUSE_SECONDS)
     return _extract(outlet_id, raw)[:MAX_CHARS]
+
+
+def fetch_requested(article, outlet_name):
+    """読者が予約した記事の本文を取る。(本文, None) か、読めなければ (None, {"status", "message"}) を返す。
+    媒体の read_body の設定に関係なく、robots.txt が人に頼まれて AI が読むことを認めていれば読む。"""
+    url = article["url"]
+    if "news.google.com" in url:
+        return None, {"status": "unavailable",
+                      "message": "この記事は Google News 経由のリンクのため、本文を取得できません。記事は媒体のサイトで読めます。"}
+    if not _allowed(url, READER_ROBOT_AGENTS):
+        return None, {"status": "blocked",
+                      "message": f"{outlet_name} は、AI が記事を読むことを認めていません（robots.txt）。記事は媒体のサイトで読めます。"}
+    try:
+        raw = urllib.request.urlopen(
+            urllib.request.Request(url, headers={"User-Agent": READER_USER_AGENT, "Accept": "text/html"}), timeout=20
+        ).read().decode("utf-8", "ignore")
+    except Exception:
+        return None, {"status": "unavailable", "message": "記事ページを取得できませんでした。媒体のサイトで読んでください。"}
+    finally:
+        time.sleep(PAUSE_SECONDS)
+    text = _extract(article["outlet_id"], raw)
+    if len(text) < 300:
+        # 有料記事などで本文がページに含まれていない
+        return None, {"status": "unavailable",
+                      "message": "記事ページから本文を取り出せませんでした（有料記事の可能性があります）。"}
+    return text[:READER_MAX_CHARS], None

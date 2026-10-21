@@ -1,7 +1,6 @@
 import { getFeed } from "@/lib/data";
 
-// 「AIで本文を読む」で読んでよい記事の一覧。Worker（worker/index.ts）はここにある記事だけを取得する
-// （任意の URL を取りに行く踏み台にされないように）。ビルド時に静的な JSON として書き出す
+// 「AIで本文を読む」で予約できる記事の一覧。Worker（worker/index.ts）はここにある記事だけを予約として受け付ける。ビルド時に静的な JSON として書き出す
 export const dynamic = "force-static";
 
 export async function GET() {

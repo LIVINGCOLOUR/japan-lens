@@ -26,7 +26,13 @@ export type Article = {
   kind?: "news" | "opinion";
   basis?: "body" | "headline"; // 論調判定の材料。本文を読める媒体だけ body
   read_by_reader?: boolean; // 読者が「AIで本文を読む」を押し、本文での判定に置き換えた記事
+  reader_reading?: ReaderReading; // 読者の予約で AI が本文を読んだ結果（collector/reader.py）
 };
+
+// 読者が「AIで本文を読む」で予約した記事を、毎朝の収集で AI が読んだ結果（web/data/readings.json）
+export type ReaderReading =
+  | { status: "ok"; summary_ja: string; angle: string; tone: Tone; evidence: string; read_at: string }
+  | { status: "blocked" | "unavailable"; message: string; read_at: string };
 
 export type NewsEvent = {
   id: string;
