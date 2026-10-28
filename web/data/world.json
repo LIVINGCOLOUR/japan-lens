@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T00:40:01.292569+00:00",
+ "generated_at": "2026-10-28T00:29:34.299532+00:00",
  "rules": {
   "min_countries": 3,
   "min_areas": 2,
@@ -3099,76 +3099,6 @@
    "n_areas": 3
   },
   {
-   "id": "744efbf8-326d-4082-8af7-80c70f6757c5",
-   "title_ja": "ナイジェリアでエボラ感染が初めて確認される",
-   "fact_ja": "ナイジェリア政府は首都アブジャで、ウガンダから渡航した女性のエボラ感染を検査で確認したと発表した。今回の流行で同国初の確認例で、コンゴ民主共和国の流行と同じ型とされる。",
-   "category": "科学・環境・保健",
-   "first_seen": "2026-10-20T17:31:26+00:00",
-   "updated_at": "2026-10-26T18:21:42+00:00",
-   "country_views": [
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系の媒体は、大陸全体への拡大懸念や、コンゴ民主共和国の流行と同じ型であること、西アフリカに初めて到達したこと、WHOの「より複雑」との警告、感染経路の調査を伝えている。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "ロイター電を中心に、ウガンダ帰りの患者の確認、スイス政府による感染地の見方、保健相の「単独の封じ込められた感染」との説明、ケニアの症例との関連を順に伝えている。"
-    },
-    {
-     "country": "FR",
-     "view_ja": "ナイジェリア初の症例を、ケニアの9例目やコンゴ民主共和国での流行から大陸各国へ広がる流れの中に位置づけて伝えている。"
-    },
-    {
-     "country": "NG",
-     "view_ja": "国内向けに、アフリカCDCの支援要請、予防の基礎知識、接触者44人の3週間隔離、保健相の「2014年のように封じ込められる」との発言、検疫法改正の動きなど、国内の対応を細かく伝えている。"
-    },
-    {
-     "country": "US",
-     "view_ja": "保健当局がナイジェリアの透明性を評価したことを伝え、その後は感染源が分からない点と、流行が過去最大の広がりになったことを強調している。"
-    },
-    {
-     "country": "DE",
-     "view_ja": "アフリカ3か国に続いてナイジェリアが症例を報告したこと、患者がアブジャで治療中であることを短く伝えている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "患者がウガンダで休暇を過ごしたスイス外交官の妻であることや発症の経過を詳しく伝え、感染源の不明さが拡大懸念を高めている点も取り上げている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "コンゴ発のエボラがケニアに続きナイジェリアへ広がったとして、アフリカ各国の保健当局の緊張とコンゴでの死者数の多さに焦点を当てている。"
-    },
-    {
-     "country": "PK",
-     "view_ja": "症例がコンゴ民主共和国の流行と同じブンディブギョ型で、患者が外交官関係者であることが緊急会合で示されたと伝えている。"
-    },
-    {
-     "country": "CN",
-     "view_ja": "国営・政府系の媒体は、アフリカCDCが国際社会の連帯を求めたことを中心に見出しで伝えている。"
-    },
-    {
-     "country": "TH",
-     "view_ja": "WHOが東アフリカから西アフリカへ広がった流行を「複雑」と警告した点を伝えている。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "WHOの「複雑」との警告と、ブンディブギョ型の輸入例であること、患者が外交官の妻であることを伝えている。"
-    }
-   ],
-   "difference_ja": "多くの媒体が、初確認の事実と、大陸全体への拡大や感染源の不明さを軸に伝えている。ナイジェリアの媒体は保健相の説明、接触者の隔離、法改正など国内の対応を細かく伝え、英米の媒体は患者の素性や感染経路の謎に重点を置いている。カタールと中国の国営・政府系の媒体は、流行の広がりや国際的な支援・連帯の呼びかけを前面に出している。",
-   "japan_main": [],
-   "japan_view_ja": "",
-   "japan_main_checked_at": "2026-10-24T00:09:56.307117+00:00",
-   "place_countries": [
-    "NG"
-   ],
-   "day": "2026-10-21",
-   "n_outlets": 13,
-   "n_countries": 12,
-   "n_independent_countries": 10,
-   "n_areas": 4
-  },
-  {
    "id": "bbb1cb29-7a0e-4ac1-96f4-d5011d42d725",
    "title_ja": "PHPの重大脆弱性で各国の政府・企業サイトが停止",
    "fact_ja": "AIが発見したとされるプログラミング言語PHPの2件の重大な脆弱性が公表され、欧州などで政府機関のサイトが一時停止した。PHP開発側が修正版を公開し、各国の政府や企業が適用を急いだ。",
@@ -3651,406 +3581,60 @@
    "n_areas": 3
   },
   {
-   "id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a",
-   "title_ja": "ウィトコフ米特使がプーチン大統領と会談、3者協議再開の用意を確認",
-   "fact_ja": "ウィトコフ米特使はオスロでゼレンスキー大統領と会談した後、10月21日にサンクトペテルブルクでプーチン大統領と会談した。ロシア側は11月にウクライナ・米国との協議を再開する用意が原則としてあると伝え、ロシアで拘束されていた米国人ハバード氏も解放された。",
-   "category": "外交",
-   "first_seen": "2026-10-20T18:10:01+00:00",
-   "updated_at": "2026-10-23T16:21:52+00:00",
-   "country_views": [
-    {
-     "country": "RU",
-     "view_ja": "国営・政府系の媒体は、訪問の確認、会談を建設的とする特使の発言、11月10日ごろの3者協議再開の用意、アブダビでの協議に専門家が加わる見通しなどを、クレムリン側の説明を中心に伝えている。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "独立した媒体はトランプ氏のウクライナへの合意要求、ロシアの協議再開の用意、元教師の解放を伝えている。国営・政府系の媒体は米国人解放やクレムリンが和平案に中身をほとんど見ていないとの見方も報じている。"
-    },
-    {
-     "country": "CN",
-     "view_ja": "国営・政府系の媒体は、オスロでのゼレンスキー氏とウィトコフ氏の停戦案をめぐる協議を短く伝えている。"
-    },
-    {
-     "country": "DE",
-     "view_ja": "各媒体は、ゼレンスキー氏の新提案、プーチン氏との会談、11月の3者協議への用意を伝えている。専門家の「大きな進展はまだ見えない」「ロシアの意思は疑わしい」という声も載せている。"
-    },
-    {
-     "country": "PK",
-     "view_ja": "独立した媒体は、ルビオ国務長官が「前向き」と述べたゼレンスキー氏との協議の後、特使がサンクトペテルブルクに到着したと伝え、トランプ氏とゼレンスキー氏の対立を収める動きとして位置づけている。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "特使がプーチン氏を「人道主義者」と持ち上げた発言を軸に、トランプ氏のロシアとのつながりへの疑問を取り上げている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "論説で、特使がプーチン氏を「人道主義者」と呼んだことを嘘やおべっかとして強く批判し、ウクライナの子どもたちの被害と対比している。"
-    },
-    {
-     "country": "US",
-     "view_ja": "米国人の解放を関係改善の兆しとして伝え、特使の「人道主義者」発言はウクライナ支持者の怒りを招いたが、トランプ氏の対露方針に沿うものだと分析している。"
-    },
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系の媒体は、特使の訪問後にロシアがウクライナ・米国との和平協議を原則再開する用意を示したと簡潔に伝えている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "米国人教師の解放と、トランプ氏がそれを対露制裁猶予の成果と説明したことを伝え、特使発言への共和党内の批判も取り上げている。"
-    }
-   ],
-   "difference_ja": "ロシアの国営・政府系の媒体は会談の建設性と協議再開の見通しを中心に伝えている。ドイツの媒体は専門家の懐疑的な見方を添え、英国や香港の媒体は特使の「人道主義者」発言への批判と米露関係への疑問に焦点を当てている。米国と韓国の媒体は、米国人の解放と米国内の政治的反応を重視している。",
-   "japan_main": [
-    {
-     "outlet": "NHK",
-     "title": "ゼレンスキー大統領 米特使と会談「3か国の首脳会談目指す」",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PY2h1QU9iOXhqRW41MUpJUnZ4SHkyRmNXMUEtS0hodVRsNWRUYTE5SWtmWDh4ZDZCemJZdUNaZkdSb2dqV0ktNS0xMlZ4YlR3dXI0bVg0OTlmWTdWSncw?oc=5",
-     "published_at": "2026-10-20T22:24:00+00:00"
-    },
-    {
-     "outlet": "読売新聞",
-     "title": "ゼレンスキー氏が米特使らと会談、「和平に向け明白な考えがある」…米露との「３か国首脳会談」開催求める",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZmxTcWoyNTRoSFJJb2NpRjFLdGktbGtna0Q3VDZHTTZocVFITm1LeGtNNlFQXzFTOTNxXy1pNW9UYkxqdWl1RTdBbUZHenFtc0NZTUxTZDZHNnN4QXhaX05B?oc=5",
-     "published_at": "2026-10-21T03:40:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "プーチン大統領“3者協議を来月中旬に再開の用意ある” ウィトコフ米特使らと会談（2026年10月21日掲載）",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYldxQzBsZTFGS1RuVzNwbC05c0hJd2NLb29YNU1GZTJEY3N6RlRiZkJZY2pRUGV6NllWWGk0X25GaDFVb29kNTRRdGU4Q2lIYVFGUUt4dEdtSS1vNDNUc2RSUFh6OEljVDBJOFNJUUFyNWNZWnNDSUVua1BXVmp2SEdvUjM?oc=5",
-     "published_at": "2026-10-21T16:43:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "ウィトコフ米特使、露プーチン大統領と会談し最新の和平案を提示予定…ウクライナとの戦闘終結に向け 米メディア報道",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnM0Q1VYRmMwd18xdzhKR09HdVZHV1dwd1hwSlZySHJuWWFBdExKeWE0N1RxeFdpNEhCTUZsek8wOGpwdkN3S2pFd2RFSGRrNTJzN1RTMFdBMnRWUVlwR25TY3B5aHh4MVdsZFgxbjhhdjBHSmc1bmVKOVFuQllDQ3pJQUk?oc=5",
-     "published_at": "2026-10-21T03:36:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "トランプ大統領“ロシアへの追加制裁の免除が解放交渉の一環だった”と示唆 露で拘束の米国人解放めぐり",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1VSc1Ftc2Z2MjUxT0NxU2JVcmd6WTlPR2duUlJwZlZqRVBHMWdoa2xfQ3NhaXFhZFFLUlo0ckpqTFEtUTk1UXNIbE5LMTdDYUtlRDd4ZS10U29sSmZTcmxydTVkSTBSLVJsUk5vQWM3RnZuUDZyc3o4eDVwbDNwYXpuSW4?oc=5",
-     "published_at": "2026-10-21T15:24:00+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "プーチン大統領がウィトコフ特使と会談 アメリカ・ロシア・ウクライナの3者交渉提案",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sYlNHdHJ1OVExS1U4Q2tCNXJJSm4yRDJzaDhDaVBQOG5LZXVGWTUwN2hVa2k2dnpEekowbmxGQmNFSzc4N2o2a0JvS3oxTjZw?oc=5",
-     "published_at": "2026-10-21T14:55:00+00:00"
-    }
-   ],
-   "japan_view_ja": "日本の媒体は、ゼレンスキー氏との会談や3者協議の再開、首脳会談の提案を軸に和平交渉の流れを伝えている。また、米国人解放と制裁免除の関連にも触れている。",
-   "japan_main_checked_at": "2026-10-22T00:12:12.992900+00:00",
-   "place_countries": [
-    "RU",
-    "UA",
-    "US"
-   ],
-   "day": "2026-10-21",
-   "n_outlets": 14,
-   "n_countries": 10,
-   "n_independent_countries": 7,
-   "n_areas": 3
-  },
-  {
-   "id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0",
-   "title_ja": "マスク氏がウクライナ軍向けスターリンクの減速を指示と報道",
-   "fact_ja": "ウォール・ストリート・ジャーナルは、マスク氏がウクライナ軍の頼る軍用版スターリンクの減速を先週指示したと、米当局者らを引用して報じた。ウクライナの戦場での通信やドローン運用に影響が出たとされる。",
-   "category": "紛争・安全保障",
-   "first_seen": "2026-10-20T20:38:00+00:00",
-   "updated_at": "2026-10-26T06:39:49+00:00",
-   "country_views": [
-    {
-     "country": "US",
-     "view_ja": "WSJはマスク氏の指示を軸に、ドローンへの打撃やキーウの混乱、防衛への影響を続報した。トランプ大統領は制限の指示を否定したと伝える。NYTはウクライナ側が理由を把握していない点と、ドローンが落下した現場の状況を描く。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "ストレーツ・タイムズはWSJ報道を簡潔に引用し、このシステムがウクライナの戦場通信とドローン運用に不可欠だと説明している。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "SCMPはロイター配信の形でWSJ報道を伝え、マスク氏側やホワイトハウスから回答がなく、内容は未確認だと添えている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "朝鮮日報は、マスク氏の単独判断かトランプ氏との事前協議があったのかで関係者の説明が分かれている点に注目する。マスク氏の指一本で戦況が左右されたのかという問いも立てている。"
-    },
-    {
-     "country": "DE",
-     "view_ja": "ターゲスシャウは、報道が事実ならトランプ大統領にも疑問が及ぶと指摘する。ヴェルトは、ウクライナが米国の衛星システムにどれだけ依存しているかを示し、欧州の代替構築の遅れを数字で論じる。"
-    },
-    {
-     "country": "RU",
-     "view_ja": "国営・政府系のタスは、NYTを引いてウクライナ軍が約3日間ほぼ全作戦を止め、100万ドル以上相当のドローンを失ったと伝える。また、フォックスの記者の発言として、攻撃に使われたため制限した可能性を紹介している。"
-    }
-   ],
-   "difference_ja": "米国の媒体は指示の経緯と戦場への具体的な影響を掘り下げ、トランプ氏の関与の有無も扱った。ドイツは米国依存と欧州の代替という構造的な問題に引きつけ、韓国はマスク氏とトランプ氏の関係に注目した。国営・政府系のタスは、ウクライナの損失と、攻撃に使われたから制限したという見方を並べて伝えている。",
-   "japan_main": [
-    {
-     "outlet": "TBS",
-     "title": "マスク氏がスターリンク減速指示、ウクライナの防空に支障－WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05ZnRvdUoxTmNIeFNYNDBvaGpNdEtGVUdKMnRxTUtnMkN5YnhCNXhKbE1heThPTzlvWF9ZVVdSTk9ZckdiZThJcWc0eWdSSlJyR21BeHc4U1lCYjBXX25IMXdrd1Uyc2c?oc=5",
-     "published_at": "2026-10-20T23:12:34+00:00"
-    }
-   ],
-   "japan_view_ja": "TBSはWSJ報道を受け、マスク氏の減速指示とウクライナの防空への支障という影響面を中心に伝えている。見出しからは、トランプ氏の関与や欧州の依存の問題まで踏み込んでいるかは分からない。",
-   "japan_main_checked_at": "2026-10-22T00:12:36.959504+00:00",
-   "place_countries": [
-    "US",
-    "UA"
-   ],
-   "day": "2026-10-21",
-   "n_outlets": 13,
-   "n_countries": 8,
-   "n_independent_countries": 7,
-   "n_areas": 3
-  },
-  {
-   "id": "420cf6c1-5622-47a5-87d1-c46b8181d586",
-   "title_ja": "欧州各国で物価高や住宅難に抗議するデモが広がる",
-   "fact_ja": "フランスに続き、イタリア、ベルギー、スペイン、ポルトガル、アルバニアなど欧州各地で、生活費や住宅費の高騰などを背景にした抗議デモが広がり、逮捕者や暴力も出ている。",
-   "category": "社会",
-   "first_seen": "2026-10-20T04:15:08+00:00",
-   "updated_at": "2026-10-25T20:00:26+00:00",
-   "country_views": [
-    {
-     "country": "FR",
-     "view_ja": "ルモンドは、生活費高騰を背景にしたデモの欧州全域への拡大、リスボンの住宅抗議キャンプ撤去での55人逮捕、国連人権高等弁務官によるデモの暴力への非難を伝えている。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "サウスチャイナ・モーニング・ポストは、燃料高、学校や公共サービスの劣化、住宅危機が重なって秋の抗議が広がったと整理し、仏伊アルバニアでの略奪や負傷にも触れている。"
-    },
-    {
-     "country": "DE",
-     "view_ja": "ドイツの各媒体は、リスボンの抗議キャンプ撤去やイタリアの物価高デモによるパスタ生産への影響を伝える一方、ディ・ヴェルトは仏の放火や略奪を受けてEU内の移民政策の対立が再燃したと論じている。"
-    },
-    {
-     "country": "NG",
-     "view_ja": "プレミアム・タイムズは、フランスやスペインなどでデモが続くなか、欧州の右派政治家がこの混乱を好機として利用していると伝えている。"
-    },
-    {
-     "country": "US",
-     "view_ja": "ニューヨーク・タイムズは、仏の高校生に始まったデモが少なくとも他の7か国の若者に広がったとし、若者が抱く将来への悲観的な見方に焦点を当てている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "朝鮮日報は、デモが独を含む欧州各地に広がり、物価高、住宅不安、徴兵制導入の動きに直面する若者がSNSで国境を越えて連帯していると伝え、独でのハロウィン当日の集会予告にも触れている。"
-    },
-    {
-     "country": "CN",
-     "view_ja": "国営・政府系の媒体であるCGTNは、スペインで極右政党ボックスの集会後に警察とデモ隊が衝突したと短く伝えている。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "ストレーツ・タイムズは、NYTの記事を転載する形で、若者の抗議の広がりと将来への悲観を伝え、今後の政権担当者に若者向けの簡単な解決策は乏しいとしている。"
-    }
-   ],
-   "difference_ja": "多くの媒体が物価高や住宅難を背景として伝える一方、NYTと朝鮮日報は若者の将来不安に、ドイツのディ・ヴェルトは移民政策の対立に、ナイジェリアの媒体は右派政治家による利用に焦点を当てている。ルモンドや独紙は住宅抗議キャンプの撤去など具体的な出来事を伝え、国連人権高等弁務官の声はルモンドが載せている。CGTNはスペインでの衝突のみを短く伝え、全体の背景には触れていない。",
-   "japan_main": [
-    {
-     "outlet": "NHK",
-     "title": "フランス デモに乗じた暴動で店舗1500以上被害か イタリアでも",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KS0htcnNtVE93ZjVOMmE4UGFzTFh1UmdIcTkyWG82T3c1aHFfbS1wN3hucEpVSUxyYTVua0JUaWZ4bTcyelV3Qkl6azNxVjZIcGFFSDZacURjTEdMYzFz?oc=5",
-     "published_at": "2026-10-18T21:01:41+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "【社説】欧州に広がる若者デモ 将来の不安に向き合い、対話を尽くせ",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zVkVxbkZQMDlBQVZzaWU0bmFCUTE0T1BZRjFFbmNsMC1QOWFjMVNfMEg2aEJZR2FVeUg4aWJkTGM3X2Z0NVE2QWhPVW5xSGE5ajA2bDNSSWppZzd1QW93QnZOc3FqX2c?oc=5",
-     "published_at": "2026-10-20T10:01:00+00:00"
-    },
-    {
-     "outlet": "読売新聞",
-     "title": "欧州各地でデモ、ミラノで２７０人拘束…ベルギーのブリュッセルでは３万人参加・一部が投石や放火",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZTJPRHZVNTRza25XRjRfZ2kxd2p6RVhleXctUzVPa3hycF90ODZzd2ExU00xejJsV0hXcXM3V3dkUzNRVURkTUVjU0MycUtjMUc3aWFKa290bHVwQ0EwWFRn?oc=5",
-     "published_at": "2026-10-19T13:20:00+00:00"
-    },
-    {
-     "outlet": "毎日新聞",
-     "title": "フランス・デモ参加者1人死亡と報道 市庁舎や車に放火も",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hNzktZ1pRTEktcVFIaFhqQm1MVmpvUkwyRTEtc2prQ3M5dHY1dU9jRXpVYjJoaVR4dVZNQlhSejN5bHYzMXRrN29TeHMyLWo0RGpPMGQwclktdEszc1NseDhUVmF3WWhz?oc=5",
-     "published_at": "2026-10-18T12:07:24+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "フランス暴動、欧州各地に波及 イタリアやベルギーで若者の不満爆発",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TmI0dlRLaWgwYVdkMDU2MHN3dkJQb29jb3pUMkFhbXQ0bHNNckRlU29mOC02UEhhbjJPa3lpcUlGX2J2eDMtck1Eek5Mdkw0ck9tbFJtZThiZkFxNUUySWdYVXJ1TXBoa2YwdA?oc=5",
-     "published_at": "2026-10-20T21:05:35+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "「パリがここまで荒らされるとは…」生活費高騰などに抗議 「夜間外出禁止令」の要請も フランス大規模デモが欧州各地にも拡大【news23】",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lanhDUUVLWHRUT3Z4UVpCcnJRNEdoamJlZW5GQUJFNWJVZ2VQM2FiUFI0VWhNOG1BbkhtWEM5cDQ1TnoyaHNQX2RRY1NtamhQd3hyRXpOcURvUHpFS2ZDWE9oY05CSnJRUDQzSzJ1MnY?oc=5",
-     "published_at": "2026-10-20T02:50:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "フランス抗議デモに変化 欧州各地に拡大 アルバニアでの背景にトランプ一族の計画？",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xWlctd2FtTVBiOTRCWk1ydk52X19SSUNFYllya3FXb1RZU29oVFRTNGtBNjg4YWt5QnAxTGY5UWRjdHVYNFFSYjZjMUJrR1Q2akpXaUpZOXdWel9tY2ZpbnZCSm1qRGZQSlFBd3F5M0dwTUtCRVNVU1RB?oc=5",
-     "published_at": "2026-10-19T05:23:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "【画像まとめ】フランス抗議デモに変化 欧州各地に拡大 アルバニアでの背景にトランプ一族の計画？",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSl9tTWVyT3pGN3hxemYyTTBsaG5JZVlMMGplcHZsOTYwUmc0MTRXRjAyM0VmT2lRRlZyOWpUYnY0U3p3VzJYRWREbUNHLUxfcjdpZjVRWGdIdUt4eTNiTERaa2Juem8wLWl0Zk54RXJBN19HTzF4eHNZc2VmZTFYcGhGYw?oc=5",
-     "published_at": "2026-10-19T05:23:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "【画像まとめ】フランスで2400人拘束 デモなぜ拡大？ イタリアでも衝突",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUVVbFN2TzJ4RUF6bjZlLWtQazFZQlhpcHp0UUpWNXhqdWJVTkxYZm1ELWM2eUQybEJCYlEyT3NPRHhhWkFKSUtFZ3VpRG13UXFxUF8yOGtwbFhBT2M5Y1Faa1Q1aHNsWUhNVFk5aU1PY3JadTNkRHZEcXQ1X05qLWRjTEhLUXp4UWxWeUxucXhHdmw2ci0xOVYzREQ2NFR3QkNsTDdIcDFVYUpHZUUyLWE1dlNGT20ybTZiS081Ql8?oc=5",
-     "published_at": "2026-10-19T11:08:00+00:00"
-    }
-   ],
-   "japan_view_ja": "日本の主要媒体は、フランスの暴動での被害や拘束者数、死者などの数字と、イタリアやベルギーへの波及を中心に伝えている。朝日の社説は若者の将来不安への対話を訴えており、各国の背景説明と重なる。",
-   "japan_main_checked_at": "2026-10-23T00:08:53.475310+00:00",
-   "place_countries": [
-    "FR",
-    "IT",
-    "ES",
-    "PT",
-    "BE",
-    "AL"
-   ],
-   "day": "2026-10-20",
-   "n_outlets": 15,
-   "n_countries": 11,
-   "n_independent_countries": 9,
-   "n_areas": 4
-  },
-  {
-   "id": "d70e082f-3286-4eab-8957-9de8ec4ba232",
-   "title_ja": "EUが安全保障重視の新たな北極戦略を発表",
+   "id": "54014f28-9a71-4b78-9977-e6f25e6b67c0",
+   "title_ja": "台風チャンピが台湾に接近",
    "fact_ja": "",
-   "category": "外交",
-   "first_seen": "2026-10-20T13:03:18+00:00",
-   "updated_at": "2026-10-24T00:54:03+00:00",
+   "category": "災害・事故",
+   "first_seen": "2026-10-21T06:20:58+00:00",
+   "updated_at": "2026-10-24T12:17:57+00:00",
    "country_views": null,
    "difference_ja": null,
    "japan_main": null,
    "japan_view_ja": null,
    "japan_main_checked_at": null,
    "place_countries": null,
-   "day": "2026-10-20",
-   "n_outlets": 10,
-   "n_countries": 8,
-   "n_independent_countries": 5,
-   "n_areas": 2
-  },
-  {
-   "id": "973eb9cc-1146-47fd-b8ce-60370c65542d",
-   "title_ja": "イタリア、ミラノでの衝突を受け兵士500人を派遣",
-   "fact_ja": "",
-   "category": "政治",
-   "first_seen": "2026-10-20T04:44:43+00:00",
-   "updated_at": "2026-10-21T12:28:00+00:00",
-   "country_views": null,
-   "difference_ja": null,
-   "japan_main": null,
-   "japan_view_ja": null,
-   "japan_main_checked_at": null,
-   "place_countries": null,
-   "day": "2026-10-20",
-   "n_outlets": 8,
-   "n_countries": 5,
-   "n_independent_countries": 5,
-   "n_areas": 2
-  },
-  {
-   "id": "7bacff1f-1f9a-4d77-a2b6-8af15abe68ab",
-   "title_ja": "英国がサウジ防衛のため戦闘機を派遣すると発表",
-   "fact_ja": "英政府は、イエメンのフーシ派による攻撃の激化を受け、サウジアラビアの都市や重要インフラを守る防空任務のため、タイフーン戦闘機を派遣すると発表した。",
-   "category": "紛争・安全保障",
-   "first_seen": "2026-10-20T11:25:00+00:00",
-   "updated_at": "2026-10-20T18:55:52+00:00",
-   "country_views": [
-    {
-     "country": "SG",
-     "view_ja": "国営・政府系の媒体は、戦闘機の派遣に加え、サウジの参謀将校を支援する軍事顧問も送ると簡潔に伝えている。"
-    },
-    {
-     "country": "FR",
-     "view_ja": "英国防省の説明を引き、タイフーンが「防御的な対空任務」に就くと伝えている。"
-    },
-    {
-     "country": "PK",
-     "view_ja": "英政府の発表として、フーシ派の攻撃増加に対するサウジの自衛を助ける「追加の防御的軍事支援」と位置づけて伝えている。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "英政府の発表と国防省の説明を中心に、サウジの都市や重要インフラを守る防御任務として伝えている。"
-    },
-    {
-     "country": "US",
-     "view_ja": "イラン後ろ盾のフーシ派による攻撃の急増を背景に、インフラ防衛のためタイフーンを派遣すると伝えている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "西側諸国が激化する紛争への関与を強めている流れの中で、英国の対サウジ支援の拡大として伝えている。"
-    },
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系の媒体は、激化するフーシ派の攻撃からサウジを守る防御任務として、短く伝えている。"
-    }
-   ],
-   "difference_ja": "どの国の媒体も、防御目的の派遣という点を淡々と伝えており、大きな違いは見られない。米国はフーシ派をイラン後ろ盾と明記し、英国は西側の関与拡大という文脈で位置づけている。シンガポールは軍事顧問の派遣にも触れている。",
-   "japan_main": [
-    {
-     "outlet": "毎日新聞",
-     "title": "イエメン暫定政権の新兵73人死亡 英国は戦闘機をサウジ派遣へ",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FUG1ySkliVU8zekZtanMxcFFtd19mWGpON29kX1VzejNjdS15M2xaajlRWi1qX0pNTGJVRXFwTHFrazZRQUVVZzNKaGZKS002a3hxaC1vVEV4R25TQ21YazNZS1JEMFdm?oc=5",
-     "published_at": "2026-10-20T13:35:33+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "英国がサウジに主力戦闘機タイフーン派遣へ 上空でフーシ派の攻撃を防衛",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KMEs5c1FZSmJVc0toTmRoOExOYXFOUHZ1bEU4U01OZXpOZmtvUk9RUWtKd3J0dHY1TXF4dTVpSFdlczhzYmwzX3l3czJ3aHAtNVRHWEhBaWJyUU5BNmVaRW4zZmlsYl9FSnNqVFRCOV8tZ1V1MUE?oc=5",
-     "published_at": "2026-10-20T15:25:51+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "英、サウジアラビアの防空支援で戦闘機派遣 フーシ攻撃激化で",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VVWhTRzVhYXJSYWs3aUpWcWp1U0E3TFBVU1pzdGpNU3hjTVFfdUVHM2kxNzZjd2k2U0JWVGNheThTeW52eUZzbUoxZEV3cENGQ3NhaDVuSFRUNk9rS2VWcHFyc3hBTXpNOGdGMg?oc=5",
-     "published_at": "2026-10-20T12:07:33+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "英国、フーシ派攻撃からサウジ防衛へ－空軍がタイフーン戦闘機配備",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wQ3ZhYjRybzJjNGhXZXk0M2pSZVNTYlpGNFprSi1MeWxKWEp4eXdqLWdHUVlNVkh4UWV1OXF1Tk1tQ1lLTDI5b3BlRTFSdDc0NDVveHRIa1JVdHJVb2JrRkprS1pkYjA?oc=5",
-     "published_at": "2026-10-20T11:41:00+00:00"
-    }
-   ],
-   "japan_view_ja": "日本の主要媒体も、英国のタイフーン派遣とフーシ派攻撃の激化という中心的な事実を各国と同様に伝えている。毎日新聞はイエメン暫定政権の新兵の死者にも触れ、紛争の被害を併せて見出しにしている。",
-   "japan_main_checked_at": "2026-10-21T00:02:57.397175+00:00",
-   "place_countries": [
-    "GB",
-    "SA",
-    "YE"
-   ],
-   "day": "2026-10-20",
+   "day": "2026-10-21",
    "n_outlets": 7,
    "n_countries": 7,
-   "n_independent_countries": 5,
-   "n_areas": 3
+   "n_independent_countries": 3,
+   "n_areas": 2
   },
   {
-   "id": "2ac50db9-b75e-4296-947a-8c5037f453b2",
-   "title_ja": "地球温暖化が加速しているとロックストローム氏",
+   "id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9",
+   "title_ja": "ロシアの石油製品供給を巡る対米ディーゼル取引",
    "fact_ja": "",
-   "category": "科学・環境・保健",
-   "first_seen": "2026-10-20T13:43:25+00:00",
-   "updated_at": "2026-10-21T09:06:00+00:00",
+   "category": "経済",
+   "first_seen": "2026-10-21T14:15:00+00:00",
+   "updated_at": "2026-10-26T03:00:00+00:00",
    "country_views": null,
    "difference_ja": null,
    "japan_main": null,
    "japan_view_ja": null,
    "japan_main_checked_at": null,
    "place_countries": null,
-   "day": "2026-10-20",
+   "day": "2026-10-21",
+   "n_outlets": 5,
+   "n_countries": 5,
+   "n_independent_countries": 3,
+   "n_areas": 2
+  },
+  {
+   "id": "03b90863-bea7-4d91-b6d8-0649f2c51431",
+   "title_ja": "アルゼンチンのミレイ大統領がスペイン訪問でサンチェス首相を「独裁者」と呼ぶ",
+   "fact_ja": "",
+   "category": "外交",
+   "first_seen": "2026-10-21T13:45:00+00:00",
+   "updated_at": "2026-10-21T17:08:46+00:00",
+   "country_views": null,
+   "difference_ja": null,
+   "japan_main": null,
+   "japan_view_ja": null,
+   "japan_main_checked_at": null,
+   "place_countries": null,
+   "day": "2026-10-21",
    "n_outlets": 4,
-   "n_countries": 4,
-   "n_independent_countries": 4,
+   "n_countries": 3,
+   "n_independent_countries": 3,
    "n_areas": 2
   }
  ],
@@ -9486,336 +9070,6 @@
    "story_id": "659e8794-d3a4-4b4b-9eb4-cdaebf419df6"
   },
   {
-   "id": "19194ff8-07ff-4306-976f-b86656b1a504",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
-   "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
-   "published_at": "2026-10-20T21:02:50+00:00",
-   "summary_ja": "今回の流行でナイジェリア初の症例が発表され、保健当局が透明性を評価したと伝える。",
-   "angle": "初確認と評価",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "f9dde71d-336f-4910-93e8-0db1038fe3ac",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/nigeria-confirms-ebola-case-in-patient-who-arrived-from-uganda",
-   "title": "Nigeria confirms Ebola case in patient who arrived from Uganda",
-   "published_at": "2026-10-20T19:01:05+00:00",
-   "summary_ja": "アブジャで検査によりエボラ感染が確認されたと政府が発表したと伝える。",
-   "angle": "政府発表",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "68045059-b428-47eb-a3ea-42118e23c058",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
-   "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
-   "published_at": "2026-10-20T17:31:26+00:00",
-   "summary_ja": "ウガンダからの便で到着した女性の陽性をナイジェリアが確認し、大陸への拡大懸念が出ていると伝える。",
-   "angle": "拡大懸念",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "938f3f4c-e683-49bb-84f5-51684721978a",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/health/article/2026/10/20/nigeria-records-first-ebola-case-as-outbreak-spreads_6760393_14.html",
-   "title": "Nigeria records first Ebola case as outbreak spreads",
-   "published_at": "2026-10-20T19:54:49+00:00",
-   "summary_ja": "ナイジェリア初の症例を、ケニアの9例目やコンゴでの流行拡大と合わせて伝える。",
-   "angle": "流行の拡大",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "12255918-6f97-4a3c-a43b-d0f11e60f58e",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/918701-ebola-44-identified-contacts-to-stay-isolated-for-three-weeks-minister.html",
-   "title": "Ebola: 44 identified contacts to stay isolated for three weeks – Minister",
-   "published_at": "2026-10-20T21:40:08+00:00",
-   "summary_ja": "特定された接触者44人が3週間隔離され、市中感染でなく輸入例だと保健相が述べたと伝える。",
-   "angle": "接触者の隔離",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "fbb3e525-18c8-42b0-99cf-d6e86f4de59f",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/918698-ebola-in-abuja-10-things-nigerians-should-know-about-the-deadly-virus.html",
-   "title": "Ebola in Abuja: 10 things Nigerians should know about the deadly virus",
-   "published_at": "2026-10-20T21:33:24+00:00",
-   "summary_ja": "感染経路や症状、予防法など、国民が知るべき10の要点を解説する。",
-   "angle": "基礎知識",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "00658e1a-b51e-4baf-9194-eeae7fc2f089",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/918679-africa-cdc-calls-for-urgent-global-support-as-nigeria-confirms-ebola-case.html",
-   "title": "Africa CDC calls for urgent global support as Nigeria confirms Ebola case",
-   "published_at": "2026-10-20T20:48:25+00:00",
-   "summary_ja": "アフリカCDCが資金や物資、人材の緊急支援を国際社会に求めたと伝える。",
-   "angle": "支援要請",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "e1c7ced5-9f78-48fb-935d-1f599dff15ae",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-   "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-   "published_at": "2026-10-21T19:29:40+00:00",
-   "summary_ja": "最初の患者はアブジャ駐在外交官の妻で、カンパラへ休暇旅行をしていたと伝える。",
-   "angle": "患者の素性",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "fa8c4747-06c3-4358-af17-032e372afe50",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
-   "title": "Nigeria bestätigt ersten Ebola-Fall",
-   "published_at": "2026-10-21T01:11:10+00:00",
-   "summary_ja": "アフリカ3か国に続きナイジェリアが症例を報告し、女性がアブジャで治療中だと伝える。",
-   "angle": "症例の報告",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "735d0471-abf4-46ca-b1d2-9ccb4d5b6343",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/21/HE4TQYTGGRRDCOJVHA4DSNDGGM/",
-   "title": "콩고발 에볼라, 케냐 이어 나이지리아까지 번져… 아프리카 방역 비상",
-   "published_at": "2026-10-21T06:13:02+00:00",
-   "summary_ja": "コンゴ発のエボラがケニアに続きナイジェリアへ広がり、各国の保健当局が緊張していると伝える。",
-   "angle": "防疫の緊張",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "9b0ee342-e42e-4712-9bbd-330d45dc1e06",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-   "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-   "published_at": "2026-10-21T00:14:55+00:00",
-   "summary_ja": "患者はウガンダから来た女性で、10月7日に発症し4日後に入院したと伝える。",
-   "angle": "患者の経過",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "556111fe-29f2-4540-9c77-64ff6759d18e",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-   "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
-   "published_at": "2026-10-21T23:20:12+00:00",
-   "summary_ja": "ナイジェリアの症例がコンゴの型と一致し、流行が西アフリカに初めて到達したと伝える。",
-   "angle": "型の一致",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "b1f7dd0e-c976-4fbf-a9c9-e7020ee23246",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/919072-nigerias-first-ebola-patient-is-diplomats-wife-who-holidayed-in-uganda-africa-cdc.html",
-   "title": "Nigeria’s first Ebola patient is diplomat’s wife who holidayed in Uganda — Africa CDC",
-   "published_at": "2026-10-21T23:02:57+00:00",
-   "summary_ja": "患者は外交官の妻で、マラリアと思い私立病院を受診していたとアフリカCDCが説明したと伝える。",
-   "angle": "発症後の経過",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "8ae2cd58-ddad-4d51-9510-1bead8299afa",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/news/top-news/919037-ebola-outbreak-lawmakers-move-to-amend-nigerias-100-year-old-quarantine-act.html",
-   "title": "Ebola Outbreak: Lawmakers move to amend Nigeria’s 100-year-old Quarantine Act",
-   "published_at": "2026-10-21T21:32:25+00:00",
-   "summary_ja": "上院議員らが、流行対策強化のため100年前の検疫法を急ぎ改正する動きを始めたと伝える。",
-   "angle": "検疫法改正",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "0f3272b1-13ad-4f8a-af25-31f32ed812c2",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/919033-ebola-nigeria-has-capacity-to-contain-outbreak-like-2014-minister.html",
-   "title": "Ebola: Nigeria has capacity to contain outbreak like 2014 – Minister",
-   "published_at": "2026-10-21T21:07:16+00:00",
-   "summary_ja": "保健相が、2014年同様に流行を抑える力があるとして、冷静な警戒を呼びかけたと伝える。",
-   "angle": "保健相の説明",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "c3f9c875-4bd1-4ec0-a689-69ee23df1f85",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2038763/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain",
-   "title": "Nigeria confirms its first Ebola case is Bundibugyo strain",
-   "published_at": "2026-10-21T10:29:50+00:00",
-   "summary_ja": "ナイジェリアの症例はコンゴの流行と同じブンディブギョ型で、患者は外交官関係者だと伝える。",
-   "angle": "型と患者像",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "4003d0b9-ef18-447c-907b-429c241ddb07",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
-   "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
-   "published_at": "2026-10-22T16:41:13+00:00",
-   "summary_ja": "流行が過去最大の広がりとなり、保健当局がナイジェリアの症例の起源を急いで調べていると伝える。",
-   "angle": "過去最大の拡大",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "b152718b-8ff1-4e05-ad01-5fd5b27c9801",
-   "outlet_id": "globaltimes",
-   "url": "https://www.globaltimes.cn/page/202610/1372773.shtml",
-   "title": "Africa CDC urges greater global solidarity to contain Ebola as Nigeria confirms 1st case",
-   "published_at": "2026-10-21T21:11:46+00:00",
-   "summary_ja": "アフリカCDCが流行抑制のため国際的な連帯を求めたと、ナイジェリアの初確認と併せて伝える。",
-   "angle": "国際連帯",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "a60a550e-7f5c-463c-8eee-6a0add9fe7a6",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/nigeria-says-ebola-case-remains-isolated-urges-calm",
-   "title": "Nigeria says Ebola case remains isolated, urges calm",
-   "published_at": "2026-10-22T17:41:53+00:00",
-   "summary_ja": "保健相が、症例は市中に広がった証拠がなく単独の感染だとして冷静を促したと伝える。",
-   "angle": "感染の封じ込め",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "33055006-0747-4cd9-9ceb-cc331d665a66",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/who-was-not-told-that-nigerias-ebola-patient-travelled-to-congo-official-says",
-   "title": "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says",
-   "published_at": "2026-10-22T12:41:34+00:00",
-   "summary_ja": "患者はスイス人外交官のウガンダ生まれの妻で、ウガンダで感染したとみられるとスイス政府が述べたと伝える。",
-   "angle": "スイス政府の説明",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "79048005-60c5-4f74-9ae2-bffd4006ceed",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
-   "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
-   "published_at": "2026-10-22T19:31:27+00:00",
-   "summary_ja": "WHOが「より複雑」な流行と警告し、当局は患者の感染場所を調べていると伝える。",
-   "angle": "WHOの警告",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "2e905764-7a6a-4f0e-8597-9214b9dff6ef",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3342174/africa-faces-complex-ebola-outbreak-after-spread-to-nigeria-who",
-   "title": "Africa faces 'complex' Ebola outbreak after spread to Nigeria: WHO",
-   "published_at": "2026-10-22T18:45:00+00:00",
-   "summary_ja": "WHOが、ウイルスが東アフリカからナイジェリアに及び流行が「複雑」だと警告したと伝える。",
-   "angle": "WHOの警告",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "f8677238-474d-4c8e-8eee-063b9c609a59",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-   "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-   "published_at": "2026-10-23T10:14:33+00:00",
-   "summary_ja": "患者はスイス外交官の妻で、夫は隔離中だが症状は出ていないと伝える。",
-   "angle": "夫の状況",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "4395cf46-a8d1-4958-bd77-f50937d19607",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/africa/article/3371887/who-warns-africa-faces-complex-ebola-outbreak-virus-reaches-nigeria",
-   "title": "WHO warns Africa faces ‘complex’ Ebola outbreak as virus reaches Nigeria",
-   "published_at": "2026-10-23T06:49:24+00:00",
-   "summary_ja": "WHOの警告と、ブンディブギョ型の輸入例が外交官の妻から検出されたことを伝える。",
-   "angle": "WHOの警告",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "f0ed49b3-901b-44ef-a64c-a73222a45294",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/nigeria-ebola-case-linked-to-virus-found-in-kenya-index-case-health-minister-says",
-   "title": "Nigeria Ebola case linked to virus found in Kenya index case, health minister says",
-   "published_at": "2026-10-23T21:46:57+00:00",
-   "summary_ja": "ナイジェリアの症例がケニアの最初の症例のウイルスと関連すると保健相が述べたと伝える。",
-   "angle": "ケニアとの関連",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "769f204a-fb25-4401-812c-c20bde3dd254",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-   "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-   "published_at": "2026-10-23T13:57:11+00:00",
-   "summary_ja": "感染源が不明なことが拡大への懸念を強めていると、スイスの説明とともに伝える。",
-   "angle": "感染源の謎",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "f8075064-3571-4c92-8d5d-e4adbcd128c8",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/919752-ebola-nigeria-case-highly-similar-to-kenya-infection-minister.html",
-   "title": "Ebola: Nigeria case highly similar to Kenya infection – Minister",
-   "published_at": "2026-10-23T22:32:44+00:00",
-   "summary_ja": "ナイジェリアの症例がケニアの感染と非常に似ていると保健相が述べたと伝える。",
-   "angle": "ケニアとの類似",
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "c1f0f795-4366-4f85-bf74-c17655b9d4e8",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/news/top-news/920207-ebola-ncdc-expands-health-declaration-requirement-for-international-travellers.html",
-   "title": "Ebola: NCDC expands health declaration requirement for international travellers",
-   "published_at": "2026-10-25T20:43:43+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "f35a8992-98cc-4cd5-a082-34a2f569572c",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/920178-ebola-ncdc-urges-hospitals-to-act-before-laboratory-confirmation.html",
-   "title": "Ebola: NCDC urges hospitals to act before laboratory confirmation",
-   "published_at": "2026-10-25T17:55:28+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "0f373a30-2c61-4adf-bff4-6f2fdbea9c50",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/920169-ebola-ncdc-warns-misinformation-could-undermine-nigerias-response.html",
-   "title": "Ebola: NCDC warns misinformation could undermine Nigeria’s response",
-   "published_at": "2026-10-25T17:29:57+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "384656c7-3323-402d-9892-d74f64d0104e",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/health/health-news/920165-ebola-ncdc-approves-%e2%82%a6100000-weekly-allowance-for-quarantined-contacts.html",
-   "title": "Ebola: NCDC approves ₦100,000 weekly allowance for quarantined contacts",
-   "published_at": "2026-10-25T17:25:51+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "79b34014-3cee-4527-8bab-a1d8f17883b2",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3343718/nigeria-widens-hunt-for-possible-ebola-cases",
-   "title": "Nigeria widens hunt for possible Ebola cases",
-   "published_at": "2026-10-25T18:45:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
-   "id": "eae51fb4-d101-433c-9e03-38feb30bd0c7",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/africa/article/3372215/ebola-patient-evacuated-nigeria-switzerland",
-   "title": "Ebola patient evacuated from Nigeria to Switzerland",
-   "published_at": "2026-10-26T18:21:42+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "744efbf8-326d-4082-8af7-80c70f6757c5"
-  },
-  {
    "id": "6b20e50e-c8d6-4a92-994a-0d575c47ff12",
    "outlet_id": "scmp",
    "url": "https://www.scmp.com/news/world/article/3371694/websites-go-dark-worldwide-ai-exposes-critical-security-flaws",
@@ -10396,1364 +9650,354 @@
    "story_id": "209a84da-2ee4-48fa-a2cc-fb55e4b30a20"
   },
   {
-   "id": "55cdf8da-ec93-472f-9c3d-72c18cb1a03f",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/trump-says-ukraine-has-to-want-to-settle-war",
-   "title": "US envoy Witkoff to meet Russians, Trump presses Ukraine to settle war",
-   "published_at": "2026-10-20T19:11:20+00:00",
-   "summary_ja": "ウィトコフ氏がロシア側と会う中、トランプ氏がウクライナに合意を迫った。",
-   "angle": "ウクライナへの圧力",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "46b33baa-ffd4-4053-85db-b6f534ebca27",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2204981",
-   "title": "Witkoff plans to present proposal for trilateral talks in Russia — Axios journalist",
-   "published_at": "2026-10-20T22:28:01+00:00",
-   "summary_ja": "ウィトコフ氏が3者協議の提案をロシアに示す計画だと伝える。",
-   "angle": "3者協議の提案",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "1b2f4b99-20a8-4439-ab89-320aad47241a",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2204919",
-   "title": "Witkoff’s plans to visit Russia on October 21 confirmed — source",
-   "published_at": "2026-10-20T18:10:01+00:00",
-   "summary_ja": "ウィトコフ氏の10月21日ロシア訪問を情報筋が確認したと伝える。",
-   "angle": "訪問の確認",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "e89285b0-fa2d-4bff-ae3c-1fcaade4331b",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/russia/witkoffs-praise-of-putin-as-humanitarian-tracks-with-u-s-approach-to-russia-2e5dc6a3?mod=rss_worldnews",
-   "title": "Witkoff’s Praise of Putin as ‘Humanitarian’ Tracks With U.S. Approach to Russia",
-   "published_at": "2026-10-21T19:40:00+00:00",
-   "summary_ja": "特使の「人道主義者」発言への怒りと、それがトランプ氏の戦略に沿うという分析を伝える。",
-   "angle": "発言の位置づけ",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "f83b5729-0d49-4438-b0a5-74063d67eb9a",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/russia/russia-releases-captured-american-in-sign-of-warming-ties-d8acccaa?mod=rss_worldnews",
-   "title": "Russia Releases Captured American in Sign of Warming Ties",
-   "published_at": "2026-10-21T13:45:00+00:00",
-   "summary_ja": "ロシアが拘束中の米国人を解放し、関係が温まる兆しだと伝える。",
-   "angle": "米国人の解放",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "69e8a6d7-78b4-4357-944a-d876bd94b208",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/russia-ukraine-peace-deal-us-witkoff-substance-6479671",
-   "title": "Kremlin sees little 'substance' in Ukraine peace ideas",
-   "published_at": "2026-10-21T17:01:00+00:00",
-   "summary_ja": "米露とウクライナが協議再開の用意を示す一方、クレムリンは和平案の中身を疑問視する。",
-   "angle": "協議と冷めた見方",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "891ea2f8-1f85-41f2-8a93-3a787e5c9926",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/putin-steve-witkoff-ukraine-peace-talks-frees-us-citizen-6478526",
-   "title": "Putin hosts Trump envoy for new Ukraine peace talks, frees US citizen held in Russia",
-   "published_at": "2026-10-21T09:55:00+00:00",
-   "summary_ja": "プーチン氏が特使を迎え、拘束されていた米国人が解放されたと伝える。",
-   "angle": "会談と解放",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "36963b94-0794-4710-b8ab-0df23387a585",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/donald-trump-wants-zelenskyy-make-russia-deal-6476631",
-   "title": "US envoy to meet Putin after 'positive' talks with Zelensky",
-   "published_at": "2026-10-21T02:14:00+00:00",
-   "summary_ja": "ゼレンスキー氏との協議後に特使がプーチン氏と会う予定で、米国人の解放要請にも触れる。",
-   "angle": "会談予定と解放要請",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "394c2e8d-9cb7-4daf-962b-99d458300616",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3371687/trump-faces-fresh-questions-over-ties-humanitarian-putin",
-   "title": "Trump faces fresh questions over ties to ‘humanitarian’ Putin",
-   "published_at": "2026-10-21T17:08:51+00:00",
-   "summary_ja": "特使の「人道主義者」発言を受け、トランプ氏とプーチン氏の関係に疑問が出ていると伝える。",
-   "angle": "対露姿勢への疑問",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "465ab180-9578-4278-82b7-353fea115a1d",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/video6ad8ed2d199dc15f1abdc3d1/ukraie-krieg-ich-glaube-putin-nicht-dass-wirklich-gespraechsbereitschaft-besteht.html",
-   "title": "„Ich glaube Putin nicht, dass wirklich Gesprächsbereitschaft besteht“",
-   "published_at": "2026-10-21T17:02:45+00:00",
-   "summary_ja": "専門家がプーチン氏の協議への意欲を信じるべきでないと述べている。",
-   "angle": "専門家の警戒",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "59cb0c02-8843-4c4b-902f-8d686d29bdae",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/video6ad8d98f2c40700de0800e64/kreml-russland-zu-dreiertreffen-mit-usa-und-ukraine-bereit.html",
-   "title": "Russland zu Dreiertreffen mit USA und Ukraine bereit",
-   "published_at": "2026-10-21T15:42:15+00:00",
-   "summary_ja": "ロシアが11月の協議再開に原則応じると伝え、記者は突破口ではないと見る。",
-   "angle": "再開と懐疑",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "c5b07c3e-dcfa-401c-94a3-fc592e42cce5",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/article6ad882a8438656aeb2fad5f7/ukraine-krieg-russland-zu-neuen-gespraechen-mit-usa-und-ukraine-bereit-witkoff-nennt-putin-menschenfreund.html",
-   "title": "Russland zu neuen Gesprächen mit USA und Ukraine bereit – Witkoff nennt Putin „Menschenfreund“",
-   "published_at": "2026-10-21T13:39:00+00:00",
-   "summary_ja": "特使が和平案を渡し、クレムリンが協議の用意を示したと伝える。",
-   "angle": "和平案の提示",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "69bac2b6-7a38-4d58-aae2-4f88dd3e466c",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/video6ad880a9842f9bd88130a7ae/treffen-in-st-petersburg-putin-spricht-mit-trump-gesandten-witkoff-ueber-ukraine-krieg.html",
-   "title": "Putin spricht mit Trump-Gesandten Witkoff über Ukraine-Krieg",
-   "published_at": "2026-10-21T09:45:55+00:00",
-   "summary_ja": "会談開始を伝え、専門家が大きな進展は見えないと述べている。",
-   "angle": "専門家の懐疑",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "14ee9dfe-30bd-4d5c-b7b8-baf69bc121e9",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/article6ad7b00d51e5094f7a5736be/ukraine-krieg-selenskyj-legt-neue-vorschlaege-fuer-kriegsende-vor-trump-vertrauter-witkoff-trifft-putin.html",
-   "title": "Selenskyj legt neue Vorschläge für Kriegsende vor – Trump-Vertrauter Witkoff trifft Putin",
-   "published_at": "2026-10-21T05:04:00+00:00",
-   "summary_ja": "ゼレンスキー氏の新提案と、安全の保証や発言権を求めるキーウの立場を伝える。",
-   "angle": "ウクライナの要求",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "4ee647e6-d628-446a-a631-39477eae2197",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Ukrainegespraeche-in-St-Petersburg/!6223342/",
-   "title": "Ukrainegespräche in St. Petersburg: „Momentum für die Beendigung des Krieges“",
-   "published_at": "2026-10-21T16:53:00+00:00",
-   "summary_ja": "特使が終戦への好条件を語り、ウクライナが現在の前線の承認に応じる用意があると伝える。",
-   "angle": "終戦への機運",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "3b0f8a53-3a55-47e3-9c3d-95181cb09159",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
-   "title": "US-Vermittler Witkoff berät mit Putin über Ukraine",
-   "published_at": "2026-10-21T09:37:12+00:00",
-   "summary_ja": "オスロでの協議後、特使がロシア指導部と会談したと伝える。",
-   "angle": "会談の開始",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "f519f2d0-e27b-4ddb-9f4d-81fc692dc1d2",
-   "outlet_id": "globaltimes",
-   "url": "https://www.globaltimes.cn/page/202610/1372681.shtml",
-   "title": "Zelensky, US envoy Witkoff discuss ceasefire proposals in Oslo",
-   "published_at": "2026-10-21T04:17:43+00:00",
-   "summary_ja": "オスロでゼレンスキー氏と特使が停戦案を協議したと伝える。",
-   "angle": "停戦案の協議",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "4222a884-48c8-4b58-b4e4-ff50417f77bf",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/22/GQZTONRYMZRTMN3CHE4GGNJRG4/",
-   "title": "러시아, 억류 미국인 교사 전격 석방… 트럼프 “대러 제재 유예가 끌어낸 성과”",
-   "published_at": "2026-10-21T20:55:11+00:00",
-   "summary_ja": "米国人教師の解放と、制裁猶予をめぐるトランプ氏の説明、共和党内の批判を伝える。",
-   "angle": "米国内の反響",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "32cc227d-b9df-4b0e-b2aa-9bcbfb67d591",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/united-states/russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff",
-   "title": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
-   "published_at": "2026-10-21T20:01:00+00:00",
-   "summary_ja": "会談に合わせ、ロシアが元教師を善意の印として解放したと伝える。",
-   "angle": "善意の解放",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "89bf0be0-b9bc-4cfc-937c-8616d09ab8c7",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-hopes-for-new-talks-with-russia-us-by-early-november",
-   "title": "Ukraine’s Zelensky hopes for new peace talks with Russia, US by early November",
-   "published_at": "2026-10-21T19:36:25+00:00",
-   "summary_ja": "ゼレンスキー氏が11月初めまでの新たな協議を望んでいると伝える。",
-   "angle": "ウクライナの期待",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "67efa45f-23f2-4fc4-aaf1-de0183faa7aa",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/russia-is-willing-in-principle-to-join-new-ukraine-peace-talks-in-november-kremlin-says",
-   "title": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says",
-   "published_at": "2026-10-21T14:06:28+00:00",
-   "summary_ja": "プーチン氏が来月の3者協議再開に原則応じると、側近の話として伝える。",
-   "angle": "11月の協議再開",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "dd0930a4-6941-4235-af0e-44013c24677c",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
-   "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
-   "published_at": "2026-10-21T17:57:48+00:00",
-   "summary_ja": "特使の発言を嘘やおべっかとして強く批判する論説。",
-   "angle": "特使発言への批判",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "8a63215b-c643-47ab-a7ed-a5c27f2429b5",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-kreml-usa-gespraeche-li.3563283",
-   "title": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit",
-   "published_at": "2026-10-21T15:05:54+00:00",
-   "summary_ja": "クレムリン側の説明として、11月に新たな交渉が始まりうると伝える。",
-   "angle": "クレムリンの説明",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "2d2d882d-67bc-44cc-bd61-8ee1855eadce",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
-   "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-   "published_at": "2026-10-21T19:01:05+00:00",
-   "summary_ja": "特使の訪問後、ロシアが協議再開に原則応じる姿勢だと伝える。",
-   "angle": "協議再開の意向",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "3d400ed9-9999-4fcb-be53-3606888a3067",
-   "outlet_id": "tass",
-   "url": "https://tass.com/politics/2205855",
-   "title": "Russia signals readiness to resume trilateral talks as Putin meets with US envoy",
-   "published_at": "2026-10-21T20:35:31+00:00",
-   "summary_ja": "プーチン氏が11月10日ごろの3者協議再開の用意を示したと伝える。",
-   "angle": "協議再開の日程",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "71f6227f-9042-484a-98a8-7a6a4fae0ea9",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2205815",
-   "title": "US negotiator points to 'encouraging progress' in Ukraine talks",
-   "published_at": "2026-10-21T18:14:45+00:00",
-   "summary_ja": "クシュナー氏がウクライナ協議の前向きな進展を語り、課題も残ると述べたと伝える。",
-   "angle": "進展と課題",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "d1f943fc-b985-4466-9684-f322876ef6c8",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2205807",
-   "title": "US envoy describes meeting with Putin as constructive",
-   "published_at": "2026-10-21T17:30:01+00:00",
-   "summary_ja": "特使が会談を建設的と述べ、3者協議で続けると語ったと伝える。",
-   "angle": "建設的との評価",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "f1c23162-a482-4f80-8098-4a4245185abc",
-   "outlet_id": "tass",
-   "url": "https://tass.com/politics/2205747",
-   "title": "Russia-US-Ukraine talks in Abu Dhabi expected to involve experts — Kremlin aide",
-   "published_at": "2026-10-21T15:40:53+00:00",
-   "summary_ja": "アブダビでの3者協議に専門家が加わる見通しだと伝える。",
-   "angle": "代表団の構成",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "2787773a-3931-47f7-b1ab-92d7152d728d",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2038756/us-envoy-to-meet-putin-after-positive-talks-with-zelensky",
-   "title": "US envoy to meet Putin after 'positive' talks with Zelensky",
-   "published_at": "2026-10-21T08:40:49+00:00",
-   "summary_ja": "特使がサンクトペテルブルクに到着し、トランプ氏とゼレンスキー氏の対立を収める動きだと伝える。",
-   "angle": "特使の到着",
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
-  },
-  {
-   "id": "68efc2ea-0a28-481d-b4a0-d5960b5392bc",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi",
-   "title": "Ukrainian, Russian and US negotiators to meet in Abu Dhabi, says Zelensky",
-   "published_at": "2026-10-23T16:21:52+00:00",
+   "id": "cb78a94d-418f-4a20-bcbd-7a55b8289e63",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610210020",
+   "title": "Airlines cancel, reschedule flights as Typhoon Champi approaches",
+   "published_at": "2026-10-21T12:40:31+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "e789e2b2-2c99-46aa-a6e7-c14061e1833a"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "69354738-44f7-4802-ac39-d7e8afc729d3",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews",
-   "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
-   "published_at": "2026-10-20T20:38:00+00:00",
-   "summary_ja": "マスク氏が減速を承認しウクライナが不意を突かれたと伝え、トランプ氏は指示を否定したとする。",
-   "angle": "指示の経緯",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "dc2aeaaa-d404-49a0-b7f5-024f6ec43e63",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371563/musk-ordered-slowdown-starlink-service-ukraine-military-relies-report-says",
-   "title": "Musk ordered slowdown of Starlink service Ukraine military relies on, report says",
-   "published_at": "2026-10-20T22:49:12+00:00",
-   "summary_ja": "米当局者らを引用したWSJ報道を伝え、マスク氏側は回答せず内容は未確認とする。",
-   "angle": "報道と未確認",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "58e48cdf-0d2d-42ad-80b8-1aa6a09e8916",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports",
-   "title": "Musk ordered slowdown of Starlink service used by Ukraine’s military: WSJ",
-   "published_at": "2026-10-20T21:11:18+00:00",
-   "summary_ja": "マスク氏が減速を指示したとのWSJ報道を、戦場通信での重要性とともに簡潔に伝える。",
-   "angle": "WSJ報道の紹介",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "642309bb-4722-4bd3-aaca-c282ec7e73be",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-   "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
-   "published_at": "2026-10-21T17:11:31+00:00",
-   "summary_ja": "スターシールドが突然制限され、ドローンが落下し部隊が危うくなったが、理由は不明だとする。",
-   "angle": "現場の被害",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "51e176cf-7a26-4841-b8af-fe810d92a64f",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
-   "title": "How Does the Ukrainian Military Use Starlink?",
-   "published_at": "2026-10-21T23:49:00+00:00",
-   "summary_ja": "ウクライナ軍が使うのは標準機器で機能が異なる基本的なスターシールドだと解説する。",
-   "angle": "サービスの解説",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "f16dba31-48f4-4b9f-8552-0e7d2c0e5cc0",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/elon-musks-starlink-speed-cap-has-scrambled-ukraines-defenses-fdfd936e?mod=rss_worldnews",
-   "title": "Elon Musk’s Starlink Speed Cap Has Scrambled Ukraine’s Defenses",
-   "published_at": "2026-10-21T17:54:00+00:00",
-   "summary_ja": "マスク氏が命じた速度制限が、ロシアの攻撃を止めるキーウの能力を損ねていると伝える。",
-   "angle": "防衛への影響",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "52dfbb7a-db21-4fce-b177-f89b2b1ec33e",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=rss_worldnews",
-   "title": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
-   "published_at": "2026-10-21T09:47:00+00:00",
-   "summary_ja": "減速がウクライナのドローンを機能不全にし、キーウに動揺を広げたと続報する。",
-   "angle": "ドローンへの打撃",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "3ccbd988-67dc-46ee-b892-5c95a469df78",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/plus6ad8a2d82c40700de0800889/ukraine-krieg-500fache-leistung-so-weit-hinkt-europa-dem-starlink-system-von-elon-musk-hinterher.html",
-   "title": "500‑fache Leistung – So weit hinkt Europa dem Starlink-System von Elon Musk hinterher",
-   "published_at": "2026-10-21T14:06:37+00:00",
-   "summary_ja": "ウクライナの米国衛星依存を示し、欧州はスターリンクに大きく劣ると数字で論じる。",
-   "angle": "欧州の遅れ",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "8963e0c6-1434-4f00-8668-5517734ded3b",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html",
-   "title": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
-   "published_at": "2026-10-21T06:30:22+00:00",
-   "summary_ja": "報道が事実ならトランプ大統領にも疑問が及ぶと指摘し、マスク氏の指示を伝える。",
-   "angle": "米政権への疑問",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "b948d2fa-42db-4b8d-9bb2-7390def60ac7",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/us/2026/10/21/BNEXOZ7E2BHDFDY7R27DZXOTI4/",
-   "title": "머스크 손끝에 전쟁 판도 좌우됐나... WSJ “우크라 스타실드 제한, 머스크 지시”",
-   "published_at": "2026-10-21T04:29:17+00:00",
-   "summary_ja": "マスク氏の指示で戦況が左右されたのかと問い、制限の指示報道を伝える。",
-   "angle": "戦況への影響",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "df8e751d-6c28-4336-be4f-0d7bddb5d1b0",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/21/ME2WGZTBGA4GKZJRGA2TOZBSGU/",
-   "title": "WSJ, “우크라軍 스타링크 속도 제한, 머스크 지시”… 트럼프와 사전 논의했나",
-   "published_at": "2026-10-21T01:40:31+00:00",
-   "summary_ja": "減速指示の報道を伝え、マスク氏の独断かトランプ氏との協議かで説明が割れていると指摘する。",
-   "angle": "トランプ氏との関係",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "1dd7c140-1e81-4c71-88e2-a3955ca54024",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2205775",
-   "title": "Musk probably limited Starshield for Kiev because it was used for attacks — Fox News",
-   "published_at": "2026-10-21T16:50:24+00:00",
-   "summary_ja": "フォックスの記者の発言として、攻撃に使われたためマスク氏が制限した可能性を紹介する。",
-   "angle": "制限の理由説",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "f61d2ba0-0d28-4d8c-adbd-b1b9848ccd0a",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2205759",
-   "title": "Ukraine loses at least $1 mln worth of drones amid Starshield disruptions — newspaper",
-   "published_at": "2026-10-21T16:08:06+00:00",
-   "summary_ja": "NYTを引き、ウクライナ軍が約3日間ほぼ全作戦を止め100万ドル超のドローンを失ったと伝える。",
-   "angle": "ウクライナの損失",
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "476b0be0-9fef-4044-a376-fa5c3b7280d4",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/us-democratic-senator-probes-ukraines-loss-of-starshield-service",
-   "title": "US Democratic senator probes Ukraine's loss of Starshield service",
-   "published_at": "2026-10-22T21:11:38+00:00",
+   "id": "63f2b5b0-4722-4532-bcb8-f5e39b115eee",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610210017",
+   "title": "Sea warning for Typhoon Champi possible overnight: CWA",
+   "published_at": "2026-10-21T11:09:23+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "a26324e6-a725-4e64-8943-a3fea71a6ede",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports",
-   "title": "Trump says Musk restored Ukraine’s Starlink access, declines to say if they spoke",
-   "published_at": "2026-10-22T18:51:38+00:00",
+   "id": "d94b503c-aab3-4f65-b16a-d0fd788a0af1",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/politics/202610210011",
+   "title": "Typhoon delays Army base tour in Taichung",
+   "published_at": "2026-10-21T07:59:07+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "91941236-5f33-4b1a-be76-4a62884c038e",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2206599",
-   "title": "Trump says Ukraine's access to Starshield restored",
-   "published_at": "2026-10-22T21:07:07+00:00",
+   "id": "49e93874-2543-4ce8-9e72-5b5fa8c889f3",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610210008",
+   "title": "Northern Taiwan to see rain as Typhoon Champi approaches",
+   "published_at": "2026-10-21T06:20:58+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "51a25b87-53ce-42e7-bdb5-e59ec2e23b31",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2207211",
-   "title": "Senators plan to block Trump’s nominees over Ukraine satellite network restrictions — NYT",
-   "published_at": "2026-10-23T23:44:17+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "8faa0df4-8c81-4d31-8ae3-bc4f480a062b",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-   "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-   "published_at": "2026-10-24T22:37:56+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "7a4e5ca7-f5cc-4ef2-81b5-7238675d8b84",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews",
-   "title": "U.S. Allies Race to Escape SpaceX’s Orbit",
-   "published_at": "2026-10-24T14:00:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "798e8479-b88a-47ed-8b25-10b38ed29181",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-   "title": "Who actually controls Ukraine's access to Starlink?",
-   "published_at": "2026-10-23T22:24:36+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "944d2aa3-3ddd-457f-98aa-be093c922341",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-terms-6489801",
-   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-   "published_at": "2026-10-24T21:27:24+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "eb2fca8d-28f6-4826-989e-5807451db10c",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372040/ukraines-starlink-speeds-restored-after-week-frontline-disruption",
-   "title": "Musk admits he throttled Ukraine’s Starlink speeds, as access is restored",
-   "published_at": "2026-10-24T18:00:35+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "112960a9-683c-4811-a3af-a4183a9e2cb6",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/article6add2030247c1fa201305c10/satelliteninternet-ukraine-hat-musk-zufolge-starlink-fuer-offensivangriffe-genutzt.html",
-   "title": "Ukraine hat Musk zufolge Starlink für Offensivangriffe genutzt",
-   "published_at": "2026-10-24T21:21:16+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "87bd6ca8-23d2-4ecd-b5ab-935a46c3069e",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-musk-ukraine-hat-starlink-fuer-offensivangriffe-genutzt-faz-110683325.html",
-   "title": "Liveblog Ukrainekrieg: Musk: Ukraine hat Starlink für Offensivangriffe genutzt",
-   "published_at": "2026-10-24T20:58:35+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "6e954132-f22a-4ae7-b01a-7c61aa6684be",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2207339",
-   "title": "Kiev violated Starlink terms of service, Musk says",
-   "published_at": "2026-10-24T19:35:32+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "7969c9eb-4efe-440e-a457-51a914475020",
-   "outlet_id": "tass",
-   "url": "https://tass.com/world/2207263",
-   "title": "US authorities repeatedly used SpaceX for foreign policy goals — Reuters",
-   "published_at": "2026-10-24T07:17:08+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "1dd9010c-98d8-41b1-bef6-da18059edb9e",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "published_at": "2026-10-25T09:00:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "86652ae4-2194-4f50-9598-1456d1195b58",
-   "outlet_id": "koreaherald",
-   "url": "https://www.koreaherald.com/article/10913860",
-   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-   "published_at": "2026-10-25T04:14:24+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "75d5fb9b-f774-44f8-85a1-14fc1a6ccb9b",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/video6addab8aa6a5d701acbce69d/starlink-das-ist-eine-sehr-klare-absatzbewegung-von-musk-in-richtung-us-regierung.html",
-   "title": "„Das ist eine sehr klare Absatzbewegung von Musk in Richtung US-Regierung“",
-   "published_at": "2026-10-25T07:20:19+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "d4b82f4b-c213-495e-9780-a9379e8a764e",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
-   "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-   "published_at": "2026-10-25T07:45:03+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "aa1e2d00-1bfc-4945-aaf3-6e12249527b4",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed",
-   "title": "Zelensky says US warnings on ballistic strikes have fully resumed",
-   "published_at": "2026-10-25T20:40:32+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "0ad13b3c-b099-44bb-a27e-25aac431c10f",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2039596/starlink-back-to-normal-in-ukraine-after-week-of-throttling",
-   "title": "Starlink back to normal in Ukraine after week of throttling",
-   "published_at": "2026-10-25T01:20:05+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "c8588598-766e-408d-8e79-e96739b6d05f",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/article6adef1d1ba080c37bf6d187f/ukraine-krieg-selenskyj-weist-mehrere-russische-forderungen-zurueck-ukraine-wehrt-sich-gegen-starlink-vorwuerfe.html",
-   "title": "Selenskyj weist mehrere russische Forderungen zurück – Ukraine wehrt sich gegen Starlink-Vorwürfe",
-   "published_at": "2026-10-26T06:39:49+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "0e51f949-9afb-4459-94ea-bbf20a5457f8",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2039808/musk-accuses-ukraine-of-violating-starlink-terms",
-   "title": "Musk accuses Ukraine of violating Starlink terms",
-   "published_at": "2026-10-26T01:06:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "f7f96be1-5b43-4d8e-abba-8be1adcd60a0"
-  },
-  {
-   "id": "0c3d9760-0201-4e23-a209-9d03c23e0278",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3371458/paris-tirana-why-protests-and-riots-are-sweeping-across-europe",
-   "title": "From Paris to Tirana, why protests and riots are sweeping across Europe",
-   "published_at": "2026-10-20T05:03:55+00:00",
-   "summary_ja": "燃料高や公共サービス低下、住宅危機が重なり、パリからティラナまで抗議と暴動が広がった理由を解説する。",
-   "angle": "拡大の背景解説",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "1c3a3721-447e-4546-b8c2-021f5d374c6d",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/plus6ad71c731935debc092ab455/eskalierte-proteste-von-ceuta-bis-paris-europas-migrationsstreit-bricht-wieder-auf.html",
-   "title": "Von Ceuta bis Paris – Europas Migrationsstreit bricht wieder auf",
-   "published_at": "2026-10-20T12:22:35+00:00",
-   "summary_ja": "仏の放火や略奪をきっかけに、EU内の移民政策をめぐる対立が再び表面化したと論じる。",
-   "angle": "移民政策の対立",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "51682d40-6884-4770-9689-a32f3d77920b",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Polizei-raeumt-Protestlager-gegen-Wohnungsnot-in-Lissabon/!6222989/",
-   "title": "55 Festnahmen in Portugal: Polizei räumt Protestlager gegen Wohnungsnot in Lissabon",
-   "published_at": "2026-10-20T12:49:00+00:00",
-   "summary_ja": "リスボンで高い家賃に抗議するキャンプを警察が撤去し、55人が拘束されたと伝える。",
-   "angle": "住宅抗議の撤去",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "1341841e-1952-43fd-abd9-2f7b8f54ade7",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/italien-proteste-lebenshaltungskosten-pasta-energiepreise-giorgia-meloni-li.3566264",
-   "title": "Demonstrationen: Proteste legen Pasta-Produktion in Italien lahm",
-   "published_at": "2026-10-20T12:58:26+00:00",
-   "summary_ja": "物価高でデモが広がり、運転手の高速封鎖でイタリアのパスタ生産が止まり、メローニ首相の対応にも触れる。",
-   "angle": "伊の生活への影響",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "b1771baa-d2c0-4e57-a75b-1ed30d0e835c",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/20/un-rights-chief-condemns-protest-violence-across-europe_6760228_4.html",
-   "title": "UN rights chief condemns protest violence across Europe",
-   "published_at": "2026-10-20T15:55:16+00:00",
-   "summary_ja": "国連人権高等弁務官が、欧州5か国の大規模デモは人権上の懸念を生んでいるとして暴力を非難したと伝える。",
-   "angle": "国連が暴力を非難",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "2319132e-81eb-4dc3-a6d2-b3fe036e9a70",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/20/portuguese-police-dismantle-housing-protest-camps-in-lisbon_6759733_4.html",
-   "title": "Portuguese police dismantle housing protest camps in Lisbon",
-   "published_at": "2026-10-20T10:53:44+00:00",
-   "summary_ja": "リスボン中心部の住宅抗議キャンプを警察が早朝に撤去し、少なくとも55人を逮捕したと伝える。",
-   "angle": "リスボンで撤去",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "44523060-7922-4302-9ca3-2288a1afa67e",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/20/italy-spain-belgium-portugal-social-unrest-spreads-across-europe-amid-soaring-energy-prices-and-a-housing-crisis_6759435_4.html",
-   "title": "Italy, Spain, Belgium, Portugal: Social unrest spreads across Europe amid soaring energy prices and a housing crisis",
-   "published_at": "2026-10-20T04:15:08+00:00",
-   "summary_ja": "伊西白葡へ社会不安が広がり、エネルギー高と住宅難が背景で、ゼネストも予定されていると伝える。",
-   "angle": "生活費高騰と拡大",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "645f53fa-101e-45b5-aa14-5f29db09fd31",
-   "outlet_id": "premiumtimes",
-   "url": "https://www.premiumtimesng.com/foreign/world-foreign/918693-protests-in-france-spain-other-european-countries-persist.html",
-   "title": "Protests in France, Spain, other European countries persist",
-   "published_at": "2026-10-20T21:22:13+00:00",
-   "summary_ja": "仏やスペインなどでデモが続き、欧州の右派政治家が混乱を好機と捉えていると伝える。",
-   "angle": "右派の動き",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "9eba843c-e878-46b8-a851-c5d0b993ee47",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
-   "title": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
-   "published_at": "2026-10-21T21:05:46+00:00",
-   "summary_ja": "仏の高校生に始まった抗議が少なくとも他7か国の若者に広がり、将来への悲観が表れていると伝える。",
-   "angle": "若者の将来不安",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "4b80969e-a9bc-4f9d-9c24-0266934b7fef",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/22/GA3DGM3CGY2WKNRSMJSTGNBSME/",
-   "title": "“프랑스처럼 행동하자” 全유럽 덮친 청년 시위… 독일도 ‘핼러윈 총집결’ 예고",
-   "published_at": "2026-10-22T06:04:59+00:00",
-   "summary_ja": "若者のデモが独にも波及し、物価高や住宅不安、徴兵制の動きが背景で、ハロウィンの集会も予告されたと伝える。",
-   "angle": "若者の連帯と独へ波及",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "f0a8d6d1-6ef4-455d-ae5a-9547dacde06a",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/student-protests-mushroom-across-europe-exposing-bleak-views-of-the-future",
-   "title": "Student protests mushroom across Europe, exposing bleak views of the future",
-   "published_at": "2026-10-22T23:55:00+00:00",
-   "summary_ja": "欧州の若者の抗議の広がりと将来への悲観を伝え、今後の政権に難題が残ると指摘する。",
-   "angle": "若者の将来不安",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "ec84584e-6128-416e-a0f5-2b9239519aa6",
+   "id": "4f87323f-f324-496f-8137-b3c781244d89",
    "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-22/Police-clash-with-protesters-after-Vox-rally-in-Spain-1Rso4WQwQms/p.html",
-   "title": "Police clash with protesters after Vox rally in Spain",
-   "published_at": "2026-10-22T23:19:00+00:00",
-   "summary_ja": "スペインでボックスの集会後に警察とデモ隊が衝突したと伝える。",
-   "angle": "スペインでの衝突",
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "12dc74fc-5c9f-4531-a82f-6849d817d93d",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/thousands-protest-in-italy-under-heavy-security-6489781",
-   "title": "Thousands protest in Italy under heavy security",
-   "published_at": "2026-10-24T20:51:18+00:00",
+   "url": "https://news.cgtn.com/news/2026-10-21/Super-typhoon-Champi-heads-toward-China-as-Shanghai-braces-for-heavy-rain-1RqHGf3cg7u/p.html",
+   "title": "Super typhoon Champi heads toward China as Shanghai braces for heavy rain",
+   "published_at": "2026-10-21T23:00:00+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "79b6eac9-a287-4ef7-ba08-958141b2393d",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/25/75KUGXJOBFE3NK77TY7CLYGVIQ/",
-   "title": "이탈리아 전역 시위 몸살... 콜로세움도 뚫렸다",
-   "published_at": "2026-10-24T20:24:24+00:00",
+   "id": "d3a23212-c556-431c-b095-37804a087006",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610220022",
+   "title": "Typhoon Champi prompts school, office closures in most of Taiwan",
+   "published_at": "2026-10-22T12:46:48+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "5d4272e1-a5e7-446b-bbf0-280048540cd0",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/arrests-in-barcelona-after-anti-system-rioters-loot-shops-set-fires",
-   "title": "Arrests in Barcelona after ‘anti-system’ rioters loot shops, set fires",
-   "published_at": "2026-10-24T22:20:15+00:00",
+   "id": "fd0fcd7d-66e3-4283-926c-ff26e21aaef2",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610220013",
+   "title": "Alishan recreation area, forest railway to close from Friday for typhoon",
+   "published_at": "2026-10-22T09:47:26+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "c08a4810-8ef2-4b3b-beb5-b28f4a1b617a",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/protests-sweep-italian-cities-amid-heavy-security-presence-some-violence-reported",
-   "title": "Protests sweep Italian cities amid heavy security presence, some violence reported",
-   "published_at": "2026-10-24T18:27:17+00:00",
+   "id": "00990b03-3ecb-44ea-b3f2-09e468f959e0",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610220009",
+   "title": "Avoid beaches, mountains during typhoon on long-weekend holiday: Premier",
+   "published_at": "2026-10-22T06:53:14+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "4fd5662f-abc5-496e-828b-175832a9c937",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/albanian-police-fire-tear-gas-as-anti-government-student-protests-turn-violent",
-   "title": "Albania police use tear gas, rubber bullets as anti-government student protests turn violent",
-   "published_at": "2026-10-24T17:12:23+00:00",
+   "id": "e97fb623-643d-40e8-8a8e-19a64fe358c1",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610220006",
+   "title": "Taiwan issues land warning as Typhoon Champi approaches",
+   "published_at": "2026-10-22T03:57:05+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "fe2a18fb-e6db-424a-bf1d-647885e44c8e",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/belgian-protesters-and-police-skirmish-at-anti-government-demonstrations-in-brussels",
-   "title": "Protesters, police clash at anti-government demonstrations in Brussels",
-   "published_at": "2026-10-24T15:47:07+00:00",
+   "id": "517790cf-04a7-4599-bac5-ccc949e94646",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610220001",
+   "title": "Taiwan issues sea warning for Typhoon Champi",
+   "published_at": "2026-10-22T01:00:51+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "92855982-706f-4aee-abcb-a5e05fc54df6",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/security-forces-deploy-for-italy-protests-after-clashes",
-   "title": "Security forces deploy for Italy protests after clashes",
-   "published_at": "2026-10-24T14:14:31+00:00",
+   "id": "278c0cdc-0642-4456-9ff1-7857ef42f34d",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610230019",
+   "title": "13 counties, cities announce office, school closures for Saturday",
+   "published_at": "2026-10-23T13:29:56+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "68e87a67-53f7-4f87-ba23-f941072a928f",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/demonstrationen-italien-frankreich-belgien-albanien-jugendliche-li.3568500",
-   "title": "Demonstrationen: Wo in Europa überall Proteste stattfinden",
-   "published_at": "2026-10-24T21:30:17+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "27a6f327-964b-4fc7-afd1-7d4e96549f96",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-jugendproteste-europa-schule-bildung-zukunft-gewalt-li.3567313",
-   "title": "Podcast „Auf den Punkt“: Was die Jugendproteste in Europa vereint",
-   "published_at": "2026-10-24T05:00:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "96a8beb6-fe2a-4b78-8b40-70b6f6266f78",
+   "id": "7b191e5c-a518-4e4c-a080-ae553e838356",
    "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
-   "title": "Violent clashes as Albanian government cracks down on protests",
-   "published_at": "2026-10-24T20:39:08+00:00",
+   "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+   "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+   "published_at": "2026-10-23T23:10:54+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "1a08071b-8aff-49a3-bb6e-d146e4aac07c",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-   "title": "Thousands gather at new Albanian antigovernment rally",
-   "published_at": "2026-10-24T18:30:56+00:00",
+   "id": "7ec13912-9031-419a-9195-26d8b84434bf",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610240017",
+   "title": "Champi leaves 1 dead, 616 injured as storm moves away from Taiwan",
+   "published_at": "2026-10-24T12:17:57+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "6bf82ad5-57fd-480c-81ec-6d71ecc8146a",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-   "title": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
-   "published_at": "2026-10-24T15:05:58+00:00",
+   "id": "0db5e91e-0eac-49a5-be6a-4a9fa9583221",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610240016",
+   "title": "Initial agricultural losses from Storm Champi at NT$133 million",
+   "published_at": "2026-10-24T11:48:54+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "2d478cee-e744-4ae0-aa41-497f343a662c",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/24/thousands-protest-in-italy-despite-heavy-security_6763363_4.html",
-   "title": "Thousands protest in Italy despite heavy security",
-   "published_at": "2026-10-24T20:43:25+00:00",
+   "id": "6f32dd27-79f2-47e7-8dfc-fcf3d6ed0aa6",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610240012",
+   "title": "Storm Champi disrupts air, sea travel, stranding thousands",
+   "published_at": "2026-10-24T09:27:43+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "3430abc4-1e1b-442d-a5bc-456eef3733ce",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
-   "title": "Italy’s Young Protesters Return to the Streets",
-   "published_at": "2026-10-25T15:41:10+00:00",
+   "id": "c08e56cf-6bfd-488a-bd7f-8145aaa30aa8",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610240009",
+   "title": "Land warning for Champi lifted as typhoon downgraded to tropical storm",
+   "published_at": "2026-10-24T07:14:35+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "9f749308-2440-4f8e-ab61-547d46e48a09",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/video6add9e8e247c1fa201305e7b/spanien-es-ging-ganz-allein-um-pluenderung-und-zerstoerung-rund-100-festnahmen-bei-protesten-in-barcelona.html",
-   "title": "„Es ging ganz allein um Plünderung und Zerstörung“ – Rund 100 Festnahmen bei Protesten in Barcelona",
-   "published_at": "2026-10-25T06:23:22+00:00",
+   "id": "8636a886-7320-4dd6-a57b-e2bb2db192a6",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202610240004",
+   "title": "Land warning for Typhoon Champi expected to be lifted Saturday evening: CWA",
+   "published_at": "2026-10-24T03:29:20+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
   },
   {
-   "id": "0674bf89-d694-46e1-82bc-a69f29a18418",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/article6add6632ba080c37bf6d068d/randale-grundlose-gewalt-und-vandalismus-rund-100-festnahmen-bei-protesten-in-barcelona.html",
-   "title": "„Grundlose Gewalt und Vandalismus“ – Rund 100 Festnahmen bei Protesten in Barcelona",
-   "published_at": "2026-10-25T02:26:12+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "d26dd737-d37d-42d3-93c0-bb6c12d5d12a",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Sozialproteste-in-Europa/!6224917/",
-   "title": "Sozialproteste in Europa: Für gute Bildung, bezahlbare Mieten und moderate Preise",
-   "published_at": "2026-10-25T14:31:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "882b2ddd-bf04-404f-a07d-0089057dd539",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/26/A3QA4D4G4JAKTOB5BCQOH72KMI/",
-   "title": "佛 전문 시위꾼 곳곳서 방화·약탈… 伊선 일부 시위대 콜로세움 진입",
-   "published_at": "2026-10-25T15:41:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "50f71c11-93d4-4280-850f-0a4b39099322",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/fresh-protests-in-tirana-despite-new-measures-to-curb-unrest",
-   "title": "Fresh protests in Tirana, despite new measures to curb unrest",
-   "published_at": "2026-10-25T16:05:35+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "53cede9a-9447-48b7-bd79-755f10f0c775",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-   "title": "Portuguese police with dogs and batons dismantle housing protest camps",
-   "published_at": "2026-10-25T15:32:20+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "dfe7b867-0574-4b6d-b9f8-6d23f00f7e22",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/mailands-buergermeister-beppe-sala-zwischen-sheriffs-uniform-und-regenbogenfahne-201619349.html",
-   "title": "Demonstrationen in Italien: Mailands grüner Sheriff",
-   "published_at": "2026-10-25T20:00:26+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "530371a7-b3ef-4cbd-a159-2a6ff15acdac",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/angeblicher-drahtzieher-der-mailaender-krawalle-verhaftet-accg-201619501.html",
-   "title": "Jugendproteste: Rom meldet Festnahme des mutmaßlichen Drahtziehers der Randale von Mailand",
-   "published_at": "2026-10-25T13:42:27+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "b03835b8-d254-43bb-8a7d-5cfc9e3d129d",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-   "title": "Can protests in Europe bring about change?",
-   "published_at": "2026-10-25T17:39:42+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "02cf3da0-5754-4a78-afe8-44d3d13c3aa4",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/25/thousands-defy-ban-to-protest-in-milan-echoing-french-slogans_6763793_4.html",
-   "title": "Thousands defy ban to protest in Milan, echoing French slogans",
-   "published_at": "2026-10-25T14:34:25+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "346dab0f-992b-4387-8fbf-e72c30a4fd66",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3343319/demonstrators-wounded-as-portugal-police-clear-housing-protest-camps",
-   "title": "Demonstrators wounded as Portugal police clear housing protest camps",
-   "published_at": "2026-10-25T11:45:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "420cf6c1-5622-47a5-87d1-c46b8181d586"
-  },
-  {
-   "id": "d12ba7ac-7d09-425b-9ba7-5810ae180d3a",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/eu-unveils-new-arctic-strategy-in-face-us-russia-threats-6476331",
-   "title": "EU unveils new Arctic strategy in face of US, Russia threats",
-   "published_at": "2026-10-20T18:08:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "c73a0d4e-71bc-4734-be44-64dd658bb381",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3371549/eu-unveils-arctic-strategy-counter-increasing-russia-china-influence",
-   "title": "EU unveils Arctic strategy to counter increasing Russia, China influence",
-   "published_at": "2026-10-20T13:31:45+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "5d4b82cc-dd79-416b-b4ac-8b4d425983a2",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html",
-   "title": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
-   "published_at": "2026-10-20T15:38:35+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "290d0624-d2a1-494c-b0ca-8517ec603719",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/eu-unveils-new-arctic-strategy-with-focus-on-security",
-   "title": "EU unveils new Arctic strategy with focus on security",
-   "published_at": "2026-10-20T15:01:10+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "3cef1fc6-abcb-4ed3-8402-dea70e896158",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/eu-unveils-strategy-to-boost-arctic-security-in-face-of-us-russia-threats",
-   "title": "EU unveils strategy to boost Arctic security in face of US, Russia threats",
-   "published_at": "2026-10-20T14:56:34+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "9d9ea761-0488-4cb2-a9ff-9a7afee54a35",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/neue-arktis-strategie-die-eu-will-ihre-interessen-behaupten-201604716.html",
-   "title": "EU-Kommission: Sicherheit steht im Zentrum der neuen Arktisstrategie",
-   "published_at": "2026-10-20T13:03:18+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "da6a3b11-73b2-4ec7-9415-541c363f5d1f",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
-   "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-   "published_at": "2026-10-20T20:05:39+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "7edbafdf-7901-4a8c-ab23-b518ad26b0bd",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/20/eu-unveils-new-arctic-strategy-in-face-of-us-russia-threats_6760261_4.html",
-   "title": "EU unveils new Arctic strategy in face of US, Russia threats",
-   "published_at": "2026-10-20T15:56:31+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "53665298-55d8-4256-97ee-048e909a850c",
-   "outlet_id": "tass",
-   "url": "https://tass.com/politics/2205827",
-   "title": "Europe’s militarized Arctic strategy will only cause EU isolation — Russian diplomats",
-   "published_at": "2026-10-21T18:52:36+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "fc51ee8a-8fd0-47c7-8764-0fb69a4ac2cf",
-   "outlet_id": "globaltimes",
-   "url": "https://www.globaltimes.cn/page/202610/1372786.shtml",
-   "title": "China's activities in the Arctic are in line with international law: FM on EU's new Arctic strategy hyping security concerns over China",
-   "published_at": "2026-10-21T23:53:47+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "94c8b3bc-97e9-47e1-adc2-386b2f4b1379",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3341653/china-slams-cold-war-mentality-in-eu-arctic-plan",
-   "title": "China slams ‘Cold War mentality’ in EU Arctic plan",
-   "published_at": "2026-10-22T09:45:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "e7a404ef-7b2d-48f3-a6bd-ffe1cdca2514",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/iran-war-gulf-undersea-cables-6487421",
-   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-   "published_at": "2026-10-24T00:54:03+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "d70e082f-3286-4eab-8957-9de8ec4ba232"
-  },
-  {
-   "id": "402d8da7-b56b-4dd0-b7a6-8e65ed899833",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/video6ad74749199dc15f1abda6e0/krawalle-in-italien-meloni-schickt-500-soldaten-nach-mailand.html",
-   "title": "Meloni schickt 500 Soldaten nach Mailand",
-   "published_at": "2026-10-20T10:52:09+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "f00de867-1bbc-439a-95f5-f0a89e41d8bf",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/article6ad738082352c608d83cf25e/krawalle-in-italien-meloni-schickt-500-soldaten-nach-mailand-und-warnt-vor-mistgabel-aufstand-in-europa.html",
-   "title": "Meloni schickt 500 Soldaten nach Mailand – und warnt vor „Mistgabel“-Aufstand in Europa",
-   "published_at": "2026-10-20T10:45:01+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "5b73b942-732f-457c-87e5-7330835136e1",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/videos/video6ad6eb0f199dc15f1abd9fa3/ausschreitungen-in-mailand-rom-erwaegt-ausgangssperren-und-laengeren-gewahrsam.html",
-   "title": "Rom erwägt Ausgangssperren und längeren Gewahrsam",
-   "published_at": "2026-10-20T04:44:43+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "ba07351b-932a-4974-91ac-4754e533e992",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/20/MZSGKM3BHFSWIMBQHBQWGNBRG4/",
-   "title": "이탈리아 정부, ‘밀라노 폭력 시위’ 대응…軍 500명 배치",
-   "published_at": "2026-10-20T13:21:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "9a859cbd-50ba-487d-a256-e45412bb7bc4",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/italys-law-and-order-crackdowns-under-meloni",
-   "title": "Italy's law-and-order crackdowns under Meloni",
-   "published_at": "2026-10-20T16:21:31+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "542102b4-05a5-4743-b7ff-45ac789f4ae4",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/mailand-so-will-italien-minderjaehrige-krawallmacher-abschrecken-201604896.html",
-   "title": "Unruhen in Mailand: Italien will minderjährige Krawallmacher abschrecken",
-   "published_at": "2026-10-20T17:56:29+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "3f6a1989-6157-43d9-b04f-912b44c4d12e",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/krawalle-in-mailand-italien-schickt-500-soldaten-und-prueft-ausgangssperren-accg-201604405.html",
-   "title": "Nach Ausschreitungen: Rom schickt 500 Soldaten nach Mailand",
-   "published_at": "2026-10-20T09:09:50+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "759fecff-6bf4-4188-95b9-5018569f5743",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/20/italy-to-send-500-troops-to-milan-after-clashes-with-protesters_6759799_4.html",
-   "title": "Italy to send 500 troops to Milan after clashes with protesters",
-   "published_at": "2026-10-20T11:30:18+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "a9ba10c3-cdfd-4a58-8d36-f5c08e1108a8",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3340874/italy-sends-troops-toughens-security-laws-after-milan-clashes",
-   "title": "Italy sends troops, toughens security laws after Milan clashes",
-   "published_at": "2026-10-20T18:45:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "8a8c05bd-5c94-4a89-88e4-8cf605f63746",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Sozialproteste-in-Italien-Wie-die-Regierung-um-Meloni-nun-gegen-Jugendliche-durchgreift/!6223324/",
-   "title": "Ausschreitungen in Italien: Mit Härte gegen gewaltsame Proteste",
-   "published_at": "2026-10-21T12:28:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "cf69d8c5-6e47-4b11-94f2-1106879dcd84",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
-   "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
-   "published_at": "2026-10-21T09:31:54+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "973eb9cc-1146-47fd-b8ce-60370c65542d"
-  },
-  {
-   "id": "4f548608-f26b-4dc1-b9c2-d488ec6df3dd",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
-   "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
-   "published_at": "2026-10-20T12:34:57+00:00",
-   "summary_ja": "イラン後ろ盾のフーシ派の攻撃急増を受け、インフラ防衛にタイフーンを送ると伝えている。",
-   "angle": "攻撃急増が背景",
-   "story_id": "7bacff1f-1f9a-4d77-a2b6-8af15abe68ab"
-  },
-  {
-   "id": "34b4ffb4-1417-4121-b48d-cfed92eb7a7d",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/uk-deploy-fighter-jets-protect-saudi-houthi-attacks-6475431",
-   "title": "UK to deploy fighter jets to help protect Saudi from Houthi attacks",
-   "published_at": "2026-10-20T11:25:00+00:00",
-   "summary_ja": "英国が戦闘機に加え、サウジの参謀将校を支援する軍事顧問も派遣すると伝えている。",
-   "angle": "顧問派遣も",
-   "story_id": "7bacff1f-1f9a-4d77-a2b6-8af15abe68ab"
-  },
-  {
-   "id": "508f88b7-097c-425f-bb95-8c424ff86c7e",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/middle-east/article/3371539/uk-deploy-fighter-planes-help-saudi-arabias-defence-against-houthis",
-   "title": "UK to deploy fighter planes to help Saudi Arabia’s defence against Houthis",
-   "published_at": "2026-10-20T12:04:05+00:00",
-   "summary_ja": "英政府の発表を基に、サウジの都市やインフラを守る戦闘機派遣を伝えている。",
-   "angle": "防御任務の発表",
-   "story_id": "7bacff1f-1f9a-4d77-a2b6-8af15abe68ab"
-  },
-  {
-   "id": "caeba029-6df3-4e2e-961a-b3859b3cd559",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-   "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-   "published_at": "2026-10-20T18:30:16+00:00",
-   "summary_ja": "西側諸国の関与が強まる中での、英国の対サウジ支援の拡大として伝えている。",
-   "angle": "西側の関与拡大",
-   "story_id": "7bacff1f-1f9a-4d77-a2b6-8af15abe68ab"
-  },
-  {
-   "id": "00b349eb-e5b0-4fb9-9318-15ea869e9b54",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
-   "title": "UK to deploy fighter jets to defend Saudi Arabia",
-   "published_at": "2026-10-20T18:55:52+00:00",
-   "summary_ja": "激化するフーシ派の攻撃からサウジを守る防御任務としてタイフーン派遣を伝えている。",
-   "angle": "防衛支援",
-   "story_id": "7bacff1f-1f9a-4d77-a2b6-8af15abe68ab"
-  },
-  {
-   "id": "2e20a134-c657-4931-aa22-9726462db6c8",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/20/uk-promises-fighter-jets-to-help-protect-saudi-from-houthi-attacks_6759832_4.html",
-   "title": "UK promises fighter jets to help protect Saudi Arabia from Houthi attacks",
-   "published_at": "2026-10-20T11:45:57+00:00",
-   "summary_ja": "英国防省の説明として、タイフーンが防御的な対空任務に就くと伝えている。",
-   "angle": "国防省の説明",
-   "story_id": "7bacff1f-1f9a-4d77-a2b6-8af15abe68ab"
-  },
-  {
-   "id": "0c8d9e20-874d-408b-912f-ff516f61169e",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2038537/uk-to-deploy-fighter-jets-to-help-protect-saudi-arabia-from-houthi-attacks",
-   "title": "UK to deploy fighter jets to help protect Saudi Arabia from Houthi attacks",
-   "published_at": "2026-10-20T11:50:51+00:00",
-   "summary_ja": "英政府がサウジへの追加の防御的軍事支援として戦闘機派遣を発表したと伝えている。",
-   "angle": "英政府の発表",
-   "story_id": "7bacff1f-1f9a-4d77-a2b6-8af15abe68ab"
-  },
-  {
-   "id": "4c993678-e92f-4224-b21b-8dd6047df6f4",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/global-warming-is-accelerating-leading-climate-scientist-rockstrom-says",
-   "title": "Global warming is accelerating, leading climate scientist Rockstrom says",
-   "published_at": "2026-10-20T15:31:14+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "2ac50db9-b75e-4296-947a-8c5037f453b2"
-  },
-  {
-   "id": "3cd75bc6-18cf-4c7f-b4e7-42bdf846f8ca",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/accelerating-warming-pushes-vital-ecosystems-towards-point-of-no-return-scientist-warns",
-   "title": "Accelerating warming pushes vital ecosystems towards point of no return, scientist warns",
-   "published_at": "2026-10-20T13:43:25+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "2ac50db9-b75e-4296-947a-8c5037f453b2"
-  },
-  {
-   "id": "e5bb8100-899c-4cef-9c6d-d162bd7516c4",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3340423/global-warming-pace-accelerating-says-climate-scientist",
-   "title": "Global warming pace accelerating, says climate scientist",
-   "published_at": "2026-10-20T13:57:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "2ac50db9-b75e-4296-947a-8c5037f453b2"
-  },
-  {
-   "id": "5aa58c3d-3bbc-4acb-b76d-095b3edd7bbe",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/UN-Bericht-Menschheit-gefaehrlich-weit-von-15-Grad-entfernt/!6223118/",
-   "title": "UN-Bericht zur Klimakrise: Menschheit „gefährlich weit“ von 1,5 Grad entfernt",
-   "published_at": "2026-10-21T09:06:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "2ac50db9-b75e-4296-947a-8c5037f453b2"
-  },
-  {
-   "id": "a8eaf3fe-7e4c-48f6-931b-47ff9c818791",
+   "id": "0c8a1b7a-36bc-4825-87e7-0ead85ba9f85",
    "outlet_id": "jakartapost",
-   "url": "https://www.thejakartapost.com/culture/2026/10/21/un-sees-higher-global-warming-even-in-best-case-scenario",
-   "title": "UN sees higher global warming, even in best-case scenario",
-   "published_at": "2026-10-21T06:31:11+00:00",
+   "url": "https://www.thejakartapost.com/world/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured",
+   "title": "Typhoon Champi sweeps past Taiwan, leaving 1 dead, 500 injured",
+   "published_at": "2026-10-24T03:31:53+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "2ac50db9-b75e-4296-947a-8c5037f453b2"
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
+  },
+  {
+   "id": "0b477fb8-0b4b-4ea3-a526-88531a025c8f",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+   "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+   "published_at": "2026-10-24T02:22:32+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
+  },
+  {
+   "id": "64d93fdb-d6f0-45b4-a8af-675963d2c4c6",
+   "outlet_id": "tass",
+   "url": "https://tass.com/emergencies/2207241",
+   "title": "At least 500 people affected by typhoon Champi in Taiwan",
+   "published_at": "2026-10-24T03:32:01+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
+  },
+  {
+   "id": "2d19719a-909b-4d39-be29-a4ba1266dfdf",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2039482/tropical-storm-champi-nears-china-after-battering-taiwan-japan",
+   "title": "Tropical Storm Champi nears China after battering Taiwan, Japan",
+   "published_at": "2026-10-24T11:11:18+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "54014f28-9a71-4b78-9977-e6f25e6b67c0"
+  },
+  {
+   "id": "f3e5d13b-1cfb-47f2-9195-1e5502341538",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/united-states/global-diesel-prices-seen-staying-high-despite-trumps-deal-with-russia",
+   "title": "Global diesel prices seen staying high despite Trump’s deal with Russia",
+   "published_at": "2026-10-21T14:15:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "8b2f0040-ec2e-475d-b0ca-642a38172d12",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
+   "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
+   "published_at": "2026-10-21T20:54:27+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "9299bd84-154b-46f2-83ed-3f88da8e94db",
+   "outlet_id": "tass",
+   "url": "https://tass.com/economy/2205801",
+   "title": "Diesel deal to stabilize global fuel markets — Kremlin aide",
+   "published_at": "2026-10-21T17:21:35+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "cf13435d-c5a1-430f-b04c-c560420271ab",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/europe/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows",
+   "title": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+   "published_at": "2026-10-23T14:32:26+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "108a4fa2-5dd9-428a-a44c-dd3c8962b29b",
+   "outlet_id": "tass",
+   "url": "https://tass.com/economy/2207175",
+   "title": "First three tankers with Russia diesel heading toward Atlantic East Coast — deputy PM",
+   "published_at": "2026-10-23T20:06:01+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "732ddba7-d8b8-43f8-aafe-0db8041ee1f9",
+   "outlet_id": "tass",
+   "url": "https://tass.com/economy/2207169",
+   "title": "Rosneft may account for the bulk of diesel exports — Russian deputy PM",
+   "published_at": "2026-10-23T19:52:35+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "f22c2162-6c68-49c3-a818-6d44703e15fd",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3342383/tanker-with-russian-diesel-heads-to-new-york",
+   "title": "Tanker with Russian diesel heads to New York",
+   "published_at": "2026-10-23T12:45:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "1cf17808-4e26-4dd6-9d7f-f2f1566f47b2",
+   "outlet_id": "tass",
+   "url": "https://tass.com/world/2207595",
+   "title": "Trump describes diesel deal with Russia as very good",
+   "published_at": "2026-10-25T17:28:39+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "059bf1a1-23ff-4dec-a67f-96edd4051d8e",
+   "outlet_id": "tass",
+   "url": "https://tass.com/politics/2207549",
+   "title": "Russia prepared to export as much of diesel fuel as US may need — deputy PM",
+   "published_at": "2026-10-25T13:53:06+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "abed954c-b3d7-4dc7-b973-d40f6c447a97",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce?mod=rss_worldnews",
+   "title": "Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
+   "published_at": "2026-10-26T03:00:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "ad9e4af1-bcce-4522-8863-0ec9e95925b9"
+  },
+  {
+   "id": "77b7677c-8108-4328-af8e-dd86edfcc215",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/article6ad8e4a88ef0fba254b7b8b7/argentiniens-praesident-dieb-korrupt-diktator-sanchez-milei-sorgt-bei-besuch-in-spanien-fuer-eklat.html",
+   "title": "„Dieb“, „korrupt“, „Diktator Sánchez“ – Milei sorgt bei Besuch in Spanien für Eklat",
+   "published_at": "2026-10-21T17:08:46+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "03b90863-bea7-4d91-b6d8-0649f2c51431"
+  },
+  {
+   "id": "2f1c8099-36f6-4f20-86c8-8324edf94c33",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/javier-milei-nennt-pedro-sanchez-diktator-und-lula-einen-dieb-201608940.html",
+   "title": "Bei Spanien-Reise: Milei nennt Sánchez „Diktator“ und Lula einen „Dieb“",
+   "published_at": "2026-10-21T15:18:18+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "03b90863-bea7-4d91-b6d8-0649f2c51431"
+  },
+  {
+   "id": "c3392170-4f22-40ee-ab1c-a8ae32b13944",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/10/21/argentina-s-milei-calls-spain-s-sanchez-a-dictator-in-madrid-visit_6761000_4.html",
+   "title": "Argentina's Milei calls Spain's Sanchez a 'dictator' in Madrid visit",
+   "published_at": "2026-10-21T15:53:37+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "03b90863-bea7-4d91-b6d8-0649f2c51431"
+  },
+  {
+   "id": "dd1af239-e630-4fa7-9cb9-d8c6a094976a",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3341100/visiting-argentine-president-calls-spanish-pm-a-dictator",
+   "title": "Visiting Argentine president calls Spanish PM a ‘dictator’",
+   "published_at": "2026-10-21T13:45:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "03b90863-bea7-4d91-b6d8-0649f2c51431"
   }
  ]
 }
