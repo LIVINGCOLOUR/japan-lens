@@ -1,240 +1,4 @@
 {
- "https://www.welt.de/reise/plus6aabf05bfc82e30f94af3616/japan-diese-14-taegige-traumreise-zeigt-orte-die-viele-touristen-uebersehen.html": {
-  "lead": "",
-  "tags": [
-   "Japan",
-   "Reisen (ks)",
-   "Länderporträts"
-  ],
-  "saved_at": "2026-10-18T23:01:48.004487+00:00"
- },
- "https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html": {
-  "lead": "Officials on Friday withdrew an alert sent when they believed a 9.9-magnitude earthquake had taken place. In the end, the tremor was hardly felt.",
-  "tags": [
-   "Earthquakes",
-   "Disasters and Emergencies",
-   "United States Geological Survey",
-   "Japan",
-   "Kamchatka Peninsula (Russia)",
-   "internal-eafs"
-  ],
-  "saved_at": "2026-10-18T23:01:41.105810+00:00"
- },
- "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html": {
-  "lead": "Sanae Takaichi said she has a busier schedule than her male predecessors, a nod to the disproportionate share of household tasks in Japan that fall to women.",
-  "tags": [
-   "Cosmetics and Toiletries",
-   "Politics and Government",
-   "Legislatures and Parliaments",
-   "Women and Girls",
-   "Gender",
-   "Work-Life Balance",
-   "Habits and Routines (Behavior)",
-   "Takaichi, Sanae"
-  ],
-  "saved_at": "2026-10-18T23:01:41.106239+00:00"
- },
- "https://www.wsj.com/economy/central-banking/bank-of-japan-must-ensure-underlying-inflation-doesnt-go-above-2-ueda-says-0d94c2f0?mod=rss_worldnews": {
-  "lead": "The central bank’s governor said the Middle East situation, AI demand and foreign-exchange rates would affect the timing of the decision.",
-  "tags": [],
-  "saved_at": "2026-10-18T23:01:41.387929+00:00"
- },
- "https://www.wsj.com/economy/central-banking/bank-of-japan-must-ensure-underlying-inflation-doesnt-go-above-2-ueda-says-0d94c2f0?mod=rss_socialeconomyfeed": {
-  "lead": "The central bank’s governor said the Middle East situation, AI demand and foreign-exchange rates would affect the timing of the decision.",
-  "tags": [],
-  "saved_at": "2026-10-18T23:01:41.388311+00:00"
- },
- "https://www.scmp.com/news/asia/east-asia/article/3371133/japans-okinawa-drops-opposition-hosting-crash-prone-us-osprey-aircraft?utm_source=rss_feed": {
-  "lead": "Okinawa Governor Genta Koja said on Friday he accepts the deployment of US military MV-22 Osprey transport aircraft at the Futenma air station, reversing the southern Japan prefecture’s long-standing opposition to their presence.\nPrevious prefectural governments, under governors critical of US bases, had opposed the deployment of the tilt-rotor aircraft since before they were first stationed at the base in 2012, citing safety concerns. Koja assumed the post of Okinawa governor late last...",
-  "tags": [],
-  "saved_at": "2026-10-18T23:01:44.960527+00:00"
- },
- "https://www.chosun.com/international/international_general/2026/10/16/MFRTMNRVME2TQNTCMQ4WGMZSGE/": {
-  "lead": "일본 기상청이 16일 러시아 캄차카반도 인근에서 발생한 규모 6.9의 지진을 9.9로 잘못 추정해 경보를 발령했다가 이를 약 8분 만에 취소하면서 현지에서 혼란이 빚어졌다. 기상청이 긴급 지진 속보 경보를 발령한 뒤 이를 전면 취소한 것은 매우 이례적인 사례다.  기상청은 이날 낮 12시 40분쯤 홋카이도부터 도호쿠, 간토, 호쿠리쿠, 도카이, 이즈 제도에",
-  "tags": [],
-  "saved_at": "2026-10-18T23:02:32.439544+00:00"
- },
- "https://www.chosun.com/international/international_general/2026/10/16/G5RDKNJQMIZGENRVGE4WMMBUGY/": {
-  "lead": "주요 7개국(G7)이 인공지능(AI)을 악용한 사이버 공격에 대응하기 위해 공동으로 도상훈련을 하기로 합의했다.  16일 로이터통신 보도에 따르면 태국 방콕에서 열린 G7 재무장관·중앙은행 총재 회의에 참석한 가타야마 사쓰키 일본 재무상은 전날 기자들에게 “G7의 재무차관들이 첨단 AI에 관한 도상훈련 방안을 논의해 왔고, 장관급에서 이를 승인했다”며 이",
-  "tags": [],
-  "saved_at": "2026-10-18T23:02:32.439789+00:00"
- },
- "https://www.chosun.com/international/international_general/2026/10/16/HFQTMNLBGU4WGMLGGA4TANZUGA/": {
-  "lead": "러시아 당국이 간첩 활동을 한 혐의를 받는 일본인 기자를 체포한 가운데 일본 정부가 러시아에 거세게 항의했지만, 아직 이 기자와 접촉도 하지 못한 것으로 알려졌다.  일본 정부 대변인인 기하라 미노루 관방장관은 16일 기자회견에서 홋카이도신문 기자가 사할린에서 체포된 것과 관련해 “(러시아 측으로부터) 전날 영사 통보가 있었으나 해당 일본인과는 접촉하지 못",
-  "tags": [],
-  "saved_at": "2026-10-18T23:02:32.440026+00:00"
- },
- "https://www.chosun.com/international/international_general/2026/10/16/MFSTMZJRHAZDMZJQHAYGGMBTMU/": {
-  "lead": "일본 정부가 일반 출산에 드는 병원비를 산모 대신 건강보험이 부담하는 방안을 추진하고 있다. 출생아 수가 급감하자 출산에 따른 경제적 부담을 더 줄이려는 것이다.  16일(현지시각) 닛케이아시아에 따르면 일본 후생노동성은 2027회계연도 하반기(2027년 10월~2028년 3월) 시행을 목표로 출산비 지급액과 구체적인 방식을 논의하고 있다. 지난 5월 개정",
-  "tags": [],
-  "saved_at": "2026-10-18T23:02:32.440279+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/adb-chief-interview/": {
-  "lead": "\"The global economy is facing unprecedented uncertainty,\" said Masato Kanda, a former Japanese vice finance minister for international affairs.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.442120+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/companies/toyota-electric-vehicle-china/": {
-  "lead": "The Shanghai plant is under construction and due to start producing cars in 2027.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.443245+00:00"
- },
- "https://www.japantimes.co.jp/commentary/2026/10/16/japan/china-medog-dam-risks/": {
-  "lead": "Infrastructure investment in the Himalayas must go hand in hand with regional water cooperation and disaster resilience.",
-  "tags": [
-   "COMMENTARY"
-  ],
-  "saved_at": "2026-10-18T23:02:36.457106+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/companies/rakuten-yen-bond-sale/": {
-  "lead": "The 5.5-year bonds carry a 4.37% coupon and were priced at a spread of 200 basis points over the benchmark 10-year Japanese government bond.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.444408+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/economy/nagata-ihra/": {
-  "lead": "A major transportation bottleneck was eliminated more than a decade ago when the line was fully completed.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.445624+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/companies/fukoku-mutual-life-insurance-cash/": {
-  "lead": "Fukoku sees scope to move a bit more from foreign bonds into yen bonds as yields rose more than expected.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.446868+00:00"
- },
- "https://www.japantimes.co.jp/commentary/2026/10/16/world/petrostates-hijack-climate-science/": {
-  "lead": "Any delay would reduce pressure on countries to meet their Paris climate agreement goals",
-  "tags": [
-   "COMMENTARY"
-  ],
-  "saved_at": "2026-10-18T23:02:36.458388+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/companies/coreweave-ai-boom-debt/": {
-  "lead": "The loss-making cloud company has about $50 billion in debt and has become a focus of concerns that the data-center boom is being fueled by credit.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.448233+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/economy/katayama-g20-monitor-markets-urgency/": {
-  "lead": "The finance minister warned speculators that Japan was prepared to take action in the currency market again if necessary.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.449647+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/economy/japan-south-korea-currency-swap/": {
-  "lead": "The agreement, originally set to expire at the end of November, is expected to run through November 2029, with its size unchanged.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.450966+00:00"
- },
- "https://www.japantimes.co.jp/commentary/2026/10/16/world/fed-nobel-prize-message/": {
-  "lead": "An open Fed is a more credible Fed that will find stronger societal support at a time when its integrity is under attack by Donald Trump.",
-  "tags": [
-   "COMMENTARY"
-  ],
-  "saved_at": "2026-10-18T23:02:36.459649+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/economy/bank-of-japan-board-member-interest-rates/": {
-  "lead": "The board member reiterated that she didn't have any specific pace in mind for pushing up rates when asked about the possibility of a hike in October.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.452467+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/companies/sumitomo-life-target-acquisitions-southeast-asia/": {
-  "lead": "The insurer is seeking to expand and diversify its income while countering demographic pressures at home.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.454042+00:00"
- },
- "https://www.japantimes.co.jp/business/2026/10/16/companies/toyota-canada-commitment/": {
-  "lead": "Toyota sees Canada as a vital cog in its global manufacturing network and key to its four-decade-long localization efforts.",
-  "tags": [
-   "BUSINESS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.455553+00:00"
- },
- "https://www.japantimes.co.jp/editorials/2026/10/16/indian-government-cockroach-insult/": {
-  "lead": "The CJP is articulating the concerns of most young Indians on issues that include education, job prospects, voting rights and violence against women.",
-  "tags": [
-   "EDITORIALS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.461124+00:00"
- },
- "https://japan-forward.com/us-style-research-model-fast-track-defense-tech/": {
-  "lead": "Defense work has long been walled off from civilian business at major Japanese firms. A new plan now aims to tear down those walls.\nThe post Japan Plans to Open Defense Industry to Universities and Startups  first appeared on Japan Forward.",
-  "tags": [
-   "Politics & Security",
-   "artificial intelligence",
-   "defense industry",
-   "drones",
-   "Japan defense",
-   "Johns Hopkins University Applied Physics Laboratory",
-   "Ministry of Defense",
-   "public-private partnership"
-  ],
-  "saved_at": "2026-10-18T23:02:37.409878+00:00"
- },
- "https://japan-forward.com/rapidus-last-chance-semiconductors-kumamoto-tsmc/": {
-  "lead": "Time is running out as veteran engineers retire, says expert Kazuto Suzuki, and Rapidus must turn their know-how into working chips in time. \nThe post Rapidus Is the Last Chance for Japan to Matter in Semiconductors first appeared on Japan Forward.",
-  "tags": [
-   "Economy & Tech",
-   "2-nanometer",
-   "chip industry",
-   "economic security",
-   "geoeconomics",
-   "IBM",
-   "Japan Economy",
-   "Kazuto Suzuki"
-  ],
-  "saved_at": "2026-10-18T23:02:37.410180+00:00"
- },
- "https://japan-forward.com/top-girls-soccer-team-ditches-white-shorts-period/": {
-  "lead": "Fear of stains weighed on players during their periods. Inspired by England's women's team, the champions switched to navy, and their play improved markedly.\nThe post Top Japanese Girls' Soccer Team Ditches White Shorts first appeared on Japan Forward.",
-  "tags": [
-   "Sports",
-   "menstuation",
-   "soccer",
-   "sports",
-   "Women"
-  ],
-  "saved_at": "2026-10-18T23:02:37.410487+00:00"
- },
- "https://japan-forward.com/blood-transfusion-dog-ips-cells-research/": {
-  "lead": "Researchers are exploring ways to grow red blood cells from stem cells, an early step toward easing shortages that put dogs' lives at risk.\nThe post Not Enough Blood to Save Every Dog. Can Science Fix That? first appeared on Japan Forward.",
-  "tags": [
-   "Science",
-   "animal",
-   "dog",
-   "Dogs",
-   "iPS cells",
-   "stem cell",
-   "stem cells"
-  ],
-  "saved_at": "2026-10-18T23:02:37.410794+00:00"
- },
- "https://japan-forward.com/osaka-glico-running-man-major-makeover-spring-2027/": {
-  "lead": "Glico will switch off the Dotonbori landmark on December 1 for its first big renovation in 12 years, with a seventh-generation design to debut in spring 2027.\nThe post Osaka's Glico Running Man to Get Major Makeover in 2027 first appeared on Japan Forward.",
-  "tags": [
-   "Culture",
-   "dotonbori",
-   "Osaka"
-  ],
-  "saved_at": "2026-10-18T23:02:37.411123+00:00"
- },
  "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html": {
   "lead": "Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval.",
   "tags": [
@@ -257,18 +21,6 @@
   ],
   "saved_at": "2026-10-20T00:14:55.501171+00:00"
  },
- "https://www.channelnewsasia.com/east-asia/japan-retracts-mistaken-magnitude-99-quake-alert-6468016": {
-  "lead": "The alert set off loud emergency alerts on millions of mobile phones in Japan. Japan's weather agency clarified later that a 6.9-magnitude quake occurred near Russia's Kamchatka Peninsula at a depth of 160 kilometres (100 miles).",
-  "tags": [
-   "East Asia ,Asia"
-  ],
-  "saved_at": "2026-10-18T23:01:42.032793+00:00"
- },
- "https://www.scmp.com/week-asia/opinion/article/3371168/aseans-myanmar-peace-push-needs-japans-silent-diplomacy?utm_source=rss_feed": {
-  "lead": "Japan has long established itself as a pioneer of mediation in Southeast Asia. In 1990, for example, its officials helped broker talks between Cambodia’s warring factions, supplementing international efforts to end conflict in the country.\nNow, Tokyo is seeking to upgrade its diplomatic toolkit. The Ministry of Foreign Affairs’ International Peace Mediation Unit was set up in March, followed by the launch of the Parliamentary Association for Peace Mediation in May.\nAround the same time, the...",
-  "tags": [],
-  "saved_at": "2026-10-18T23:01:44.959677+00:00"
- },
  "https://www.scmp.com/week-asia/lifestyle-culture/article/3371187/air-rage-incidents-japan-surge-led-late-check-flashpoint?utm_source=rss_feed": {
   "lead": "Airline employees in Japan are experiencing a surge in abuse incidents from customers linked to delays or cancellations of flights or from being refused boarding due to late check-in, according to a survey.\nSome 30 per cent of ground staff or cabin crew reported bearing the brunt of passengers’ anger over such matters in the past year, according to the survey by the Japan Federation of Aviation Industry Unions released last month, rising from 7 per cent in its previous survey in 2023.\nIn...",
   "tags": [],
@@ -278,11 +30,6 @@
   "lead": "Prime Minister Sanae Takaichi on Saturday sent a ritual offering to Yasukuni Shrine in Tokyo, regarded by Japan’s neighbours as a symbol of the country’s past militarism, at the start of its three-day autumn festival.\nTakaichi, known as a conservative who routinely visited the Shinto shrine before becoming prime minister a year ago, was unlikely to visit the shrine during the festival, a source close to her said, amid strained relations with China and relatively stable ties with South Korea.\nThe...",
   "tags": [],
   "saved_at": "2026-10-20T00:15:01.451160+00:00"
- },
- "https://focustaiwan.tw/business/202610170007": {
-  "lead": "Taipei, Oct. 17 (CNA) Taiwan-based manufacturing giant Hon Hai Precision Industry Co. has agreed to acquire a 50 percent stake in Mitsubishi Electric Mobility Co. from Mitsubishi Electric Corp. to establish a partnership to jointly operate an automotive equipment business.",
-  "tags": [],
-  "saved_at": "2026-10-18T23:02:27.490638+00:00"
  },
  "https://www.chosun.com/international/international_general/2026/10/17/HBRDAYRRGE2DMZLCMI2DIOLFGQ/": {
   "lead": "정부가 다카이치 사나에 일본 총리의 야스쿠니 신사 공물 봉납에 대해 유감을 표명했다.  17일 외교부는 대변인 논평을 통해 “일본의 과거 침략전쟁을 미화하고 전쟁범죄자를 합사한 야스쿠니 신사에 일본의 책임 있는 지도급 인사들이 또다시 공물을 봉납하거나 참배를 되풀이한 데 대해 다시 한번 깊은 실망과 유감을 표한다”고 밝혔다. 이어 “일본의 책임 있는 지도자",
@@ -336,17 +83,6 @@
   ],
   "saved_at": "2026-10-20T00:15:59.417563+00:00"
  },
- "https://japan-forward.com/hidden-wonders-sapporo-onsen-retreat-to-soothe-the-weary-traveler-2/": {
-  "lead": "In Jozankei Onsen, a hidden getaway less than an hour's drive from Sapporo, high-quality hot springs from the riverbed soothe both body and soul.\nThe post Hidden Wonders | Sapporo Onsen Retreat to Soothe the Weary Traveler first appeared on Japan Forward.",
-  "tags": [
-   "Hidden Wonders",
-   "autumn",
-   "Hokkaido",
-   "republished",
-   "Sapporo"
-  ],
-  "saved_at": "2026-10-18T23:02:37.409548+00:00"
- },
  "https://www.channelnewsasia.com/east-asia/japan-launch-historic-round-trip-mission-mars-moon-6469436": {
   "lead": "The flagship H3 rocket carrying the MMX is set to blast off from the Tanegashima Space Center on Tuesday (Oct 20) at 4.41am.",
   "tags": [
@@ -354,84 +90,10 @@
   ],
   "saved_at": "2026-10-20T00:14:56.930405+00:00"
  },
- "https://www.koreaherald.com/article/10906210": {
-  "lead": "Seo Chae-hyun, one of South Korea&apos;s leading sport climbers, won the women&apos;s lead title at the National Sports Festival for a fourth consecutive year. Seo, who represents Seoul City Hall and The North Face, finished first in the women&apos;s lead semifinal at the 107th National Sports Festival at Jeju Sports Complex on Saturday with a score of 34. She then won the final with a competition-best score of 54+. Seo won gold in the women&apos;s lead event at the 2026 Aichi-Nagoya Asian Games on Oct. 3 and retur",
-  "tags": [
-   "All News"
-  ],
-  "saved_at": "2026-10-18T23:01:43.725254+00:00"
- },
- "https://www.koreaherald.com/article/10906072": {
-  "lead": "A revised and expanded English edition of &quot;Jingbirok,&quot; a Joseon-era chronicle of Japan&apos;s invasions of Korea in the late 16th century, has been published, offering an account of the war and its lessons by Ryu Song-nyong (1542-1607), a prominent scholar-official who reflected on the failures that led to the conflict. The new edition was revised and expanded by Choi Byong-hyon, a former professor at Honam University, more than 20 years after he published the first English translation, titled &quot;The B",
-  "tags": [
-   "All News"
-  ],
-  "saved_at": "2026-10-18T23:01:43.725741+00:00"
- },
- "https://www.koreaherald.com/article/10906068": {
-  "lead": "Gentle Monster’s global standing is hardly in doubt. Its recent campaigns feature Tilda Swinton, Japanese actor Kentaro Sakaguchi and Stray Kids’ Felix. It has released collaborations with Prada and Maison Margiela, to name a few, and crossed into wearables with Google and Samsung Electronics. With its success came a Korean eyewear boom and a wave of challengers. Rising fastest is Blue Elephant, with similarly trendy frames for much lower prices and gallery-like stores to match. Those parallels",
-  "tags": [
-   "All News"
-  ],
-  "saved_at": "2026-10-18T23:01:43.726010+00:00"
- },
  "https://www.scmp.com/news/asia/east-asia/article/3371304/japan-readies-martian-moon-mission-uncover-origins-life?utm_source=rss_feed": {
   "lead": "Japanese scientists are readying a mission to Mars’s moons to retrieve samples that could help unlock the origins of the Solar System and life on Earth, in what aims to be the first round trip to the Martian region.\nThe uncrewed Martian Moons eXploration (MMX) probe, a collaboration with US and European space agencies as well as numerous universities and tech companies, could also help lay the groundwork for eventual human exploration.\nThe flagship H3 rocket carrying the MMX is set to blast-off...",
   "tags": [],
   "saved_at": "2026-10-20T00:15:01.450862+00:00"
- },
- "https://www.scmp.com/news/china/diplomacy/article/3371294/china-slams-japans-takaichi-over-yasukuni-ritual-offering-warns-remilitarisation?utm_source=rss_feed": {
-  "lead": "China has condemned Japanese Prime Minister Sanae Takaichi for sending a ritual offering to Tokyo’s war-linked Yasukuni Shrine, a move that threatens to further strain ties between the neighbours.\nAt the start of Yasukuni’s three-day autumn festival on Saturday, Takaichi sent a ritual tree-stand offering to the shrine in her capacity as prime minister, although she did not visit in person.\nMinoru Kiuchi, minister in charge of economic growth strategy, visited the controversial site the same day,...",
-  "tags": [],
-  "saved_at": "2026-10-18T23:01:44.960782+00:00"
- },
- "https://www.scmp.com/business/article/3371224/new-property-purchase-disclosure-rule-japan-sparks-fears-it-may-curb-foreign-investment?utm_source=rss_feed": {
-  "lead": "Tokyo’s implementation of a rule that requires all property buyers to declare their nationality is raising concerns among investors, according to analysts.\nJapan’s shift from an ultra-loose monetary policy to gradual normalisation of its interest rates was also likely to force investors to reconsider whether real estate assets were still attractive, they added.\n“Japan has had a really strong run for the last seven or eight years,” said Neil Brookes, head of Asia-Pacific capital markets at...",
-  "tags": [],
-  "saved_at": "2026-10-18T23:01:44.961062+00:00"
- },
- "http://www.taz.de/Katzen-im-Museum/!6222082/": {
-  "lead": "Ägypten und Japan; New Yorker Eckläden und das Internet: Das Bremer Übersee-Museum entdeckt die Katze. mehr...",
-  "tags": [],
-  "saved_at": "2026-10-18T23:01:51.530294+00:00"
- },
- "https://www.globaltimes.cn/page/202610/1372502.shtml": {
-  "lead": "",
-  "tags": [
-   "Japan",
-   "militarism"
-  ],
-  "saved_at": "2026-10-18T23:02:26.580863+00:00"
- },
- "https://www.globaltimes.cn/page/202610/1372498.shtml": {
-  "lead": "",
-  "tags": [
-   "China",
-   "Japan"
-  ],
-  "saved_at": "2026-10-18T23:02:26.581486+00:00"
- },
- "https://www.globaltimes.cn/page/202610/1372497.shtml": {
-  "lead": "",
-  "tags": [
-   "university",
-   "chinese",
-   "incident",
-   "statement",
-   "students"
-  ],
-  "saved_at": "2026-10-18T23:02:26.581851+00:00"
- },
- "https://www.globaltimes.cn/page/202610/1372465.shtml": {
-  "lead": "",
-  "tags": [
-   "exercise",
-   "japan",
-   "military",
-   "reported",
-   "october"
-  ],
-  "saved_at": "2026-10-18T23:02:26.582187+00:00"
  },
  "https://www.chosun.com/international/international_general/2026/10/19/GRSDKZRXGQ2DOZTBGMYDKNRTMQ/": {
   "lead": "도널드 트럼프 미국 대통령 측근으로 꼽히는 데이브 매코믹 연방 상원의원(공화·펜실베이니아)이 미국과 한국, 일본 등 아시아 동맹국 관계가 재설정 단계에 진입했다고 진단했다. 그는 동맹국에 더 많은 방위비와 투자를 요구하는 과정에서 불거진 마찰은 동맹 파기가 아니라 더 강력한 결합으로 나아가기 위한 진통이라고 해석했다. 중국 공산당이 가하는 안보 위협에 맞서",
@@ -455,110 +117,12 @@
   ],
   "saved_at": "2026-10-20T23:48:29.650622+00:00"
  },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichis-support-rate-falls/": {
-  "lead": "The decline might have been affected by Takaichi's slow response surrounding the resignation of Kazuo Yana as the nation's farm minister.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.398748+00:00"
- },
- "https://www.japantimes.co.jp/community/2026/10/18/pepperdine-university-kyoto-program/": {
-  "lead": "Pepperdine University's new year-round Japan program aims to give students an immersive experience while they continue their usual areas of study.",
-  "tags": [
-   "COMMUNITY"
-  ],
-  "saved_at": "2026-10-18T23:02:36.400134+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/ldp-denial-impact-budget-ex-farm-minister/": {
-  "lead": "Koichi Hagiuda apologized for the fact that Yana's remark about budget cuts had led to his replacement as agriculture minister.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.401304+00:00"
- },
  "https://www.japantimes.co.jp/commentary/2026/10/18/world/americas-bad-oil-ideas/": {
   "lead": "From Iran in 1953 to Ukraine today, Washington's pursuit of oil has repeatedly undermined its own strategic interests.",
   "tags": [
    "COMMENTARY"
   ],
   "saved_at": "2026-10-20T23:48:31.785771+00:00"
- },
- "https://www.japantimes.co.jp/sports/2026/10/18/more-sports/judoka-homestay-japan-scotland-exchange/": {
-  "lead": "Teenager Lexi Buchanan puts in around four hours of work each day, balancing weightlifting with sparring alongside university athletes.",
-  "tags": [
-   "MORE SPORTS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.403563+00:00"
- },
- "https://www.japantimes.co.jp/environment/2026/10/18/sustainability/yokohama-green-expo/": {
-  "lead": "From cutting-edge tech to lessons from the Edo Period, the six-month event will seek to help develop solutions to the planet's environmental crises.",
-  "tags": [
-   "ENVIRONMENT"
-  ],
-  "saved_at": "2026-10-18T23:02:36.404685+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/keen-sword-military-exercises/": {
-  "lead": "The Keen Sword military exercises will see Japan deploy longer-range missiles, while the U.S. will send advanced weapons to Okinawa's Yonaguni Island.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.405881+00:00"
- },
- "https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/mlb-dodgers-sweep-salary-cap-fight/": {
-  "lead": "In their first proposal in May, MLB owners asked for a hard cap of $245.3 million and a payroll floor of $171.2 million. The players have long opposed any form of salary cap.",
-  "tags": [
-   "BASEBALL"
-  ],
-  "saved_at": "2026-10-18T23:02:36.407041+00:00"
- },
- "https://www.japantimes.co.jp/community/2026/10/18/castella-cats-adoption/": {
-  "lead": "This charming fellow is Castella, one of three youngsters who came to ARK in August along with their mother when their owner moved to no-pet housing.",
-  "tags": [
-   "COMMUNITY"
-  ],
-  "saved_at": "2026-10-18T23:02:36.408332+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/saijo-festival-deputy-mayor-death/": {
-  "lead": "Akihiro Nabae, 62, was among those carrying the float when the incident occurred on a riverbed in the city at around 5:45 p.m.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.409459+00:00"
- },
- "https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/rays-guardians-alcs-even/": {
-  "lead": "It is now guaranteed that the ALCS will return to St. Petersburg, Florida, for Game 6 on Monday. Game 5 will be played Sunday in Cleveland.",
-  "tags": [
-   "BASEBALL"
-  ],
-  "saved_at": "2026-10-18T23:02:36.410679+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/science-health/tie-up-ads-guidelines/": {
-  "lead": "The move came after a poster promoting support for cancer patients that the ministry created in a tie-up with a film drew criticism on social media.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.411390+00:00"
- },
- "https://www.japantimes.co.jp/sports/2026/10/18/more-sports/hurts-blood-clot-injured-reserve/": {
-  "lead": "Hurts will undergo treatment for the clot, which had already ensured he would miss Sunday's game against the Carolina Panthers in favor of backup Tanner McKee.",
-  "tags": [
-   "MORE SPORTS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.412700+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/crime-legal/russia-japan-prisoner-swap-speculation/": {
-  "lead": "Some say the detention of the reporter is linked to the handover to Germany this month of a Russian hacker detained in Japan in May.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.413902+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichi-china-apec-parliament/": {
-  "lead": "The APEC summit often serves as an opportunity for Japanese and Chinese leaders to meet, but questions remain amid a deep freeze in ties.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.415064+00:00"
  },
  "https://www.japantimes.co.jp/business/2026/10/18/companies/toyota-software-defined-vehicles/": {
   "lead": "The move will help Toyota generate revenue through software update fees after delivery.",
@@ -574,13 +138,6 @@
   ],
   "saved_at": "2026-10-20T23:48:31.778788+00:00"
  },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichi-yasukuni-shrine-offering/": {
-  "lead": "The prime minister is expected to skip a visit to the Shinto shrine during the three-day festival, which runs through Monday.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.419014+00:00"
- },
  "https://www.japantimes.co.jp/commentary/2026/10/18/japan/karaoke-hack-cybercrime/": {
   "lead": "The head of the ruling Liberal Democratic Party's cybersecurity body went so far as to describe it as a \"state of emergency in cyberspace.\"",
   "tags": [
@@ -588,82 +145,12 @@
   ],
   "saved_at": "2026-10-20T23:48:31.786857+00:00"
  },
- "https://www.japantimes.co.jp/news/2026/10/18/world/politics/elon-musk-spotlight-politics/": {
-  "lead": "Despite his success in various fields, Elon Musk's unrelenting commitment to right-wing politics has taken a toll on his public image.",
-  "tags": [
-   "WORLD"
-  ],
-  "saved_at": "2026-10-18T23:02:36.421400+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/world/politics/israeli-election-war-right-shift/": {
-  "lead": "The trauma of Oct. 7, 2023, remains raw across Israel.",
-  "tags": [
-   "WORLD"
-  ],
-  "saved_at": "2026-10-18T23:02:36.422757+00:00"
- },
- "https://www.japantimes.co.jp/sports/2026/10/18/more-sports/tomoki-kameda-boxing-title/": {
-  "lead": "The fight scheduled for Las Vegas was called off on Saturday, hours after Figueroa lost his crown on the scales Friday by failing to make weight.",
-  "tags": [
-   "MORE SPORTS"
-  ],
-  "saved_at": "2026-10-18T23:02:36.424185+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/japan/princess-aiko-disaster-prevention-forum/": {
-  "lead": "This marks Princess Aiko's first trip to Tottori and her second time attending the forum.",
-  "tags": [
-   "JAPAN"
-  ],
-  "saved_at": "2026-10-18T23:02:36.425585+00:00"
- },
  "https://www.japantimes.co.jp/business/2026/10/18/economy/us-interest-costs-1-trillion/": {
   "lead": "For the year through September, net interest costs came to $1.05 trillion, up more than 8% from the $970 billion in fiscal 2025.",
   "tags": [
    "BUSINESS"
   ],
   "saved_at": "2026-10-20T00:15:58.632520+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/world/politics/el-sissi-egypt-president-2030/": {
-  "lead": "Egyptian President Abdel-Fattah el-Sissi's proposal gives the Egyptian Military Academy a central role in preparing future leaders.",
-  "tags": [
-   "WORLD"
-  ],
-  "saved_at": "2026-10-18T23:02:36.428369+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/asia-pacific/stampede-india-religious-gathering/": {
-  "lead": "Deadly crowd incidents are a frequent occurrence at Indian mass events, such as religious festivals, due to poor management and safety lapses.",
-  "tags": [
-   "ASIA PACIFIC"
-  ],
-  "saved_at": "2026-10-18T23:02:36.429904+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/world/saudi-arabia-attack-egypt-help/": {
-  "lead": "Saudi Arabia has faced sustained Houthi missile and drone attacks targeting its oil installations, tankers and transit hubs.",
-  "tags": [
-   "WORLD"
-  ],
-  "saved_at": "2026-10-18T23:02:36.431464+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/world/politics/us-no-kings-early-voting/": {
-  "lead": "Rather than holding massive marches, the latest \"No Kings\" protests varied — with honking convoys, concerts and neighborhood gatherings.",
-  "tags": [
-   "WORLD"
-  ],
-  "saved_at": "2026-10-18T23:02:36.432885+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-zelenskyy-ukraine-support-analysis/": {
-  "lead": "The widening rift has sparked concerns that Trump and Zelenskyy's tumultuous relationship could lead to even worse outcomes for Kyiv.",
-  "tags": [
-   "WORLD"
-  ],
-  "saved_at": "2026-10-18T23:02:36.434433+00:00"
- },
- "https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-russia-sanctions-republicans-mistake/": {
-  "lead": "At least eight Republican senators and several House lawmakers have spoken out against Trump's diesel deal with Russia or the sanctions waiver.",
-  "tags": [
-   "WORLD"
-  ],
-  "saved_at": "2026-10-18T23:02:36.435820+00:00"
  },
  "https://japan-forward.com/ignite-gem-talks-building-borderless-dialogue-a-path-to-peace/": {
   "lead": "Denying student visas based on nationality undermines the international understanding that comes from face-to-face cross-cultural dialogue, says Maho Rokuta.\nThe post Building Borderless Dialogue, a Path to Peace first appeared on Japan Forward.",
@@ -5219,12 +4706,12 @@
    "People's Daily",
    "Sanrio Co"
   ],
-  "saved_at": "2026-11-01T00:02:05.222920+00:00"
+  "saved_at": "2026-11-02T00:35:42.660967+00:00"
  },
  "https://www.wsj.com/economy/central-banking/bank-of-japan-holds-fire-while-signaling-rate-hikes-ahead-4bb8d423?mod=rss_socialeconomyfeed": {
   "lead": "Friday’s hold was widely expected, giving more time for previous hikes, including one in September, to feed through to the economy.",
   "tags": [],
-  "saved_at": "2026-11-01T00:02:05.575945+00:00"
+  "saved_at": "2026-11-02T00:35:42.968056+00:00"
  },
  "https://www.channelnewsasia.com/east-asia/north-korea-drones-missiles-kim-jong-un-6505466": {
   "lead": "South Korea's Joint Chiefs of Staff said its military detected \"around a dozen short-range ballistic missiles fired from the Wonsan area of North Korea towards the East Sea\", also known as the Sea of Japan.",
@@ -5243,7 +4730,7 @@
  "https://www.scmp.com/news/asia/southeast-asia/article/3372654/most-malaysians-held-drug-crimes-abroad-detained-indonesia-china": {
   "lead": "The number of Malaysians detained overseas for drug-related offences increased to 1,588 as of September this year, according to Deputy Foreign Minister Lukanisman Awang Sauni.\nLukanisman said the five countries with the highest numbers of Malaysians detained were Indonesia (381), China (380), Singapore (310), Thailand (102) and Japan (72).\nHe said increasingly sophisticated drug-smuggling methods had contributed to the frequent arrests of Malaysians overseas.\n“A total of 1,181 Malaysians were...",
   "tags": [],
-  "saved_at": "2026-11-01T00:02:09.327577+00:00"
+  "saved_at": "2026-11-02T00:35:46.957398+00:00"
  },
  "https://www.scmp.com/news/china/military/article/3372782/china-and-us-expand-military-drone-flights-near-japan-and-south-china-sea": {
   "lead": "China and America have escalated uncrewed aircraft deployments across sensitive Indo-Pacific waters, with mainland drones patrolling strategic passages near Japan while a US Marine detachment operates near disputed South China Sea islands.\nIn recent days, Japan has detected an uptick in Chinese military aircraft operations in important waters that enable Beijing’s naval forces to transit beyond the first island chain.\nThe activity coincided with large-scale joint military exercises between Tokyo...",
@@ -5279,7 +4766,7 @@
  "https://www.chosun.com/international/international_general/2026/10/30/HFRTKNZUGRQTSMBZMI3WENJWMM/": {
   "lead": "미국과 일본 두 나라가 최첨단 중거리 공대공 미사일을 일본 본토에서 공동 생산하기로 합의했다. 이와 별도로 일본 내 무인 공격기(드론) 전력까지 대폭 늘리며 미·일 군사 일체화에 속도를 내는 모습이다. 대(對)중국 견제를 둘러싼 온도 차로 한국이 주춤하는 사이, 일본이 인도·태평양 지역 내 미군 핵심 병참 기지이자 전초 기지로 위상을 굳히고 있다는 평가가",
   "tags": [],
-  "saved_at": "2026-11-01T00:03:07.640795+00:00"
+  "saved_at": "2026-11-02T00:36:41.578507+00:00"
  },
  "https://www.chosun.com/economy/stock-finance/2026/10/31/G43DIMZZGU4TIMRVMJSTQYJUMQ/": {
   "lead": "이 기사는 2026년 10월 27일 17시 15분 조선비즈 머니무브(MM) 사이트에 표출됐습니다.  국내 프리미엄 데이팅 애플리케이션(앱) ‘골드스푼’을 운영하는 트리플콤마가 경영권 매각을 추진한다. 올해 중순까지만 해도 외부 투자유치를 검토했지만, 기존 주주들이 경영권을 넘기는 방향으로 선회했다. 지분 100% 기준 매각가는 200억원 이상으로 거론된다.",
@@ -5315,7 +4802,7 @@
    "Transport",
    "Zimbabwe"
   ],
-  "saved_at": "2026-11-01T00:03:10.595245+00:00"
+  "saved_at": "2026-11-02T00:36:43.976834+00:00"
  },
  "https://www.japantimes.co.jp/culture/2026/10/31/books/ryu-murakami/": {
   "lead": "The late author saw creativity and destruction as two sides of the same coin.",
@@ -5329,7 +4816,7 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.628006+00:00"
+  "saved_at": "2026-11-02T00:36:45.741622+00:00"
  },
  "https://www.japantimes.co.jp/culture/2026/10/30/film/sabu-arrested-memory/": {
   "lead": "Shot entirely in Taiwan, \"Arrested Memory\" is the latest in a string of international productions helmed by the idiosyncratic filmmaker.",
@@ -5378,7 +4865,7 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.640166+00:00"
+  "saved_at": "2026-11-02T00:36:45.742503+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/kim-drone-dominance/": {
   "lead": "According to KCNA, Kim said that pursuing superiority in drone technology was \"an indispensable option\" given the changing nature of modern warfare.",
@@ -5392,7 +4879,7 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.643824+00:00"
+  "saved_at": "2026-11-02T00:36:45.743448+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/30/japan/crime-legal/arrest-scam-vietnam/": {
   "lead": "The Japanese suspects allegedly conspired to defraud a woman in her 20s in Yamaguchi Prefecture of ¥1 million earlier this year.",
@@ -5406,7 +4893,7 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.645608+00:00"
+  "saved_at": "2026-11-02T00:36:45.744417+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/30/world/politics/lula-supreme-court-problem/": {
   "lead": "A powerful justice has become a liability for the reelected president just as he prepares for a new term promising to heal the country's divisions.",
@@ -5441,7 +4928,7 @@
   "tags": [
    "COMMENTARY"
   ],
-  "saved_at": "2026-11-01T00:03:12.673179+00:00"
+  "saved_at": "2026-11-02T00:36:45.755887+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/30/world/politics/venezuela-election-poser/": {
   "lead": "Interim head of state Delcy Rodriguez and Maria Corina Machado are expected to vie for the presidency in a future election.",
@@ -5462,7 +4949,7 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.647361+00:00"
+  "saved_at": "2026-11-02T00:36:45.745350+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/30/japan/halloween-nurse-red-cross/": {
   "lead": "Often mistaken for a general symbol of medical care, the red cross is protected under the law and reserved for specific humanitarian purposes.",
@@ -5490,14 +4977,14 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.649309+00:00"
+  "saved_at": "2026-11-02T00:36:45.746349+00:00"
  },
  "https://www.japantimes.co.jp/editorials/2026/10/30/arrested-japanese-journalist-russian-pawn/": {
   "lead": "Tokyo must disabuse Russian President Vladimir Putin of the belief that journalists are pawns to be played in the great power's game.",
   "tags": [
    "EDITORIALS"
   ],
-  "saved_at": "2026-11-01T00:03:12.675055+00:00"
+  "saved_at": "2026-11-02T00:36:45.756888+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/science-health/indonesia-haze-rain/": {
   "lead": "The choking haze from Indonesia's worst fire season in years has cloaked local towns and drifted across neighboring countries for weeks.",
@@ -5511,14 +4998,14 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.651295+00:00"
+  "saved_at": "2026-11-02T00:36:45.747388+00:00"
  },
  "https://www.japantimes.co.jp/business/2026/10/30/companies/google-500-billion-wipeout/": {
   "lead": "The company's reported disappointing search and advertising sales have reinforced investor concerns about AI's threat to its core business.",
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.653296+00:00"
+  "saved_at": "2026-11-02T00:36:45.748399+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/30/world/us-fires-general-over-leaks/": {
   "lead": "Since returning to office early last year, Trump has overseen a purge of top military personnel, including the chairman of the Joint Chiefs of Staff.",
@@ -5532,56 +5019,56 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.655312+00:00"
+  "saved_at": "2026-11-02T00:36:45.749428+00:00"
  },
  "https://www.japantimes.co.jp/business/2026/10/30/companies/japan-shopping-habits-inflation/": {
   "lead": "Underlying inflation rose in September at the fastest annual pace in three years, according to Bank of Japan data, exceeding its 2% target.",
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.656889+00:00"
+  "saved_at": "2026-11-02T00:36:45.750233+00:00"
  },
  "https://www.japantimes.co.jp/business/2026/10/30/economy/tokyo-cpi-october/": {
   "lead": "Overall inflation in the capital stood at 2.8%, while prices excluding fresh food and energy, a key gauge of underlying inflation, climbed 2.6%.",
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.659074+00:00"
+  "saved_at": "2026-11-02T00:36:45.751384+00:00"
  },
  "https://www.japantimes.co.jp/business/2026/10/30/companies/shiga-bank-senshu-ikeda-agreement/": {
   "lead": "\"We aim to become a financial group that can realize growth of Kansai,\" Shiga Bank President Shinya Kubota said at a news conference.",
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.661206+00:00"
+  "saved_at": "2026-11-02T00:36:45.752475+00:00"
  },
  "https://www.japantimes.co.jp/business/2026/10/30/companies/spacex-customer-anthropic/": {
   "lead": "SpaceX had said in a filing that about 34.5% of its revenue for the last quarter came from a single client, identified only as \"Customer B.\"",
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.663298+00:00"
+  "saved_at": "2026-11-02T00:36:45.753563+00:00"
  },
  "https://www.japantimes.co.jp/business/2026/10/30/economy/ecb-lagarde-resignation/": {
   "lead": "The decision ends months of speculation about her future as Europe ‌enters a ‌period of rising economic volatility and divisive electoral politics.",
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.665556+00:00"
+  "saved_at": "2026-11-02T00:36:45.754703+00:00"
  },
  "https://www.japantimes.co.jp/commentary/2026/10/30/world/ai-changing-motherhood/": {
   "lead": "The future is always unknown. Nearly half of moms expect AI will reduce their financial security and their children's.",
   "tags": [
    "COMMENTARY"
   ],
-  "saved_at": "2026-11-01T00:03:12.677051+00:00"
+  "saved_at": "2026-11-02T00:36:45.757917+00:00"
  },
  "https://www.japantimes.co.jp/commentary/2026/10/30/japan/japan-data-center-backlash/": {
   "lead": "Hatred toward data centers has united people across the political spectrum and around the globe.",
   "tags": [
    "COMMENTARY"
   ],
-  "saved_at": "2026-11-01T00:03:12.679300+00:00"
+  "saved_at": "2026-11-02T00:36:45.758947+00:00"
  },
  "https://www.japantimes.co.jp/commentary/2026/10/30/world/internet-has-a-panic-attack/": {
   "lead": "Browsers don't verify every website. Instead, they outsource that power to commercial and government-linked entities known as Certificate Authorities.",
@@ -5602,7 +5089,7 @@
    "JRA",
    "Tokyo day trips"
   ],
-  "saved_at": "2026-11-01T00:03:13.798643+00:00"
+  "saved_at": "2026-11-02T00:36:46.663378+00:00"
  },
  "https://japan-forward.com/team-mirai-ai-ldp-digital-agency-cross-party/": {
   "lead": "Team Mirai is calling for a cyberattack investigation board to tackle mounting data breaches, with the digital minister sharing its sense of urgency.\nThe post Team Mirai Pushes Cybersecurity Reforms first appeared on Japan Forward.",
@@ -5616,7 +5103,7 @@
    "Sanae Takaichi",
    "Takahiro Anno"
   ],
-  "saved_at": "2026-11-01T00:03:13.799093+00:00"
+  "saved_at": "2026-11-02T00:36:46.663607+00:00"
  },
  "https://japan-forward.com/mario-creator-shigeru-miyamoto-generative-ai-game-industry/": {
   "lead": "Western gamers despise generative AI, Chinese studios embrace it, and Japan straddles both, as the Level5 backlash shows how fragile that balance is. \nThe post Gamer's World | Mario Creator Backs a Balanced Approach to Generative AI in Games  first appeared on Japan Forward.",
@@ -5630,7 +5117,7 @@
    "Level5",
    "Mario"
   ],
-  "saved_at": "2026-11-01T00:03:13.799558+00:00"
+  "saved_at": "2026-11-02T00:36:46.663835+00:00"
  },
  "https://japan-forward.com/bangladesh-tarique-rahman-visit-matarbari-economic-partnership/": {
   "lead": "Matarbari deep-sea port and an approaching LDC graduation will test whether Japanese goodwill can become jobs, investment and a gateway to Northeast India. \nThe post Japan and Bangladesh Look to Matarbari for Growth  first appeared on Japan Forward.",
@@ -5644,29 +5131,29 @@
    "infrastructure",
    "japan"
   ],
-  "saved_at": "2026-11-01T00:03:13.800053+00:00"
+  "saved_at": "2026-11-02T00:36:46.664092+00:00"
  },
  "https://www.channelnewsasia.com/east-asia/us-south-korea-japan-vow-complete-north-korea-denuclearisation-6509071": {
   "lead": "They also pledged \"full implementation\" of UN Security Council resolutions, including a ban on supporting revenue for North Korea's nuclear and ballistic missile programmes.",
   "tags": [
    "East Asia ,Asia"
   ],
-  "saved_at": "2026-11-01T00:02:06.442646+00:00"
+  "saved_at": "2026-11-02T00:35:43.839031+00:00"
  },
  "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential": {
   "lead": "In the Land of the Rising Sun, Bangladesh looks forward to a new dawn. The hope that comes with Prime Minister Tarique Rahman’s visit to Japan goes beyond the deals signed or the financial support expected. It shows a country that has emerged from authoritarian rule and wants to turn its new political voice into bigger economic chances and freedom of choice.\nFor a government chosen by the people, foreign policy must answer one question: how does it make life better for the people who gave it...",
   "tags": [],
-  "saved_at": "2026-11-01T00:02:09.325779+00:00"
+  "saved_at": "2026-11-02T00:35:46.956353+00:00"
  },
  "https://www.scmp.com/news/asia/east-asia/article/3372818/us-south-korea-and-japan-reaffirm-north-korea-denuclearisation-stance": {
   "lead": "The United States, South Korea and Japan reaffirmed their commitment to the “complete denuclearisation” of North Korea on Saturday, as Pyongyang continues to reject disarmament ahead of possible talks with Washington.\nSpeculation is mounting over a potential meeting between US President Donald Trump and North Korean leader Kim Jong-un at next month’s Apec summit in China, with Trump making repeated overtures to Pyongyang for nuclear talks.\nUS Secretary of State Marco Rubio, South Korean Foreign...",
   "tags": [],
-  "saved_at": "2026-11-01T00:02:09.326480+00:00"
+  "saved_at": "2026-11-02T00:35:46.956967+00:00"
  },
  "https://www.scmp.com/week-asia/lifestyle-culture/article/3372753/dark-past-japans-unit-731-buried-under-airport-expansion": {
   "lead": "A village that sent hundreds of men to one of imperial Japan’s most notorious wartime units is being demolished to make way for a runway at Tokyo’s Narita International Airport.\nUnit 731 carried out lethal experiments on captives, many of them Chinese, to develop biological weapons during the second world war. Around 300 of its roughly 3,000 personnel came from Kamo, a neighbourhood in Shibayama town, Chiba prefecture, east of the capital. Its founder and commander, Lieutenant General Shiro...",
   "tags": [],
-  "saved_at": "2026-11-01T00:02:09.327035+00:00"
+  "saved_at": "2026-11-02T00:35:46.957180+00:00"
  },
  "https://www.globaltimes.cn/page/202610/1373361.shtml": {
   "lead": "",
@@ -5725,7 +5212,7 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.594508+00:00"
+  "saved_at": "2026-11-02T00:36:45.738717+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-patriot-missile-sale-approve/": {
   "lead": "The approval comes after weeks of complaints by Ukrainian authorities that its supplies of the interceptor missiles were dwindling.",
@@ -5767,14 +5254,14 @@
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.605861+00:00"
+  "saved_at": "2026-11-02T00:36:45.739635+00:00"
  },
  "https://www.japantimes.co.jp/business/2026/10/31/crypto-exchanges-defense-call/": {
   "lead": "The $6.3 billion heist has exposed the vulnerabilities of crypto exchanges just as they become more embedded in mainstream finance.",
   "tags": [
    "BUSINESS"
   ],
-  "saved_at": "2026-11-01T00:03:12.607755+00:00"
+  "saved_at": "2026-11-02T00:36:45.740618+00:00"
  },
  "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-truce-hopes/": {
   "lead": "The Russian army seized Kherson in 2022 and occupied it for eight months before Kyiv's forces took back control.",
@@ -5844,7 +5331,7 @@
    "Kanako Date",
    "No 55"
   ],
-  "saved_at": "2026-11-01T00:03:13.796939+00:00"
+  "saved_at": "2026-11-02T00:36:46.662702+00:00"
  },
  "https://japan-forward.com/shin-ushijima-chapter-16-japan-for-sale/": {
   "lead": "In Chapter 16, author and lawyer Shin Ushijima introduces the complex factors behind introductions of corporate clients and business leaders in Japan.\nThe post Chapter 16: Japan for Sale! first appeared on Japan Forward.",
@@ -5858,7 +5345,7 @@
    "novel",
    "Shin Ushijima"
   ],
-  "saved_at": "2026-11-01T00:03:13.797679+00:00"
+  "saved_at": "2026-11-02T00:36:46.662917+00:00"
  },
  "https://japan-forward.com/hidden-wonders-scarecrow-contest-brings-community-creativity-to-the-streets/": {
   "lead": "From pop culture icons to topical news figures, about 190 handmade scarecrows draw visitors to an 800-meter shopping street in Tokyo.\nThe post Hidden Wonders | Scarecrow Contest Brings Community Creativity to the Streets first appeared on Japan Forward.",
@@ -5868,6 +5355,341 @@
    "hidden wonders",
    "Hidden Wonders of Japan"
   ],
-  "saved_at": "2026-11-01T00:03:13.798154+00:00"
+  "saved_at": "2026-11-02T00:36:46.663144+00:00"
+ },
+ "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html": {
+  "lead": "The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.",
+  "tags": [
+   "Japanese Language",
+   "Language and Languages",
+   "Slang",
+   "K-Pop",
+   "Youth",
+   "International Relations",
+   "Japan",
+   "South Korea"
+  ],
+  "saved_at": "2026-11-02T00:35:42.660304+00:00"
+ },
+ "https://www.koreaherald.com/article/10921771": {
+  "lead": "South Korean figure skater Shin Jia placed sixth in the women&apos;s short program at her first senior Grand Prix event of the season after a costly jumping error. Shin scored 65.38 points at the second event of the 2026-27 ISU Figure Skating Grand Prix series in Kelowna, British Columbia, on Saturday, earning 34.94 points for technical elements and 31.44 for program components, with a one-point deduction. She finished 16.73 points behind leader Mao Shimada of Japan, who scored 82.11. Isabeau Levito",
+  "tags": [
+   "All News"
+  ],
+  "saved_at": "2026-11-02T00:35:45.831816+00:00"
+ },
+ "https://www.koreaherald.com/article/10921725": {
+  "lead": "“American Dream,” the latest play by Japanese playwright-director Koki Mitani, takes its cue from a speech Dalton Trumbo, the screenwriter blacklisted during Hollywood’s Red Scare, gave in 1970: “It will do no good to search for villains or heroes or saints or devils because there were none; there were only victims.” The line sets the terms for the production, staged at Coex Artium from Friday to Sunday, as the final stop of its tour. It was the first of Mitani’s works to be performed in Korea i",
+  "tags": [
+   "All News"
+  ],
+  "saved_at": "2026-11-02T00:35:45.832031+00:00"
+ },
+ "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372885/drug-maker-rohto-plans-clinical-trials-hong-kong-oases-first-japan-partner": {
+  "lead": "Top university research, cross-border data exchanges and access to mainland China’s large market have attracted Japanese firm Rohto Pharmaceutical to conduct clinical trials in Hong Kong, making it the first company from the country to partner with the city’s government under a flagship investment initiative.\nRohto, known for its over-the-counter eye care and skincare products, is among the latest batch of 18 firms recruited by the Office for Attracting Strategic Enterprises (OASES), a...",
+  "tags": [],
+  "saved_at": "2026-11-02T00:35:46.957605+00:00"
+ },
+ "https://www.scmp.com/news/hong-kong/society/article/3372903/less-minute-hong-kong-travellers-praise-japans-new-tax-refund-airports": {
+  "lead": "Hong Kong tour groups returning from Japan have praised a smooth roll-out of the country’s new tax refund arrangement that requires travellers to complete refund procedures at airports or ports rather than at shops.\nUnder the “pay first, refund later” scheme, which took effect on Sunday to curb illicit domestic reselling and tax evasion, international tourists must now pay the 10 per cent consumption tax upfront at the counter.\nTravellers are now required to complete customs verification before...",
+  "tags": [],
+  "saved_at": "2026-11-02T00:35:46.957834+00:00"
+ },
+ "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372866/ex-japanese-adult-film-actress-intensive-care-after-alleged-drugging-hong-kong": {
+  "lead": "Former Japanese adult film actress Mao Hamasaki has regained consciousness after being admitted to intensive care at a Hong Kong hospital following an alleged drugging while she was working at a club in Tsim Sha Tsui.\nHamasaki’s manager published a post on her Facebook page at 5.40am on Sunday, with two photos showing her in a wheelchair being taken to an ambulance. The post read: “Drugged while working.”\nHamasaki, 33, had performed as a disc jockey at several clubs on Halloween night until the...",
+  "tags": [],
+  "saved_at": "2026-11-02T00:35:46.958058+00:00"
+ },
+ "https://www.welt.de/wissenschaft/article6ade49c7ba080c37bf6d1312/japan-126-generationen-warum-das-japanische-kaiserhaus-zum-aussterben-verurteilt-war.html": {
+  "lead": "",
+  "tags": [
+   "Genetik",
+   "Chromosomen (ks)",
+   "Erbgut (ks)",
+   "Japan",
+   "Thronfolger (ks)",
+   "Monarchien (ks)"
+  ],
+  "saved_at": "2026-11-02T00:35:49.550363+00:00"
+ },
+ "http://www.taz.de/Arsenal-Werkschau-Ninjin-Club-in-Berlin/!6226366/": {
+  "lead": "Die Reihe „Just revolutionary – Die Filme des Ninjin Clubs“ zeigte ein weibliches Koordinatensystem des japanischen Kinos von 1954 bis 1966. mehr...",
+  "tags": [],
+  "saved_at": "2026-11-02T00:35:51.893807+00:00"
+ },
+ "https://www.globaltimes.cn/page/202611/1373417.shtml": {
+  "lead": "",
+  "tags": [
+   "Unit 731",
+   "Japanese",
+   "WWII"
+  ],
+  "saved_at": "2026-11-02T00:36:37.210276+00:00"
+ },
+ "https://www.globaltimes.cn/page/202611/1373395.shtml": {
+  "lead": "",
+  "tags": [
+   "regional",
+   "foreign",
+   "stability",
+   "china",
+   "taiwan"
+  ],
+  "saved_at": "2026-11-02T00:36:37.211027+00:00"
+ },
+ "https://www.chosun.com/economy/tech_it/2026/11/01/GU2TAZBQHAZTSMBSME3GIMJSMM/": {
+  "lead": "일본 정보기술(IT) 대기업 GMO 인터넷 그룹의 고객 정보 유출 사건에 북한 연계 해킹 조직이 관여했을 가능성이 제기됐다. 1일 교도통신에 따르면, GMO 인터넷 그룹은 자사의 외국환 증거금 거래(FX) 서비스 이용 고객을 대상으로 발생한 사이버 공격의 배후에 북한 연계 해킹 조직이 있다고 추정하고 당국에 보고했다. GMO 인터넷 그룹은 공격 과정에서 발",
+  "tags": [],
+  "saved_at": "2026-11-02T00:36:41.578957+00:00"
+ },
+ "https://www.straitstimes.com/opinion/is-chinamaxxing-about-to-reach-its-made-in-japan-moment": {
+  "lead": "Quality Chinese consumer products are on the rise, but there is still a reticence about their origins.",
+  "tags": [],
+  "saved_at": "2026-11-02T00:36:42.337199+00:00"
+ },
+ "https://www.theguardian.com/artanddesign/gallery/2026/nov/01/japan-jimi-halloween-celebration-of-all-things-mundane-tokyo-shibuya-in-pictures": {
+  "lead": "While Halloween is traditionally a family-oriented holiday and an occasion for children to dress up and go trick-or-treating, a unique spin on spooky season is taking off in Japan. ‘Jimi Halloween’ or ‘Mundane Halloween’ sees adult participants dress up as ordinary people in everyday life. They do highly specific tasks, embracing and celebrating unremarkable situations for the event, hosted by online magazine Daily Portal Z in Tokyo’s Shibuya district. Continue reading...",
+  "tags": [
+   "Art and design",
+   "Japan",
+   "Halloween",
+   "Culture",
+   "Fashion",
+   "Festival fashion",
+   "Life and style",
+   "World news"
+  ],
+  "saved_at": "2026-11-02T00:36:43.976258+00:00"
+ },
+ "https://www.japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains/": {
+  "lead": "Embodied AI, which focuses on software that allows robots to understand surroundings and adapt, is opening a new front in U.S.-China tech rivalry.",
+  "tags": [
+   "BUSINESS"
+  ],
+  "saved_at": "2026-11-02T00:36:45.708284+00:00"
+ },
+ "https://www.japantimes.co.jp/community/2026/11/02/our-lives/tokyo-running-clubs-community-ties/": {
+  "lead": "An increasing number of coffee-centric, sociable running clubs are starting up across Tokyo, drawing more casual runners in search of community.",
+  "tags": [
+   "COMMUNITY"
+  ],
+  "saved_at": "2026-11-02T00:36:45.709765+00:00"
+ },
+ "https://www.japantimes.co.jp/culture/2026/11/02/film/in-their-traces/": {
+  "lead": "Veteran director Shigeru Kobayashi's documentary was made over the course of nine years and spotlights three women of different generations.",
+  "tags": [
+   "CULTURE"
+  ],
+  "saved_at": "2026-11-02T00:36:45.710615+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/02/world/gulf-states-iran-us/": {
+  "lead": "U.S. President Donald Trump has repeatedly said the U.S. and Israel would \"finish the job\" in Iran.",
+  "tags": [
+   "WORLD"
+  ],
+  "saved_at": "2026-11-02T00:36:45.711475+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/world/kherson-truce-ukrainian-families/": {
+  "lead": "The Ukrainian army regained the city in November of that year, but Russia has continued to fire drones and rockets from across the Dnipro River.",
+  "tags": [
+   "WORLD"
+  ],
+  "saved_at": "2026-11-02T00:36:45.712299+00:00"
+ },
+ "https://www.japantimes.co.jp/sports/2026/11/01/tennis/lower-ranked-players-mental-health/": {
+  "lead": "Former player and sports psychologist Jeff Greenwald said a long season could leave players tired, mentally stale, negative or emotionally reactive.",
+  "tags": [
+   "TENNIS"
+  ],
+  "saved_at": "2026-11-02T00:36:45.713156+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/japan/vietnamese-fish-for-japan-surimi-ingredient/": {
+  "lead": "\"Surimi\" prices are soaring amid tight supplies, putting processed fish product-makers under pressure ahead of the peak demand season in winter.",
+  "tags": [
+   "JAPAN"
+  ],
+  "saved_at": "2026-11-02T00:36:45.714042+00:00"
+ },
+ "https://www.japantimes.co.jp/community/2026/11/01/cassiopeia-galaxy-cat-adoption/": {
+  "lead": "Cassiopeia and Galaxy, an attractive pair of feline siblings, are very much attached to each other and want to be adopted together.",
+  "tags": [
+   "COMMUNITY"
+  ],
+  "saved_at": "2026-11-02T00:36:45.714905+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/world/politics/world-us-midterms-trumpism/": {
+  "lead": "Foreign leaders are understandably shy of offering opinions on the U.S. elections, whether they share Trump's playbook or not.",
+  "tags": [
+   "WORLD"
+  ],
+  "saved_at": "2026-11-02T00:36:45.715817+00:00"
+ },
+ "https://www.japantimes.co.jp/sports/2026/11/01/tennis/pan-pacific-open-final/": {
+  "lead": "Shnaider won the match 6-4, 5-7, 6-2 to earn her sixth career title.",
+  "tags": [
+   "TENNIS"
+  ],
+  "saved_at": "2026-11-02T00:36:45.716717+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/world/pompeii-cupboard-life-vesuvius/": {
+  "lead": "The once-thriving city near Naples, Pompeii was buried by a volcanic eruption in AD 79, preserving buildings, objects and graffiti under meters of ash.",
+  "tags": [
+   "WORLD"
+  ],
+  "saved_at": "2026-11-02T00:36:45.717632+00:00"
+ },
+ "https://www.japantimes.co.jp/commentary/2026/11/01/world/improving-global-mineral-governance/": {
+  "lead": "Global South countries should work together to ensure that mineral supply chains deliver equitable economic benefits and protect the environment.",
+  "tags": [
+   "COMMENTARY"
+  ],
+  "saved_at": "2026-11-02T00:36:45.718530+00:00"
+ },
+ "https://www.japantimes.co.jp/environment/2026/11/01/climate-change/nitrogen-fertilizer-concern-climate-change/": {
+  "lead": "While nitrogen gas is harmless, the production of fertilizers used to feed the world converts it into reactive nitrogen, and that comes with a cost.",
+  "tags": [
+   "ENVIRONMENT"
+  ],
+  "saved_at": "2026-11-02T00:36:45.719409+00:00"
+ },
+ "https://www.japantimes.co.jp/sports/2026/11/01/more-sports/cas-russia-world-championships/": {
+  "lead": "The International Ice Hockey Federation has excluded Russia from most international ice hockey competitions since 2022 following the country's invasion of Ukraine.",
+  "tags": [
+   "MORE SPORTS"
+  ],
+  "saved_at": "2026-11-02T00:36:45.720393+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead/": {
+  "lead": "Pyongyang claimed the warhead is \"capable of turning into ashes a target area of 12 to 13 hectares.\"",
+  "tags": [
+   "ASIA PACIFIC"
+  ],
+  "saved_at": "2026-11-02T00:36:45.721343+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/japan-russia-g20-meeting/": {
+  "lead": "The rare high-level meeting between the two countries came amid strained ties over Ukraine and a long-running territorial dispute.",
+  "tags": [
+   "JAPAN"
+  ],
+  "saved_at": "2026-11-02T00:36:45.722359+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/japan/crime-legal/us-marine-okinawa-arrest-drunken-driving/": {
+  "lead": "U.S. Marine Corps Cpl. Kalvin Montoya Cardona, 21, of Camp Hansen was arrested early Saturday despite a U.S. military-imposed curfew.",
+  "tags": [
+   "JAPAN"
+  ],
+  "saved_at": "2026-11-02T00:36:45.723291+00:00"
+ },
+ "https://www.japantimes.co.jp/environment/2026/11/01/climate-change/singapore-alternatives-heat/": {
+  "lead": "The city-state has the highest per-capita air conditioner ownership rate in Southeast Asia, with about 99% of private residences equipped with cooling units.",
+  "tags": [
+   "ENVIRONMENT"
+  ],
+  "saved_at": "2026-11-02T00:36:45.724245+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/world/politics/ai-chatbots-us-election-scrutiny/": {
+  "lead": "Nov. 3 marks the first U.S. federal election with millions of voters relying on AI for political information, a trend that may play a key role ahead of the polls.",
+  "tags": [
+   "WORLD"
+  ],
+  "saved_at": "2026-11-02T00:36:45.725239+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/politics/india-protest-movements-unite-modi/": {
+  "lead": "The event will bring together two strands of Indian political agitation that had largely operated separately.",
+  "tags": [
+   "ASIA PACIFIC"
+  ],
+  "saved_at": "2026-11-02T00:36:45.726205+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/disaster-prevention-agency/": {
+  "lead": "The National Disaster Management Agency, which opens Monday, will serve as an operational control tower to boost the nation's disaster preparedness.",
+  "tags": [
+   "JAPAN"
+  ],
+  "saved_at": "2026-11-02T00:36:45.727227+00:00"
+ },
+ "https://www.japantimes.co.jp/business/2026/11/01/companies/kioxia-chip-prices-stall/": {
+  "lead": "The chipmaker's outlook suggests the unprecedented price spikes of the past year or so are starting to level off.",
+  "tags": [
+   "BUSINESS"
+  ],
+  "saved_at": "2026-11-02T00:36:45.728270+00:00"
+ },
+ "https://www.japantimes.co.jp/sports/2026/11/01/more-sports/ryo-hirakawa-f1-debut/": {
+  "lead": "Hirakawa, 32, is a two-time world endurance champion and Le Mans 24 Hours winner with Toyota, which has a technical partnership with Ferrari-powered Haas.",
+  "tags": [
+   "MORE SPORTS"
+  ],
+  "saved_at": "2026-11-02T00:36:45.729246+00:00"
+ },
+ "https://www.japantimes.co.jp/commentary/2026/11/01/japan/japan-sharing-economy/": {
+  "lead": "Shinjuku is moving to restrict  minpaku  following a surge of complaints from Japanese residents about tourists causing noise and other issues.",
+  "tags": [
+   "COMMENTARY"
+  ],
+  "saved_at": "2026-11-02T00:36:45.730351+00:00"
+ },
+ "https://www.japantimes.co.jp/sports/2026/11/01/soccer/mourinho-mbappe-china-controversy/": {
+  "lead": "Mourinho said that the club has nothing more to say.",
+  "tags": [
+   "SOCCER"
+  ],
+  "saved_at": "2026-11-02T00:36:45.731345+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/japan/gmo-ceo-kumagai-cyberattack-presser/": {
+  "lead": "GMO Internet Group CEO Masatoshi Kumagai and other executives will hold a news conference in Tokyo on Monday to address a series of unauthorized access incidents, the company said Saturday.",
+  "tags": [
+   "JAPAN"
+  ],
+  "saved_at": "2026-11-02T00:36:45.732384+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/taiwan-china-harassing-shipping/": {
+  "lead": "The China Coast Guard is trying to exert a fictional jurisdiction in the area, seen as a critical supply route in the event of a blockade or conflict.",
+  "tags": [
+   "ASIA PACIFIC"
+  ],
+  "saved_at": "2026-11-02T00:36:45.733461+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/japan/japan-northern-territories-ex-islanders-fly-by/": {
+  "lead": "The aerial memorial service was held mainly because the two countries have suspended exchange programs.",
+  "tags": [
+   "JAPAN"
+  ],
+  "saved_at": "2026-11-02T00:36:45.734476+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel/": {
+  "lead": "U.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.",
+  "tags": [
+   "WORLD"
+  ],
+  "saved_at": "2026-11-02T00:36:45.735491+00:00"
+ },
+ "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/takaichi-tax-cut-bill-deliberation/": {
+  "lead": "The LDP hopes to hold Lower House committee and plenary votes Friday on the bill to reduce the tax rate for food to 1% from 8% for two years.",
+  "tags": [
+   "JAPAN"
+  ],
+  "saved_at": "2026-11-02T00:36:45.736560+00:00"
+ },
+ "https://www.japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea/": {
+  "lead": "Binance has said it will cover about 90% of the loss and plans to restore withdrawals, making progress on a pledge to fully reimburse customers.",
+  "tags": [
+   "BUSINESS"
+  ],
+  "saved_at": "2026-11-02T00:36:45.737664+00:00"
+ },
+ "https://japan-forward.com/shin-ushijima-chapter-17-japan-for-sale/": {
+  "lead": "In Chapter 17, author and lawyer Shin Ushijima introduces the ways childhood friendships and business deals can overlap in and influence corporate  Japan.\nThe post Chapter 17: Japan for Sale! first appeared on Japan Forward.",
+  "tags": [
+   "Books",
+   "Business",
+   "business",
+   "Chapter 17",
+   "corporate governance",
+   "Japan for Sale!",
+   "novel",
+   "Shin Ushijima"
+  ],
+  "saved_at": "2026-11-02T00:36:46.662085+00:00"
  }
 }
