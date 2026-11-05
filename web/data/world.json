@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:27:03.931804+00:00",
+ "generated_at": "2026-11-05T01:27:38.690871+00:00",
  "rules": {
   "min_countries": 3,
   "min_areas": 2,
@@ -2625,281 +2625,6 @@
    "n_areas": 3
   },
   {
-   "id": "49d31138-721b-4c6f-8f0e-78694a8677e6",
-   "title_ja": "スペイン中部で高速列車が追突、68人死亡",
-   "fact_ja": "マドリード南方のトレド県で高速列車が停止中の列車に追突し、少なくとも68人が死亡、100人以上が負傷した。運輸相は管制側の誤った指示が原因との見方を示し、首相は3日間の服喪を表明した。",
-   "category": "災害・事故",
-   "first_seen": "2026-10-28T16:03:00+00:00",
-   "updated_at": "2026-11-04T07:09:00+00:00",
-   "country_views": [
-    {
-     "country": "US",
-     "view_ja": "死者数や運輸相の説明に加え、生存者の証言や、同じ事業者が絡む数か月前の事故に続く惨事である点を伝えている。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "運輸相が誤った発車指示を認めたことや、今年の相次ぐ事故、被災地の町の支援の様子を伝えている。国営・政府系のCNAは、鉄道網の安全性への疑問が改めて生じたと報じている。"
-    },
-    {
-     "country": "DE",
-     "view_ja": "死者68人と、管制の誤った案内が原因とみられる初期調査を伝え、後続報道では人為的ミスの可能性とスペイン社会の衝撃に焦点を当てている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "現場の映像や生存者の証言、運輸相の「説明のつかない」誤りという見方を伝えている。今年2件目の事故として高速鉄道網の安全性への疑問も取り上げている。"
-    },
-    {
-     "country": "RU",
-     "view_ja": "国営・政府系のTASSは、死者数の増加と首相による3日間の服喪の表明を簡潔に伝えている。"
-    },
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系のアルジャジーラは、10年以上で最悪の鉄道事故として、スペインが説明を求めていると伝え、事故後の抗議デモと警察の出動も報じている。"
-    },
-    {
-     "country": "CN",
-     "view_ja": "国営・政府系のCGTNは、運輸相が赤信号なのに列車が発車を指示されたと述べた点や、服喪、死者数を速報形式で伝えている。同じく国営・政府系のGlobal Timesは、習近平氏が弔意を示したと報じている。"
-    },
-    {
-     "country": "FR",
-     "view_ja": "ル・モンドは、昨年のアダムス事故から1年足らずで再び起きた惨事として、コンピューター障害と人為ミスが原因とみられると伝えている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "韓国人の負傷者が出たことを軸に、9か月で114人が死亡した高速鉄道の問題や生存者の証言、首相の真相究明の発言を伝えている。"
-    },
-    {
-     "country": "AU",
-     "view_ja": "2013年以来の欧州最悪の鉄道事故として、生存者の証言と、救助に駆けつけた村の住民の様子を伝えている。"
-    },
-    {
-     "country": "ID",
-     "view_ja": "死者68人、負傷者100人超という事故の概要を簡潔に伝えている。"
-    },
-    {
-     "country": "PK",
-     "view_ja": "死者68人と負傷者100人超という概要に加え、現場の状況を伝え、今世紀の欧州で最悪級の鉄道事故だと位置づけている。"
-    }
-   ],
-   "difference_ja": "多くの媒体が死者数と管制側の誤指示という原因を共通して伝えている。英米独仏や韓国の媒体は、今年相次ぐ事故を踏まえて高速鉄道の安全性を問う視点が目立つ。韓国は自国民の負傷、豪州やシンガポールは生存者や地元の支援、中国とロシアの国営・政府系は首相や運輸相の発言、服喪、弔意を中心に伝えている。",
-   "japan_main": [
-    {
-     "outlet": "NHK",
-     "title": "スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01TmxMZ2JJN1E3dXo2T1F1VV9nOUNUV3ZkbGlJQk9qTkt0aDhaZGY1OGNYX3phNXlYaFp2MTAxdkVHOEExcEVPejJ3Z0RUcGl2UXFMdEZteEVlVXFBYmYw?oc=5",
-     "published_at": "2026-10-28T19:05:51+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "スペインで列車事故、少なくとも68人死亡 高速鉄道が追突、脱線",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GVk9pbl9RYTdGQVFTS01NdzJiOFlyemJuRzJkRnJ0VlI2X3V2NklpcGxKTF9jaUZvVTRqaF9mbHE2Ql9yTUpTWk5raFc4X0Q0X0U1T1JjN1Q0Q3ROalA2X3ZyOXRfQlk?oc=5",
-     "published_at": "2026-10-28T10:34:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "スペイン列車事故、乗客名簿に日本人2人か 政府、安否確認進める",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pSEEyQml0TmJRZXJrS2U3SHBacG82RU1RWjhwTnNoWmtSMUlHOXVBZjNyR0tMbUJJYWJEUHpaUDkxUC1jWkFwVHg1OUJqSDlQX3pMcHVlOUpyNDF1Y0k0aXM1RS1XMTQ?oc=5",
-     "published_at": "2026-10-29T01:54:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "管制が走行指示、追突か スペイン列車事故、死者６８人に",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jbTJTU2FLNmpsNU0tbmFJT1VZZnowTkRZUE1qZGRiWU1yLVZGbE9TSFRyMlJESzVWUHFkMWpsRWpnT01mczBOUXVkTHZEaFEtRVk1UG45dlJlU1RN?oc=5",
-     "published_at": "2026-10-29T07:30:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "「線路に停車中」 衝突5分前、管制に伝えたのに スペイン鉄道事故",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rVUttbXNxSHRKbExIdGFyU3hoUlQxQnlkOVcxMDRxV2pkd1dDUVlsZ210SEo3X0NvcnlTRzRIcjdlRmQxbGlLRENlai1UUWxfU243R1BQVUFfZEVDQkxxYzFNVjVvb00?oc=5",
-     "published_at": "2026-10-29T04:47:00+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "赤信号なのに出発を指示か スペインの高速列車追突事故、運輸相「明らかな誤り」",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40M3lXV1JNLUlPWWxRemZmbll6Zm9DZXpsMXB6QzlYb2tFd3hucVB1VDVKeEQyc2E1cExzdF9CV05Meks5Tm45V1F6RUFyU1pJdU80OUtDMGxIOUlXUF82WmdsQ1F3TmNPNGVLLUhqQllwVEs0LVE?oc=5",
-     "published_at": "2026-10-28T22:02:16+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "スペイン列車追突で死者68人、負傷100人以上に 指令センターの指示ミス原因か",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSkcwVnZ4R3lfUU5TMWZ1aHhFTm1FZm9CaVlxRFlfeWhWZUNYSS1STXoxQlZoSWdzQU5KMUhPTGNLLU9NV2FiZjFFX0NtN1RYbDcyemh5Y2hCcFZicGRTWDdtNi1KbmtnT0lpVDZYVDhKQ2JMQkE?oc=5",
-     "published_at": "2026-10-28T22:32:20+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "28日にスペイン・ウルダで発生した列車事故の現場で活動する救急隊員ら＝10月29日（AP＝共同）",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmc2T21abW9QWk1MNGx2VjlyN2t3WXk1eHdaS2lCc3hqYmlmSjd5N1VzZzVkT3Q2VXVlU0NkSmlHdldXdG9ydzVac1JyS21ma0xEN2FmRDMtSjFHVDh4SUFQZ2N5WFJJVEhVY0VyQ1dvUnJHVWJLNUhOeElEQU5acF9FVEdrcEJ2X1dDRVhVUHFhTENaN1ZnUDZ5SjQxTVJjcHc?oc=5",
-     "published_at": "2026-10-28T22:32:20+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "乗客名簿に日本人2人 スペイン列車事故、日本政府が現地対策本部設置し大使館員現地に",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Yb19oRHRBczZCNE1Md3VURlZVQkxEZDNqa3pJQWlUdk1Zbl85V0pOeHQxMDlsZ255aTFiMzJobEVNVGhnR3RzbHhKUVlyMDBOUVNpajh2cVBfZlpJNER5UzVqWmhQVjM4SU9IOF9idGlkYnV5RWc?oc=5",
-     "published_at": "2026-10-29T09:48:14+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "68人死亡のスペイン鉄道衝突、乗客名簿に日本人2人 安否確認中",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80MW9hTG1faWVSOFo3SDVlQmpJSmVvbWJwS2JnUnNtd3BCR21XNmhEOG9TMEhqME82emJrZ2xUZmFJZFJvRVM5MVk3QWNRUmI1NXlyaEcxYjc3eEppYVRfQW5wcERPY3BlSFVnWQ?oc=5",
-     "published_at": "2026-10-28T18:59:24+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "スペイン高速鉄道が追突事故、68人死亡 信号故障後に人為ミスか",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByUHJuNXZSSGpLUXNyajg1UGVqbkYxcGZhOFg3cGFOUE9BSkpwbzhTUFFlU21EakxfTUR4TGZhdHpvcEprN1FTQ1J5TVBaN1hkQjZRV3Z2N3dyWk1BVDNzZk14dm84azBWSXN6Tg?oc=5",
-     "published_at": "2026-10-28T10:24:26+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "スペイン列車事故の死者69人、乗客名簿に日本人2人 赤信号で出発指示",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zYnJNZ2JwNWpfQUVsYVpCR2xfcnNwWXJOQURBdGtnbGRMNDZROFlwcUtrXzctdTZqVlZFeGdLTDB6US1XeUJlSWpuN2c5SUd4QjF5WnFfSTFEWWFpbDJURzVPN2FocEdDNVdTVQ?oc=5",
-     "published_at": "2026-10-29T15:18:59+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "スペイン高速鉄道事故、前方に列車停止中でも青信号点灯 運輸相",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1VDBZZlVBbWNYeGZSUU1EVEN6UlNtVGVEeDJGNWJxLVpkTlp6WWhFVjB6eFoxSjN6NG5GcTN4YWk4SzcyWUtEZFFQblg3RWEtdU40clhfMV9xdm5VRWFvZkZrc3NuY0NOMGg5SQ?oc=5",
-     "published_at": "2026-10-31T00:23:20+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "スペイン鉄道事故 高市首相、日本人の乗客「2人の安否を確認中」",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kWXR2MG5Vc2JHZ3JSNVJaaWpOYkYya0FEU201Nmpjb1M3LU9CMmlBVk4tZlVYYlBCbkYzX1Y1bTEtMEQ2ZHJkQm5YUmxiN2VzdTJrakVBMnNnMjdhdU9OZENIQWhUVDRPNHQybA?oc=5",
-     "published_at": "2026-10-29T08:30:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "スペイン高速列車事故68人死亡 乗客名簿に日本人2人の名前（2026年10月28日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVA0d2l3c1BCY0J5QUlzbE5HWk1MSDFYOTNpNHFucU4yaEdzWUlEdkRPb0hPSzhvT3FYYWdxRU5fWXg3dHdqNkNjalIxWG40WXdCRWwwZjNjSG81M2x0LTRROGstSERONTZQc1JNZHhWVThTVEZjcERWelhzcTJPY2tiTUo?oc=5",
-     "published_at": "2026-10-29T02:55:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "スペイン高速列車追突事故 少なくとも68人死亡 これまで日本人の被害情報なし（2026年10月28日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRDZiWG1VdlRxdGRQX19jU1VIZ2NxZjF0U1MxRTJLYXAxdnB4anBmZEkwVzlDeE5PQmU0Q1JpUzVkZXF2c3RSZTZOY2NkTXdBaXRBTFBjbUh4dEFQYl9oQVhOUWZUT3J2TnN1ZTd1d05jZ1RnQzhoUTRtLTB0XzVqZVNtM3k?oc=5",
-     "published_at": "2026-10-28T16:52:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "スペイン高速列車追突 少なくとも69人死亡 乗客名簿に日本人2人の名前…安否は 日本側は現地に対策本部設置",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2RDUzRtOW4tSlVydlJWYmczWDhZSXhPZlN2MWFCT1Z2NDdIb3kycnBTUHFoZlZSLXJZLTdpelQ2aWNfazJORThKelVkb2ZFYm9iZ3lKV0xRQkRETlE4OXFoTTBUZDF0SzA3T2xrWHRXbmlaSFdqN0haWDN6NEFObDItLU0?oc=5",
-     "published_at": "2026-10-29T15:03:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "スペイン列車事故 68人死亡確認 乗客名簿に2人の日本人名…確認急ぐ【中継】（2026年10月29日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVBTVW53MHRpX0NXaTBEejBiMjljYVpJc2prRVNFdUh5WjZsRk1qUGYyTENIYmJ2QUVfQ3pXWmQycWhEdWxkZm1FMVNld1BPN0VQVWlYclR4dk85dVIxNm5Dd2QzdjU5aDQwaTBDdEZVZ2Q4aldJVlJhdkZkeFY1ZHI5aFY?oc=5",
-     "published_at": "2026-10-29T07:33:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "スペイン高速列車追突 68人の死亡確認 事故前に通信障害で自動停止も…“誤った指示”か",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk84dTU4YUQ2NlZwRElpSkNITmdRbnVvVVBlTU1LelRnYUR6NFNTTTQ1Nl9lX3VJVjJfbmNLMy0xNHZKZ0ZyNXMxWHpYRmFCSzM4bXhsMTdDbHBHQ0pBdHVMS2dfLVZZbzRHbWNZQ05VREFZeWZXMGZKYzZTT19Rd2FJQTc?oc=5",
-     "published_at": "2026-10-29T10:43:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "少なくとも68人死亡のスペイン・ウルダ列車事故 乗客名簿に日本人2人の氏名 乗車していたか現地総領事館が確認中",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qMUtGbG1vN1BDOXo3WGxfS1gtaUtnalZoMnItYmRMRHRZaHhxV1V3bEIzVl9laWhxQjZEXzJZQ2t4cDlIbE9JeEE1RlB3bVZiREZnYkdjYXZrWmNvNnZ6VVNmVkk2NGV5WWhMSlVHWWJOQkRE?oc=5",
-     "published_at": "2026-10-29T02:55:40+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "「みんな空中に投げだされた」スペイン列車衝突事故で少なくとも68人死亡 乗客名簿に日本人2人の氏名 木原官房長官“保護に全力”",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QbjlnX0tYX3lRYncxZldmeEpPTzR0MW9MNVVSd2xqWDhTX2ZucUx2ZWw1N0RGWkI1YWxLYWNKeWI0WldxY1Z5QmxjOEx1ZVhha2xLejEwYW9LdzlZLWRHU0NhZk5DVF9NS2YxV1paQzVISmk2?oc=5",
-     "published_at": "2026-10-29T09:43:19+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "スペイン・ウルダで列車同士の衝突事故 少なくとも68人死亡 乗客名簿に日本人2人の氏名あり 乗車していたかなど確認中",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaRlZwM2M2dDFqNXJlLUJ3QnItQVIyVHNCTWhvWm1NWC1JeXlfcVFSam5oTnRxcWtWVEt4cmFNaG1SdmQ1c1dxdmNSV2Q2U0tKZ1dHd0xnc3hBMWRValozVHhxcHkzVXNtazRpTWhYcC15SkxR?oc=5",
-     "published_at": "2026-10-29T01:08:24+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "「信じられない光景」スペイン高速列車事故 助かった乗客が語る事故の状況…乗客名簿には日本人2人の名前も【news23】",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SZXl5cmRhWExlRDJLN3RJMmdUalVLV1JlQ3VMa2xvUUhBUW0ta1lrazlXaTR4OXAyd2tCNWVBNFR5aE9aTlVBcXN2Tkk1V3F2V2Z0b1FXcjY3YjRCbjZKaGpsWkRXZ05aZVl3dTYxanlpUFlW?oc=5",
-     "published_at": "2026-10-30T03:16:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "スペイン列車衝突事故 乗客名簿に日本人2人 追突時は“時速200キロ”で走行の可能性も 1月にも同じ高速鉄道で死傷者多数の事故",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yU1VuZkhzYV9JbDRDbFpxdkZTNjlRTUJScGVPdTJBTkIweS1wc2N6V0U0d04xMng1MEZBal9SY2JEN0hSWWdXR2QwWWgwSld1REhCVmRtU0lnUGRYaHBZaEs3U3BjYjBkbm0zS2M3UEhCZ2Jo?oc=5",
-     "published_at": "2026-10-29T07:24:44+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "“人為的ミス”で後続列車に誤った進行指示か 68人死亡のスペイン高速鉄道追突事故",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kSlhnMDUxNFRZZlcxYTE5dDJBZHFUcG5UMGJFSDZfZEhLcy01VGFyQmQ4V0tya3BQTTVJZVZpczZRaTZzZlIxLWw1aXBWd29lSUdZTjUycUVNbnN3a2JOTnl2T1N1YjhybTNfa3FwalNKR0pYXzRsV1NB?oc=5",
-     "published_at": "2026-10-28T19:12:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "後続の列車に“誤った指示” 人為的ミスが原因か 68人死亡のスペイン列車衝突事故",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TM2dCa3N3MWhpWk9IMDdtRjNWdHVfcHhQbEp0d1ZfbzRUQWwxY3FJRUtnZjl1aGxVMmt3QWsyYUxqZGJ3R1RwVWVnSXZkY2thUVZWbEptajFVN2RGMEgtcjJ5ZHhWVU1MZDlLcGF0Zmg2ZFZ6UFNlUDNR?oc=5",
-     "published_at": "2026-10-28T16:32:48+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "【情報まとめ】スペイン列車事故 追突した高速列車の乗客リストに日本人2人…外務省が確認急ぐも安否不明 69人死亡、約200人けが",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44U2J4aTdaTVlNMW9vbUpHYmhTdWl0bUZqMFpHUWg2eU1SZ3BXZnN5NjE0cTB6R2FTNmdPTVdKeDd1UHZZaE1XUXItNkt0MkwtV2RmV0VtSld5ZkZOUzNnU2t2MHRpRVFvZGhMd0dTSFpzUTZCWEVtcVJR?oc=5",
-     "published_at": "2026-10-31T03:29:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "乗客名簿に日本人2人の名前 スペイン列車事故 68人死亡",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JQmY5ZTR3UE05T1JMSmlpVmh2dS1GTUdXMTRUVEh6QnBfUnF1cUlnOWM5RWtxUk81bUlnaXA1cExZUVZtSlByRkpKd2ZsWEJ3emVXZEZ3R2xpaERZWHJHVzM1QWxobTlIXzlsRFY3eDE4ZUx2bFJtNk1R?oc=5",
-     "published_at": "2026-10-29T03:07:16+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "スペインで高速列車追突、68人死亡 後続に「進め」の指示ミスか 1月にも46人死亡",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVV184bWw2UzFpbkRhMTNfTXRDU1pJRXJEUFRsQmp3bkRfZ0NrTW9qZjBldDZjc2hPMVRfYlA2T1V6UVlTRUp4cjQxclZuT2JqZ28tdjlHRkRzNm82WlFqUkV6UDdmQ2xFMFVGMU5vTElGeElEQUNyTlhR?oc=5",
-     "published_at": "2026-10-29T02:16:00+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "スペイン列車事故 管制センターの指示に人為的ミスか 赤信号でも後続に運転再開許可と説明 これまで68人が死亡",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QRHJBNFdHZ0tRR1dWRl9FNzRaTkRXY1U4QWJ5UHlSM0l4YXVTQlhMNW42cjNqemNqMFI4UXkxVzhNUjlybm01NUZNQUprZw?oc=5",
-     "published_at": "2026-10-28T22:15:00+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "衝突したスペイン高速列車の乗客名簿に日本人2人の名前 外務省が安否確認急ぐ 68人死亡100人以上ケガ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mamlRQ0gyNVRsc0JwY3pVc3BIYURPaFFtOGtUTUJ5VnFKa0hhSzJnNWRneFJ2anZUT0toOE1mTVpudEJFVFQtUVozYW55dw?oc=5",
-     "published_at": "2026-10-29T02:23:00+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "後続列車は時速100キロ超で衝突か 1月に続きスペインでまた鉄道事故 68人死亡・183人負傷 乗客名簿に日本人2人、安否確認急ぐ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kZjZ1cDMxakh5eW1iYlRVakZGZGY3X0ZKS1k1VkhuNnFZUUliRTZoZ01PcXRNRVpUMmg5Q0FfVlRGZmFQby03eUVBY0Y5dw?oc=5",
-     "published_at": "2026-10-29T09:58:00+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "68人死亡のスペイン高速列車衝突、1月にも同じ路線で46人死亡の事故 乗客名簿に2人の日本人“実際に乗っていたか含め確認”",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVbXJSQ0FzMUhfMUcwcDQydjBNR3ZKY3lUMDdFelNFM1ZLS1RmQl9wckZFeFhwdzBmTjJGRHNlUk03Vll5Sk51cldGb2hNU01hejNNV29kaTJpUlAyUGMw?oc=5",
-     "published_at": "2026-10-29T05:40:00+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "【速報】スペイン列車事故 乗客名簿に日本人2人の名前",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02dmp5dVlPc1ZFbW9LX0tJWHJUckI3amw0TXA3ODMySTVLalI3M2ZSaHNjTzhXbDNZWUJyOFBFVnJaMDBxWGtIYkhCVkpFdw?oc=5",
-     "published_at": "2026-10-29T00:37:00+00:00"
-    }
-   ],
-   "japan_view_ja": "日本の媒体は、事故の死者数や管制の誤指示とみられる原因に加え、乗客名簿に日本人2人の名前があることと、その安否確認や政府の対応を大きく伝えている。他国で目立つ鉄道の安全性への疑問より、日本人への影響が中心になっている。",
-   "japan_main_checked_at": "2026-11-01T00:15:48.492433+00:00",
-   "place_countries": [
-    "ES"
-   ],
-   "day": "2026-10-29",
-   "n_outlets": 23,
-   "n_countries": 14,
-   "n_independent_countries": 11,
-   "n_areas": 4
-  },
-  {
    "id": "69c67640-4764-4f48-8fb4-a077ead070e5",
    "title_ja": "イスラエル総選挙で過半数届かず、ネタニヤフ氏陣営がアラブ系政党に圧力",
    "fact_ja": "イスラエルの総選挙でネタニヤフ首相の陣営も野党陣営も過半数に届かなかった。ネタニヤフ氏の陣営は、アラブ系政党に外国からの資金提供があったとの根拠の示されていない疑惑を挙げて圧力を強めている。",
@@ -3105,284 +2830,126 @@
    "n_areas": 3
   },
   {
-   "id": "e260582d-5016-4a50-ad94-b0dc10946c58",
-   "title_ja": "EU・カナダ首脳会議で「準加盟」の文言が共同宣言に入らず",
-   "fact_ja": "モントリオールでのEU・カナダ首脳会議の共同宣言では、「準加盟国」の文言が外れ、「より緊密な連携」とされた。ドイツのメルツ首相など複数の加盟国が、フォンデアライエン委員長の構想に難色を示したと伝えられている。",
-   "category": "外交",
-   "first_seen": "2026-10-28T09:59:18+00:00",
-   "updated_at": "2026-10-31T08:40:44+00:00",
+   "id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c",
+   "title_ja": "ECBのラガルド総裁が2027年2月7日の退任を表明",
+   "fact_ja": "ECBのラガルド総裁は、任期満了より数か月早い2027年2月7日付で退任すると10月29日に明らかにした。後任選びが焦点になっている。",
+   "category": "経済",
+   "first_seen": "2026-10-29T02:44:22+00:00",
+   "updated_at": "2026-10-30T04:15:42+00:00",
    "country_views": [
-    {
-     "country": "FR",
-     "view_ja": "ルモンドは、準加盟の提案がパリとベルリンの反発を招いたことや、カーニー首相が国内で批判を受けていることを伝えた。会議後は新たな同盟とウクライナ支援融資などの合意に重点を置いた。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "ストレーツ・タイムズは、共同宣言案から準加盟が外れた経緯を伝えた。その後は、フォンデアライエン氏が内部の反対にもかかわらず検討を続けると述べた点や、ウクライナ・鉱物・AIでの合意を報じた。"
-    },
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系の媒体は、米国の関税を背景にEUが準加盟を提案したと位置づけ、双方の狙いと利害を解説した。会議後はデジタル貿易協定の署名に触れ、米国の通商圧力で同盟国が他国との連携を求めている点を強調した。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "ガーディアンは、加盟国間の不一致でEUが準加盟協議の提案から後退したことを伝えた。BBCは、フォンデアライエン氏が反対を押して準加盟の語を使い続けたと報じた。のちに、他国にも開かれた新同盟の発足を伝えた。"
-    },
     {
      "country": "CN",
-     "view_ja": "国営・政府系の媒体は、準加盟提案の撤回を伝えるポリティコ報道を短く引用した。ほかにフォンデアライエン氏のAIや北極圏に関する発言、カラス上級代表のウクライナ支援に関する発言を速報形式で並べた。"
+     "view_ja": "国営・政府系の媒体は、ラガルド総裁が2月に退任するという事実のみを短く伝えている。"
     },
     {
      "country": "DE",
-     "view_ja": "ドイツの各媒体は、メルツ首相ら首脳が構想を抑えたことを詳しく伝え、「フォンデアライエン氏の敗北」「構想が曖昧すぎた」といった論調も見られた。カーニー首相の「名称は重要でない」という発言も紹介し、後に具体的な協力分野に焦点を移した。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "朝鮮日報は、独仏の反発で準加盟の付与が撤回されたと伝えた。条約にない地位を委員長が事前の相談なしに打ち出したことへの不満を、対立の中心として説明した。"
-    },
-    {
-     "country": "TH",
-     "view_ja": "バンコク・ポストは、会議の開幕前に、米国との関係が不透明ななかで両者が「新たな章」を開くというEU委員長の発言を中心に伝えた。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "サウスチャイナ・モーニング・ポストは、準加盟の語が宣言に入らないほど割れていても、フォンデアライエン氏が検討を続けると述べたと報じた。カーニー首相が6月の妥結を見込むとも伝えた。"
-    },
-    {
-     "country": "IN",
-     "view_ja": "タイムズ・オブ・インディアは、トランプ氏の貿易戦争を背景に、カーニー首相が欧州への接近を図っているという構図で伝えた。"
-    },
-    {
-     "country": "US",
-     "view_ja": "ニューヨーク・タイムズは、カーニー首相がカナダをEU初の準加盟国にすると約束したと伝え、米国の影響を減らし貿易を他地域に広げる狙いの一環と位置づけた。"
-    }
-   ],
-   "difference_ja": "独仏など欧州側の反対や、構想の言葉をめぐる内部対立を詳しく伝えたのは、ドイツ、フランス、英国の媒体だった。ドイツの媒体はメルツ首相の関与や「曖昧さ」への批判まで踏み込んだ。一方、米国や香港の媒体は、宣言に文言がなくてもカーニー首相が準加盟を目指す姿勢を前面に出した。カタールとインドの媒体は米国の関税・貿易圧力を背景に置き、中国の国営・政府系媒体は発言の速報が中心だった。",
-   "japan_main": [
-    {
-     "outlet": "朝日新聞",
-     "title": "EUカナダ「未来のための同盟」 背景に米国 「準加盟」の言葉なし",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKeTNzUWpVZ0xuYUNRTnhrc2JsUkI3eDdCNnhTOUdQNDdLTFJUZHhocTlFaENISUhZaGlkbUd2SjhuSFZRZ294Tm9HUk84YkhZNE5obTBCeW9kbXI5QzhGWG5PN3R5ZlE?oc=5",
-     "published_at": "2026-10-31T00:38:53+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "EUカナダが未来同盟、AIや資源で連携 共同声明「準加盟」明示せず",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GLXdaamkyNXBxWlN1Y3IwSzBySEU5ZFpyVldKVnhsNnBxblB0WWxtTklkZ3V2dmZPQnFKTXAtT0lZMGtkN3VlMUZNUFhXeWZnb1pQRU83UlhLWmZta1JUUHdHYVFiSEFhX0lEbQ?oc=5",
-     "published_at": "2026-10-30T19:35:48+00:00"
-    }
-   ],
-   "japan_view_ja": "朝日新聞と日本経済新聞は、「未来のための同盟」の発足と、共同声明に「準加盟」が明示されなかった点を見出しで伝えている。朝日は米国という背景に、日経はAIや資源での連携に注目している。",
-   "japan_main_checked_at": "2026-10-31T00:56:28.126360+00:00",
-   "place_countries": [
-    "CA"
-   ],
-   "day": "2026-10-28",
-   "n_outlets": 17,
-   "n_countries": 12,
-   "n_independent_countries": 10,
-   "n_areas": 3
-  },
-  {
-   "id": "1593d226-5dea-4bec-ad46-bb6c14886ce2",
-   "title_ja": "スペインで高速列車同士が衝突、60人超が死亡",
-   "fact_ja": "スペイン中部でマドリードとアンダルシアを結ぶ路線で高速列車が衝突し、少なくとも64〜68人が死亡、多数が負傷した。今年2件目の死亡鉄道事故とされる。",
-   "category": "災害・事故",
-   "first_seen": "2026-10-28T09:53:03+00:00",
-   "updated_at": "2026-10-28T15:44:00+00:00",
-   "country_views": [
-    {
-     "country": "HK",
-     "view_ja": "停車中の列車に高速列車が突っ込んだ事故として、死者68人と地元政府による負傷者の治療状況を伝えている。"
-    },
-    {
-     "country": "FR",
-     "view_ja": "国鉄レンフェとイリョの列車の乗客数や政府報道官の説明、3日間の喪を伝え、空撮映像にも触れている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "死者数に加え、韓国人9人が軽傷を負ったことを見出しで打ち出し、自国民の被害を中心に伝えている。"
+     "view_ja": "tazは、総裁が早く退くことで政治に後任調整の時間を与える点に注目し、右派ポピュリストへの懸念と、ドイツにとっての好機かどうかを論点にしている。"
     },
     {
      "country": "SG",
-     "view_ja": "国営・政府系の媒体は、死者68人と負傷者100人超を伝え、車両が横倒しになった現場の様子を描いている。"
+     "view_ja": "独立系のストレーツ・タイムズは、金融政策以外の話題でも自由に発言したいという総裁自身の理由を中心に伝えている。国営・政府系のCNAは、任期を数か月残す退任の事実を伝え、別記事では米株式市場の動きと絡めて報じている。"
     },
     {
-     "country": "DE",
-     "view_ja": "1月の事故を想起させる点や、人為的ミスの可能性に触れ、極右政党ボックスが事故を選挙戦の題材にしたことも伝えている。"
+     "country": "FR",
+     "view_ja": "ル・モンドは、4月のフランス大統領選の前に欧州首脳が後任を選べる点を前面に出している。"
     },
     {
-     "country": "US",
-     "view_ja": "同じ運行会社が関わった数か月前の死亡事故との関連を軸に伝えている。"
+     "country": "HK",
+     "view_ja": "サウスチャイナ・モーニング・ポストは、経済の変動と選挙をめぐる分断が強まる欧州で、特に総裁の母国フランスの政治情勢を背景に退任を位置づけている。"
     },
     {
      "country": "PK",
-     "view_ja": "死者64人で今後増える可能性があるとする地域首長の発言を引き、救助の様子を伝えている。"
+     "view_ja": "ドーンは、退任が後任争いの始まりになるとし、ユーロ圏や世界の不安定な情勢を背景に伝えている。総裁のX投稿も引用している。"
     },
     {
      "country": "GB",
-     "view_ja": "乗客500人超が乗っていたことや事故の概要を、現時点で分かっていることとして整理している。"
-    }
-   ],
-   "difference_ja": "多くの媒体は死者数や現場の状況を中心に伝えているが、韓国は自国民の負傷を、米国とドイツは1月など過去の事故との関連を強調している。ドイツの媒体は人為的ミスや政党の政治利用にも触れ、他国の記事ではあまり見られない。死者数は64人と68人で報道に差がある。",
-   "japan_main": [
-    {
-     "outlet": "朝日新聞",
-     "title": "スペインで列車事故、少なくとも68人死亡 高速鉄道が追突、脱線",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GVk9pbl9RYTdGQVFTS01NdzJiOFlyemJuRzJkRnJ0VlI2X3V2NklpcGxKTF9jaUZvVTRqaF9mbHE2Ql9yTUpTWk5raFc4X0Q0X0U1T1JjN1Q0Q3ROalA2X3ZyOXRfQlk?oc=5",
-     "published_at": "2026-10-28T10:34:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "スペインで列車事故、少なくとも10人死亡 高速鉄道が追突、脱線か",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50MDgyUjY4TXlUNS04ZnNta3REaHZZS19DVHdkcVNyU0hWR2tmYlcyVUFEbXBESHNxMHd6c1RXSWYtd0dIXzQ2Y215R09WRFY5MkxCQ3MxNC00aUF6MFhiMGUzQU85NWE0VmhLalVJdWxvbTUydnJreDJR?oc=5",
-     "published_at": "2026-10-28T10:34:42+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "スペインで列車事故、少なくとも30人死亡 高速鉄道が追突、脱線か",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3ZDelRzSFFoRmF6dXpzbkdSb2t1djJ3MkxUak9GcC0zYk5qZmlxSzhhY253S3VPZXdEUm1iRGhXTGllS3RWVWlVYVJjeWdqclJHQXBkaVByQ1c0ZVB5N2txeVhmdmNkT01VWlpuaHFEN1M0NFFYbkxza0VJNzdNWXV5UWxQcmVOcE1obGRzUkFtSWY0NEFfWDF3?oc=5",
-     "published_at": "2026-10-28T11:36:05+00:00"
-    },
-    {
-     "outlet": "毎日新聞",
-     "title": "スペイン列車事故、死者64人に 停車車両に時速100キロ超で衝突",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EcmxlTzQ2Qmo0Wkl0bS1DS1JCejVpTGdBbmFtX3A1NHJmTXBkQWhEVjI5bEVua2k1SXNvSFl6TWhiVzE5TlhPdlpTbTNGT3lLUS1lN0hNbEF5ZDkzNEtUNWluLW1EZzRy?oc=5",
-     "published_at": "2026-10-28T13:36:37+00:00"
-    },
-    {
-     "outlet": "毎日新聞",
-     "title": "スペイン列車事故、死者64人に 停車車両に時速100キロ超で衝突 [写真特集1/5]",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHl2RS16NWNNdzBZSjNRdDNxTDVpaGFUSTdSMHQtWGoxR0ZXQ3lGRWhJRzcxdDRkZVVWQUZWM0FDV0x5ZE15UW5YcHZrZlNETGNqbS1ZZDZaZmFPNjhocnFTNGYtT0VidXZtWGhYRERMU05ZRlVYN0R6dWF2RFhab1JQRHdGXzA?oc=5",
-     "published_at": "2026-10-28T13:40:10+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "スペイン列車追突で死者68人、負傷100人以上に 指令センターの指示ミス原因か",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSkcwVnZ4R3lfUU5TMWZ1aHhFTm1FZm9CaVlxRFlfeWhWZUNYSS1STXoxQlZoSWdzQU5KMUhPTGNLLU9NV2FiZjFFX0NtN1RYbDcyemh5Y2hCcFZicGRTWDdtNi1KbmtnT0lpVDZYVDhKQ2JMQkE?oc=5",
-     "published_at": "2026-10-28T22:32:20+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "赤信号なのに出発を指示か スペインの高速列車追突事故、運輸相「明らかな誤り」",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40M3lXV1JNLUlPWWxRemZmbll6Zm9DZXpsMXB6QzlYb2tFd3hucVB1VDVKeEQyc2E1cExzdF9CV05Meks5Tm45V1F6RUFyU1pJdU80OUtDMGxIOUlXUF82WmdsQ1F3TmNPNGVLLUhqQllwVEs0LVE?oc=5",
-     "published_at": "2026-10-28T22:02:16+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "スペインで列車事故、少なくとも64人死亡 負傷者80人以上 人為的ミスの可能性も",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc0VSRjVRMHFiZ096ajYyelE2ZWZfSkNWX1ZDNlV3eHVjcXlKQk9RbEhIeHlEQ0p2ZkJ3Z0RJUGw2SU1obndNOU0xc1o3S3NlV09zMV9ueXVWMS1ubFpDMXVLRmg5TmxpQVpJR3NGRUhvMlR2M1E?oc=5",
-     "published_at": "2026-10-28T13:02:32+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "28日にスペイン・ウルダで発生した列車事故の現場で活動する救急隊員ら＝10月29日（AP＝共同）",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmc2T21abW9QWk1MNGx2VjlyN2t3WXk1eHdaS2lCc3hqYmlmSjd5N1VzZzVkT3Q2VXVlU0NkSmlHdldXdG9ydzVac1JyS21ma0xEN2FmRDMtSjFHVDh4SUFQZ2N5WFJJVEhVY0VyQ1dvUnJHVWJLNUhOeElEQU5acF9FVEdrcEJ2X1dDRVhVUHFhTENaN1ZnUDZ5SjQxTVJjcHc?oc=5",
-     "published_at": "2026-10-28T22:32:20+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "スペイン高速鉄道が追突事故、68人死亡 信号故障後に人為ミスか",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByUHJuNXZSSGpLUXNyajg1UGVqbkYxcGZhOFg3cGFOUE9BSkpwbzhTUFFlU21EakxfTUR4TGZhdHpvcEprN1FTQ1J5TVBaN1hkQjZRV3Z2N3dyWk1BVDNzZk14dm84azBWSXN6Tg?oc=5",
-     "published_at": "2026-10-28T10:24:26+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "【速報】スペインで高速鉄道の列車同士が衝突する事故 少なくとも46人死亡",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZnRGXzdLVk1lNTB6M3dKREZaTm1MQzd2ZU5jWmY2Q0NJaUtNaUxZNnFxZTRHeU00SEhnM21ueU95Z2dNWlkxNkt5MTUzMk92cG9nX0lWOA?oc=5",
-     "published_at": "2026-10-28T10:59:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "「列車はひっくり返り、空中に投げ出された人も」スペインの高速鉄道で列車同士が衝突64人死亡…同じ路線では1月にも衝突事故【news23】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9adUJUaDR2cGQyaEpfRHZlb2VUWklaVmJOakVwU0JUdWQzazJ3ODFwai1tcDFPenAtSFY0azB1YzhqS0N1alZ6VHYyUU56azdDeDFRcDJGWQ?oc=5",
-     "published_at": "2026-10-28T16:02:21+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "スペインで列車同士が衝突 少なくとも68人死亡 作業員が列車の接近を警告しなかった可能性",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZZDdvdERaWmc4cFpENHFBd1U2Qk40X1lRQnZZSTcwM2g3aDJkTFJhQkZLVUR4V2Ntb1lGMGNleElJaDZzcWczQV9wRmpwZ0RjSVdrWjZVRQ?oc=5",
-     "published_at": "2026-10-28T21:14:20+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "スペインで列車同士の衝突事故 少なくとも64人死亡 “現時点で日本人の被害情報は無い”と在スペイン日本大使館",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XWkxObnNNYjR0MzF5aE4yWHFKTzRCTEpHTUlKTk5sS2I0am8zNktQdml6Z1IwQksyTE5hQXVCeTFtTjRFZERscDVzUzIzenFCRGoyZlBVZw?oc=5",
-     "published_at": "2026-10-28T12:48:00+00:00"
-    }
-   ],
-   "japan_view_ja": "日本の媒体は死者数の更新に加え、信号故障後の人為的ミスや指示ミスなど原因の可能性を重く伝えている。日本人の被害情報の有無にも触れている。",
-   "japan_main_checked_at": "2026-10-29T01:10:37.463821+00:00",
-   "place_countries": [
-    "ES"
-   ],
-   "day": "2026-10-28",
-   "n_outlets": 8,
-   "n_countries": 8,
-   "n_independent_countries": 7,
-   "n_areas": 3
-  },
-  {
-   "id": "4f3a416c-8024-438b-8634-550bcc0b615b",
-   "title_ja": "ベオグラードのイスラエル大使館前で警官が刃物で襲われ、襲撃者が射殺された",
-   "fact_ja": "ベオグラードのイスラエル大使館前で、刃物を持った襲撃者が警備の警官を襲い、撃たれて死亡した。ダチッチ内相らは、未成年とみられる襲撃者によるテロ攻撃として扱い、セルビアはテロ警戒レベルを最高に引き上げた。",
-   "category": "紛争・安全保障",
-   "first_seen": "2026-10-28T08:17:18+00:00",
-   "updated_at": "2026-10-28T15:26:02+00:00",
-   "country_views": [
-    {
-     "country": "DE",
-     "view_ja": "ドイツの媒体は、襲撃者が「アッラーは偉大なり」と叫んだとする内相の発言や、「イスラム国」の関係者とみられる点を伝え、セルビアとイスラエルがテロと位置づけたことも報じている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "英BBCは、襲撃者が治安当局の監視対象だった未成年の男だったという当局の説明に焦点を当てている。"
-    },
-    {
-     "country": "FR",
-     "view_ja": "仏ルモンドは、襲撃を受けてセルビアがテロ警戒を最高の「赤」に引き上げたことを見出しに据えている。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "香港のSCMPは、大使館を警備する精鋭部隊の警官が刃物で襲われて撃ち返した経緯と、内相がテロ攻撃として扱い警備を強化したことを伝えている。"
+     "view_ja": "ガーディアンは、世界情勢について自由に発言し「真実の歪曲」に立ち向かいたいという総裁の言葉を軸にし、世界経済フォーラムの有力候補という見方にも触れている。"
     },
     {
      "country": "US",
-     "view_ja": "米NYTは、襲撃者が未成年で「イスラム国」の支持者とみられるという政府の説明を伝え、当局がテロ攻撃と呼んでいることを報じている。"
+     "view_ja": "ウォール・ストリート・ジャーナルは、欧州の主要国がすでに後任をめぐって駆け引きをしており、課題の増す経済を引き継ぐ立場になる点を強調している。"
     }
    ],
-   "difference_ja": "各媒体とも、襲撃の経緯とテロとしての扱いを大きな違いなく淡々と伝えている。ドイツは襲撃者の叫びや「イスラム国」との関連に触れ、英国は監視対象だったことを、フランスは警戒レベルの引き上げを前面に出すなど、注目点に小さな差がある。",
-   "japan_main": [],
-   "japan_view_ja": "",
-   "japan_main_checked_at": "2026-10-29T01:11:14.091102+00:00",
-   "place_countries": [
-    "RS",
-    "IL"
+   "difference_ja": "退任の理由として、総裁本人の発言の自由を挙げる媒体（シンガポール、英国）と、仏大統領選や後任人事の政治日程を挙げる媒体（フランス、ドイツ、香港）に分かれた。米国と パキスタンは後任争いと経済の課題を前面に出した。中国の国営・政府系媒体は見出しで事実を伝えるにとどまり、背景には触れていない。",
+   "japan_main": [
+    {
+     "outlet": "朝日新聞",
+     "title": "欧州中銀のラガルド総裁が来年2月退任へ フランス大統領選を懸念か",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wTVJDV2p1SnF1SWluWFUxZHhoSzJPcVJ4MXJWMzl4TjZTS2ZFWUN4UEkwalVTM2xiYkJfWnM2NUJJLWJ4M2RpbEZ5eVRqV2JrVnJTbEt2RnlhTFBWbDJsRmxYa2E2Qm8?oc=5",
+     "published_at": "2026-10-29T10:29:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "ラガルド総裁、早期退任へ 「仏大統領選後」意識か 追加利上げ見送り 欧州中銀",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GTzRyOE1JWlJzTjI4blFtbkpuYTdjdDJiNkN6a0o0QWdiQk9VNTBTVkhHOExNdjY4alV0ZG1DMDhqZ1dWZmhiRjhKdndxXy1UZW1pY3EtV0JnRWtU?oc=5",
+     "published_at": "2026-10-29T20:00:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "欧州中央銀行のラガルド総裁、２０２７年２月７日付で退任",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SaUJqU2pRX2k3aVR5R2ViLVJJdm1RSWJHNUNPbUhpemdrRHRSVHptODU5OFZlYXYwN1ZEb2ZoWTBXdkhac2dLd1puNF9nYk1nUVFTZlBFQW1Zd2tfRHVlclk3Tzc?oc=5",
+     "published_at": "2026-10-29T10:37:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "WSJ日本版：ラガルドECB総裁が辞意 来年2月退任へ",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbzBrYjV5QjJfeFBleUdpRloyanhtRTJHNVV2Y2Q5UFRUY0NPMUdMSEV4bHhRand5V3gycnNBWjY1LUFHdEZOWFVQTzFWSDB6OER3SnhFeWtpcjY0aGFpRktWNUVtajQy?oc=5",
+     "published_at": "2026-10-29T12:48:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "ECBのラガルド総裁が退任へ 仏大統領選での極右台頭を警戒か",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qdXoxcm82YXFlX2hBVllWekZZQy01VUZQSnNJLTkxeXFvZnZnT01kRzdGUlk1VXlHNkVHTFA1ZDFmLTVZbWxYOXFyNXRaV1ZQWmZ6RWtoV1lST3ZmUURvekI0U080UERZ?oc=5",
+     "published_at": "2026-10-29T11:25:19+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "欧州中銀：ECB ラガルド総裁 来年2月退任",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02OWFsd2tSMElkWmJYdTQxOXpmeHZNTXh4d0NBQmN0TXFRelRuczQ0LXFLNUpsaU50SDZRcHY5Mks0NjU4MWZrUk0zbmlKaURFSXp5YUxwbVhDVGVISUVkQzQ2c0d4ZmtL?oc=5",
+     "published_at": "2026-10-29T17:01:10+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ECBラガルド総裁「金融政策以外に関与」 仏大統領選前の退任を決断",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MS2tuMm91U0xpN1dGWHdwR0Npb1pFRVJ5cXpnVTF3UV9CMnJrUWtLRWxYVFhzazdmNGV1S3JXSTFfTExRcm40VmxZMWtRbHhidkV6UW1hR0ZNSDdsY0JNVlJZVllMMUlqb3NDZg?oc=5",
+     "published_at": "2026-10-29T18:11:08+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ECBラガルド総裁、27年2月に早期退任へ 理事会に意向",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tWlRlc1loQjNfUTMxSW1SVUhhUXpFTTY3SkJnTFJKTUp5OWRfLXRIN3gzMHRJYzc4b20tMW5hTEpiZ1g4Tzh6TEtjS0ZLLVBvQUh4bWJNQmZ6RjdZX1hWNG4zY0R0OGJVRXBLUQ?oc=5",
+     "published_at": "2026-10-29T10:42:04+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ラガルドECB総裁が早期退任表明、次は誰か－有力候補2人を軸に争い",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kQXExeEd5S0c0ajBWVFRHaU1WTndNNmcyelRydUJIdmJENVBzemFIT3N6WmlqQmlSTnZHTzhRNEpiNW5WeXRrSUFVcHdEbDd5U19TS2k2ekF4bjVIZWRIcmRDSVJSS1U?oc=5",
+     "published_at": "2026-10-29T22:08:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ラガルドECB総裁が早期退任表明、次は誰か－有力候補2人を軸に争い フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0s3U1VRMkVWZjZ2RHdxdDdlUEVmcnltNWlKVGhhakZ0b3p3Z080LTNaQUR3NV93WF9WUTlZOHk4OWxNVlhpN1dEZ0xacHVHa0owTGkzUUtGLU1jQlhkckVyYURtRGZPXzZiaDFnYmw1Y0dSY2Z5U2xEMXNqMjgyVm1tMUlpMjg?oc=5",
+     "published_at": "2026-10-29T22:56:50+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ヨーロッパ中央銀行 ラガルド総裁が任期途中で辞任へ フランス大統領選で極右政党が勝利した場合に備え後任人事急ぐ狙い",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42UlNVa2MxVXV5TUN4T1djZjU5c0FpRDlGT0xaSmlaOTdTaHV4cE1RMG8xbEpZYUJXYjZOLTg2ZWZrMUtwZEFLbm9wd1VkY2pHYloxWVV1WQ?oc=5",
+     "published_at": "2026-10-29T18:13:21+00:00"
+    }
    ],
-   "day": "2026-10-28",
-   "n_outlets": 6,
-   "n_countries": 5,
-   "n_independent_countries": 5,
+   "japan_view_ja": "日本の主要媒体は、退任そのものに加え、フランス大統領選や極右台頭への警戒との関係を見出しで強く打ち出している。また後任候補や金融政策以外への関与という総裁の意向にも注目しており、各国の伝え方と重なる部分が多い。",
+   "japan_main_checked_at": "2026-10-30T01:05:14.488002+00:00",
+   "place_countries": [
+    "FR",
+    "DE"
+   ],
+   "day": "2026-10-29",
+   "n_outlets": 9,
+   "n_countries": 8,
+   "n_independent_countries": 7,
    "n_areas": 3
-  },
-  {
-   "id": "923ae67e-e8e8-460f-a774-98ed4dc70e76",
-   "title_ja": "英国が予算案を発表",
-   "fact_ja": "",
-   "category": "経済",
-   "first_seen": "2026-10-28T09:03:50+00:00",
-   "updated_at": "2026-10-29T19:08:01+00:00",
-   "country_views": null,
-   "difference_ja": null,
-   "japan_main": null,
-   "japan_view_ja": null,
-   "japan_main_checked_at": null,
-   "place_countries": null,
-   "day": "2026-10-28",
-   "n_outlets": 7,
-   "n_countries": 6,
-   "n_independent_countries": 4,
-   "n_areas": 2
   }
  ],
  "articles": [
@@ -8197,966 +7764,6 @@
    "story_id": "8d831dff-e2f5-4db9-bf37-3dc4960cb1e9"
   },
   {
-   "id": "6058ec50-b892-4b8a-aaa7-a3e8cafdea43",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
-   "title": "What We Know About the Deadly Train Crash in Spain",
-   "published_at": "2026-10-28T21:19:40+00:00",
-   "summary_ja": "68人が死亡した事故について、現時点で分かっていることをまとめている。",
-   "angle": "事故の整理",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "ae18f266-119d-49c8-afcb-0bc7c03d9fa0",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
-   "title": "Spain Train Crash Kills at Least 68",
-   "published_at": "2026-10-28T20:26:04+00:00",
-   "summary_ja": "同じ路線で1年足らずに2件目の事故で、同国史上最悪級だと伝える。",
-   "angle": "同じ路線の連続事故",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "b3c96472-defb-481d-9869-5d8ec0172a43",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-   "title": "At Least 68 Killed in Train Crash in Spain, Officials Say",
-   "published_at": "2026-10-28T19:12:18+00:00",
-   "summary_ja": "同じ事業者が絡む数か月前の事故に続き、トレド付近で追突があったと伝える。",
-   "angle": "再発の事故",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "3d3a81e2-7d9b-48ed-b676-0a230fc8e1e7",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html",
-   "title": "Spain’s Transportation Minister Said Incorrect Instructions Led to Train Crash",
-   "published_at": "2026-10-28T17:36:08+00:00",
-   "summary_ja": "運輸相が、管制の「説明のつかない」判断で列車が出発したと述べたと伝える。",
-   "angle": "運輸相の説明",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "51c8387a-4e3a-4726-9d30-598f0e31f0f8",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
-   "title": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’",
-   "published_at": "2026-10-28T17:29:29+00:00",
-   "summary_ja": "生存者が、ねじれた金属の中で負傷者を運び出した体験を語っている。",
-   "angle": "生存者の証言",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "b23abdce-4d83-41fd-aef7-e4db297e5fae",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/europe/spain-high-speed-rail-crash-kills-at-least-10-6c4fda57?mod=rss_worldnews",
-   "title": "Spain’s Second High-Speed Train Crash This Year Leaves Dozens Dead",
-   "published_at": "2026-10-28T16:03:00+00:00",
-   "summary_ja": "マドリード南方で2本の列車が衝突し68人が死亡、今年2件目の高速列車事故と伝える。",
-   "angle": "死者数と連続事故",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "b5a11d3d-f623-4666-89a8-e12828513570",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-   "title": "High-speed train crash kills at least 68 people in Spain",
-   "published_at": "2026-10-28T21:38:54+00:00",
-   "summary_ja": "運輸相が、動いていた列車と停止中の列車の衝突は「説明のつかない」誤りが原因と述べたと伝える。",
-   "angle": "運輸相の説明",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "02332812-f1ba-4ff1-a7ef-b162704c0ba5",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-   "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-   "published_at": "2026-10-28T21:24:41+00:00",
-   "summary_ja": "乗客が衝撃や恐怖、怒りを語った様子を伝えている。",
-   "angle": "乗客の怒り",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "262b4dff-e3d3-4bbd-adde-a455dd717040",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-   "title": "Watch: At the scene of Spain's deadly train crash",
-   "published_at": "2026-10-28T16:45:16+00:00",
-   "summary_ja": "現場の映像を伝え、2013年以来最悪の事故と位置づけている。",
-   "angle": "現場の様子",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "e09ea758-9541-4b43-8b74-bef72b9cf778",
-   "outlet_id": "koreaherald",
-   "url": "https://www.koreaherald.com/article/10918440",
-   "title": "6 S. Koreans suffer minor injuries in Spain train crash",
-   "published_at": "2026-10-29T00:06:33+00:00",
-   "summary_ja": "韓国人6人が軽傷を負ったと、駐スペイン韓国大使が述べたと伝える。",
-   "angle": "韓国人の負傷",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "86dcc0bd-8711-4c93-93a0-279020587cb9",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
-   "title": "Zugunglück in Spanien: Der Schock sitzt tief",
-   "published_at": "2026-10-29T00:52:51+00:00",
-   "summary_ja": "同じ高速路線で2件目の事故に、スペインで衝撃が広がっていると伝える。",
-   "angle": "社会の衝撃",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "e7c2fbbd-1916-4557-a047-fb3cb692bdbf",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
-   "title": "Wie konnte es zu dem schweren Zugunglück kommen?",
-   "published_at": "2026-10-28T20:54:12+00:00",
-   "summary_ja": "停車中の列車に高速で追突した事故で、初期には人為的ミスが関与した可能性があるとする。",
-   "angle": "原因の解説",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "1a032bed-e4b9-40a2-bae9-3974ed1a1411",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
-   "title": "Mindestens 68 Tote nach Zugunglück in Spanien",
-   "published_at": "2026-10-28T16:11:17+00:00",
-   "summary_ja": "死者が68人になり、初期調査では管制の誤った案内が原因とみられると伝える。",
-   "angle": "死者数と原因",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "174d3db9-9f55-400b-9f4e-9dc7da9c6aa5",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/29/GYYGKMJSGE2DCZTCMZTDGNRQGI/",
-   "title": "스페인 고속철도 충돌 사고로 68명 사망… 한국인 2명 부상",
-   "published_at": "2026-10-28T21:33:17+00:00",
-   "summary_ja": "高速列車の追突で68人が死亡し、韓国人2人が負傷したと伝える。",
-   "angle": "韓国人の負傷",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "963d4b8e-1963-4722-94d1-1625234eb3c4",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/what-we-know-about-the-deadly-train-crash-in-spain",
-   "title": "What we know about the deadly train crash in Spain",
-   "published_at": "2026-10-28T23:42:00+00:00",
-   "summary_ja": "10月28日の事故は、今年スペインで3件目の死亡列車事故だったと整理している。",
-   "angle": "事故の整理",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "9a3448bd-74cc-4427-b8e1-699a51f958de",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/spanish-town-rallies-to-help-victims-of-deadly-train-crash",
-   "title": "Spanish town rallies to help victims of deadly train crash",
-   "published_at": "2026-10-28T19:06:17+00:00",
-   "summary_ja": "地元の町が被害者の支援に動き、家族が捜しに駆けつけたと伝える。",
-   "angle": "地元の支援",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "aa15a61c-cfc1-469b-8a1b-3da519a9f27b",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
-   "title": "Spain rail crash came after train ordered to go in error: Minister",
-   "published_at": "2026-10-28T16:10:10+00:00",
-   "summary_ja": "運輸相が、列車が誤って発車を指示されたことが事故につながったと述べたと伝える。",
-   "angle": "誤指示と運輸相",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "74850b66-c34b-4b05-a21b-da49c6b16e1f",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-29/Two-deadly-crashes-this-year-raise-concerns-over-Spain-s-rail-security-1RCZctXn1Sg/p.html",
-   "title": "Two deadly crashes in nine months: What's happening to Spain's high-speed rail?",
-   "published_at": "2026-10-29T08:46:00+00:00",
-   "summary_ja": "9か月で2度の致死的事故が起きたスペイン高速鉄道に何が起きているのかを問う。",
-   "angle": "相次ぐ事故",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "008b5fb2-4028-4c78-a18c-4a2c48fa7087",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-28/news-1RCl8VkeaJ2/p.html",
-   "title": "Spain will declare three days of mourning after a railway accident, the country's prime minister said",
-   "published_at": "2026-10-28T22:53:00+00:00",
-   "summary_ja": "首相が3日間の服喪を宣言する方針を示したと伝える。",
-   "angle": "服喪の宣言",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "10f9df35-c3d9-4e28-bd94-9d8103e593bb",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-28/news-1RCkQwGRzfq/p.html",
-   "title": "Spain 'in mourning' after high-speed rail collision: PM",
-   "published_at": "2026-10-28T22:48:00+00:00",
-   "summary_ja": "首相が、高速鉄道衝突を受けスペインは喪に服していると述べたと伝える。",
-   "angle": "首相と服喪",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "270b660e-69e4-4c66-aff9-c3d4ef588d10",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-28/news-1RCkuTn609O/p.html",
-   "title": "Death toll rises to 68 in deadly train crash in Spain",
-   "published_at": "2026-10-28T22:44:00+00:00",
-   "summary_ja": "スペインの列車事故の死者が68人に増えたと伝える。",
-   "angle": "死者数",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "4cd1397a-43b0-4949-905f-9aab01b2cfe5",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-28/news-1RChzYSxAqc/p.html",
-   "title": "SPAIN'S TRANSPORT MINISTER: A RED SIGNAL WAS IN PLACE WHICH PROHIBITS ANY FURTHER MOVEMENT",
-   "published_at": "2026-10-28T22:03:00+00:00",
-   "summary_ja": "運輸相が、赤信号で進行が禁じられていたと述べたと伝える。",
-   "angle": "赤信号の存在",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "f1f20da6-964b-4c29-9132-a57659a58c1e",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-28/news-1RChBqh3adW/p.html",
-   "title": "SPAIN'S TRANSPORT MINISTER: DESPITE THIS, THE TRAIN WAS ORDERED TO RESUME ITS JOURNEY AND CONTINUED UNTIL THE COLLISION",
-   "published_at": "2026-10-28T22:03:00+00:00",
-   "summary_ja": "運輸相が、それでも列車は運転再開を指示され衝突まで進んだと述べたと伝える。",
-   "angle": "運転再開の指示",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "9fa990e8-a43b-444b-a06d-11d7bdfd8aa7",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-28/news-1RChCxTjC6Y/p.html",
-   "title": "SPAIN'S TRANSPORT MINISTER DECLINES TO ANSWER WHETHER HE WILL RESIGN",
-   "published_at": "2026-10-28T22:03:00+00:00",
-   "summary_ja": "運輸相が辞任するかどうかの質問に答えなかったと伝える。",
-   "angle": "運輸相の辞任",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "cad5063b-a2d3-498f-b3df-35f095ecd815",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-   "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened",
-   "published_at": "2026-10-28T20:53:55+00:00",
-   "summary_ja": "首相が、悲劇の原因を明らかにするため緊急に対応すると述べたと伝える。",
-   "angle": "首相の発言",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "1bc8456a-1ac7-4d75-8f88-a1cfe5533cd8",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
-   "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
-   "published_at": "2026-10-28T18:12:01+00:00",
-   "summary_ja": "生存者が、一瞬の出来事だったと事故の状況を語り、車内の重傷者の様子を伝える。",
-   "angle": "生存者の証言",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "441267d1-d266-4df3-89b0-8f77d5c114e9",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-   "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
-   "published_at": "2026-10-28T16:56:46+00:00",
-   "summary_ja": "今年2件目の事故で、スペインの高速鉄道の安全性に疑問が投げかけられていると報じる。",
-   "angle": "鉄道の安全性",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "a9026ea7-4ac0-40a4-8632-facc17400763",
-   "outlet_id": "abc",
-   "url": "https://www.abc.net.au/news/2026-10-29/spain-train-crash-urda-village-supports-victims/107321724",
-   "title": "Crash survivors recount chaotic scenes in Europe's worst train disaster since 2013",
-   "published_at": "2026-10-28T21:47:44+00:00",
-   "summary_ja": "生存者の証言と、救助に動いた村の住民の様子を、欧州で10年以上ぶりの鉄道惨事として伝える。",
-   "angle": "生存者と村",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "2ec52031-f729-4936-9e51-12c3f38d8871",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
-   "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
-   "published_at": "2026-10-29T00:36:33+00:00",
-   "summary_ja": "事故をめぐる怒りの中、マドリードで抗議デモが起き、機動隊が出動したと伝える。",
-   "angle": "抗議デモ",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "7c15c24e-2768-47fe-9e3a-ee2efd597e7b",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
-   "title": "Spain demands answers after deadliest train disaster in over a decade",
-   "published_at": "2026-10-28T19:32:57+00:00",
-   "summary_ja": "10年以上で最悪の鉄道事故として、スペインが説明を求めていると伝える。",
-   "angle": "真相の説明要求",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "9d368345-5e9c-4a2b-a7ad-76219fe29821",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/28/spain-mourns-another-rail-disaster-less-than-a-year-after-the-adamuz-tragedy_6766399_4.html",
-   "title": "Spain mourns another rail disaster less than a year after the Adamuz tragedy",
-   "published_at": "2026-10-28T22:56:42+00:00",
-   "summary_ja": "アダムスの事故から1年足らずで再び惨事となり、コンピューター障害と人為ミスが原因とみられると伝える。",
-   "angle": "原因と再発",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "ec21c978-fd69-43f9-9c43-4960ad45cc8e",
-   "outlet_id": "tass",
-   "url": "https://tass.com/emergencies/2209755",
-   "title": "Spain declares three days of mourning after deadly train crash — prime minister",
-   "published_at": "2026-10-28T18:43:33+00:00",
-   "summary_ja": "首相が、事故を受けて3日間の服喪を宣言したと伝える。",
-   "angle": "服喪の宣言",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "06103bdd-32ec-42c2-95f7-f5c77edb6171",
-   "outlet_id": "tass",
-   "url": "https://tass.com/emergencies/2209743",
-   "title": "Death toll in Spain train collision rises to 68",
-   "published_at": "2026-10-28T18:21:41+00:00",
-   "summary_ja": "マドリード―セビリア間の2本の旅客列車がウルダ付近で衝突し、死者が68人になったと伝える。",
-   "angle": "死者数の増加",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "c7581c70-349f-46ae-9a07-8de2012fc390",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-   "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
-   "published_at": "2026-10-29T22:14:37+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "06cb77b9-e1f6-4deb-a485-e02d34ce393f",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
-   "title": "Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.",
-   "published_at": "2026-10-29T14:33:10+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "b616faf7-4cb6-4ce7-b158-0bc713ec61fd",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/europe/why-does-spain-keep-having-deadly-rail-accidents-65d8416e?mod=rss_worldnews",
-   "title": "Why Does Spain Keep Having Deadly Rail Accidents?",
-   "published_at": "2026-10-29T21:22:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "137840d2-0bce-4331-8ee0-8cfbd16274d4",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-   "title": "Young athlete and former minister among victims of Spain train crash",
-   "published_at": "2026-10-29T21:33:35+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "7fd61c66-f959-4b21-b537-ae44a2e7016f",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-   "title": "Watch: What leaked audio reveals about Spain train crash",
-   "published_at": "2026-10-29T20:50:25+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "e0476a01-a5e9-44a2-b178-4562547bf21a",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-   "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-   "published_at": "2026-10-29T11:07:35+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "bada015c-630f-4e59-b8a0-37e13f92c283",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spanish-rescuers-search-victims-train-crash-death-toll-rises-69-6502846",
-   "title": "Spanish rescuers search for victims as train crash death toll rises to 69",
-   "published_at": "2026-10-29T11:55:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "afd87f3c-95ed-49b0-8b38-dc4934e6fb25",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spain-train-crash-madrid-mourning-6501986",
-   "title": "Spain mourns after latest train tragedy kills 68",
-   "published_at": "2026-10-29T02:12:00+00:00",
-   "summary_ja": "スペインが事故を悼み、鉄道網の安全性に新たな疑問が生じていると伝える。",
-   "angle": "安全性への疑問",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "8e57c95c-c8d9-491e-9568-21d87ebf3c5e",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3372573/spain-begins-3-days-mourning-after-high-speed-train-disaster",
-   "title": "Spain begins 3 days of mourning after high-speed train disaster",
-   "published_at": "2026-10-29T08:31:55+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "90d0e2ae-3e89-4da8-8499-2909d220de76",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/plus6ae3109e063ab7e38a99fb68/zusammenstoss-in-spanien-als-wuerde-man-netflix-auf-schwarz-weiss-fernseher-schauen-wie-es-zum-zugunglueck-kommen-konnte.html",
-   "title": "„Als würde man Netflix auf Schwarz-Weiß-Fernseher schauen“ – Wie es zum Zugunglück kommen konnte",
-   "published_at": "2026-10-29T12:00:08+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "2bd17433-8ebe-43ea-8746-09293524acc9",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Zugunglueck-in-Spanien/!6225987/",
-   "title": "Zugunglück in Spanien: Erst ein technisches Problem, dann menschliches Versagen",
-   "published_at": "2026-10-29T14:07:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "770f756e-3272-4bf7-a01b-3f9b3828d756",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
-   "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
-   "published_at": "2026-10-29T16:59:55+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "e8472984-cf4f-4194-a7dd-3571ceba3db7",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
-   "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
-   "published_at": "2026-10-29T11:22:21+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "12ba1a9f-9204-4205-9f2e-5b97527b0e39",
-   "outlet_id": "globaltimes",
-   "url": "https://www.globaltimes.cn/page/202610/1373225.shtml",
-   "title": "Xi extends condolences over deadly train collision in Spain",
-   "published_at": "2026-10-29T01:37:52+00:00",
-   "summary_ja": "習近平氏が、スペインの列車事故に弔意を示したと伝える。",
-   "angle": "習氏の弔意",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "9490440b-fb31-43a2-8277-cff89a279f1d",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/29/C4KSS4HRORFH5B4VYCLXXN4KYE/",
-   "title": "스페인 열차 사고 최소 68명 사망...산체스 총리 “과실이 있다면 반드시 밝혀낼 것”",
-   "published_at": "2026-10-29T07:02:00+00:00",
-   "summary_ja": "首相が、過失があれば必ず明らかにすると述べたと伝える。",
-   "angle": "首相の発言",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "60fcafcb-9211-4ed6-81ee-a856d2598b9d",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/29/23VKGAIUNZCHJPW4ONRQ5G67DQ/",
-   "title": "스페인 열차 사고에 축구도 ‘올스톱’… 이강인·모레노 추모 동참",
-   "published_at": "2026-10-29T02:57:36+00:00",
-   "summary_ja": "スペインでは事故を受けサッカーが中断され、選手らが追悼に加わったと伝える。",
-   "angle": "サッカー界の追悼",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "01c55339-ad41-4480-9a18-49a73e630cbd",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/29/LW4RZIRMSNH7HMTJZBJHK2KIRY/",
-   "title": "“사람이 날아다녔다”… 스페인 열차 충돌 생존자들이 전한 참사 현장",
-   "published_at": "2026-10-29T02:25:21+00:00",
-   "summary_ja": "生存者が、人が宙を舞ったと事故現場の様子を語っている。",
-   "angle": "生存者の証言",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "8e001863-df21-40f3-bd1b-3f9a348bf452",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/29/GQ3DIYZTMJRTGYRXMZTGEOJWGA/",
-   "title": "[줌인] 9개월 새 114명 사망… ‘세계 2위’ 스페인 고속철의 몰락",
-   "published_at": "2026-10-29T01:11:21+00:00",
-   "summary_ja": "9か月で死者が計114人に上り、スペイン高速鉄道が揺らいでいると解説する。",
-   "angle": "高速鉄道の問題",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "35102234-5d11-4bb0-8324-a7ee67a47f8c",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/spain-train-crash-survivor-recalls-scenes-of-devastation-as-accident-unfolded",
-   "title": "Spain train crash survivor recalls scenes of devastation as accident unfolded",
-   "published_at": "2026-10-29T19:16:24+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "89aa2117-6a28-45cf-a5b6-45fb6f80bcde",
-   "outlet_id": "jakartapost",
-   "url": "https://www.thejakartapost.com/world/2026/10/29/spain-high-speed-train-crash-kills-68-injures-over-100",
-   "title": "Spain high-speed train crash kills 68, injures over 100",
-   "published_at": "2026-10-29T02:14:38+00:00",
-   "summary_ja": "スペインの高速列車事故で68人が死亡し、100人超が負傷したと伝える。",
-   "angle": "事故の概要",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "80f92a02-aa54-476a-830b-107965e71dcd",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-   "title": "Spain begins mourning period as search continues for train crash victims",
-   "published_at": "2026-10-29T17:59:03+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "1e818bfb-be98-49a2-801c-feb060593827",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
-   "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
-   "published_at": "2026-10-29T20:42:03+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "0b3a794a-5927-4647-b1d2-fb75185904bc",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/29/spain-train-collision-death-toll-rises-to-69_6767034_4.html",
-   "title": "Spain train collision death toll rises to 69",
-   "published_at": "2026-10-29T21:01:54+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "0e56c697-fe0b-49aa-919d-1beab6cbfbde",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/29/they-knew-the-madrid-seville-line-wasn-t-safe-spanish-press-reports-first-revelations-about-causes-of-train-crash_6766734_4.html",
-   "title": "'They knew the Madrid-Seville line wasn't safe': Spanish press reports first revelations about causes of train crash",
-   "published_at": "2026-10-29T11:07:57+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "a6de67e1-2492-4433-9e34-db0b217b424b",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2040585/high-speed-train-collision-claims-68-lives-in-spain",
-   "title": "High-speed train collision claims 68 lives in Spain",
-   "published_at": "2026-10-29T02:56:43+00:00",
-   "summary_ja": "ウルダ近くでの高速列車衝突で68人が死亡し、現場の惨状を伝える。",
-   "angle": "事故の概要",
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "c5a40f9a-c8e6-475e-8ca3-fc4713c69edc",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-   "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-   "published_at": "2026-10-30T15:03:39+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "85368bcb-394b-4237-b6e8-df1c66809bd1",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spain-transport-minister-resign-train-crash-6507826",
-   "title": "Spanish minister refuses to resign over second major train crash on his watch",
-   "published_at": "2026-10-30T17:00:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "8c0c78ed-80dd-4c5d-afe7-9288ad51ddef",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spain-train-crash-madrid-identify-dead-6506886",
-   "title": "Spain working 'tirelessly' to identify train crash dead: PM",
-   "published_at": "2026-10-30T11:13:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "b257a2ca-b449-435c-8c3d-86e96c344481",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spain-demands-answers-latest-rail-disaster-6505556",
-   "title": "Grieving Spain demands answers for latest rail disaster that killed 69 people",
-   "published_at": "2026-10-30T02:21:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "0767a955-4f0b-4ff4-a7b4-36c1d27b6ebd",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Nach-dem-Zugunglueck-in-Spanien/!6226269/",
-   "title": "Nach dem Zugunglück in Spanien: Spaniens ganzer Stolz wird zum Problem",
-   "published_at": "2026-10-30T13:44:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "5f0da232-1556-4b12-b418-b3851c5440b2",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
-   "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
-   "published_at": "2026-10-30T12:32:41+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "005886d6-a1e3-496a-aac1-e15aaddef992",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-   "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
-   "published_at": "2026-10-30T15:48:05+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "8fef4ffa-917c-4cf0-b8ce-104b56a88b3e",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/30/relatives-anguish-grows-as-spain-identifies-train-crash-dead_6767464_4.html",
-   "title": "Relatives' anguish grows as Spain identifies train crash dead",
-   "published_at": "2026-10-30T13:29:49+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "beef5b79-415b-42d7-8b4f-9e7f0df8c92e",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2040975/spanish-transport-minister-refuses-to-resign-over-second-major-train-crash-on-his-watch",
-   "title": "Spanish transport minister refuses to resign over second major train crash on his watch",
-   "published_at": "2026-10-30T13:11:12+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "dbb1847c-b610-4b9b-97c2-99a22b112f6d",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3345545/tears-fear-anger-relatives-of-spain-train-crash-dead-await-fate",
-   "title": "Tears, fear, anger: relatives of Spain train crash dead await fate",
-   "published_at": "2026-10-30T17:45:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "3f0bb86d-5e24-40ce-80db-f65aa042c625",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
-   "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
-   "published_at": "2026-10-31T14:14:19+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "d44d3cf7-a364-48b4-a267-c69c11fb98b4",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-   "title": "Spain train disaster clouds Sánchez chances of re-election",
-   "published_at": "2026-10-31T05:44:21+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "a288de87-b665-4b38-9617-40d7685824dd",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spain-train-crash-victim-memorial-mass-6509721",
-   "title": "Spanish village gathers for memorial Mass for train crash victims",
-   "published_at": "2026-10-31T15:13:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "b4d3e3a4-f214-431a-8afb-86876d231ed9",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/spanish-village-gathers-for-memorial-mass-for-train-crash-victims",
-   "title": "Spanish village gathers for memorial Mass for train crash victims",
-   "published_at": "2026-10-31T14:40:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "9bf45ab6-7020-4712-bcb0-a9059f2b7546",
-   "outlet_id": "koreaherald",
-   "url": "https://www.koreaherald.com/article/10921700",
-   "title": "Spanish village holds memorial mass",
-   "published_at": "2026-11-01T04:16:42+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "925c0063-e643-4cd8-9b58-f5ec54d5af7c",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-11-02/news-1RJAlcL5z0I/p.html",
-   "title": "Four US citizens, Canadian among Spain train crash dead: official",
-   "published_at": "2026-11-02T07:38:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "a8ae2b08-9c63-49d2-806b-95bfd7b8b9cf",
-   "outlet_id": "cgtn",
-   "url": "https://newseu.cgtn.com/news/2026-11-02/Spain-s-rail-crisis-It-s-like-Russian-Roulette--1RIR7WejPK8/p.html",
-   "title": "Spain's rail crisis: 'It's like Russian Roulette'",
-   "published_at": "2026-11-02T00:10:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "b6f92b25-2f3e-49c6-8e53-a50629b6cc68",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/spanish-authorities-identify-all-69-victims-of-train-crash-including-2-japanese-nationals",
-   "title": "Spanish authorities identify all 69 victims of train crash, including 2 Japanese nationals",
-   "published_at": "2026-11-02T23:00:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "9f015bb6-ff9a-46d5-ae7a-c3cb9010e117",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/nach-unglueck-spanier-verlieren-vertrauen-in-den-staat-201644086.html",
-   "title": "Nach dem Zugunglück: Die Spanier verlieren das Vertrauen in ihren Staat",
-   "published_at": "2026-11-02T19:39:29+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "6ae3abba-770c-460a-a8d4-5634ac6b24db",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/11/02/spanish-authorities-identify-all-69-victims-of-train-crash_6769501_4.html",
-   "title": "Spanish authorities identify all 69 victims of train crash",
-   "published_at": "2026-11-02T22:28:27+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "c0ce083e-2a71-4cdd-ae27-5ba374b8f0fc",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
-   "title": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
-   "published_at": "2026-11-03T22:36:35+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "6dc97ff1-b3e5-4414-b61d-d8b193e6a690",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/opinion/train-accidents-can-happen-anywhere-not-just-in-spain-961798b6?mod=rss_worldnews",
-   "title": "Opinion | Train Accidents Can Happen Anywhere, Not Just in Spain",
-   "published_at": "2026-11-03T16:14:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "787266b5-8b48-44a9-a643-f5ec2a852ba3",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-   "title": "Spanish transport minister resigns days after deadly train crash",
-   "published_at": "2026-11-03T22:45:59+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "682df827-8667-4dbd-8bb0-5819be01241a",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spanish-transport-minister-offers-resignation-after-deadly-train-crash-6518011",
-   "title": "Spanish transport minister offers resignation after deadly train crash",
-   "published_at": "2026-11-03T21:49:45+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "dfea6353-c406-4cc6-a0cb-a97c58246228",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spain-train-crash-madrid-seville-line-reduced-6517571",
-   "title": "Spain to reduce Madrid-Seville trains until European management system installed",
-   "published_at": "2026-11-03T16:13:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "304c3093-7441-49a5-bca2-3e936599dd7d",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3373189/spains-transport-minister-resigns-after-train-crash-killed-69",
-   "title": "Spain’s transport minister resigns after train crash that killed 69",
-   "published_at": "2026-11-03T21:55:32+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "d6c13468-af08-4c5e-a7e6-f55e8cfbb2b2",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
-   "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
-   "published_at": "2026-11-03T20:58:56+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "05cec849-1777-49cf-8c49-6ff5e63b8b0f",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/spanien-sicherheitsmassnahmen-100.html",
-   "title": "Spanien beschließt nach Zugunglück neue Sicherheitsmaßnahmen im Bahnverkehr",
-   "published_at": "2026-11-03T17:32:23+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "a3fd350f-d8b0-4fb9-b3eb-d90d7fc7f9e9",
-   "outlet_id": "globaltimes",
-   "url": "https://www.globaltimes.cn/page/202611/1373589.shtml",
-   "title": "Spanish transport minister announced resignation after two high-speed train tragedies this year",
-   "published_at": "2026-11-03T17:02:19+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "50ab4509-8fb5-4a91-836f-c2d9486df84f",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/spanish-transport-minister-offers-resignation-after-deadly-train-crash",
-   "title": "Spanish transport minister offers resignation after deadly train crash",
-   "published_at": "2026-11-03T23:58:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "b77fffe7-35f6-4271-9ecd-9b2725cd7050",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-11-04/news-1RMS4QcjFoA/p.html",
-   "title": "Spanish transport minister announced resignation after two high-speed train tragedies this year",
-   "published_at": "2026-11-04T07:09:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "df8b7d10-7c1d-4e0c-9d45-b606bcb8977b",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
-   "title": "Spanish transport minister resigns after deadly train crash",
-   "published_at": "2026-11-03T21:46:02+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "aeab6709-5942-4b6b-8c00-e4368b4ce607",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
-   "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
-   "published_at": "2026-11-03T20:21:14+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "77d785f6-cd55-4f9b-8da3-12e2ac1aa171",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/spanien-verkehrsminister-oscar-puente-zugunglueck-urda-li.3573928",
-   "title": "Spanien: Verkehrsminister Puente tritt nach Zugunglück zurück",
-   "published_at": "2026-11-03T21:23:27+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "eeca3147-b0dc-4e6c-868d-97955abb4850",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/spaniens-verkehrsminister-oscar-puente-tritt-nach-zugunglueck-zurueck-201649112.html",
-   "title": "Nach Zugunglück: Spanischer Verkehrsminister Puente tritt zurück",
-   "published_at": "2026-11-03T21:16:07+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "2fca0991-3320-4037-9ec2-e7e20267318f",
-   "outlet_id": "abc",
-   "url": "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438",
-   "title": "Spain's transport minister resigns after deadly high-speed train crash",
-   "published_at": "2026-11-04T00:27:20+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "188de789-7bcd-4279-a13e-6a6902ca6653",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/11/03/spain-s-transport-minister-resigns-after-deadly-train-crash-that-killed-69-people_6770821_4.html",
-   "title": "Spain's transport minister resigns after deadly train crash that killed 69 people",
-   "published_at": "2026-11-03T21:38:33+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
-   "id": "1ffbc145-dbca-4142-bf1f-317c6439fbad",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3347986/spain-working-tirelessly-to-restore-trust-in-trains",
-   "title": "Spain working ‘tirelessly’ to restore trust in trains",
-   "published_at": "2026-11-03T13:45:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "49d31138-721b-4c6f-8f0e-78694a8677e6"
-  },
-  {
    "id": "2814dc6a-0641-49db-a88c-7ecf08372267",
    "outlet_id": "nyt",
    "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
@@ -10067,634 +8674,114 @@
    "story_id": "f9707da1-196b-45f1-aea9-fb4a18b3b58d"
   },
   {
-   "id": "d08cd1f3-b218-4e34-ab77-a177be911cfe",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/article6ae2826b2b12699033dfd888/erst-konzept-entwickeln-niederlage-fuer-von-der-leyen-assoziierte-eu-mitgliedschaft-kanadas-auf-eis-gelegt.html",
-   "title": "Niederlage für von der Leyen – „Assoziierte EU-Mitgliedschaft“ Kanadas auf Eis gelegt",
-   "published_at": "2026-10-28T23:27:27+00:00",
-   "summary_ja": "メルツ首相ら複数の首脳が構想を拒み、フォンデアライエン氏の敗北だと位置づける。",
-   "angle": "委員長の敗北",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "6af81e33-bfa8-4c06-8f8b-343bb5f88382",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/carney-to-host-european-union-officials-as-draft-declaration-avoids-associate-member-discussion",
-   "title": "Canada, European Union officials drop 'associate member' from joint summit declaration",
-   "published_at": "2026-10-28T15:31:06+00:00",
-   "summary_ja": "共同宣言案で準加盟が外れ、「より緊密な連携」で合意したとロイター報道を引いて伝える。",
-   "angle": "宣言案から削除",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "5fa695df-5ceb-4eb1-8273-b23d077d3e6c",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-28/news-1RClunBUsla/p.html",
-   "title": "EU SET TO SCRAP ‘ASSOCIATE MEMBER’ STATUS OFFER FOR CANADA - POLITICO",
-   "published_at": "2026-10-28T22:57:00+00:00",
-   "summary_ja": "EUが準加盟の提案を取り下げる見通しとのポリティコ報道を短く伝える。",
-   "angle": "提案撤回の速報",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "5e551009-ecd6-481d-9931-1dbacd7963a1",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-   "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
-   "published_at": "2026-10-28T21:27:33+00:00",
-   "summary_ja": "加盟国間の不一致で、EUが準加盟協議の提案から後退したと伝える。",
-   "angle": "EUが後退",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "8338e110-d50d-438c-ac68-959fdf659626",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/eu-mitglieder-trump-zoelle-handel-usa-kanada-li.3570817",
-   "title": "Europa: Kanada wird kein assoziertes EU-Mitglied",
-   "published_at": "2026-10-29T00:13:03+00:00",
-   "summary_ja": "メルツ首相らが構想を抑え、カーニー首相は「呼び方は重要でない」と述べたと伝える。",
-   "angle": "首脳が構想抑制",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "5220c402-8ebd-439b-9753-501b27f8c6b8",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
-   "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-   "published_at": "2026-10-28T16:54:51+00:00",
-   "summary_ja": "米関税をめぐる緊張のなか、EUがカナダを初の準加盟国にと提案した背景と双方の狙いを解説する。",
-   "angle": "双方の狙い",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "b6a100cc-0944-434c-9f99-5fe58a08acde",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/28/ahead-of-eu-canada-summit-european-leaders-clash-over-terminology_6765839_4.html",
-   "title": "Ahead of EU-Canada summit, European leaders clash over terminology",
-   "published_at": "2026-10-28T09:59:18+00:00",
-   "summary_ja": "準加盟の提案に仏独が怒り、カーニー首相も国内で批判を受けていると伝える。",
-   "angle": "仏独の反発",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "34a8e5d4-d0e7-48be-af6b-d29346925737",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-   "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-   "published_at": "2026-10-29T17:02:59+00:00",
-   "summary_ja": "フォンデアライエン氏が、独などの反対があっても準加盟の語を使い続けたと伝える。",
-   "angle": "委員長が用語継続",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "f6077119-c30e-4812-bf28-891fabf668e1",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3372638/eu-considering-canada-associate-member-despite-internal-opposition",
-   "title": "EU considering Canada as ‘associate member’ despite internal opposition",
-   "published_at": "2026-10-29T19:43:34+00:00",
-   "summary_ja": "準加盟の語は宣言に入らなかったが、委員長は探求を続けると述べ、AIなど協力分野を挙げたと伝える。",
-   "angle": "宣言外で継続",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "93e34236-be0a-43cd-ad65-d0b4effb098c",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Kanada-als-assoziiertes-EU-Mitglied/!6225989/",
-   "title": "Kanada als assoziiertes EU-Mitglied: Mehr als nur Streit um Worte",
-   "published_at": "2026-10-29T18:40:00+00:00",
-   "summary_ja": "EUとカナダは協力を深めるが、名称は欧州で争いがあり、単なる言葉の問題ではないとする。",
-   "angle": "名称の意味",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "a80556d7-9269-4a04-bb27-ba9ff1ceb6ba",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
-   "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-   "published_at": "2026-10-29T06:20:37+00:00",
-   "summary_ja": "メルツ首相らが構想を弱め、準加盟への言及が消えたと伝える。",
-   "angle": "準加盟の消滅",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "b630c0af-b859-4f09-aec0-584a0d44cb33",
-   "outlet_id": "toi",
-   "url": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-seeks-eu-associate-member-status-as-carney-counters-trumps-trade-pressure/articleshow/135330997.cms",
-   "title": "Carney courts Europe as Trump’s trade war pushes Canada towards EU",
-   "published_at": "2026-10-29T20:25:33+00:00",
-   "summary_ja": "トランプ氏の貿易戦争を受け、カーニー首相が欧州に接近していると伝える。",
-   "angle": "米貿易戦争",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "d2765a0d-9905-45ed-aef8-fa83d090e092",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/29/MU3TAYRWGI2TSNBYGE3DOYZVMU/",
-   "title": "EU, ‘캐나다 특혜’ 구상 좌초… 獨·佛 반발에 ‘준회원국’ 부여 철회",
-   "published_at": "2026-10-29T05:28:44+00:00",
-   "summary_ja": "独仏の反発でEUが準加盟付与の構想を撤回し、条約にない地位を委員長が提案した点への不満があると伝える。",
-   "angle": "独仏の反発",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "c93ddb88-bec8-44ee-8fa1-664bc1c53334",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/eu-considering-canada-as-associate-member-ursula-von-der-leyen-says-despite-internal-opposition",
-   "title": "EU considering Canada as ‘associate member’, Ursula von der Leyen says, despite internal opposition",
-   "published_at": "2026-10-29T19:12:37+00:00",
-   "summary_ja": "内部の反対にもかかわらず、EUがカナダを準加盟国として検討していると委員長が述べたと伝える。",
-   "angle": "委員長が検討継続",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "7d03fd57-c596-45c6-9bd1-8dbe3b61916c",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-29/news-1RDZetacWYM/p.html",
-   "title": "EU'S FOREIGN POLICY CHIEF KALLAS: I WILL URGE PARTNERS TO ADVANCE ACCOUNTABILITY, INCLUDING THROUGH SPECIAL TRIBUNAL AND CLAIMS COMMISSION",
-   "published_at": "2026-10-29T22:41:00+00:00",
-   "summary_ja": "カラス上級代表が、特別法廷や請求委員会を通じた責任追及を進めるよう促すと述べたと伝える。",
-   "angle": "責任追及",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "670c04f0-b93f-4fe2-a2d4-c5d614aebb0a",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-29/news-1RDZan2om1G/p.html",
-   "title": "EU'S FOREIGN POLICY CHIEF: AT EU-CANADA SUMMIT AND G20 FOREIGN MINISTERS’ MEETING IN ATLANTA, I WILL URGE PARTNERS TO FURTHER STRENGTHEN OUR SUPPORT FOR UKRAINE",
-   "published_at": "2026-10-29T22:40:00+00:00",
-   "summary_ja": "EUのカラス上級代表が、首脳会議とG20外相会合でウクライナ支援の強化を促す考えを示したと伝える。",
-   "angle": "ウクライナ支援",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "ede39bc1-cf66-440b-aecb-9fc70fac56cf",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-29/news-1RDY9nVCMjC/p.html",
-   "title": "EU'S VON DER LEYEN: WE MUST ADJUST STRATEGIC POSTURE IN ARCTIC REGION WITH CANADA TO DEFEND JOINT VALUES",
-   "published_at": "2026-10-29T22:26:00+00:00",
-   "summary_ja": "フォンデアライエン氏が、価値を守るためカナダと北極圏での戦略的姿勢を調整すべきだと述べたと伝える。",
-   "angle": "北極圏の戦略",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "ca1a2588-803e-49de-bae7-e8bc6a656b6f",
-   "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-10-29/news-1RDXPrreAve/p.html",
-   "title": "EU'S VON DER LEYEN: EU AND CANADA WILL TOGETHER DEVELOP RULES AND STANDARDS FOR AI",
-   "published_at": "2026-10-29T22:22:00+00:00",
-   "summary_ja": "フォンデアライエン氏が、EUとカナダでAIの規則や基準を共同で作ると述べたと伝える。",
-   "angle": "AIの規則",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "1e027f08-41ed-41a9-8116-6be5ec3aee73",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/der-bruesseler-streit-ueber-kanada-und-die-eu-ist-kindisch-201632819.html",
-   "title": "EU-Kanada-Gipfel: Ein kindischer Streit in Brüssel",
-   "published_at": "2026-10-29T13:30:19+00:00",
-   "summary_ja": "EUはカナダのような仲間を必要とするが、準加盟という語は誤解を招くと論じる。",
-   "angle": "名称論争を批判",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "d468c95c-15c3-43e6-b93a-5e3b2c941e12",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/eu-kanada-gipfel-assoziierte-mitgliedschaft-vorerst-gescheitert-accg-201631084.html",
-   "title": "Vor Gipfeltreffen: Kanada wird vorerst doch kein assoziiertes EU-Mitglied",
-   "published_at": "2026-10-29T01:19:23+00:00",
-   "summary_ja": "構想が曖昧すぎるとして首脳らが抑え、カナダへの約束も弱まったと伝える。",
-   "angle": "構想が曖昧",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "6649e6d1-1f35-4738-b769-195e91ff1e1c",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/opinion/article/2026/10/29/canada-and-europe-must-combine-to-avoid-being-crushed_6767027_23.html",
-   "title": "'Canada and Europe must combine to avoid being crushed'",
-   "published_at": "2026-10-29T19:00:03+00:00",
-   "summary_ja": "カナダの歴史家が、米中への依存を減らすため欧州とカナダは連携すべきだと論じる。",
-   "angle": "寄稿・連携論",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "8d554691-70f3-4a8c-9c79-11778a90420a",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3345805/eu-and-canada-to-open-new-chapter-at-montreal-summit",
-   "title": "EU and Canada to open ‘new chapter’ at Montreal summit",
-   "published_at": "2026-10-29T08:34:00+00:00",
-   "summary_ja": "米国との関係が不透明ななか、EUとカナダが「新たな章」を開くという委員長の発言を伝える。",
-   "angle": "新たな章",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "95fa64a2-c302-44eb-9422-e708693c2630",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-   "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-   "published_at": "2026-10-30T21:08:01+00:00",
-   "summary_ja": "カーニー首相がカナダをEU初の準加盟国にすると約束したと伝え、米国の影響を減らす狙いとする。",
-   "angle": "カーニー首相の約束",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "78072a31-18ec-400c-8136-47c636a3ab37",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3372794/carney-expects-conclude-talks-making-canada-eus-first-associate-member-june",
-   "title": "Carney eyes June deal on making Canada the EU’s first associate member",
-   "published_at": "2026-10-30T18:32:16+00:00",
-   "summary_ja": "宣言に外れても、カーニー首相が6月に準加盟の協議を妥結する見通しを示したと伝える。",
-   "angle": "6月妥結の意向",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "c1dd04c4-b261-4002-8bd9-78feb05ad051",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-   "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-   "published_at": "2026-10-30T18:59:17+00:00",
-   "summary_ja": "EUとカナダが「未来のための同盟」を作り、AIから宇宙まで協力し、ウクライナも扱うと伝える。",
-   "angle": "未来同盟の発足",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "0dd28b1a-8afd-47f0-818e-29f11f094653",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html",
-   "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
-   "published_at": "2026-10-30T06:38:08+00:00",
-   "summary_ja": "より自立するという目標のもと、AI分野の協力を強める動きを伝える。",
-   "angle": "AI協力",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "0a4b2a7e-6c75-4a4b-bee0-32f49e1a4377",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
-   "title": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
-   "published_at": "2026-10-30T05:46:43+00:00",
-   "summary_ja": "欧州側で名称が議論されるなか、カーニー首相が「名前は重要でない」と述べ、具体的合意が続く予定と伝える。",
-   "angle": "名称より中身",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "eb91b30a-ccd6-4a27-8757-63d160b0af04",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/eu-canada-to-withstand-shocks-together-with-new-alliance",
-   "title": "‘Anchor the ground’: Canada, EU launch new alliance with deals on Ukraine, minerals, AI",
-   "published_at": "2026-10-30T16:12:39+00:00",
-   "summary_ja": "米中の影響力が強まるなか、ウクライナ・鉱物・AIで合意し新同盟を始めたと伝える。",
-   "angle": "新同盟と合意",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "fe510f58-7b52-44b5-bfb5-ed730214d40f",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-   "title": "Canada and EU announce new alliance open to like-minded countries",
-   "published_at": "2026-10-30T19:42:15+00:00",
-   "summary_ja": "他国にも開かれた新同盟を発表し、不安定な地政学への備えと位置づけたと伝える。",
-   "angle": "開かれた同盟",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "17ee4279-9072-47a5-bfcc-3b5b283c8da6",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/eu-kanada-gipfel-eine-neue-allianz-ohne-namen-201635847.html",
-   "title": "EU-Kanada-Gipfel: Eine Allianz, die noch nach einem Namen sucht",
-   "published_at": "2026-10-30T14:30:00+00:00",
-   "summary_ja": "両者は緊密な連携を目指すが、モントリオールでは小さな一歩にとどまり、名称も定まらないと伝える。",
-   "angle": "名称なき同盟",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "61145942-b9f4-4807-9499-b40969f5066e",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
-   "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
-   "published_at": "2026-10-30T20:00:10+00:00",
-   "summary_ja": "デジタル貿易協定に署名し、トランプ氏の通商圧力で同盟国が他国と連携を探っていると伝える。",
-   "angle": "対米圧力と協定",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "c214e735-ad0c-4535-a73e-2a0c6fc5a496",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/30/canada-and-eu-launch-new-alliance-with-deals-on-ukraine-minerals-and-ai_6767653_4.html",
-   "title": "Canada and EU launch new alliance with deals on Ukraine, minerals and AI",
-   "published_at": "2026-10-30T20:09:09+00:00",
-   "summary_ja": "カナダが900億ユーロのウクライナ支援融資に協力し、鉱物やAIでも連携を強めると伝える。",
-   "angle": "ウクライナ融資",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "8cffdff5-9896-43c4-90a4-d38035a12e8b",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/30/canada-and-eu-strengthen-ties-despite-divisions-among-member-states-over-associate-member-status_6767455_4.html",
-   "title": "Canada and EU strengthen ties despite divisions among member states over 'associate member' status",
-   "published_at": "2026-10-30T10:56:29+00:00",
-   "summary_ja": "ドイツの明確な留保にもかかわらず、両首脳が準加盟の考えを維持したと伝える。",
-   "angle": "準加盟を維持",
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "ed8bd748-b32f-43fb-9b3f-8ec1f0b90e12",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/begriff-mitgliedschaft-wird-zum-stoerfaktor-beim-eu-kanada-gipfel-accg-201638580.html",
-   "title": "Namensstreit: Begriff „Mitgliedschaft“ wird zum Störfaktor beim EU-Kanada-Gipfel",
-   "published_at": "2026-10-31T02:55:10+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "73f01b43-68bb-4f25-b98e-6f35f37cb4a8",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/31/europe-and-canada-detail-first-measures-of-their-unprecedented-rapprochement_6767983_4.html",
-   "title": "Europe and Canada detail first measures after unprecedented rapprochement",
-   "published_at": "2026-10-31T08:40:44+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "e9348658-0818-48d9-859c-eac922ae7245",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2041129/canada-eu-launch-new-alliance-with-deals-on-ukraine-minerals-ai",
-   "title": "Canada, EU launch new alliance with deals on Ukraine, minerals, AI",
-   "published_at": "2026-10-31T03:25:14+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "e260582d-5016-4a50-ad94-b0dc10946c58"
-  },
-  {
-   "id": "ef6201a1-44b6-4022-94c0-f3268b20425c",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/the-crash-comes-months-after-a-fatal-accident-involving-the-same-train-operators",
-   "title": "The crash comes months after a fatal accident involving the same train operators.",
-   "published_at": "2026-10-28T11:40:51+00:00",
-   "summary_ja": "同じ運行会社が関わった数か月前の死亡事故に続く事故だと伝える。",
-   "angle": "過去事故との関連",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "8d4cb592-d748-415f-aa32-b10f14e4a28a",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "title": "What we know so far about deadly Spain train crash",
-   "published_at": "2026-10-28T15:36:11+00:00",
-   "summary_ja": "トレド県で起きた事故で、乗客は500人超だったことなど現時点の情報をまとめる。",
-   "angle": "現時点の整理",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "e8950b86-cc6c-4a2b-ba98-d6dab1ba0b7e",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/spain-high-speed-train-collision-people-killed-injured-6499336",
-   "title": "Spain high-speed train crash kills 68, injures over 100",
-   "published_at": "2026-10-28T10:35:00+00:00",
-   "summary_ja": "死者68人、負傷者100人超で、車両が横倒しになった現場の様子を伝える。",
-   "angle": "現場の状況",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "5ec5b546-c46a-437e-9e54-1400adb8f1a2",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3372446/least-10-dead-spain-after-high-speed-trains-collide",
-   "title": "At least 68 dead in Spain after high-speed trains collide",
-   "published_at": "2026-10-28T09:53:03+00:00",
-   "summary_ja": "高速列車が停車中の列車に衝突し68人が死亡、今年2件目の死亡事故と伝える。",
-   "angle": "死者数と被害",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "b7b2f7ad-b726-47fe-b5f7-e5bb19263a7b",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Zugunglueck-in-Spanien/!6225656/",
-   "title": "Zugunglück in Spanien: Menschliches Versagen und keine Chance zu bremsen",
-   "published_at": "2026-10-28T12:19:00+00:00",
-   "summary_ja": "死者68人で人為的ミスが指摘され、ボックスが選挙戦の題材にしたと伝える。",
-   "angle": "原因と政治",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "cfa8e85f-3dd2-4cc2-8c66-bfccfd71e1b2",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Zugunglueck-in-Spanien/!6225626/",
-   "title": "Zugunglück in Spanien: Zahl der Toten steigt auf mindestens 30",
-   "published_at": "2026-10-28T10:38:00+00:00",
-   "summary_ja": "衝突で車両2両が土手を落下し、1月の惨事を想起させると伝える。",
-   "angle": "過去事故との重なり",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "d58f2fcc-31b4-4d83-83e1-ae4b34b89d1c",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/europe/2026/10/29/UGCISOV3JJGWVMGBR3RSCF2XNM/",
-   "title": "스페인 중부서 고속열차끼리 추돌… 최소 64명 사망, 한국인 9명 부상",
-   "published_at": "2026-10-28T15:44:00+00:00",
-   "summary_ja": "スペイン中部で高速列車が追突し64人以上が死亡、韓国人9人が負傷と伝える。",
-   "angle": "韓国人の被害",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "5699c2c2-16a8-40c4-ade5-a5c48502123c",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/10/28/QY3CZLX6EZHUNJYIWP5WA3XDIE/",
-   "title": "스페인 고속열차 추돌... 최소 64명 사망, 한국인 9명 경상",
-   "published_at": "2026-10-28T10:34:31+00:00",
-   "summary_ja": "スペインで高速列車が追突し64人以上が死亡、韓国人9人が軽傷と伝える。",
-   "angle": "韓国人の被害",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "488c4b37-2d87-4db2-9f1f-32102c5206bc",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/video/2026/10/28/at-least-64-die-in-spain-train-collision_6766069_4.html",
-   "title": "At least 68 die in Spain train collision",
-   "published_at": "2026-10-28T14:52:09+00:00",
-   "summary_ja": "マドリードとアンダルシアを結ぶ路線の事故で68人死亡、空撮映像を紹介する。",
-   "angle": "死者数と空撮",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "c3f81deb-4cac-49e4-a411-1ac8946fcca5",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/28/train-crash-in-central-spain-kills-at-least-10_6765871_4.html",
-   "title": "Train crash in central Spain kills at least 68, country to observe three days of mourning",
-   "published_at": "2026-10-28T10:05:37+00:00",
-   "summary_ja": "レンフェとイリョの列車が衝突し、68人死亡で3日間の喪に入ると伝える。",
-   "angle": "喪と運行会社",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "1f54221d-b7d0-4f3c-af9e-bba1569c1da0",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2040442/at-least-64-people-killed-in-spain-as-two-high-speed-trains-collide",
-   "title": "At least 64 people killed in Spain as two high-speed trains collide",
-   "published_at": "2026-10-28T13:38:36+00:00",
-   "summary_ja": "死者64人で、さらに増える見通しだとする地域首長の発言を伝える。",
-   "angle": "死者増の見通し",
-   "story_id": "1593d226-5dea-4bec-ad46-bb6c14886ce2"
-  },
-  {
-   "id": "7add9589-8303-4b5e-bec0-e0ac318c593a",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
-   "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
-   "published_at": "2026-10-28T15:26:02+00:00",
-   "summary_ja": "刃物を持った未成年の襲撃者が射殺され、政府は「イスラム国」支持者とみてテロと呼んでいる。",
-   "angle": "IS支持者の未成年",
-   "story_id": "4f3a416c-8024-438b-8634-550bcc0b615b"
-  },
-  {
-   "id": "11e2abf8-40cd-4112-ba89-bbf37bfff665",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-   "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-   "published_at": "2026-10-28T10:17:54+00:00",
-   "summary_ja": "襲撃者は治安当局が監視していた未成年の男で、警官を襲って射殺されたと当局が説明した。",
-   "angle": "監視対象の未成年",
-   "story_id": "4f3a416c-8024-438b-8634-550bcc0b615b"
-  },
-  {
-   "id": "c8b4b3dc-83ad-4574-b27c-264bad961846",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3372460/assailant-outside-israeli-embassy-serbia-killed-after-attacking-police-officer",
-   "title": "Assailant outside Israeli embassy in Serbia killed after attacking police officer",
-   "published_at": "2026-10-28T11:06:41+00:00",
-   "summary_ja": "刃物の襲撃者が精鋭部隊の警官を襲い射殺され、内相はテロ攻撃として警備を強化したと述べた。",
-   "angle": "警官の応戦と強化",
-   "story_id": "4f3a416c-8024-438b-8634-550bcc0b615b"
-  },
-  {
-   "id": "1c589f82-a419-44b8-a834-41d5cb84cf5a",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/video6ae1ad4f9d8212885d5291bc/belgrad-messerangriff-auf-polizisten-vor-israelischer-botschaft-serbien-ruft-hoechste-terrorwarnstufe-aus.html",
-   "title": "Messerangriff auf Polizisten vor israelischer Botschaft – Serbien ruft höchste Terrorwarnstufe aus",
-   "published_at": "2026-10-28T08:17:18+00:00",
-   "summary_ja": "未成年とみられるセルビア人が警官を襲い射殺され、内相は襲撃者が叫んだ言葉を明かし、最高のテロ警戒が出された。",
-   "angle": "叫びと警戒",
-   "story_id": "4f3a416c-8024-438b-8634-550bcc0b615b"
-  },
-  {
-   "id": "76998be6-356b-44fc-a86a-8f5e256c3cd9",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
-   "title": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
-   "published_at": "2026-10-28T09:54:58+00:00",
-   "summary_ja": "大使館前の警備員が刃物で襲われ、「イスラム国」関係者とみられる襲撃者が死亡し、両国がテロと見ている。",
-   "angle": "IS関与とテロ認定",
-   "story_id": "4f3a416c-8024-438b-8634-550bcc0b615b"
-  },
-  {
-   "id": "4ef2bae9-d548-4b5a-8eae-44cc2470a3be",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/28/serbian-police-kill-attacker-outside-israeli-embassy-as-country-raises-terrorism-threat-level-to-red_6765873_4.html",
-   "title": "Serbian police kill attacker outside Israeli embassy, as country raises terrorism threat level to 'red'",
-   "published_at": "2026-10-28T10:22:43+00:00",
-   "summary_ja": "警察が襲撃者を殺害し、セルビアはテロ警戒を最高レベルの「赤」に引き上げた。",
-   "angle": "警戒レベル引き上げ",
-   "story_id": "4f3a416c-8024-438b-8634-550bcc0b615b"
-  },
-  {
-   "id": "7e696cec-a11b-4648-bd6b-8d6740b84bbd",
+   "id": "2c413cd1-c60e-46dd-a8bf-a16ae0b14fe8",
    "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/uk/u-k-s-budget-ducks-hard-choices-amid-market-concerns-over-debt-5aa7d1d6?mod=rss_worldnews",
-   "title": "U.K. Budget Ducks Hard Choices Amid Market Concerns Over Debt",
-   "published_at": "2026-10-28T16:58:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
+   "url": "https://www.wsj.com/world/europe/christine-lagarde-to-resign-early-as-ecb-president-2ad844e6?mod=rss_worldnews",
+   "title": "Christine Lagarde to Resign Early as ECB President",
+   "published_at": "2026-10-29T16:37:00+00:00",
+   "summary_ja": "欧州の大国が後任をめぐり駆け引きし、課題の多い経済を引き継ぐことになると伝える。",
+   "angle": "後任をめぐる駆け引き",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
   },
   {
-   "id": "be22c454-5f77-4968-95db-49ffd5fdc397",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/europe/u-k-budget-keeps-government-on-track-to-stay-within-rules-421ae665?mod=rss_worldnews",
-   "title": "U.K. Budget Keeps Government on Track to Stay Within Rules",
-   "published_at": "2026-10-28T14:59:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
-  },
-  {
-   "id": "09cf8861-5a63-475e-9e4a-8961742fc33b",
+   "id": "4839b6d3-774c-41dd-a726-da00cb406c86",
    "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/uk-budget-lifts-bank-tax-offset-surging-energy-bills-6500746",
-   "title": "UK budget lifts bank tax to offset surging energy bills",
-   "published_at": "2026-10-28T17:34:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
+   "url": "https://www.channelnewsasia.com/world/google-alphabet-wall-street-stocks-6504246",
+   "title": "Google drags down US stocks as Lagarde signals early ECB exit",
+   "published_at": "2026-10-29T17:37:00+00:00",
+   "summary_ja": "グーグル親会社の株価下落で米株が下げた経緯を中心に、総裁の早期退任の兆しにも触れている。",
+   "angle": "米株式市場",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
   },
   {
-   "id": "8415d187-de5c-4c9b-8b0f-a3328de9b88c",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
-   "title": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
-   "published_at": "2026-10-28T18:20:51+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
+   "id": "94ec3c01-1b41-47b6-9241-d13b7f45e1aa",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/european-central-bank-president-christine-lagarde-resign-6503246",
+   "title": "European Central Bank President Christine Lagarde to step down months before term ends",
+   "published_at": "2026-10-29T11:06:00+00:00",
+   "summary_ja": "2月7日付で、8年の任期満了より前に退任すると伝えている。",
+   "angle": "退任日と任期",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
   },
   {
-   "id": "1948dcb3-6f65-4162-acae-0edf186a8114",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html",
-   "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
-   "published_at": "2026-10-28T09:03:50+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
+   "id": "2159141d-f311-49ff-9dd4-63a9f36042e4",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/europe/article/3372617/ecb-head-lagarde-resigns-amid-mounting-economic-political-challenges-europe",
+   "title": "ECB head Lagarde resigns amid mounting economic, political challenges for Europe",
+   "published_at": "2026-10-29T13:06:01+00:00",
+   "summary_ja": "退任は欧州の経済の変動と選挙政治の分断が強まる時期に重なると伝える。",
+   "angle": "欧州の不安定要因",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
   },
   {
-   "id": "3f7926d6-eb2f-48c0-8f74-1a782eeed2ed",
+   "id": "191c1955-cd6f-489e-a485-cdb3a1f256c1",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Leitung-der-Europaeischen-Zentralbank/!6225963/",
+   "title": "Leitung der Europäischen Zentralbank: Christine Lagarde hört früher auf",
+   "published_at": "2026-10-29T10:48:00+00:00",
+   "summary_ja": "早期退任で後任調整の時間が生まれ、右派ポピュリストへの懸念やドイツの好機が論点になると伝える。",
+   "angle": "後任と政治情勢",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
+  },
+  {
+   "id": "c21e6652-6383-45ed-bf34-e2d743708168",
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202610/1373233.shtml",
+   "title": "Lagarde to step down as ECB president in February",
+   "published_at": "2026-10-29T02:44:22+00:00",
+   "summary_ja": "ラガルド氏がECB総裁を2月に退任すると簡潔に伝えている。",
+   "angle": "退任の事実",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
+  },
+  {
+   "id": "67453bb5-54f9-497d-b59a-39fc7f36dc1b",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/europe/ecbs-lagarde-resigns-early-so-she-can-speak-freely-on-topics-beyond-monetary-policy",
+   "title": "ECB's Lagarde resigns early so she can speak freely on topics beyond monetary policy",
+   "published_at": "2026-10-29T15:11:44+00:00",
+   "summary_ja": "金融政策以外の課題でも自由に発言するために退任を決めたと総裁が述べたと伝える。",
+   "angle": "退任の理由",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
+  },
+  {
+   "id": "f9622553-ef3d-4408-929a-de817b5cd7a5",
    "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
-   "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
-   "published_at": "2026-10-28T20:09:34+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
+   "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+   "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
+   "published_at": "2026-10-29T16:05:50+00:00",
+   "summary_ja": "世界情勢について率直に語るために退任するという総裁の発言と、WEF総裁就任の可能性を伝える。",
+   "angle": "発言の自由",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
   },
   {
-   "id": "ec4c26de-5ff6-4551-b85a-1c9e78b5f6c9",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
-   "title": "Budget 2026: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards – as it happened",
-   "published_at": "2026-10-28T18:24:25+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
-  },
-  {
-   "id": "535b9e5f-c316-4fbb-b72c-d9e34598d28e",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/grossbritannien-andy-burnham-haushalt-john-healey-reformen-entlastung-li.3569491",
-   "title": "Großbritannien: Andy Burnhams Regierung verschafft sich Spielraum",
-   "published_at": "2026-10-28T14:00:04+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
-  },
-  {
-   "id": "fd33ab5d-9f2a-4520-bdec-ec25ebe188bd",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
-   "title": "Five key takeaways from the UK Autumn Budget",
-   "published_at": "2026-10-28T18:46:45+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
-  },
-  {
-   "id": "35899954-cf2b-46a0-b7d1-ce25a7bbda28",
+   "id": "c40c1056-b102-45a8-87e5-73c8c2054626",
    "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/10/29/uk-budget-constrained-by-global-economic-storms-and-debt_6767028_4.html",
-   "title": "UK budget constrained by 'global economic storms' and debt",
-   "published_at": "2026-10-29T19:08:01+00:00",
+   "url": "https://www.lemonde.fr/en/economy/article/2026/10/29/ecb-president-christine-lagarde-to-step-down-early-in-february-2027_6766735_19.html",
+   "title": "ECB President Christine Lagarde to step down early",
+   "published_at": "2026-10-29T11:12:18+00:00",
+   "summary_ja": "2027年2月の退任で、仏大統領選の前に欧州首脳が後任を選べると伝える。",
+   "angle": "仏大統領選との関係",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
+  },
+  {
+   "id": "d1c80bd4-3568-44af-9b77-73c0a1ca17ad",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2040726/european-central-bank-chief-lagarde-to-step-down-early-triggering-succession-race",
+   "title": "European Central Bank chief Lagarde to step down early, triggering succession race",
+   "published_at": "2026-10-29T13:36:31+00:00",
+   "summary_ja": "早期退任で後任争いが始まり、総裁がXで光栄だったと投稿したと伝える。",
+   "angle": "後任争い",
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
+  },
+  {
+   "id": "ac0fb3a3-d020-4544-857f-162a67ce43a6",
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202610/1373276.shtml",
+   "title": "ECB leaves interest rates unchanged",
+   "published_at": "2026-10-30T04:15:42+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "923ae67e-e8e8-460f-a774-98ed4dc70e76"
+   "story_id": "b2f180d7-4d0a-458d-acac-3f04fcbf929c"
   }
  ]
 }
