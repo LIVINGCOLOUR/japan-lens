@@ -2750,30 +2750,40 @@
   {
    "id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
    "title_ja": "高市首相が情報機能強化の有識者会議を初開催、スパイ防止法と対外情報機関の創設へ",
-   "fact_ja": "高市首相は28日、情報機能強化に向けた17人の有識者会議の初会合を首相官邸で開いた。国際情勢の厳しさを挙げ、スパイ防止法の制定と対外情報機関の創設の必要性を強調した。政府は早ければ来年の通常国会に関連法案を提出する方針で、外国代理人登録制なども議論される。",
+   "fact_ja": "高市首相は28日、情報機能強化に向けた17人の有識者会議の初会合を首相官邸で開き、国際情勢の厳しさを挙げてスパイ防止法の制定と対外情報機関の創設の必要性を強調した。政府は早ければ来年の通常国会に関連法案を提出する方針で、外国代理人登録制なども議論されている。",
    "category": "安全保障",
    "target": "高市政権のスパイ防止法・情報機関創設の方針",
-   "judged_count": 7,
+   "judged_count": 8,
    "first_seen": "2026-09-28T10:19:00+00:00",
-   "updated_at": "2026-10-27T03:30:00+00:00",
+   "updated_at": "2026-11-06T01:31:00+00:00",
    "judge_version": 2,
-   "japan_position_ja": "高市首相は、地政学的な競争が激しくなる中で情報力の強化は国益を守るために不可欠だとし、スパイ防止法の制定と対外情報機関の創設の必要性を訴えた。政府は早ければ来年の通常国会に関連法案を提出する方針で、外国代理人の登録制や外国勢力による政策決定・選挙への秘密裏の干渉への罰則も検討している。",
+   "japan_position_ja": "高市首相は、地政学的な競争が激しくなるなかで情報力の強化は急務だとし、スパイ防止法の制定と対外情報機関の創設を進める考えを示した。有識者会議では外国代理人登録制なども議論され、政府は早ければ来年の通常国会に関連法案を提出する方針だ。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "初会合では首相が情報力強化を「緊急の優先課題」と述べたと淡々と伝え、後続記事では外国代理人の登録制や干渉への罰則を検討する動きを報じている。"
+     "view_ja": "初会合での首相の「急務」発言を伝え、その後は外国代理人登録制や秘密裏の干渉への罰則を検討していることを、事実中心に報じた。"
+    },
+    {
+     "outlet": "JAPAN Forward",
+     "view_ja": "英国の元合同情報委員会議長が日本の対外情報機関構想を高く評価し、Five Eyes諸国も歓迎するとの見方を紹介した。時間・組織文化・国民の監督が課題とされた。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "韓国の朝鮮日報は、中国・北朝鮮・ロシアの動向を挙げた首相の説明を詳しく伝えつつ、政府権限の拡大で国民監視が強まるとの懸念にも触れ、政府が個人情報侵害を抑える方策を示す方針だと書いている。豪ABCは「中国との緊張が高まる中で日本が独自の情報機関を築く」といった見出しで、中国との関係を背景に位置づけている。",
-   "search_ja": "高市 スパイ防止法 情報機関 有識者会議",
+   "overseas_view_ja": "韓国の朝鮮日報は、首相が中国・北朝鮮・ロシアの動向を挙げて方針を強調したと伝えつつ、政府権限の拡大で国民監視が強まる懸念もあると指摘し、政府は個人情報への配慮を国家情報戦略に盛り込む考えだと報じた。豪ABCは「対中緊張が高まるなか日本が独自の情報機関を整備」といった見出しで、中国との関係を背景に位置づけている。いずれも独立した媒体だが、ABCは見出しのみで評価は読み取りにくい。",
+   "search_ja": "高市 有識者会議 情報機能強化 スパイ防止法",
    "japan_main": [
     {
      "outlet": "NHK",
      "title": "高市首相「国家情報戦略」策定へ必要な議論を要請 有識者会議",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BS19KTENjalBaUmhrWW9iV1Jvcm02UzE3RlVMUGdWX1p3a0FCMHJVQjYyeHpEejlPTUIwUERaVVRNLXNLLXp1VVhITG4yWGdwdTFfbXJzZnJ4Ukw1bE1N?oc=5",
      "published_at": "2026-09-28T07:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "（社説）情報有識者会議 民主的統制の具体化を",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44WFBXQ0Q0RUtYUzIxb0IydHB2dHUzbGJQOXZlZGozQ2RpT0pKSkk0Sk1Kb3hhU25TNDF1LWk3MWtqeHJfZ3p1OG4yRWxydzZjUVpyYTZ0YUZxWV8w?oc=5",
+     "published_at": "2026-09-30T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
@@ -2783,21 +2793,33 @@
     },
     {
      "outlet": "読売新聞",
-     "title": "「インテリジェンス」強化へ有識者会議を設置、２８日初会合…サイバー・司法・経済安保の専門家ら１７人",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wRVZVVDIyM3ExQ2YwSU5KWU9FZk9TNFpQZ0Z5ejZsSEZrUXRSLTBRTm1UZ0F6RVE3SjhXdC1JRG1WUTlKNFNBV1RUYk9HSlQ3cFh6Rk1jeVJDcmxlS1JGeXhhTjJMUQ?oc=5",
-     "published_at": "2026-09-26T07:00:00+00:00"
-    },
-    {
-     "outlet": "読売新聞",
      "title": "情報活動機能強化、背景に外国勢力の影響工作横行…昨夏参院選や２月衆院選など「選挙介入が顕著」",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tQm9IYlcxN0JSUmt6S1czRzRDSkYxaU1CY0UwX2d5UUI2LTJvV24tVXhsa2F6MVdOQ3A3ZVdDb1FmV1RMUk5GZWQ2MU5BXzZGblZZQnAwRTJ2anJzN0VnZ1F1MGl1QQ?oc=5",
      "published_at": "2026-09-29T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "情報活動機能強化、背景に外国勢力の影響工作横行…昨夏参院選や２月衆院選など「選挙介入が顕著」：写真",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RM1QtM1AzSWR6VFhseWVSUzQ5VUU1eHI2cHpZYjNRTzN5LUNManU1Sm52VnNqbVZrZ1RzeDB1bXNpUVB2V1VhellCdzBraS15bmV2WkVGMHRWaEQ4MzVLSUowSDRtai1nVWc?oc=5",
+     "title": "「インテリジェンス」強化へ有識者会議を設置、２８日初会合…サイバー・司法・経済安保の専門家ら１７人",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wRVZVVDIyM3ExQ2YwSU5KWU9FZk9TNFpQZ0Z5ejZsSEZrUXRSLTBRTm1UZ0F6RVE3SjhXdC1JRG1WUTlKNFNBV1RUYk9HSlQ3cFh6Rk1jeVJDcmxlS1JGeXhhTjJMUQ?oc=5",
+     "published_at": "2026-09-26T07:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "首相肝いりインテリジェンス有識者会議 人選にも「高市色」",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzalJaQ29FXy1TQ2pHX05NZHRRRFhtSXY5TGlNQlJmWFlneXZTLWpxaHFlTWQ5MlJpd2h6YTBXRHR2Vmp3b3JrNU5Fd0t3SXZYbHpmOFJJM0F5MzVZc3hDa21YYk5zbnhz?oc=5",
      "published_at": "2026-09-29T07:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "スパイ防止関連法案へ議論本格化 政府の有識者会議が初会合",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4ZFRXWG9qT1ZUNWV5OXJFZmprUm9oUTRuZFJuWlJWXzl5bTl1dE9nOUFjbjNrdER1cHZXOUVMSUNlSDlvWGU1TUxsN1FUM05vdXp5cUt6M01jMEtSdFJyRS1fYlJ2bVNN?oc=5",
+     "published_at": "2026-09-28T07:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "社説：スパイ防止法の議論 前のめりな姿勢を危ぶむ",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVTl1VUN6V3VzdEl6UXdnNlpSdjZOcHd1dWVYQm5oRHhQUFFjdmhNRHpOOGRnRGdmRWxtSnUwV21FeGxOQUg3R2hONkt1ZUdwMG1CYTFWRDBrMjYyYnJhZ0o2bXdxeTgz?oc=5",
+     "published_at": "2026-10-03T07:00:00+00:00"
     },
     {
      "outlet": "産経新聞",
@@ -2807,9 +2829,9 @@
     },
     {
      "outlet": "日本経済新聞",
-     "title": "脱「スパイ天国」へ法整備 政府有識者会議の初会合 不当干渉に処罰検討",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mb21KUHlCUzIwRFByQmhrUUcySjNwSGNHZW5BVmp1NTFRd2pPWmJ3VjFKb3RFbzJlSkVpWFlJWE5DMWFYZTd2aTdDVl9WQkd6Q2kyVVU5amZnSE9idlJWY2lQWmVCNzNHX2xXZg?oc=5",
-     "published_at": "2026-09-29T07:00:00+00:00"
+     "title": "脱「スパイ天国」へ法整備 政府が有識者会議、不当干渉に刑事罰",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wYktoU3lxc3FjX2QxWlczLXozRDFPbURlS1g3VlprT2RLNFozaHl4STZ6WjItR2dNRjZZa3NLOE50bTZrMXgzWm5IYTI1ZmJOZHR4TjBxbDNHM3RWRjNicWJXc3Y2am90WjZsRA?oc=5",
+     "published_at": "2026-09-28T07:00:00+00:00"
     },
     {
      "outlet": "日本経済新聞",
@@ -2819,8 +2841,14 @@
     },
     {
      "outlet": "日本テレビ",
-     "title": "高市首相「国益を守り抜く」インテリジェンス機能強化に関する初会合（2026年9月28日掲載）",
+     "title": "高市首相「国益を守り抜く」インテリジェンス機能強化に関する初会合（2026年9月28日掲載）｜日テレNEWS NNN",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiTmJyUl9MenAyajBTcFlPOEpjYU1QOUl5eVZBMkh1Y2hJeGsyM3RNbzc4REdnU0dwMDBnaHFaaEFueVRmVGF1WkNHOE1TUEtMTnlkLVJGVnNzUDcyNFI2QXJ0MHhNUjhDcE5jRmUxdXoyN29sTGZPZEFab0d5UQ?oc=5",
+     "published_at": "2026-09-28T07:00:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "いわゆる“スパイ防止法”などの新設へ 政府がインテリジェンス機能強化に関する有識者会議を初開催",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeFN6YVdyMVBDVkRHQktxYXdxc2tNWlZJMkQzOGRVSkFRdmh1eWlkdkNZVGJGeXFLOUdfZDRIeTQ4T1p1NHpibE1tbHJaRmZzcmlNMmtIdTNiR0IxUW5YSlNTTFFvRExGUXdlM29MTnNCTlBLMVFKSjdwTXRDbGNNNzMxV0RXNjk4X2ZUOQ?oc=5",
      "published_at": "2026-09-28T07:00:00+00:00"
     },
     {
@@ -2831,20 +2859,8 @@
     },
     {
      "outlet": "TBS",
-     "title": "いわゆる“スパイ防止法”などの新設へ 政府がインテリジェンス機能強化に関する有識者会議を初開催",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FTHN6TjB4NFc2bmlwVHJzcFlHSlp3TkNfTWJRTUI1NUdCTW8za0E2WXM0OGcxWU5veVdjRmYwRjZoMXp3Nkp3VE9SY2lpeHB6LWRwVUcyUV9mdEg4cS05M09rTWhLZjA?oc=5",
-     "published_at": "2026-09-28T07:00:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "いわゆる“スパイ防止法”などの新設へ 政府がインテリジェンス機能強化に関する有識者会議を初開催",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oX01aZUNCWlBHMlJxZ1NlSTIzLXNZM2NVcEV2Q3dYNmxJTmFpUW1GeS1temdxVHN5R21aOEpaSE1jOElxWWxMaEE0aGlscU9TZ2pEZ3EtcjFwM3R4T2gzcUh4MzBlZE9wLVU3cVVCR0dZNzFB?oc=5",
-     "published_at": "2026-09-28T07:00:00+00:00"
-    },
-    {
-     "outlet": "TBS",
      "title": "外国の不当な干渉防止策強化へ 有識者会議の初会合",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xelBWOUoyd3lqRzJWcmY2V2hYLXBjSlppVWV0UGJoYXhhTnd6aGZPaEQwLWlNV1VGZXpIYlYtMmVROWlhbW5KZGF0dFJPWGVGY19Ec28tYTRBMmEyQUFqUi0yUkVVRHc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGxLaWlyZnJwaHpzMFZBdHVkd1MxbXAxYURLVFFZNWxvNFJBMUtVUGRlUlV0WmNXZzQyS0VRMDNkbmdEcVg1b2VhY212RUxVa215UVgzREFOaUlhTGd2Z3RNTkc0QVVVNzN0eVg1bmtXTDA1bzN5X2tmOTJBblJyZEIwWUt2TlN5NGw2Xw?oc=5",
      "published_at": "2026-09-29T07:00:00+00:00"
     },
     {
@@ -2854,8 +2870,8 @@
      "published_at": "2026-09-29T07:00:00+00:00"
     }
    ],
-   "japan_main_count": 7,
-   "japan_main_checked_at": "2026-10-29T01:03:48.029805+00:00",
+   "japan_main_count": 8,
+   "japan_main_checked_at": "2026-11-07T00:59:23.541537+00:00",
    "read_count": 0
   },
   {
@@ -7333,7 +7349,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-10-08T23:30:39+00:00",
-   "updated_at": "2026-10-08T23:30:39+00:00"
+   "updated_at": "2026-11-06T17:25:32+00:00"
   },
   {
    "id": "0529e167-1365-4013-998a-5d552382d766",
@@ -7593,258 +7609,252 @@
   },
   {
    "id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "title_ja": "食料品の消費税減税法案、国会で審議入り",
-   "fact_ja": "高市政権は食料品などの消費税率を2027年4月から2年間8%から1%に下げ、2029年4月に8%へ戻す法案を国会に提出した。所得連動型の給付も導入する。20日に審議が始まり、野党が代替案や給付の詳細不足を追及している。与党は衆院での採決を目指すが、国民民主党は現状では賛成できないとしている。",
+   "title_ja": "食料品の消費税減税法案、衆院を通過",
+   "fact_ja": "高市政権は食料品などの消費税率を2027年4月から2年間8%から1%に下げ、2029年4月に8%へ戻す法案を国会に提出した。所得連動型の給付も導入する。野党は代替案や給付の詳細不足を追及し、国民民主党は現状では賛成できないとしたが、法案は11月6日に衆院を通過した。",
    "category": "経済政策",
    "target": "高市政権の食料品消費税減税法案",
-   "judged_count": 10,
+   "judged_count": 11,
    "first_seen": "2026-10-09T06:29:00+00:00",
-   "updated_at": "2026-11-04T07:10:00+00:00",
+   "updated_at": "2026-11-06T05:32:00+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "高市首相は食料品の消費税減税を看板政策とし、税率引き下げは基本的に価格に反映され、1人あたり約3万6千円の負担軽減になると説明している。2027年4月から2年間1%とし、2029年に8%へ戻して所得連動型の給付を導入する計画だ。与党は年内成立を目指し、衆院採決を急いでいる。",
+   "japan_position_ja": "高市首相は看板政策として食料品の消費税減税を進め、税率引き下げは基本的に価格に反映されるとし、国民1人当たり約3万6千円の負担軽減になると説明している。政府は2029年に所得連動型の給付制度を導入し、税率を8%に戻す計画だ。与党は法案を会期末の12月12日までに成立させたい考えで、衆院は6日に法案を可決した。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "首相の説明や与党の採決日程を伝える一方、野党による代替案や給付の詳細不足の指摘、国民民主の慎重姿勢も報じている。IMF高官の歓迎と財政への警告も併せて伝えている。"
+     "view_ja": "政府の説明や衆院通過を伝える一方、野党による給付の詳細不足への追及、国民民主党の反対姿勢、IMFの歓迎と財政悪化への警告も並べ、利点とリスクを淡々と報じている。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "韓国の朝鮮日報は、減税で実際に物価が下がるのか、年10兆円規模の財源をどう賄うのか、2年後に本当に元へ戻せるのかが論点だと伝えている。国債発行をめぐる首相発言のぶれや、世論調査で賛成が56%にとどまることにも触れ、全体として懐疑的な見方だ。中国の国営系CGTNは、日本の内閣が初の食料品消費税減税法案を承認したと事実を短く伝えている。",
-   "search_ja": "食料品 消費税 減税法案 審議入り",
+   "overseas_view_ja": "韓国の朝鮮日報は、物価が実際に下がるか、年間約5兆円の財源をどう確保するか、2年後に本当に元の税率へ戻せるかが論点だと伝え、批判的な見方が強い。首相の財源に関する発言が揺れていることや、財政不安による円安、物価上昇への懸念にも触れている。世論調査で賛成が56%、財源を心配する声が58%という数字も挙げている。中国の国営CGTNは、閣議が初めての食料品消費税減税法案を承認したと事実のみ伝えている。",
+   "search_ja": "食料品 消費税 減税法案 衆院通過",
    "japan_main": [
     {
      "outlet": "NHK",
-     "title": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続 | NHKニュース | 消費税、国会",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPUGxIQURtNkc2ME9ndXBkaGNzR3hfRTJJeUp5T1dDVE01aXVVY1JpVGl1Qm1XcTFIczBaZ1gwSmtCZUdqUzd0NXUtSHBnaUY3b2JMYmpRM3p3TndIR0RB?oc=5",
-     "published_at": "2026-11-04T02:15:57+00:00"
+     "title": "消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RVUZEZkR3aEYyY3hDZGJOdHpDT3czS2M3TERyaEpXbzN4YWNZUnVjLXdqdzJBRTRlLTd2MXZoNkVVQjl3RmVyZGR4aFk5Mm5ockowOV8tTlI1NXVObXZN?oc=5",
+     "published_at": "2026-11-06T20:47:00+00:00"
     },
     {
      "outlet": "NHK",
-     "title": "消費税減税法案 来月4日に質疑 各党の反応は",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtTmpXa3NlNzlZTDdpNElQZzN1MEV4Y2ppWnlYSEVIc1hGQktsaGxvUUw1SzQzSm5rTUZmMWxUalhoYUxEV2hHY2hqenRwX0RZd0FFLUIweUxBNndocnBR?oc=5",
-     "published_at": "2026-10-30T01:52:28+00:00"
+     "title": "消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yMW1tMzh4dF9NMzNfcDA1dmJ5bjF2MjF3cHg1QkpZUENmaFBIZnVwZXJZNjB2ZlI2cFlGVWlub0NFVjNQU3NqVTFkVG54Z3FxSEl1T2dHVUl0cjlIUUZJ?oc=5",
+     "published_at": "2026-11-06T01:52:14+00:00"
     },
     {
      "outlet": "NHK",
-     "title": "衆院財務金融委 消費税減税法案 来月4日も質疑で与野党合意",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrcVRkd0JZWm9wdVJiS3J4TUxlM3V3WWFCaW9QUEdZRjU2MzNLZGlCaVo3NUNHUlRQMGlYd2JvUHFqZzd1SS1nZXdpYXQzX1RIX2FqYWd0M09SUENhNzVJ?oc=5",
-     "published_at": "2026-10-29T07:50:00+00:00"
+     "title": "食料品の消費税減税法案 衆院通過 与党少数の参院で議論へ",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNRUc1amUwWUJrbGdMVU5OcHo1NExmNEdObDZFSTE5eWxCN2h1ODZCTF92Y182MTlWZ0QtSmdhZFBOMjdZVXJhejgwdTJWRVhZV3AtbXZmZ0dEMGN0WHRz?oc=5",
+     "published_at": "2026-11-06T13:30:47+00:00"
     },
     {
      "outlet": "NHK",
-     "title": "消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvcWhHVTlGQVlmQUs2QXc4WU9JekVBd3B2YUJuLUxjYjZvZkxyVnV3U0ljY01BbjRNOHZNcGh3ZFpkdS1NcFR1WWtXWDhPdEI3M1RIVk5Mbk56WlFkUm93?oc=5",
-     "published_at": "2026-10-22T07:00:00+00:00"
-    },
-    {
-     "outlet": "NHK",
-     "title": "食料品の消費税減税関連法案 衆議院で審議入り",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRC1wU3dReWY4ZDJ2TS01VWU2WF9ieHZIZ3JMQmR1T0Z4ajBfaG02dzVqcUJEeFBWb2FJTUNWbFhNTWhMV1B0YVRKdnlDTVBhelVEbEVOM3g5d3J0a1lZ?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "消費税減税法案 参議院では11日審議入りへ",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3UUlTblZIQXo5UUc5RnBXVUhGODlVcm5Od1Noc0plbnQ1bkhMUk05Y1JaX0sxbGFGWHBmbFdYNmtSZjBJM0JKVUFYaE9mRElVYVBpYVFua2h3MV9jZHBR?oc=5",
+     "published_at": "2026-11-06T08:21:58+00:00"
     },
     {
      "outlet": "朝日新聞",
-     "title": "支援金の対象、野党「少なすぎる」 首相「現役の3割以上」と説明",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aX0ZlTGZ6dlk4dkRpZGt3TndWR2VjWnYwT1Z5X2tQQ0lTY3hna3hYS1BLLUhtMVhhV3FhcXdmbzBVbkd1ckU0YThTckN5MnpBX05BWHViakhCX2NLeG5jLXpLU1Ryak0?oc=5",
-     "published_at": "2026-11-06T01:24:43+00:00"
+     "title": "消費減税法案、衆院通過 石破氏ら自民4人退席「財源明らかでない」",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XYThDTTdiYkZ3aW04UXFzUllaS0dOd1ZvbjlJWHlnMWhmTUJRdXE2MDI2cWNDamJPRXRzUzhzNU5mZjhKSFJZeU5xdTV2NkVlZGFXZ1g3dGdaUTRGUnZoSjBMOUlZUDg?oc=5",
+     "published_at": "2026-11-06T11:10:00+00:00"
     },
     {
      "outlet": "朝日新聞",
-     "title": "消費減税法案が20日に審議入り 成立に向け与野党の駆け引き本格化",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RmwzazNsX0l3Q05wVlA1ZDRUd1JvYlVyWHY0TlJwR1dhdzVpdkQ0YVlPODktUkE3a3NucFI1azlRT3QxM2hiTERxR1ZYTjFQTjRYYWQzNWZ1dURyR2tBVzk2OGNfaFU?oc=5",
-     "published_at": "2026-10-19T07:00:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "野党「給付」で連携模索 消費減税法案、きょう審議入り",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85UXBzUEdIQzVmM2kxMTA4QWViUjFJN1NrZE1scXktX3hiV0ZiWHVkYU1wQUwxSGpudW5RR3B4bGRiMGpxSVJsaHdTSWJPeDlBX0Vhd1h5dkZRMUYx?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "消費減税法案、２０日審議入り",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JcmU3ajk4d1Bhbm1SSzNsMVFYYks3TWRfRXFvS2lieFl2Q0M0TmozR1l4R0I5LVhCR1QwRnVmZWhxWWJ3VVRmTS1GV0Q3RS1vSUo4UGlNTVZ0ZXZw?oc=5",
-     "published_at": "2026-10-17T07:00:00+00:00"
+     "title": "高市首相「悲願」の消費減税法案、自民退席の異常事態「矜持」どこへ",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rZ18wV2NxU05abUZCTGw4dDVhMDNGSy1iX3pEUFBMTng0R2pKYTNDeXFobll1US1JNUhHWUdKNVNHZ2o3Q01Kem5idE4tRVRab2lrWVRWWHVZRnZpcHRLczB3SXFPcDg?oc=5",
+     "published_at": "2026-11-06T11:22:22+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "消費税減税あすにも衆院通過へ、自民が採決を提案…食料品の税率「２年間１％」に引き下げなど柱",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wRURqTnRqTWlDa3ptODJHUkdWV2hHbXJoM3N0U1REaGhEcEMzZlFMRmg1c1JJZVBXUlFvYURLd1FpYzdaY0lvdnc2SWEzd1EtcURDT3JEZG1qS2N4dTRpLTVMUXNVQQ?oc=5",
-     "published_at": "2026-11-04T20:00:00+00:00"
+     "title": "消費税減税法案、衆院通過…食料品の消費税率を２年間「１％」に引き下げ",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zRnVjMWJrY3RISDlpcm1CSkh5V09GWmVFdDEycWV3Q1lFMkF2T3Q0LVhSekdqVHl0QXBhdS1aNEE3WHd2clpPNnhuaTVJVmNjTEpxWkhGUnBhS3lqTDdWQ1NodFo1Zw?oc=5",
+     "published_at": "2026-11-06T04:58:00+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "消費税 衆院審議大詰め 自民が採決日程提案…参院少数 野党に配慮",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12ZVhUSDVwalQ4U01RQlNENUF4Ull3dF9tYWdEZHNSbzVpYVh2VklVTm15bUJnMFltWjZ3ei1oRVdOZ19BVVpTLWJoaE5OR3diR1VULXhuZF9VQi1salZlSjU4alBPUQ?oc=5",
-     "published_at": "2026-11-04T20:00:00+00:00"
+     "title": "消費税減税法案、きょう午後に衆院通過の見通し…高市首相「手取りを増やす」と意義強調",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JYVJqaUVBeGg2X0prT3hLTlFTWDNWQVNWemZiWDFqaURmTnEzcjdyXzl2aEVkbWZLc3JRN21FNjRqVTBlVUVFRVpMcEUtM3NfU2VBWW1CVUI1WWp0WlIyNEczdFktdw?oc=5",
+     "published_at": "2026-11-06T02:46:00+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "消費税減税法案、野党が価格引き下げ効果を疑問視…年５兆円必要になる財源も「一切明示ない」",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWVFpcjYxWU9WUmtNcjJ6cUdMU1p3VEFnbHhNaWwycG96LUlvYkR5Nk84ZEVRaGttRzZlYkF6TGx2bFBtVXJsSDlLT3M3NXZUMTlBbGtfNnRRN2NtUXVFTXhpa3hPUQ?oc=5",
-     "published_at": "2026-10-21T07:00:00+00:00"
+     "title": "「消費税減税」衆院通過、高市首相「支援金対象は就業者の３割以上で検討」と明言…１１日から参院で審議",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WY05tbEY3bmJ6Z1dURTFMbDF1ZUd2WXplYmFPUUdyWmg5VEVXWjJTYXVteVg5by1jUzRKZzU4UmNmQ2JmemVJMW9iTTJFTFNfa3ZBV0dCYmNjRVE1MHNjcHNGS3IzZw?oc=5",
+     "published_at": "2026-11-06T15:07:00+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "消費税減税後の支援金、高市首相「年収３５０万円上限で２０００万人に支給」…衆院本会議で参考額答弁",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51MG9NTTlkSzBXOEUtMXhiMGhoUlFJVklGRzF1TWZkbGpBUkctNEVqTjNIUVBnMV9oVUNiTnhaOXdxUndOMXJ2UExhSV9ka1QtSFBqTlMtNlRyUFVBVklXX1Boci1yQQ?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "与党 公・国働きかけ継続 消費税減税 衆院通過",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zRWlyVjN4aDRZTENVdVdYS0hxY29IU3JTTFg3a3ZnSGJiX1ZMUXRkVUdDZzVMQXNyMmY0Z0JhUl9TLTNVTW5MLUt0VGpidzM4OGhsZC1wZUVHQ01hNW1WRXhfaGZhUQ?oc=5",
+     "published_at": "2026-11-06T20:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
-     "title": "社説：消費税減税の審議入り 問題点に向き合う論戦を",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xTEhBM2thQzhfR0hZS21oUW5hR01NSDhEdkZpNHVxMmg4T2pnaldxdWhYc1hGTWYtamkxME5NTUpOM1huZEczWUV0YUVEeWNQRkQ3NXF6LWN1TFpGVEpwNUxSVERPWjVM?oc=5",
-     "published_at": "2026-10-21T07:00:00+00:00"
+     "title": "社説：消費税減税が衆院通過 懸念置き去りの拙速審議",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQMkxzRGYtODdDazU0ajdHWGItZnNwc0M4WDNfZWVxMk92Zkk2WTh6SFEtckdZREVjN0d6WTBKd0ZSdHBkc3kxNkxXd1ZBQnFSVC1xSTZGenJYYzk5dGI0Qi1qZDJwdU5X?oc=5",
+     "published_at": "2026-11-06T17:01:43+00:00"
     },
     {
      "outlet": "産経新聞",
-     "title": "消費税減税法案審議入り 飲食料品を27年4月から、野党は「財源」で反発し国会論戦",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tclB0SVpoZTEweFBSYmUtUUxqNmtqdG9ETGtZcDNGeWJYZm96ZzJoRDBEOEozbDRNYXlmRFJndkJxaDVZazBPR1dZb2dXdVRfdVpYTWFDclRXM0hJeVZOLWt4TndzTEIwUzhxWjB0Y3Z5M0M5eWc?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "消費減税法案が衆院通過 飲食料品1％へ引き下げ 12月12日会期末までの成立目指す",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3M0U0syWHBwMmc3NFBnNTBHUEFDajlFVVg2UVRfMlJaRmNna2MzNnZrckdrdXBGQVJYOWVvakg3eWFDdTFJU2kweEtsaks0dXNuU2ROTFRiU1RhZTE4SXpudDAwR3BXdW9Zc2M0cFJqM1JjTXBKM05xMGxYZklGNW55NHpQYWgwNGpwVA?oc=5",
+     "published_at": "2026-11-06T05:27:59+00:00"
     },
     {
      "outlet": "産経新聞",
-     "title": "消費減税法案、20日に審議入り、与野党が19日の参院予算委で「前哨戦」を展開",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLbk02Qkg4Q2kyaDdvckRCZEozdEdVWG9VSHp5dXFLelo4SjF4RldZYW01Nk9RdGNvUUFRakJIMTh1cE9Mbm5wdk1yZ2ZoaUQ3Z3d0MzFvSzVjelhhZGctTm5uNm5HYlQ4Q2cweE5rdDB1ckhPVmc?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "首相、給付の対象は就業者全体の3割以上とする方針 消費減税法案衆院通過、全野党が反対",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0U3NWtaOGM0ekNHVGNYRm9NeGJFY08xeDhnYklFNUFaT255SW51TF9peXZYX0NyUWNQSUlXSFd4cUt1YnNTTHcyQzFpWndTTGxOYlhVM2IyeHM0UGFaX05oc0Y0MlBoOWE1Y3M5bXZ4eExsdEY1Y1ZiN0ZmU3N1aWFxYlRGOHJyRU5taQ?oc=5",
+     "published_at": "2026-11-06T09:09:49+00:00"
     },
     {
      "outlet": "産経新聞",
-     "title": "与党、減税法案20日の審議入り提案 野党は「所得連動型給付制度」で同意せず、協議継続",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ajZaSkZWYWE0VGs4U05rUk5qVTZaZGZyM3dfOWYxZFo4WmR2bnN0N3hJbzNsRF9hTmJXRjI0eTU3VmlKNkFEYzZ1N25QRUxaV2dyWDVDU0JaZjQzT3psYWRmZ2pKakVTYmVKOVBKU25JZ1o3Qnc?oc=5",
-     "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "国民民主党「住民税・所得税控除」で対案 政府の消費減税めぐり衆院提出、中間層を支援",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RMldEOVB2RW4tLURZV01oWmFCaHhPWHg2bllieTUwSnZrNGpsLXI2blRRMVQ3bV9SV2NPUVhSSlJteXB0ZzhWcXVleXFqOTlZUWZCbkl2ZnJwdWs2RE9KWm44V2NqWXF4X3R6aEgyQzBtNkNmYkE?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "消費税減税・支援金法案が可決された衆院本会議＝11月6日午後、衆院本会議場(春名中撮影）",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEF2alZUZzJpMnZxdGo1cTFaOTljMVE4ZnlnNWZyamNGRVg2UnpNRXl4RUU3dWpMSDMwXzBya0M3MW9qc0FTNmV4b2xBVmhoaTZGWl8ySnJXQ1lhQkFldmhHVktkRmtfYVhCZ2V6SlI2UGdFWklpRk12NXdoTWpxNi1rSjYweGRDcVN5ZnZRUDNlSHNzWXI3Rm1fNFNyWW9ka3c?oc=5",
+     "published_at": "2026-11-06T05:27:59+00:00"
     },
     {
      "outlet": "日本経済新聞",
-     "title": "参院「消費税特別委」設置決定 委員に自民・宮沢洋一氏ら、過半は野党",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HZ19kMlZFVWdHVF8zMUZEMm14UXRZSDVSU0htejd4Z2pYemhCc2ZiWUJoQ2JJbjZSY3VnSnZyeGg5ekhoaHhlTW1QbWlxYTRyYjRRRUpMeU1aOENBczBpSUE0RnBZWGdCUUwxWA?oc=5",
-     "published_at": "2026-11-04T03:23:10+00:00"
+     "title": "食料品の消費税減税法案が衆院通過 高市首相「幅広い意見を聞く」",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SaHllYUJvcnhTRzZfQjdFWVZBcEdMNnQ3blZmUEhVcXVLdGYyS281ZHRQbzFXRGxUdDNOTHB2VHVpalQ2ZVdMMTd1RnNQY0hfU1FiRGNSMktwS0F3b1FmSE83ZEV1SlQ5QkZfSw?oc=5",
+     "published_at": "2026-11-06T04:52:20+00:00"
     },
     {
      "outlet": "日本経済新聞",
-     "title": "消費減税法案で参院は特別委設置 野党委員過半、まとまれば否決可能",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NWkRnZmYzTXJqMm9SbFFzTUdnNkFtenRPc3NNQkwyT0NqLXVsdFJ1UUpZU0p4ekdpTDZSSTBZanM2NFgtVUxpak5GRFQxVU0yb3dqMF85WjFZWm1ZMXBaSGZSNjNndm5nN3JMdA?oc=5",
-     "published_at": "2026-10-30T08:54:13+00:00"
+     "title": "食料品の消費税減税法案、6日にも衆院通過 公明・民主改革反対へ",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZEp2anpVWi1VRmJmNzZEXzZvNEE2SU5ETTFzb2VHMWlCSnNGXzNLNEd2UnM1TnE2SzNwd1J4WFRncWpqTmhKV0RoTEc3UHg3Q3luTmFYcFlUay1jSHNIdzVKVVV4X3gzam9oSw?oc=5",
+     "published_at": "2026-11-05T17:00:00+00:00"
     },
     {
      "outlet": "日本経済新聞",
-     "title": "食品消費税1%法案、スピード審議へ 時間は社保一体改革の6分の1案",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USWo0RzJVSndyTy11RGl2Q0tWSDRLSk1vY0c0VURrUjhEaWJycWZNc29uWmJ0UjJKMVRyMnJiMmNkY2VhVndMbUJORkFLcUpWd3p5Sk11YTBKS2pLM0stbFVBdTRNZmF2VnNpUQ?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "消費税減税法案、石破茂・小渕優子氏ら4人が採決退席 衆院本会議",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfOUo5R2Q4cnpwLUVzQjhGRVlaZFA2Vm5CNEIwWUY1bHJwNVI4UXpDcFQ3c3ZPeVlzazdpak1WV3hfSE53bTY1UmVBcTZpa3hwTHhjc2Ntcjd4Wm5QRWFvWVczNHpkODhHdlduZw?oc=5",
+     "published_at": "2026-11-06T06:32:20+00:00"
     },
     {
      "outlet": "日本経済新聞",
-     "title": "公明・岡本代表「四半期ごと効果検証を」 消費税減税、国会報告要求",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RYkJnZlBoUGEyXzdFdzJndXJiQVd5NTA0S0tkXzAxMVdHbnMzVUNZdWRlUWg0cHMzRExZOFRDc3lJbWVMcXlIb21mRTdXUjZ5WlpSYkN6ZWRDLWQxUFo2Uy13dVR0b0VSMmd5WQ?oc=5",
-     "published_at": "2026-10-21T07:00:00+00:00"
+     "title": "高市首相「給付対象は就業者の3割以上」 消費税法案6日午後衆院通過",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTDdjUGE2R1RObE81VnlabnZGMnI4ZmtmamJZdkFWZVAwMHNjSkdnYkF2TlYwbnk5Yl9nb2hTR0d2Q2NleWJ3WEItSk9zNWNDVnA1d1RqUkg5c2ZKMUt2LU1xZnZzYVpWek9QbA?oc=5",
+     "published_at": "2026-11-06T01:00:01+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "首相、先行給付の対象「就業者の3割以上」 野党配慮で参院審議に備え",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sd0c1SGEtTnhoWGNqbWVWNzhRX0tQYlFrX1ZrSkhJcDhpUjhzcERDYW9ydFhLNFBON3JRaC1vUnNwS0JQalBQZEJ3X0JTa1B0aFlTaHlEbVNYOGdxN1hiZmg0TmpVNWxzdUdXVg?oc=5",
+     "published_at": "2026-11-06T11:00:00+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "消費減税法案が審議入り 高市首相、物価高対策の効果強調 消費減税で…暮らしどう変わる？ 「実感させてほしい」の声も",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Vd3JzSEhQN2djai04U0dPcFNqeG83ZzFIZlY2YjRhRDRXYUFERjgzbDJQc3RxT1V4ZDdEanBHQXZOX1pJcENJYWJ3QVprRzAxYWFiNjZnNndHaFI0dGYzQ0VHODh2am5HdmZqdHp0aVpxVmQ2OTN2bWJEX3k?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "消費税減税法案が衆院通過 高市政権の目玉政策に道民は 「２年後に消費が冷え込まないかと」 北海道",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRm9iTm5veWcza29ETXMySEJ2dTRXTHRHSnViMjh1VmI4TmJmeEhPVkZKRklrTHRzZXBEbVl4RWk1UmJITFFGY0hELUpZbnByT09PRlZvQXo3dmNmN1RKdnMwNDRVOFNtRzlKbHlZM0FMRjhUTTF5a090RWtaT0F3cGxldC1OMXc?oc=5",
+     "published_at": "2026-11-06T07:05:00+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "【臨時国会】最大焦点“消費税減税関連法案”審議始まる…働く中低所得者への｢支援金｣給付あり方や財源巡り野党が追及",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXdmb0tzVkg0azdhclZoU1NXY3QxV1NBOXltUm4wNWZmZVBRaW5EQzJoeUF4VkpuN2hHS3NXcVBjYU9RUnZZUDRjOWdLNnI5bHd1bDZsVjV1Zmt5el90RUk3RmRIVnplRTdFNHN0Smx4bGsyUU1pUWtkOXI1UHJJbEVWek9Rb2Vj?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "外食離れの対策とる百貨店も 消費税減税法案が衆院通過 買う側・売る側…受け止めは 北海道",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnpWRkVkbTJ1TU5weE5mSHhCRGRILTdISG5mdDdEUUNXaWxvb0dQeHpndFNaa3BxMzBhMzk0M0w4QUhLbTFEcWd0OUVKZUVwYjFyZENTOXc1SnNTS2xVeFBHd25YYXZnM2pRQmp0ZXo5cmRWdzZ1U3c1cmcxZ0plcmRWaVdoaFE?oc=5",
+     "published_at": "2026-11-06T11:30:00+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "消費減税法案きょう審議入り 高市首相の説明は…“1％分”支援金は誰にいくら？（2026年10月20日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aMGE5VFJGNXVEVUh4bV9TTmQ2VUtGT2twWksxM1FmdzdObFJjSV9lNUJ6RnFkOVVQVVFvZ0tVMGQwTmZoVWhydUMzM2N2LWpGQmtTTVEwTDVHNUdXaGwyRUVYdnY2cDd5aHFncjNUb1VXaDdESGZZUWljWl92QQ?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "【解説】消費減税法案が衆院通過 財源は？家計の負担は？どうなるのか…具体的な数字から考える",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0puS2Ruc0dZQUxMazh4Rkdoa0x6c0tVcUpGQkVrSVdQSmZiQ1NlR3YtM1RISzZVWkRGRkdBcnRvdWJibmJETzJ4N3BRX2xHNjd0ZDhVeXBHMXU1c2I4c1hnQTRWeWpqNV8yS0ZsclVnQmxlOHhzWXhndENrTmMzSzd0RGllRjNT?oc=5",
+     "published_at": "2026-11-06T10:05:01+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "【臨時国会】週明け参院予算委も簗前農水相の“予算カット発言”巡る問題で野党追及続く…20日からは衆院で消費減税審議へ",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVJ6T1hKVEJWellkWW12bW5OcVB1ZXltLUZ1SFctQlNkeElOSkNXQ21QWVdIRFhqdEIwcVpwZ1hKYnFuZm5LVXh0WTExR25vQ3VGVFgtbmxqT0FUbHEwNVBpZlE1dlBwMDBwX1JFOTlFdzZEUWpBUWNHRHZRZjFCb1drMGFYYjg?oc=5",
-     "published_at": "2026-10-19T07:00:00+00:00"
+     "title": "【速報】消費税減税法案 衆院を通過（2026年11月5日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZmhLTXBLdHo0RHd4LUdDNGlrOVU1Y0FRbXlfc0g1dTE3b1BkdkNvbnBDdUYzS3pWX2ZhREFacjJ6RlZ1elZIQy1nbF9nVUJoSzNhNjdnSTZadHJzbEdaaWRwN2hJdnVfTjVuR3ZpN1FuNi05UzRMcmdIbDdwUQ?oc=5",
+     "published_at": "2026-11-06T05:04:00+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "消費減税法案、衆院を通過 「立場上反対もできないので」石破前首相ら4人が採決欠席 “不透明な部分”残し進み…不安の声も",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hYTRJTXhBOTBfcml6TzRTZEU2cG5pakhDZ1RYd2ZsOEtMU0wtOEZoNU9TeFJrZUNYRWhvSE9zSWdLRlRacDdZS181MGdpUTdSZ0JvVThzb21rN3N0SkdQSmRZY3F5YjZrcFpINU9USmpPRzdHYUxxZ1JTMnl2Zw?oc=5",
+     "published_at": "2026-11-06T13:03:01+00:00"
     },
     {
      "outlet": "TBS",
-     "title": "参院野党 「特別委員会の設置」が食料品の消費税減税関連法案の審議入りの条件で一致 高市総理の複数回出席も要求へ",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YMXVFNVJwM09wZmt2VUFuUTF4QnBHOVRldThRUUs3LV9RTm9YTF9BY3pVN19fZnhSRWxyVkJNQXpQVldBeDZWanpydHZBNllUQ2JtVlNGdTNDbkhqSDdrWjJrbEFxVHVNZTczMDNTM1A0d05f?oc=5",
-     "published_at": "2026-10-27T07:00:00+00:00"
+     "title": "食料品の消費減税法案が衆院通過 支援金対象は「勤労者の3割以上」 野党側から法案“生煮え”との指摘相次ぐ…参議院の行方は",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wMHZZYW9aVHJaclk1N1pHb3NMUm1pYTFvb2hSTkhzcWdnY1NPTlZHMGpuNEhoM05sY1o1U09nVWw1bEwzWXlaZ3hqd0Z4ZDNwRWJJSHZlWQ?oc=5",
+     "published_at": "2026-11-06T07:10:32+00:00"
     },
     {
      "outlet": "TBS",
-     "title": "食料品の消費税「8→1％」減税法案が審議入り…外食10％維持で再浮上「Go To EAT」も どうなる現金給付の対象【Nスタ解説】",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQZEdlT043YkpVUUlRSVZhdDN6dGdyVktVdmlFV0JIZkk2SjJVYWhxWlNSdnE4eHNFaEhNQ0tBRDk3RkpCeTNKdjVJRTFfQ3p5cEhDd0hYc0xSdURpYnh3Sw?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "【速報】食料品の消費税減税法案が衆院・財務金融委員会で可決 このあと本会議でも採決、衆院通過へ",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15cFBNc3ZjMUJTVUZZUndkYUhDbEJRSG51b1lrWWM0TER2WUNDUlFNaWdOd2FjMkpiYjdrejUyTy1oSzNaY1lZQmp1eHdTY0oyS2pQSE5RTQ?oc=5",
+     "published_at": "2026-11-06T02:39:42+00:00"
     },
     {
      "outlet": "TBS",
-     "title": "消費税減税法案が審議入り 高市総理「本体価格が上がっても消費税率7％分は下がる」 初日の審議に国民・榛葉幹事長「中身のない答弁」",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wejMzdGxpOWVORVk3U1FXUDZJVE9nNkg5OHFtNklFWmtnZlBIWW0tZGYwR1dxMEhibzJwM3ZBZXhNSngzSUVIMkpibVdiLWRLQlZOMXFNUHdFbFdCMl9mdktNZy1kWlU?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "「財源示されず唖然」疑問の声も 食料品の消費減税法案が衆院通過 “生煮え”批判残る中、石破氏や小渕氏ら与党4人が退席 舞台は少数与党の参院へ",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sdHlHdU5qQ1FIZFdFbElrSGo0U2RMWUZYNzhjYzdCRlNSTUdDeXFnbGJaVTBmQmNPUG9tMlE4Z1h3dDd6RHZPbGp6dS10ajI2aG1xbFB4QQ?oc=5",
+     "published_at": "2026-11-06T10:19:19+00:00"
     },
     {
      "outlet": "TBS",
-     "title": "財源は？不透明なまま…消費税減税関連法案が審議入り 「給付対象」を明らかにしない理由とは 今国会最大の焦点",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wZGoxQVdkZ3pQbGRlbm5EQ1JfeHBJRFduenF1ekI3eWdNQ2EybnY3akhWTjVxVkpHYjdWZXFrUmFTWXVtcHVXbzlFWkNubjRGaEVhYWx0TmNVcjZQZzlyNXRmcWJybnNOcmRfSncwX3hNMFpo?oc=5",
-     "published_at": "2026-10-21T07:00:00+00:00"
+     "title": "消費税減税法案の衆院通過に野党から不満の声「支援金の中身一切分からない」「議論つくされていない」",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lYlM3MTlILS1TN0RBMFFUZ0JhUDZrc25UazBzMGlfLUY4LWM0Umd2RjhseGdoQk42Q1pSQmpVS2FzWkN2MTBMcGZkNGFSZDVMMXd0U2tQdENtdndWc3NPUFhHUmQzSURkQV90NHNNbzV4SWZZ?oc=5",
+     "published_at": "2026-11-06T10:42:35+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "【速報】食料品の消費税減税法案が衆院・本会議で可決",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoMXZNT011TGl1eGp2a09DTG9aS2p2U3Y3M3hBczBxY0cxOXNmWGNHd0ZsVEhBT3NCWVhNRGlXanowUTZ0Z0NKR0w3OTNhVDI5UU9acng5eXd3UzhSSzhVS0w1SVdIRUU?oc=5",
+     "published_at": "2026-11-06T04:56:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
-     "title": "消費減税法案 総理出席で合意",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44U1gxb29oMko2aFZMS3JkQS1SUjU0TzBlRGpKMUhiZmRaVU43bV9tWTJqdnJrV3h4WXkwWUhtNHBMY0s2QVlQWnVDNUN6bGJLdFFnVGpRQk9LM0o5ODZBY0lKWjJNOGtfYlJYbUQ2eUV6Rmc?oc=5",
-     "published_at": "2026-11-04T09:06:52+00:00"
+     "title": "消費減税関連法案が衆議院通過 与党などの賛成多数で可決 野党は全党が反対",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RRVY4YWJIMVlYZEJOTXZXTTZweEFJMkl4WlZ4cnc5Nm10SjRkYW5JZi03cHR2a19HdmFINHBFWVJkQnJ0MF9uazNMM1V1eWRWQXV1blI2VTFCRHRqNWxLSm9Hejh4RFpBX2RpaTlOSG9XYWs?oc=5",
+     "published_at": "2026-11-06T05:34:36+00:00"
     },
     {
      "outlet": "テレビ朝日",
-     "title": "消費減税法案 総理質疑へ 与党は週内に衆院通過の方針",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YT2FjaXF2TWZfX1BHWFZnS01KXzdkbWpUanF6bXExc0x2VEpoeEhZakZteFQ2UFhidUlfM2x4Z2dDN1MzRVVucHROalRkQUdYWnJJb2dOX2lSa3JHVjUyVVNXMzY0aHB1S3dNTkVacENkUnM?oc=5",
-     "published_at": "2026-11-04T03:27:17+00:00"
+     "title": "石破前総理ら自民4人“棄権”審議に影響は？『消費税減税法案』衆院で可決",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zbXRQdTVGY0c4ZjN4NE1iRmdDUUxzZk4zM3BYblpKbG4zNndkc054cUlmc0FOSXFvYjdGVEdxdzhLSUxsQm5QdlZzQnY2NnV6V1M5WDU1MXZ6VzJ1bEpkLTQydl9iMWxoS1BveXFqTjJEbVU?oc=5",
+     "published_at": "2026-11-06T15:17:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
-     "title": "消費減税でも…外食は“10％”飲食店から懸念『消費減税法案』審議へ",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnMEtsRnhmeGVWS2pQRG5DSnRxa1VKUGt1YXVkbW4tcDM5QjBvaDV3SWZXOW9ZNWRma29sSEdDYVJ0QVZpQXpQWV95NkpVLW9vMVRiUExWNDlGMmJmbXhHVzBGN3pLMTg1RDF5enVOckdZaVU?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "消費減税法案 衆院通過も自民4人が採決棄権",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEY2VKZVdISWlxYVdTdGtHSmVXV0kyRmcyQ2pnSmpXY2xWRXVOd1labkNvR09WcEFpeU0zMHBuNE9QdzNhUy03V0xjc0p6eTk1OEJGUnRsWTBQTU5lQTJnMXJCRW9xck5GbWpkX3ZvNnZ1Unc?oc=5",
+     "published_at": "2026-11-06T08:40:24+00:00"
     },
     {
      "outlet": "テレビ朝日",
-     "title": "消費減税法案審議入りへ “影響分野”次々支援検討…財源は？ 支持率が最低 出席時間短くても「国会改革」か",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzS0FTVXRkUjNmQS0wX19DamdoOUltamdBTEQyMngyNDZHem0xZmR2c1FoR1JCVi1xNDhydExGNVpOV2FYcGtfSVRlM25fTDBOQlc4cWhid1VHRGcyV3liYTZrQllRQ293Z0xySFBEWkdvM0k?oc=5",
-     "published_at": "2026-10-19T07:00:00+00:00"
+     "title": "【速報】食料品の消費税減税法案 2年間1％に引き下げ 衆院の委員会で可決",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkZ2d5Um1zWFBSNmR5MVN4aVZBMlJpZG04WDY2N1oybVpTZWw5aVpySnlXT3ctOFFkY2ZMYzl6cWxVa3AxempTeUduUkpJZTFmOWlpa2Mzd3VHdjBDeFZ4UnczdEZhbmVTM2NiWE5TOHNGeEU?oc=5",
+     "published_at": "2026-11-06T02:57:38+00:00"
     },
     {
      "outlet": "フジテレビ",
-     "title": "食料品の消費税減税法案きょう審議入り 高市総理が出席し質疑 野党側は財源など追及へ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tZ21pbWpyTW5odnp4dzBmNC1uNklScGU4TTdkaWRQS2pFcVRHNm84MktkeUY0UmhTcUk5QkVnQnRPVlAzU2RYSXg1WGROUQ?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "食料品の消費税減税法案が衆院通過 退席の自民党議員も…",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIenVUbHFKWExaMGxqNTZ3U0hrNVJIZGxWeE5mQ1NHempqQzJEeEJQaURzZnVZUVQyc0dCNGRJTHZCYURNbEVjdHB6WmVsdw?oc=5",
+     "published_at": "2026-11-06T15:26:00+00:00"
     },
     {
      "outlet": "フジテレビ",
-     "title": "消費税減税法案が午後審議入り 国民民主は住民税など控除と給付軸とした対案提出 少数与党の参議院が焦点",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iSzBhZXJnMjlSU3NmcjdnSjlUZzVRNWVMR0FjbWpwdDU4bnFqZHA3VDJQX1laa0hvbUlvNEdkZmNvWlZ0ZDRaVWJFQjc4UQ?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "消費減税法案が衆院通過 高市総理「支援金は現役3割以上」 自民・石破前総理らは退席",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RZjBuSl9LU0JOTUthSklYVndCN2lnMThzNnBKUzVYX0dET3BTSWxROU1SX29xdEVFS2FlNVU3V3Z4VEF6d2xfMmtzdktOeXY3?oc=5",
+     "published_at": "2026-11-06T09:14:00+00:00"
     },
     {
      "outlet": "フジテレビ",
-     "title": "【ライブ】衆議院本会議 消費税減税の法案が審議入り",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WWGZOVll6TXFnVDh2UktzeV9iczhGblU0LUY2d0R1OVptVVREd0U3Ni1DSEFQY0xDRWFCODMtNmVFNTFoLW8tak1qbm93QQ?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "消費減税法案きょうにも衆院通過 財務金融委員会で高市総理に質疑後可決の見通し 午後の本会議でも採決へ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tTGE5RlhnNHhON1cwdUxrRVhtdGpzTUdJVk1MU0pQQTYxV2J5S2RRUW5QYW1adjN6cVNVV1Rsek53N1dWcmViZGEyMEp5dw?oc=5",
+     "published_at": "2026-11-06T02:17:00+00:00"
     },
     {
      "outlet": "フジテレビ",
-     "title": "高市総理「低所得者への支援重要」 食料品消費税減税 20日に審議入り",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uaFE1a2VnVXZtTDVLZnkzUUtuSUh1NW5kNzdBU2RsVmx1ZFVZY0RhYlZ6VmRRT1d2RnlUTXF1SF9VZElwVVlnbU9XYU5zdw?oc=5",
-     "published_at": "2026-10-20T07:00:00+00:00"
+     "title": "最大争点“消費税減税” きょう衆院通過へ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EOGZlZEZIOE1Ca3Z4R0JweWY4NTAzZ3I0VThCSEJnWDZOTGNVWXdtMUc2X3FXWVFRT2pWZTZJODFTN3oyUWszdFQ0aVcxUQ?oc=5",
+     "published_at": "2026-11-05T21:26:00+00:00"
     }
    ],
-   "japan_main_count": 10,
-   "japan_main_checked_at": "2026-11-06T01:45:50.576708+00:00"
+   "japan_main_count": 11,
+   "japan_main_checked_at": "2026-11-07T00:59:40.292272+00:00"
   },
   {
    "id": "74112f37-f388-4c04-89aa-27dac0ccafa5",
@@ -13209,13 +13219,180 @@
   },
   {
    "id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
-   "title_ja": "政府が相次ぐ情報流出を受けサイバー対策の閣僚会議を開催",
-   "fact_ja": "高市政権は26日夜、企業の情報流出が相次ぐ状況を受けサイバーセキュリティーに関する閣僚会議を開き、対策強化を急ぐ考えを示した。",
+   "title_ja": "相次ぐ情報流出を受け、政府がサイバー対策を強化",
+   "fact_ja": "高市政権は10月26日夜にサイバーセキュリティーの閣僚会議を開き、対策強化を急ぐ考えを示した。その後、11月6日には緊急対策パッケージを打ち出した。",
    "category": "安全保障",
    "target": "政府のサイバー対策強化",
-   "judged_count": 0,
+   "judged_count": 4,
    "first_seen": "2026-10-26T09:26:00+00:00",
-   "updated_at": "2026-11-04T17:07:02+00:00"
+   "updated_at": "2026-11-06T16:47:00+00:00",
+   "judge_version": 2,
+   "read_count": 0,
+   "japan_position_ja": "高市首相は、企業を狙ったサイバー攻撃で大規模な情報流出が相次ぎ、漏えい情報の悪用による被害も懸念される深刻な状況だとして、対策を急いで強化する考えを示した。生成AIを使った模擬攻撃テストや、中小企業にも広がる監視網の整備などを挙げた。",
+   "japan_basis": "japanese_media",
+   "japan_views": [
+    {
+     "outlet": "The Japan Times",
+     "view_ja": "数百万人の個人情報流出が金銭的損失を生み始めているとして、首相が「状況は深刻」と述べ緊急の対策強化を訴えたことを伝えている。"
+    }
+   ],
+   "japan_split": false,
+   "overseas_view_ja": "独立系のStraits Timesは、数十社の不正アクセスを受けて日本が「サイバー救援チーム」を設ける方針だと、日本の報道を引いて伝えた。世界的にハッキングが急増し、AIが未知の侵入手口を見つける能力が注目されていることにも触れている。中国製AIツール「Artex」が日本企業への攻撃に使われたとのGMO側の説明も紹介している。シンガポールの国営系とされるCNAは、日経報道として米AI企業などからの脆弱性情報の早期入手を目指す動きや、6日の緊急対策パッケージ発表を報じた。",
+   "search_ja": "高市 サイバー 閣僚会議 情報流出",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1ZC0zR2Z1M2dja0xwR0JFaF9UQnlqM0pPdGlhLWFDYmFvbTl4Tng4NUJabkFwUmJxYi1aX2wxb0NzdTBESXZfSFI2eGp5UUpYNnEzSlBBQU5TSDN6UUk0?oc=5",
+     "published_at": "2026-11-06T13:42:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "高市首相、サイバー緊急対策を発表 相次ぐ攻撃「始まりに過ぎない」",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XcGRINWNpNDVlc1VuUXo4dDdaTGRUTGt2ZEFURlNhcm02X1lzRXp3QUVGd1Bqa3Q0ZlRlT2hFVDVvMWpmVUlvbXlabzNwa3FxZnlnd1RabDhaYzdjbDBrSENxbUxFQ0k?oc=5",
+     "published_at": "2026-11-05T21:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "政府のサイバー攻撃「緊急対策」、6日に公表へ 企業の対策を後押し",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ON1BQeUZrc2FMTUxWUTE1UmEwX2pzV0NQUUMyVlRCZHpGazl2UVBDTXctT085OGNfblpHRVJFQUJNSlg3eUxVZGlLWFAyNjNWRWpTWVdjQUtYeG1tSUZDTGNGUFdtT1k?oc=5",
+     "published_at": "2026-11-04T09:15:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "不正アクセス、サイバー攻撃の未然防止に体制強化へ 政府が対策公表 [情報漏洩・個人情報流出の最新ニュース]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lQ0xzbjgyYlBPb0tFV3dlTEFocmZIUHNKa3FYYUlGSHIxMEdQUmJsLW12UElkSlBBMW9DSnUtZS10N01GbUdfQ2ZsTG9yWlEzYTU3aUl1d09YMHZLbDVkN0dROTd5SVk?oc=5",
+     "published_at": "2026-11-06T09:59:57+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "相次ぐ情報漏洩に政府が緊急対策パッケージ どんな内容？効果は？",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bkdXNHdiZDVKek1qMFZQVmFLMk5HYmpMSFdKaHVXdHh4STVUZGZINXIxeWVXeGwyMmdWV05qblhZSUV0c1FJaDZ2eFlBVGcydkxnb2dhVjF4aVdRc3BZLXJPbnBpeTA?oc=5",
+     "published_at": "2026-11-06T09:16:50+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "サイバー防御へ体制強化 緊急対策 政府、１００億円支出決定",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydGIwMG95MVhkdHZ3MGl4bTJDaTUxNE93X0RRbTBFSG80VzNLdW1qN1ZpLVl4SW10a200cXhPdHpnLWJtRmE0WHF6NFRmeEh0cEVoNzA3MDRJUmVj?oc=5",
+     "published_at": "2026-11-06T20:00:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "政府がサイバー攻撃「緊急対策パッケージ」決定、強制遮断「ブロッキング」や被害企業に「官民救援隊」派遣",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTjNiTDIyQ0stRlhsMWpsRVd1bk90aTBNVHd5TFA5MnhLZmxpMFNURk1KX0k2dGFVR09fdWF1c3g2QzVERVNQZklRRV9yclc0SXUzbGhrMFhXSVVQeGE1MXI3U1NiQQ?oc=5",
+     "published_at": "2026-11-06T13:37:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "「サイバー救援隊」創設へ、官民の専門人材を必要性高い企業に派遣…サイバー攻撃「緊急対策」の概要案判明",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uMGRsUlZOaW50N3pQMEI3RjNxU09OY1p5Q2EwNUxHdjBTbDlDcW1QaVkyOFFzSlU2d2M2OHI1WmZoYnpMUzM0YUlHVUpkRW1KX3VFTFRsV3luZlVGZGdwSm5zN09EZw?oc=5",
+     "published_at": "2026-11-04T20:00:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "政府「ブロッキング」検討、漏えいによる二次被害の切迫で…通信事業者からは「制度的な整理が重要」との声も",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYY24xeDlpMEJFWDhPU2VGeGRMYzFDZ3FZNFB1Tm4xc0VJWUMyVnJGUU9QWGxZay0wdjZUVUt5MmpfOHlsQjBfdGltZHNsUFl3bFMybjk2Q1lxRkZ4V3ZxTklDQV8?oc=5",
+     "published_at": "2026-11-06T14:34:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "社説：サイバー対策 アクセス抑止の検討は妥当だ",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHRktOVERNZlJJQmJqYTFfbm1Iay1IRXVnSFhjRWMwMGFNWEh6em16cWp1TEFzUkd3OWltSlNUM083OExFaVgta3Z6dWJrZWxCVWk3WUh3VUFmN1hLZTljbGdyZ3BBMms?oc=5",
+     "published_at": "2026-11-06T20:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "「民間でなんとかするしか…」 サイバー対策、問われる本気度",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKM05lWVpRWjM3b1VjTS1sUVV1dE5EZ1otVlNBRUVOVThhcDBSMnpId0lYSW1INnZBeFFtbi1BQ3dkeHVkRTZiRG9XblJyRF91YU9EcXNJVlBSeGJOMnlkenJGbk5TZkVq?oc=5",
+     "published_at": "2026-11-06T11:05:41+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "「官民救援隊」「トップガン人材」 政府、サイバー緊急対策公表",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxWXhjcDFYVnREbWNwMXMya2tiQnRtM1RVNkJNQUowUDBkSVV2dlZBTEFMdnRGR2s3LWx0VXNHVnBqX3o4ODY2bHktZVdTWV9VQWRHSXFhbGN2U0FKbFZCRnhudzRjOV9l?oc=5",
+     "published_at": "2026-11-06T10:59:25+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "サイバー防御強化へ 人員増強や設備拡充など緊急対策まとめる",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nTDZJTGJiN2tXY3lHNUtIVHNKS2xWRk5wZ1htRjd0TWtfblQ1QlVIaVRtQ1oxZm9USlhnWDUtelB5OFk1dW1nUTN5XzcxZjRXMmhHWjEyNldyQ3k2VmtJWHJrZ0N0U1NI?oc=5",
+     "published_at": "2026-11-06T08:43:16+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "通信監視対象、国内間にも拡大検討へ 能動的サイバー防御",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93dE5kNFFwWDdBdWl3MEkzb0R2ckc0MUlMMGNpZHdneF9ONEVMbjhWNGdzeGJwZm1xQ1Y0a0lYb1BnZ3ZjdVFOcU9xWDRpOUFRX1AxeGl2NHI0Ui1wclpRamttODNVS3lF?oc=5",
+     "published_at": "2026-11-06T14:02:24+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "首相、能動的サイバー防御法の改正検討を指示 AI点検など緊急対策",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FVVhOQ3VfTDcwTmJ6dnlGMTlBc3RobzJZWV9JN1lQYmYzeWlvLWNEMnd1Nmw3WVdaRUcxZGxubHVEMjFVb0F3OWpGdU41ZEplMEtGMFRUdEJmSUhBaWE4SFF3VHpocnhpeFRkaQ?oc=5",
+     "published_at": "2026-11-06T09:40:15+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "政府、サイバー対策に予備費100億円支出へ AIで重要システム点検",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUaVphRmtfTnFJM0NudlF5aFZTVFpvZXRzTmdqZWVPOHRxREoxUm9uSlRzZjlKaGJQVUh5OHU3QVN3YkFoRUZCWU0yNk1QME5FRDN2SjBfMHdOUS1XSzhfNWIxdjZtb0UyRjJWZA?oc=5",
+     "published_at": "2026-11-05T08:48:15+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "能動的サイバー防御法改正、情報収集拡充が柱 国内通信も分析対象か",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5dG5ndjJkUnBkWHF2QWw4cndlQkhnX3Z2RmI3aVQtenVmNW1nMXYwOXNOOUNQcHN2aWtaSjVvdVdCa2hwMzJrNGhpSU9qLWlNRlRndE5NWGF2dXFsQXFLUTlxbjgxejh6MzRiNw?oc=5",
+     "published_at": "2026-11-06T12:00:00+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "サイバー攻撃対策に100億円、予備費支出を閣議決定 AIで脆弱性点検",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVi1RSGlrY20yempXQ09oZTJLbGswTW5vZno5MUZxZjhhM21pbDkxRmZGdVFYeFNzbFpHRWgtZEhOX2RuY3dTd0hQcWI0ekNDM0NQMUtTZ1dtVmFvOGNsZmJnLWs1ZnJBOU04bg?oc=5",
+     "published_at": "2026-11-06T01:08:52+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "政府 「サイバーセキュリティ緊急対策パッケージ」まとめる 相次ぐ不正アクセスによる情報漏えい受け",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1blhtZEk4dmlJX3RvUGFpMDRuT2lqZFBwdzA2NGt6QTBEUnhKUHo0VEFNaTBPc24yUmx5U3liemRqY0RJZEtOMUpia0pXRWFkbWZUYmZpeUROOWlDNmp2TjNPNUlUdDNoRnA1Tjh1LVI0NkVUVXhrQUF4SWQ?oc=5",
+     "published_at": "2026-11-06T10:09:01+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "高市総理「能動的サイバー防御」関連法の“強化”検討を指示",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhc0NITVJVTmF0X2gyTS1zT0MwLUU1eTQxekhlTm5xZGlPODFGNFZIUERGTExtZjNHcWlYcVd4cFpYZUJUVTRKbkw1bGhhSnM5TGkzQmM3RXFQODZZUlBDWFQxSDlNdHBkZ3REcjZvRlpzNXps?oc=5",
+     "published_at": "2026-11-06T13:50:33+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "政府、AI活用でサイバー対策を徹底－不安払拭へ緊急パッケージ策定",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qaFp3MllYdDhjY3E5aG1tUk9vdVZ4UUJCQlJ0NUpXNk9EU1JWeDd1SmRaQXpXN0ZERDJxd0dKWGNpaEdMU241ekNuNHpLUW5xNmppRGE1b3dpUXRKLUpWNUxROC1PZVNhWVNnblJmSGRxbXpm?oc=5",
+     "published_at": "2026-11-06T15:30:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "政府がサイバー対策の緊急対応に約100億円「緊急対策パッケージ」とりまとめへ AI活用した対策の徹底など“概要案” 判明",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QzM1SUpKUTdFY3EyN3JSV3BoU2NoaWlCbGNlZ0ZEaXVoeEVqVU03ZWFBQW5zT3RZUVFMTTNXUWVqWW05UFZ1cXhEODBsYjlZSll1aUJqbHBLOGVVcFlzc3kyS2Z1clk?oc=5",
+     "published_at": "2026-11-06T02:44:29+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "政府が“サイバー救援隊”設置へ 被害企業に専門人材を派遣",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CektIb01OaE1zbkZreS1Fc05kWTlQNzUwMzk3Sl9KTHhjRUI3NWN1MXprUnl0SU5NVF9DYi01dlJLUmhKRko0bUdRUnpOdHowN192clphdmNmYnVqRzRISXVWRzRYbTVFYmFoS19XNGZNVGc?oc=5",
+     "published_at": "2026-11-06T10:07:08+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "相次ぐサイバー攻撃に対応 政府が「救援組織」設置へ",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBralp6NkFYcjFBZzNMamVEeWNUX0RweW81ZXl1d1RZWFZmdjg4S3VLVzlWV1dfV1RqQlE4aDJFMzZtYldDbG9CLW90U1g0THc1ZGZOUGotWnpLcEZRbzJqNkcwUEl3bkFQLWx1M3I4VmtnSEE?oc=5",
+     "published_at": "2026-11-05T04:17:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "サイバーセキュリティ強化で100億円を支出 政府",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hYlhHLVFibWF6Z3BEYWs5Z2JKajV4YnRzOUljUXBWbnR5dUExVERUZjhObXFpTmxfZk1QNVphd2RUeU5PQzVmU1hGWTJxVXJXLWVaZlBoUkx6Wmd3WHlkV25WazJzYkkzaEhDOXNZZF9JZw?oc=5",
+     "published_at": "2026-11-06T05:47:15+00:00"
+    }
+   ],
+   "japan_main_count": 4,
+   "japan_main_checked_at": "2026-11-07T00:59:51.748729+00:00"
   },
   {
    "id": "52015a79-ef08-4ade-8d2f-91d451f7cb21",
@@ -13688,26 +13865,30 @@
   },
   {
    "id": "b789ee04-cc05-4e2a-9d8d-3dbc9154ba6d",
-   "title_ja": "米中間選挙後のトランプ氏の外交転換に日本が身構える",
-   "fact_ja": "11月3日の米中間選挙を受け、トランプ政権の政治的混乱や外交方針の変化が日本の安全保障や同盟に与える影響を警戒し、日本が備えを進めていると報じられた。",
+   "title_ja": "米中間選挙後のトランプ氏の出方に日本が身構える",
+   "fact_ja": "11月3日の米中間選挙で民主党が上下両院を制したと報じられ、トランプ大統領の外交の出方や米国内の混乱が日本の安全保障・同盟・経済に与える影響を、日本が警戒している。",
    "category": "外交",
    "target": "日本の対米同盟戦略",
-   "judged_count": 3,
+   "judged_count": 4,
    "first_seen": "2026-10-28T03:00:21+00:00",
-   "updated_at": "2026-11-05T06:57:00+00:00",
+   "updated_at": "2026-11-06T01:04:00+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "日本政府は、中間選挙の結果にかかわらず日米同盟は外交・安全保障の基軸だとしている。茂木外務大臣は選挙について「関心を持って見守る」と述べた。政府内には、米国が中国やロシアに接近すれば歓迎できないとの警戒があり、日米関係の強化を図る考えだ。",
+   "japan_position_ja": "日本政府は、日米同盟は選挙結果にかかわらず外交・安全保障の基軸だと強調している。一方で、トランプ氏が中国やロシアに日本に諮らず接近することや、防衛費増額への圧力を警戒している。高市首相とトランプ氏の良好な関係を土台に、同盟の強化を目指す姿勢だ。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "JAPAN Forward",
-     "view_ja": "選挙で苦戦したトランプ氏が実績づくりのため、日本に相談なく中国やロシアへ接近しかねない点を最大の懸念として伝えた。防衛費増額の圧力や目標設定の不確実性にも触れている。"
+     "view_ja": "苦戦した大統領が遺産づくりのため中ロに接近しかねないと、日本政府の警戒感を中心に伝える。日米関係悪化は中ロに利すると政府関係者の声を紹介している。"
+    },
+    {
+     "outlet": "The Japan Times",
+     "view_ja": "民主党大勝の「青い津波」を受け、日本は共和党寄りの見方を改め、民主党の台頭に対応を切り替える必要があると論じている。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "SCMPは、選挙後の政治的膠着や弾劾・訴訟の争いでホワイトハウスの関心が外交からそれ、日本が予測しにくい同盟国に備えていると分析している。ストレーツ・タイムズは、民主党の大勝で日本が安保・貿易・市場への影響に不安を抱いていると伝え、識者の間でも外交の多角化が必要だという見方と、トランプ氏の予測不能性が抑止になるという見方が分かれると紹介している。両紙とも、日本の不安と備えに焦点を当てている。",
-   "search_ja": "中間選挙 トランプ 日米同盟 木原",
+   "overseas_view_ja": "SCMPは、中間選挙後の政治対立で米政権の関心が外交からそれ、日本が予測しにくい同盟国に備えていると分析家の見方を伝えた。シンガポールのストレーツ・タイムズは、民主党大勝後の日本の不安を描き、同盟は揺るがないとの政府の説明と、外交多角化を促す識者や、予測不能性が抑止になるとの見方を併記した。株価急落や貿易面の摩擦、防衛費負担の増加圧力といったリスクにも触れている。",
+   "search_ja": "米中間選挙 トランプ 日米同盟 木原官房長官",
    "japan_main": [
     {
      "outlet": "NHK",
@@ -13722,10 +13903,34 @@
      "published_at": "2026-11-04T19:56:46+00:00"
     },
     {
+     "outlet": "NHK",
+     "title": "アメリカ中間選挙 与党 共和党 上下両院で過半数割れ確実に",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1abTNCMGpYdEJxa3JmcjEtSzVqemJleEc2dDI1dUhWU1JmSm1EY2VUd2xBZHh1R2lSZUNtQ1EwTlNoMENQTGEzQUFoNmxFdi0xbGJ1RWU0bTZ2eG1WalE0?oc=5",
+     "published_at": "2026-11-04T13:34:50+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "【詳報】民主党、圧勝で上下両院奪還 トランプ氏「結果受け入れる」 [アメリカ中間選挙]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55a1UyQW5CQzNrTGFoenNRRWREQWlSVFI4bk5KWjBkdlFKclBoOTFMaVdLaWNrWkR4UjcyTWwyZ1NFd2liTTQyT29DOUpTZlB0dnBWdXFVX3RsU041SXZGc1BOV01BVGc?oc=5",
+     "published_at": "2026-11-04T10:16:19+00:00"
+    },
+    {
      "outlet": "読売新聞",
      "title": "トランプ氏が「外交成果」急ぐ事態、日本側の懸念に…対北朝鮮や対中国「頭越しに取引されては困る」の声も",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RaS1xbTduRWJlZ2JHVkZlRnJyUG44SUpuRTZNYUpmTXB2WlR3UXlGWWtiVVpEUDk5ZHg4eDN3bXNZaHVrWmpjWm44NW1jV0doZWpxREMwWm5QMDRWTjhEZFUxZU05UQ?oc=5",
      "published_at": "2026-11-04T11:31:00+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "自民・小林政調会長「政策変化を注視」米中間選挙で共和党大敗、日米同盟「さらに高みに」",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FSXI5SzhwRVFzaG1GcUJtYVNRVjlxeDBjY0ZUTjRiU0JtZHRneTNpbVdaS0lLeU9yeGd2cDJOY2h4VmgzZVpsVElCcldRTkQzd1JXdG1vNjFwOUJ0SFFNVVdJYWdtZlE5SE5fQ2EyMTljV3pZS2c?oc=5",
+     "published_at": "2026-11-05T03:31:39+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "米中間選挙に気をもむ高市政権 トランプ氏に翻弄も 中露への接近「心地良くない」",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS25PQ20xWlZOaTJwTmhtdUh0Z250ck9Ka01HMDB6MFh3V3VOUUpkaUJINDl6a0RUeXEzU2xkVkNSY0NFbDJwUkZ2QV82M0pKaFF6Y3ZHa2kxbE9YUzVYYnVXM3lYU2pIYUhULTlMcjFzd0d5VnZGMGt5MzhUVi1aUTRneVhoQU11OThDOA?oc=5",
+     "published_at": "2026-11-02T11:04:24+00:00"
     },
     {
      "outlet": "日本経済新聞",
@@ -13741,15 +13946,21 @@
     },
     {
      "outlet": "日本テレビ",
-     "title": "【米中間選挙】アメリカの選択…“牙城”崩れた共和党“大敗” 民主党“青い波”全米に拡大へ 世界的影響も…日本は",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXJRcmV5ODBQZEczWGJkeTdKNHA1OV9fU0FHQTBkM1JGRkJmdDl3NzVqdkNYc1NIRWRFS0hCVnRiWDFpNHhkRUZEREpLdTZuaTNXamhkM25pMXA4NFpURTBuTHJsRFc4c1RYRkpzRFFDbWNtNUVNZ1IzTlF0VTJtckltWFJ6X3B6MEE?oc=5",
-     "published_at": "2026-11-04T21:11:00+00:00"
+     "title": "【テキサス州中継】米中間選挙“大敗”トランプ政権の今後は（2026年11月4日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlRybnl2Y0NBQnN0ZWVFSTJRbm9jeFZXeU9YVV9YRWpoeEtMb0dCY0habmNpU0V4Z3VmVHpUNGVDQ1hIR0UwRlItUFdKb2hoQlp4NXlxTmVIWGozenM0bWFETFhKRE42WUlIc1htY2dwSUlsSjQ2NnFKZGZZUGxZTExkclM?oc=5",
+     "published_at": "2026-11-04T14:58:00+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "【解説】米中間選挙 民主党“勝利” 日本への影響と政府の受け止めは？（2026年11月4日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdmYyNHZ3NzVjWU8weW1OSGpJZVVaNmowVDhxRTIxTHE0Q3pUaHJzcmZXdDQ3c1NQYXh5SGU4NERWSFJlQjJyZ05nZ3pXck9rRzlwVzdhcGZ1YXYzLWpNSVdENlNpV0ZyLTVEVEpyOEpEQkxGZmtwVUVfZjU1dw?oc=5",
-     "published_at": "2026-11-04T08:36:00+00:00"
+     "title": "【米中間選挙】民主党、上下両院で過半数を確保の見通し 「トランプの終わりの始まり」との声も（2026年11月4日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa05FcFFhU0NDX09mcV9jbVVuR051a2hDTi1oNkdtVDVIZElCRk5vTlN2MnlmRE1VQ1loWFFDbER0UnlybmFqWkx1Z0FtV0FZT2M0X28zcGk4dXRwaGh1RzNoSldGS1dqM2x3OGQ1SnI1ZFd5blZ3RXdmYzNSZHFILUZqWFplT2syRnc?oc=5",
+     "published_at": "2026-11-04T10:49:00+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "【米中間選挙】アメリカの選択…“牙城”崩れた共和党“大敗” 民主党“青い波”全米に拡大へ 世界的影響も…日本は",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXJRcmV5ODBQZEczWGJkeTdKNHA1OV9fU0FHQTBkM1JGRkJmdDl3NzVqdkNYc1NIRWRFS0hCVnRiWDFpNHhkRUZEREpLdTZuaTNXamhkM25pMXA4NFpURTBuTHJsRFc4c1RYRkpzRFFDbWNtNUVNZ1IzTlF0VTJtckltWFJ6X3B6MEE?oc=5",
+     "published_at": "2026-11-04T21:11:00+00:00"
     },
     {
      "outlet": "TBS",
@@ -13759,15 +13970,15 @@
     },
     {
      "outlet": "TBS",
-     "title": "米中間選挙めぐり木原官房長官「政府の立場でコメントすることは控えなければいけない」",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Rck9jRHE1MzRISXhfMFVkT2xEYXExZlBPRXFUbnFUVVAwMjlXU05qeElqMHY3aXBxMVFlZmtQS1c1bHdHeWgwQzBWSThvNzN5aXZraXFIOG5FdDBROWpIRnJacEw?oc=5",
-     "published_at": "2026-11-04T03:12:27+00:00"
-    },
-    {
-     "outlet": "TBS",
      "title": "茂木外務大臣「結果にかかわらず日米同盟をさらに揺るぎないものに」アメリカ中間選挙を受け",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pRHo3aVZWNm9wdmc5NHFrSUNXUVdmWTRoaUtUZUNIbjcwVklvYkY2emdta3hRQmZKQ2Q4cWhoUUY1SEM3TGlwOUx4NW1zb0pCZ0hHR3JhaFY5T3pLTTdjcDdDVnNYM3BPUl8yeWFmSUFDODZI?oc=5",
      "published_at": "2026-11-05T02:45:58+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "AI投資の先行き懸念…米中間選挙受け、日経平均は一時3000円以上値下がり 専門家の見解は 日本政府「高い緊張感を持って動向注視」",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43ZUotUjBlQjlVY2txTjhBQmpOVlRFb2k4Sll3bjF5eHViT2k1LUF2Ui1lX0tSX2dESHR6b3lxS3ZPQm5Jc0NDQm44aFlMQUhtUVFqRGdNaEFBaHlKQU9qUlBxYW0?oc=5",
+     "published_at": "2026-11-04T10:16:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
@@ -13776,14 +13987,26 @@
      "published_at": "2026-11-04T03:04:19+00:00"
     },
     {
+     "outlet": "テレビ朝日",
+     "title": "【米中間選挙まとめ】「これからもトランプ大統領と協力」高市総理が初コメント 民主党が上下両院の“多数派奪還” トランプ氏、大敗の原因は“イランとの戦闘”",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQ016Q1lpbUlvaUFYQVlZTFdGTS0zZmRZSndaRWlmZW9wWFFSVFJOMFlUcURtSmhoUmZZWFl5Ynl0NWdBMUgxeVg5eFlEbms5Z0xBQkVYNDF3RlJCTlhlX0dBZl9FaEFmdmNJLUdaZjBUTU9ZVkUtMkx3?oc=5",
+     "published_at": "2026-11-05T22:50:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【画像まとめ】アメリカ中間選挙 大勝の民主党 トランプ政権腐敗追及へ 次期大統領選挙の顔は？",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNd1p2cTVBWlNaanE4aUhLbUVMTHZUNDFxby1NanljUEZlLUEzSXlPRDhzVktVbjhVQ1c3NVc5dGM2WTRHekhhS1VQSUpHcDgxT0I4MzNxVk5IdS1UZkF2SEJQMzJ6MlBCalhxd3pqVE1HMTFnRkpsQ2puajhXTnhGcWR4dGdCYkM2bkRKZTY1VlpkekNNQi1fU1psR2FFeDdEWk84dGFBdS1SM2o1ZndjQnUxUk1MTVdxdmJUV1A4Y3NhdWJMVnNoLUtIeF8wT1ZYM1JaNjBwbHRWZkZ1Z08zRHJIeThCdFJoTGVMcnpSY0RaQ2JEZjk0OFl4NU1meTZiUU1pS3hjUUZIN2s0WFJxR0V2bHpWdGo5?oc=5",
+     "published_at": "2026-11-06T09:00:00+00:00"
+    },
+    {
      "outlet": "フジテレビ",
      "title": "トランプ大統領“歴史的惨敗”で「何をしてくるか分からず怖い」 日本政府関係者「外交で成果を出そうとするだろう」分析",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LdzdwOEZrU0h4cUMwMTFlSUJNcFhFU2FKa1Q5endrZ2ZjMkpPeWJqc04xOXd4R0JQSnBZM0VpVGtvaXBxeHNfUHNPN1ozQQ?oc=5",
      "published_at": "2026-11-04T10:54:00+00:00"
     }
    ],
-   "japan_main_count": 3,
-   "japan_main_checked_at": "2026-11-06T01:46:23.670419+00:00"
+   "japan_main_count": 4,
+   "japan_main_checked_at": "2026-11-07T01:00:06.421394+00:00"
   },
   {
    "id": "772af34f-5de8-4523-8d3b-4612e48a4f3f",
@@ -15638,7 +15861,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-11-04T05:23:00+00:00",
-   "updated_at": "2026-11-06T01:00:00+00:00"
+   "updated_at": "2026-11-06T04:02:00+00:00"
   },
   {
    "id": "8ab32299-0063-41af-9ac4-47bc23970f71",
@@ -15884,7 +16107,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-11-05T10:42:49+00:00",
-   "updated_at": "2026-11-05T18:16:00+00:00"
+   "updated_at": "2026-11-06T15:33:00+00:00"
   },
   {
    "id": "1ba2e54c-3d2d-406a-87d1-d140ac63c53f",
@@ -15979,12 +16202,239 @@
   {
    "id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
    "title_ja": "ロシアがJT傘下のロシア資産を大統領令で管理下に",
-   "fact_ja": "プーチン大統領が大統領令で、日本たばこ産業(JT)グループのロシア国内の工場などを一時的にロシア企業の管理下に置いた。",
+   "fact_ja": "プーチン大統領が11月5日付の大統領令で、日本たばこ産業(JT)傘下JTIのロシア国内の4事業を、ロシア企業の一時的な管理下に置いた。日本政府は撤回を求めて抗議した。",
    "category": "企業・産業",
    "target": "ロシアによるJT資産の管理",
-   "judged_count": 0,
+   "judged_count": 9,
    "first_seen": "2026-11-05T19:37:00+00:00",
-   "updated_at": "2026-11-06T08:42:00+00:00"
+   "updated_at": "2026-11-06T10:14:00+00:00",
+   "judge_version": 2,
+   "read_count": 0,
+   "japan_position_ja": "日本政府は、日本の国民や企業の正当な利益が損なわれないようロシアに繰り返し求めてきたとし、外交ルートで抗議して措置の撤回を要請した。こうした動きは警戒していたとしている。",
+   "japan_basis": "japanese_media",
+   "japan_views": [
+    {
+     "outlet": "The Japan Times",
+     "view_ja": "大統領令で4工場が対象となり、日本が即座に抗議したと伝えた。日露関係がさらに悪化するとの見方を示している。"
+    }
+   ],
+   "japan_split": false,
+   "overseas_view_ja": "ウォール・ストリート・ジャーナルは、ウクライナを巡り西側企業を狙うロシアの手法の一環で、東京への懲罰でもあると位置づけた。ストレーツ・タイムズ(ロイター配信)は、拡大する接収の最新例として、8月のプーチン氏の係争島訪問などで悪化した日露関係を背景に挙げた。朝鮮日報は、事実上の没収に近いと指摘し、日本政府の配当収入や、LNG供給に関わるサハリン2への波及を懸念した。中国の国営メディアCGTNは、大統領令の内容や日本側の返還要求を、評価を加えずに伝えている。",
+   "search_ja": "JT ロシア 大統領令 資産 管理",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令 | NHKニュース | ロシア、企業・経営",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fcnpmLURWdWxwUE5wMXpFYzVtb2NTYlhMUWtha1VTYzNkSmJrd0p3eUtjT0JLdTVUNHNkZmlwWWxtTmJHLW9vUTRxNEw2WVVBOURkdUI1T0FDazBUMHU0?oc=5",
+     "published_at": "2026-11-05T12:38:14+00:00"
+    },
+    {
+     "outlet": "NHK",
+     "title": "海外子会社の生産拠点 ロシア企業の管理下に JTが対応検討",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5salJMWEExZGR5cVoyQnFFWTFTMTVjNGxGQjRHTnFhbUwweVNiblFicVlxMkJVMkJYZlpjeWsxN0haS29yNFVtMjc2VUZvN1NQUldpeUZvZUU3dWNjQlRN?oc=5",
+     "published_at": "2026-11-06T09:29:38+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "ＪＴ資産管理、対ロ制裁に対抗か プーチン氏が大統領令、日本へ強める圧力",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIb0djQ2ItVkpYVWlUQXM5cFNqcGZFSGtDcVJCRVNPR0xjaUYyelFhQ2lMX1pySFVibXA0UHhRa2t6dkIwWEFOVEJtd0dyT1NOYUpVQ0NBUUd3cTMz?oc=5",
+     "published_at": "2026-11-06T20:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "ロシア、JTの現地資産を一時管理下に プーチン氏が大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3RzUGJpSGRFNXlHY1F3bVRiTEMzQnZqdUZnWlJCbXp3anU5Tl9zRXE5X3JLZjd1ZTBHeVlYOC1lbVR3Zmw0S0c5dzdLWXgtcTBOM2tadEJRdWxaZ1E0Ni1zSGZvbVE?oc=5",
+     "published_at": "2026-11-05T14:30:14+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "JTの現地資産、ロシア側の管理下に 侵攻後も事業継続、シェア首位",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tallWT0hvU1dKZnFzbXZwdXdUSGhfa1B5VnhKX05aTDBUa1BuTXdvU3BFbTRjQWpHZm9EYWpXY1dINEtTRWp5dlduM2RnMkNTejd4em43N29OWjg2alAtS2ViYmROQTQ?oc=5",
+     "published_at": "2026-11-06T10:02:15+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "JTのロシア事業、非製造会社3社も現地管理下に 新たな大統領令で",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YVmFlVWNfMUFPbHNrWjJPTDZlZ29yeEphdHRDYzAxdmtCSnI2bVk4SFlGNWIwZFBEZXo2N3puekQ3UzR3MlVia3djcDlQV21TbWtYaXpwU2tTNkR6QXc5VlBwdGdVUXc?oc=5",
+     "published_at": "2026-11-06T23:24:08+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "日本政府、ロシアに撤回要求 JT資産の一時管理 経産省幹部は訪ロ",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XSGlMdldsTzJ4cnFrb3B3Zm1xeHZpUVZROG05Rm9NTTFqZXppOC1xbmRQTS0zcGhZanItM1l1ZElWem5ydEZvZ1FQSWw1OU5hcGpLRkJ3VVA0NHhNTThHMFc3VHNZcWM?oc=5",
+     "published_at": "2026-11-06T01:47:44+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ＪＴ子会社保有資産、ロシア「管理下」に…大統領令で経営権を事実上奪われる",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xM1EzWkYxWlM2bGZBQ25MU3RiRE9BSWZkWFREdldCQTl2cHV5ZE5TY3l5eTk1aWNId2ZtVWI4VWZZMlJhd1pyV2dITGdYMktFaTVYcm1mdmFLbnF0azFzWHFR?oc=5",
+     "published_at": "2026-11-05T20:00:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ＪＴ子会社の資産がロシア政府「管理下」に、日本政府は措置撤回を要求…経営権を事実上奪われ悪影響避けられず",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02bF9Zb2NKVkVHOGhOS2oyUWQ5MnhUc1dXcmhwVWRYeW8zaEVfejlmS0cwNkVNR1gwdzRkUkpvRG5UTFlzRnppMUNMM2R1QmstTXgtQV8tVHRBSXdUNEdseHJIQUo?oc=5",
+     "published_at": "2026-11-06T12:27:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "露、日本へ揺さぶり ＪＴ資産「管理」 制裁緩和狙い",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbjlNci1HYWw5YUFIeGlUai1OazdzdE12LWVHdE1fM1ZCV3FZOGMzX1ZUbE41U1U4Y19kMGo1dXJBWEZqZHFLRzJ0dDhoWXFHVXBuZnVKdWp3NlpQdGVvQXh3?oc=5",
+     "published_at": "2026-11-06T20:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "経済プラス：何が狙われた? JT工場がロシア管理下に、日本企業は戦々恐々",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUGJVUFlpOUExbmQyYWdEdFpMSDZYRlRpeUpmMS1fU29kT2U4TV9faVNyZWtncldoa2ktdW5YN01ZSFlNWGkzSmlHT3BOa2ZSemc2TUNzV1JOc0RlanU0N2I5Z29fM2JE?oc=5",
+     "published_at": "2026-11-06T20:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "ロシア：日本企業 広がる動揺 JT露管理下 「外交カード化」危惧も",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdUtFblFVczZRdnJmSGx3RDZxdDZLR2lremhHRzlNREpqZU5YdmJwVlBSU1hva1NlTm9ib1N6T1pBbm1RQkZGTkNTbmxpOTNuLV9SaHNUU1puLU5fYzNHdVY2UVpYVXZJ?oc=5",
+     "published_at": "2026-11-06T17:01:04+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "JTロシア事業を暫定管理下に プーチン氏が大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ob1gxdzRxa1BpLUZCd2xqcGduTTF1ZEZTc2JoTFVOVHczLUhmYWV5NWZxa0htTkFKdENTT2VqZXlkblhkdmhQODBmd0l2UVc1cTNNOURFRDBVWGwtME5SckxvazJJdVZvRW1tRzR6YUNITFZiREE?oc=5",
+     "published_at": "2026-11-05T14:07:22+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "ロシア、JT子会社の資産を露企業に暫定移管 対日圧力の一環か 返還は不透明",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHhwdTlQa242VjR5LUJHanRCUmQzX0IzTUhOcWdMaG9HMzYyQTVEcG9HbW9WTFkyS3hFZDFtaDRidGp5MkxFc2Q4b3hnQ1IxWE5JejhIOTRXVGdxeE8yVEFLOTE3b0ZOekotSWp6ZFFtY0NmTzBVaVNkVkRBT1NiN1JKNjhNa2ZlZXdBWQ?oc=5",
+     "published_at": "2026-11-05T14:50:10+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "日本への圧力を強めるロシアのプーチン大統領（ロイター）",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1UtMFY0UnhxeEZrX2EyaEIyOV9xOW9zanVjTEJOUEhNOHFXamM3UHEycmpaeTZsSlNEQ29sUWJsYzlOQ0FDMkFoeW5mWHhMc0hwcVRqdzZseVdyeXVLcHItOS1pRWlCWVBFZ3AyNm5UWXdIM2V1Q0JNcTliNXEtU0w4STJTdktrRklQNnB6VWpnRlBBb3lUbkJtNGtYREx0Zmc?oc=5",
+     "published_at": "2026-11-05T21:43:34+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "片山財務相、ロシアに撤回要求 JT子会社めぐる大統領令 政府が株式保有",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16MjYtV2psaDZDUEJ5WXpOU1RjWnU4TUtxUlBoZzJzb21FZVJHVHl0Tlo0dFVKUXJ3Y2lINW0zYzVqd3JOTE9vZXo5WlQzYzhPSVpCazNIVEJDU2pMZ1JPeHlGNi1faVdoM2kxRXNWbGxTanhqOWc?oc=5",
+     "published_at": "2026-11-06T00:57:06+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "ロシアのプーチン大統領（ロイター＝共同）",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTE9xcXk2aE9GQVBOeWdoWUx0UEdNT2NFVjhOREdNaXRoRUdmWHdLT21uZEJhbllWbDFUQktRUG1iYkxTNzdjdXBQWjJVck5NOFZLVnE1b1hweG9PT29JYjZUZ29JcTZTcEstSDlvS3o3dDFmTXhBbTU5MFFLZHNUZEx1cnVoMVFpV1FpdFlTUmQ3N3JGMEMzeG9yVWZkV3o2TVE?oc=5",
+     "published_at": "2026-11-05T14:07:22+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "プーチン氏、JTのロシア法人を「一時管理下に」 大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTdRcE9MeUJUQzhZTEkyNGY3djRkamJOV3UxbUk3dzJVczVqckV2Y0xNeXQ0RGxNRVZkLThNa1hFaFZYQy1uYzZ4RFJ2LXp6bWlmT0c5Mm84U0VPTkYtYkQySHpYUlZsSlVJSQ?oc=5",
+     "published_at": "2026-11-05T12:44:13+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ロシアの「企業管理」措置、日本にも 商社など100社以上が拠点",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYkU2bkFpbHdzM0JoTVdaLURjX1BkTXN6aGZsQm5tZVZIN2V3SEJpa0U3ZkFKUXRja19SMjNhbTRMZEVvSW5wQU1QcVZ2dzRQTHBKemlzcWdVVTFVTGhlN3h1Vi15Z3lQVzNyWg?oc=5",
+     "published_at": "2026-11-06T01:08:03+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "JT株価、私設取引でストップ安 ロシアが資産を一時管理下に",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nZkZXMWMyRklYTjQtaWJDenRYZEprXzdJTWpkdjdEa1ZreldFeHBTbWp3dXpHblRuWjlCQWFRTlRzQllyVnFXSERudm5xSlc0QjZrV21JNmxPb2xZU01QM2QtcGpuRWlPS0djcA?oc=5",
+     "published_at": "2026-11-05T13:45:34+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "JT子会社管理、財務相「ロシアに撤回要求」 経産省幹部ら訪ロし抗議",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KVzZqQkZBTXlnaWx0d01GS3Vma1dwYmpZbWYxbWh6c1dYNUhwYkFwdUdvdl9VLV9ZbFU5bElUakpoem1hQ2IwZ2tjVGh2RnpFWXI5ZE1mWHVIT2UxZTMtS29fM0RqMXBuLUVnbQ?oc=5",
+     "published_at": "2026-11-06T00:53:52+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "JT株、売り注文殺到 ロシアが「製造4社を一時管理下に」",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EclN2cF80bC04ejB6RWhLektpMWZIZWJCVmIzSS16d2l4cG9VVkN3SU5rSjg0aEdRZEVJZVkxT0dHNllSRzZUVXZGcEVQN2ZRODVXSU1wZF9qRXZrTm5zbUN0MkYyN1EyNGJhYw?oc=5",
+     "published_at": "2026-11-06T01:40:50+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "JTのロシア事業を一時管理下に プーチン大統領が大統領令に署名（2026年11月5日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdENZSk1QWDRPOTdOT1VZd29mYXBBNVhLMVBFZ2R1Q21UTnVoYWt6TkpUTXBoempkaFRhM1BudExvbVgxN2M0d29ab2VmNmFHdmdNdHZySllNa1dPSU5kbXlKTEt0Z1R6d2J3WWdfb2ttSHo4WERWcDRxLU1uR1pOWDBBX1o?oc=5",
+     "published_at": "2026-11-05T14:53:00+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "JT事業をロシア企業の一時管理下に 日本政府、抗議し撤回を要求（2026年11月5日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzI0VmNJTXBqamFQNmpuSWFLdWlvNG9SSHpmS2VkVG5hXy1sSHpCR3pmVUw0V2NwTTU4SWRhSE8xWEV6bl9BaHdmZnlXZDdiM0J1YUJOb1QtNUkwaXJEaE5BYkhzU2dlNm4wS2VLejJiR3RBamlqckNPUTIweEwySDBNOXc?oc=5",
+     "published_at": "2026-11-06T02:47:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "プーチン大統領 JTのロシア資産を国内企業の暫定管理下に 大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RYlo5TkwxU0Faei1wenY0X1F1Z0gzb0M4OTk2S0RMRnpwQ0ZRZ2FlNFdsMjZVUkxmb2hNYnB6N0NFMy01ZjJ3MmtMQUh1d1FkcngwNnNLMA?oc=5",
+     "published_at": "2026-11-05T15:30:45+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "JTロシア事業が事実上の経営権喪失 プーチン氏が暫定管理の大統領令に署名 日本政府は強く抗議し撤回要求",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUOTVnZTdUcEdsMWhrX1BHeVU5TFJHREt6Z0xOTDJmWWw0Y2c4R2RDWjBBYndJM3RyUEFpaHczdUJoX2F2S1Bud1ljTVU5MHp4M19uS0ZXdHdpaUtjOWdRWlI4eEZuR3RjS2c0QU0tazg4cnVy?oc=5",
+     "published_at": "2026-11-06T09:46:03+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "プーチン大統領 JTロシア事業の“暫定管理”に署名 JT側「状況や今後取り得る選択肢を精査」",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oT2c3dHk4TGw3TTV2VHBCMXRwal9sb2VNX2lyZ1czdC13SmJvSDg3Mm5CaXZ1Tk0yZ3FuS3JFNHh0SmFROEpuaDdDWVY1cWhHcUR3ZktSOHQ3X2xaTnJYaHZ5WkdtTmFQc0V6c1FPRS02LUJ3?oc=5",
+     "published_at": "2026-11-05T21:23:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "JTのロシア事業を現地企業の“暫定管理下”に プーチン氏が大統領令に署名 日本政府は抗議、措置撤回を要求",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByNUVUNjd3UjJHd0hSYXdEclkzeW5iRTJwSG85UllkcnU2QVl1TmV0dmFEOHhrQkNmS19zSE9kTDFnNjd4WEdjUzZLZ2pneG11OXl4WkxBdkNyOEFndUtrUjBLNXlUbjg1Y3Z0b3R6VGxKcjVU?oc=5",
+     "published_at": "2026-11-06T02:59:20+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "JTのロシア資産をロシア企業の暫定管理下に 「措置の撤回などの対応求めた」片山さつき財務大臣",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84ak9vcjVtSFlXUnNfY3g4cEJkVUFyc3ZmaVJJalNMa3lkZlEzZEVkdW4zWngtaE0xbFdCcjMzX3A1Z1lsM2hoenhBX2xHNkZ1UXlETWl1NG9NNkI0RzJhUmlDRG5lZ3l6bjlBWk9RRjVjOEtn?oc=5",
+     "published_at": "2026-11-06T00:35:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "プーチン大統領、JTのロシア資産「一時管理下に」“事実上の接収”",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WVGxaRTc4MWFuaXB4S2RzdmpIQU9ONmlGWXBleEI0blUwbFg0LVlMdlBkRk1veE9FTzcyVTUzTG1OOWluRi1zSU9NT1dPMXNQdGVjX2NYNUM1bmNFUHkxY3UyN3c4U25tX1ZqOENqajZkTlozVE1QYjZ3?oc=5",
+     "published_at": "2026-11-05T14:11:24+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【情報まとめ】「事実上の接収」プーチン氏が大統領令 JTロシア事業の資産を一時管理下に 日本政府側は抗議・措置撤回求める",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqWUVsOHFUTjdlTGpHT2pBZjdTcEczdnVvbUdYMERnVjVCMVRmcEtwY0N2TWxQNld4d0pad1RtZHNzMUVTYkdFYm9SZlBxQXd0ZmEtdTY5VVptdkQzLXJjYUI4SnVhVUxKWmxjWmVrNDZxRDBXdHdwb05B?oc=5",
+     "published_at": "2026-11-06T05:59:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "JTのロシア法人「一時管理下に」 プーチン大統領 制裁続ける日本政府への圧力か",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02VFFGbmpCOHdqU2xXTnVOVDZCV1luSmlqTnhFblp1M29lUjVIdnVYaDBfUXRESWRrZGtKNm1Gc0p0N2pTcUM4MW9vRzZxV2lGb0VJVDd3MnBCTUUtYnhTSE9yYi1qM3l5V3Q3RVdDSEMyYWJrNklXTU9R?oc=5",
+     "published_at": "2026-11-06T02:48:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "プーチン氏の狙いは？JT現地法人を「管理下」に 今後どうなる？",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LZGEyMWhLdnZNYmxaV2d6WkR5a3BWRFdSeXdLOWtza3Q2eW5MVnJ1bFRaTTQ3OEtLSVhoWld5d1dYcDVqMXQ3eGFxN0hnWE8wZVhEUXl1ZmFYMkVkNVFXS2oxSF9JdThtZGJDRjI2RG94ODhfMmtCOV9B?oc=5",
+     "published_at": "2026-11-06T10:25:19+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【画像まとめ】JTのロシア法人「一時管理下に」 プーチン大統領 制裁続ける日本政府への圧力か",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOG9jV1dHWV83eWVlYWV0bFdUdTZWeVFRdVVMYXE1YVZub0lGNG9ZU3doUDVKSGlveTVtVWk3TUgwMExnYzFpZmRDNnlvSk40LXZOZTNIZHVXTkFYZE96Q3dtRDF6YVFLNXBUS1Y2ajR4S21IWGt2QUJaVU93OTItYkRCRmdiYzQ4aFlOM1EyazRTRGNUNnRUSzN4MTdBM3IwbF9GbG90Vm1QcEtIZ2R2bVhOSmJza1QzcjZXWE5pekF3QWktaXQ5TGNmQXVnSVVRT2E3SVFIY0xJaFhQTC1EZDRndnUzUnlDSlJRZGQtQjNycmVUQU5jWGNhUVBBUHdCLUdkYTRGOU1ZZWVKVzlIbFkwVldSV1ZR?oc=5",
+     "published_at": "2026-11-06T02:48:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "JTロシア国内の事業を一時的に管理 プーチン氏が大統領令 日本への圧力強める",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUmZmRUVsNnJ5U29oT2JqMnpMeE1ZSXpucmN4TkN3OENBaVR5MmxPZlpwT1BESXVUbUl1Wm5taEdjTmdHcG5tR1lXQXRKUQ?oc=5",
+     "published_at": "2026-11-05T16:35:00+00:00"
+    }
+   ],
+   "japan_main_count": 9,
+   "japan_main_checked_at": "2026-11-07T01:00:18.459843+00:00"
   },
   {
    "id": "21b3692f-80aa-4ca4-87db-948602852a8e",
@@ -16014,7 +16464,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-11-05T23:32:29+00:00",
-   "updated_at": "2026-11-06T00:57:00+00:00"
+   "updated_at": "2026-11-06T02:10:00+00:00"
   },
   {
    "id": "4804a814-3e1e-471d-9ff8-4781594d59c3",
@@ -16049,12 +16499,399 @@
   {
    "id": "c190a0d7-587a-4052-b777-4abbfee48d24",
    "title_ja": "高市首相が沖縄政策協議会で基地負担軽減を「目に見える形」で実現と表明",
-   "fact_ja": "日本メディアによると、高市首相は沖縄政策協議会で、在日米軍基地の負担軽減を目に見える形で実現すると述べた。",
+   "fact_ja": "高市首相は11月6日、13年ぶりに開かれた沖縄政策協議会で、在沖縄米軍基地の負担軽減について目に見える成果を出すよう努力すると述べ、関係閣僚に2027年度予算編成での沖縄支援策の検討を指示した。",
    "category": "安全保障",
    "target": "高市首相の基地負担軽減の表明",
+   "judged_count": 2,
+   "first_seen": "2026-11-06T03:50:00+00:00",
+   "updated_at": "2026-11-06T07:32:00+00:00",
+   "judge_version": 2,
+   "read_count": 0,
+   "japan_position_ja": "高市首相は沖縄政策協議会で、在沖縄米軍基地の負担軽減で目に見える成果を出すと述べ、関係閣僚に2027年度予算編成での沖縄支援策の検討を指示した。茂木外相は、米兵による事件を受け、日米が米軍要員への教育強化で一致したと説明した。",
+   "japan_basis": "overseas_reports",
+   "japan_views": [],
+   "japan_split": false,
+   "overseas_view_ja": "独立系のシンガポールのストレーツ・タイムズ（共同通信配信）は、首相の表明を事実中心に伝えた。普天間飛行場の移設計画、米兵による事件への地元の怒り、玉城前知事から交代した古謝知事が経済を重視したことなどを併せて紹介し、中国の動きを背景にした南西諸島の防衛強化にも触れた。古謝知事が返還時期を求めたが、政府は具体的な日付を示さなかったとも書いている。中国の国営系CGTNは、日本メディアを引用して首相の「目に見える形」での負担軽減発言を短く伝えた。",
+   "search_ja": "高市首相 沖縄政策協議会 基地負担軽減",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "13年ぶり沖縄政策協議会 高市首相“強い経済と基地負担軽減”",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBscmU3MHRiSGN4RmdsZG1xenE2QkNZNmMtT2dMdmZnelFYY0J4VXphbERJZTZILXZTaHIxR3dMMkZ6R0x5T293aFJwSHRPY2s3dF9mLTNFZTRJbURfSncw?oc=5",
+     "published_at": "2026-11-06T03:14:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "首相「基地負担軽減、目に見える形で」 13年ぶり沖縄政策協議会 [高市早苗首相 自民党総裁]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95VERoeUw5NlRCdWdNb0VHU3pnX3J1MHlmbnFaRloxNjZOTFZTdTJrbS03ekVIOFFWcjBGY2R0bG1hOEtjbHpHWHlzMElGMDRMeWZRcnFGWm8wX2RPZGw0RTJ6d0pUblU?oc=5",
+     "published_at": "2026-11-06T02:35:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "１３年ぶり沖縄政策協議会 首相「基地負担減、目に見える形で」",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XX2ZtN2RaUFJTenczYzc4RUdxbGZTb2s4WFlxcWVCbS1pUEtZYlgtcGNEWkd3SDJGbHhFMUFhYk5ITlJZVDFNQUgyNThRcHpQMi1hYzRjSkpnZU9F?oc=5",
+     "published_at": "2026-11-06T07:30:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "【社説】国と沖縄、13年ぶりの協議会再開 基地負担軽減の具体策を [高市早苗首相 自民党総裁]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SVUJ6NFdJdVJUYWNoN1ZhYi1XcUc5SldwbTBfMUNwalY4TGYzZEpjVUwzTjFkd1pld3psbXdZcHNKaFJWNTlLQ1VPN3BoRzBfMkZxSzJtREY0LXhhaWhPQnB1ZmhZdEE?oc=5",
+     "published_at": "2026-11-06T10:01:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "13年ぶりの沖縄政策協議会 政府は「県政交代」の政治的効果演出へ [高市早苗首相 自民党総裁]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93bldsTGtoMkRPU0p2Z200V1hiOEdUZHl0SmNqTTVvNVhWR2xSZ0Z3eTdPUktELVh0dEk3VkxHSlYzTXhVRW1zZGVhOFZuM2Rvb2FWdnpNWnNZYVNSWFV2T3FBYkFleUU?oc=5",
+     "published_at": "2026-11-06T10:10:38+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "沖縄政策協議会、13年ぶり開催 首相「基地負担軽減に力尽くす」",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBZVN5dmlzMy1zcHVpZk5uMEdMNzdYR0RNUVY4cm5XOVBmYlZCUkZFb3VwTnRhWGpyM21Nckp4ajhwWEgyb0xrYzRQN2p3ajBZTDdUYkwwOWRkdUpHVmtBSzlFbGV1eFhQ?oc=5",
+     "published_at": "2026-11-06T10:15:55+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "首相「基地負担軽減へ力尽くす」 沖縄知事と13年ぶり政策協",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UbDVMVVJvalhkV1ZBWGJCbk1xRXNUYlU3UUxjYkZGMW01REQxRnpnRlUtc2g0OW1yUkk1cWppbG5Cb2xISm9pYW9qM0dlcFExVjZzWGhKR1R0b0REX3pCRmZxblVGSVVr?oc=5",
+     "published_at": "2026-11-06T01:33:34+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "沖縄基地負担減、首相「力尽くす」 13年ぶり政策協議会",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nRTluS21qVXdTRlh6Y0dSemRzOFJnR3ZQX1NKVlREQ1VZYW1GdE84RVp1dmJ5c1FsdGRSaUkwRVZEQnVjNGM1UU13QkNLRGZlYUxjaV9DVVBmUEh2UnZaNk85cGtkRDBR?oc=5",
+     "published_at": "2026-11-06T04:03:13+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "沖縄政策協議会 13年ぶりに開催 首相「負担軽減尽力」",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EQWlmZVdHdmhvb2FXeEhLMlV5MEcxV0Eyb251eHdsNVNpNGdCRmlvQjJBeUhucGt2dXdyUUZwMHlCNjBnbTNxSHo3ckxpai15cy1aZlExTnBUbmZYeTR2TFI4amt5REhy?oc=5",
+     "published_at": "2026-11-06T17:01:32+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "態度一変の政府に冷ややかな視線も 13年ぶりの沖縄政策協議会",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRLVZ1WkpaSGNTODZxRExLZXExbnhMMUpQOWhCNllUN2lKWnBDVWRyMmRMaFhWRW54c2hyeFROUHRpanFTSUlaZ3E2SEk4Z05mNlliUlFEczF0WlVDS2RpRENCVFdYSnpa?oc=5",
+     "published_at": "2026-11-06T11:40:40+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "沖縄政策協議会13年ぶり開催 高市首相「基地負担軽減へ尽力」、振興予算増額の構え",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzk3US1iMHNyNEduQVpKSVluWGhvWENVd3Nzb0RhT3VKX2NhaG5CenhxLVY0Z1ZleGNqTURCSkRxYl9EMk5Rb1Bsc2lIakRySHc0NFd5MF8wMVI0S2hKalQ5OURvSHhVRDRrNnhNWnl5TTA3VFlOZ2lwLVNQS3hfQi11MzZ6Wjcwd0JMaA?oc=5",
+     "published_at": "2026-11-06T05:41:19+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "沖縄政策協議会で発言する古謝玄太沖縄県知事（右から2人目）＝11月6日午前、首相官邸（春名中撮影）",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1ZwM3k2X0tYZ2pobWIxdC1RdXpmeHZ0UENQZngwR0JkcmYxclEtQWkzWkUzcUJhQm9na2tKT0psM3FEX3lKSWRaUkd2Vk8zcWlnYUwtcWdpZU11N1VRcTVlMFYzbHYwU1dZSGNvQkltTE5yZkMtaTBGeXVKem4tZlpjQUxzblhBTUlqdWFSdzVWelltaUp2bkhuZlY5SU1pbWc?oc=5",
+     "published_at": "2026-11-06T05:41:19+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "沖縄・古謝玄太知事、政策協議会は「非常に意義ある」保守県政発足で課題解決へ政府と協力",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jemtkb0pBYXNQYXl6a1RsaFEydHJtZ1JFeUJ5TGpOYUhfc1A0WVk4MzVDakRuWHQ4bG51U1F6WVo0ZWluc3hianowOHpFY2M0MGJGYV9Eblg2NVVaXzhNa0NKcmJ3QVA2dl81eXJ1aFF5SHNrSWc?oc=5",
+     "published_at": "2026-11-06T11:30:00+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "高市首相「強い沖縄経済と基地負担軽減を実現」 13年ぶりに協議会",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBndV9PMmtFd0VGem5xaHUxYTZVU2xORDJBSFFXOWVfOEwyRFZiRFQ1dTgwNko2c3RUZURWRXdvTmdpdk1XQ1k1bmNjQUV2dkdERVRtWC1fcEVYTnpyZlpRMHhPM0VSY24yOTRiMQ?oc=5",
+     "published_at": "2026-11-06T01:24:46+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "高市首相 基地負担軽減“目に見える形で実現”強調 13年ぶり「沖縄政策協議会」で（2026年11月5日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zcnA0ZGFwMnhIYy0yc1Zkak5EaHo1TmMzbGVHX1lRNVRuU0ZOdE5WWkpNNGlKS0pnSlFLaEhNUEpVRHFjakJnSF9tcVRueVl2ZmFVNTI2czJpcEVpdGptdjgzNE80RjRQMURJNnV6WG1TOEhiVUdBVWRhYmJadw?oc=5",
+     "published_at": "2026-11-06T05:14:01+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "全閣僚と古謝知事が出席し13年ぶりに沖縄政策協議会 開催",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zSmFMOUZvNFJqbnFYaFNhcUg1WjFRTjBiQVd5ZVMzNDF6a1Y2S1JHMXFJaEFRXzU0T3J4SkloSW5qVFE1Tll5ckdnQks1TXRDbnpWVEZiUWpNdzJFcnBDS2tYN0g?oc=5",
+     "published_at": "2026-11-06T01:40:00+00:00"
+    }
+   ],
+   "japan_main_count": 2,
+   "japan_main_checked_at": "2026-11-07T01:00:29.345065+00:00"
+  },
+  {
+   "id": "d3687e7e-d6cb-4f25-a143-20f796dfe770",
+   "title_ja": "日米豪印の海上演習マラバール2026が開始",
+   "fact_ja": "米日印豪の4カ国が11月5日、日本南方の太平洋でマラバール2026を開始した。対潜戦・対水上戦の訓練を12日まで行う。",
+   "category": "安全保障",
+   "target": "日米豪印のマラバール演習",
    "judged_count": 0,
-   "first_seen": "2026-11-06T07:32:00+00:00",
-   "updated_at": "2026-11-06T07:32:00+00:00"
+   "first_seen": "2026-11-05T17:09:09+00:00",
+   "updated_at": "2026-11-05T17:09:09+00:00"
+  },
+  {
+   "id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "title_ja": "中国外務省が台湾発言から1年、日本に是正を要求",
+   "fact_ja": "中国外務省の郭嘉昆報道官は11月6日、高市首相の台湾発言から約1年として、日中関係の困難の責任は日本側にあると述べ、発言の是正を求めた。",
+   "category": "外交",
+   "target": "高市首相の台湾発言をめぐる日本の対中姿勢",
+   "judged_count": 7,
+   "first_seen": "2026-11-05T19:16:34+00:00",
+   "updated_at": "2026-11-06T19:17:00+00:00",
+   "judge_version": 2,
+   "read_count": 0,
+   "japan_position_ja": "高市首相は2025年11月7日の国会で、台湾有事で集団的自衛権に基づく自衛隊の対応があり得ると述べた。それをきっかけに中国との対立が続いている。政府は台湾への立場は1972年の日中共同声明のとおりだとしている。",
+   "japan_basis": "japanese_media",
+   "japan_views": [
+    {
+     "outlet": "The Japan Times",
+     "view_ja": "発言から1年となるが、双方が頑なに対立し、関係改善の兆しはほとんどないと伝え、発言の経緯と中国の反発を説明している。"
+    }
+   ],
+   "japan_split": false,
+   "overseas_view_ja": "SCMPは、中国が責任は全面的に日本にあるとし、日本が問題を回避していると批判したと伝え、高市首相のAPEC出席のための訪中予定にも触れている。朝鮮日報は、日本が共同声明の再確認で融和を図ったのに中国が発言そのものの是正を求めて拒んだと伝え、首脳会談の見通しも不透明だとしている。中国の国営・政府系メディアのグローバル・タイムズとCGTNは、高市氏の発言を誤りと断じて日本を非難している。グローバル・タイムズは非核三原則の見直しや軍備拡大にも触れ、日本の軍国主義化を警戒すべきだと主張している。",
+   "search_ja": "高市 台湾発言 1年 中国外務省",
+   "japan_main": [
+    {
+     "outlet": "産経新聞",
+     "title": "中国、台湾有事答弁1年を前に日本批判 「反省と是正に向けた誠意や行動を示していない」",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ051aHZpZHZWYy1Ocy15dkxaSHZuOTdTSTM5ZW5OeEp6SGtBYllmdnNxcWdPNHNqQll3RkNpaUVyWC02c1JZcXBZMjJXY2VfS3A1bENEaHZTTmt1RHZlTkxUOGI3Z2o5UWdtc2E1dzdrekI3aE5UUUQ0LXE5OGtmeVJBa1ZNaDVJMzZ4RA?oc=5",
+     "published_at": "2026-11-06T09:10:49+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "記者会見する中国外務省の郭嘉昆副報道局長＝11月6日、北京（共同）",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEV1QkRzUzRZQnNWXy1RYmxvLWNyZ05ReG1mQnZEY0lvYjlrR2l6NzBtWjN1ZGdObXZVaXE1NDNsQkx5ajA1eDhzbFdEdG5uZkNIV0syYUVMeWIyYlJ1N1ZZVTFPa0M4LU1TVUdBQkhWSWZROVo2UFo2NnpCMUdNWTEtNkV3TjhFMmtoUmZCWDRDX2ZFRTNxYktUOGlNRFI4S0E?oc=5",
+     "published_at": "2026-11-06T09:10:49+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "中国外務省、高市首相の台湾有事答弁の「是正」要求 撤回は言及せず",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Yczl4eHdSaVluS283ajV3b2tfMUlvU3oxdlhWQ0lFd1g2aWRQX3ppTlFxWmlPclhJZUFiMFNVWXZoVzI1VVhpaVBocFMyYS1Ec0Fwb0tPYTdqWkIxV01TSkhQM3VRQks4U1R1UQ?oc=5",
+     "published_at": "2026-11-06T08:13:59+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "“台湾有事発言”あすで1年 中国外務省が改めて批判「反省して、誤りを正す誠意と行動を示していない」",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHRQbVJJd3FaMWgtZW5QdldvcllKTUREWGNmSWlFc3plY19HajlrNDVvckt2a3VvSnBLa0x5b194X25HMGxwQ2pvZGRTRFVYeXlvVXpFWUFMZ1oyRjdFUG5YRjBlYW1UQm9DR0RwS254SUJzTjhVLTFObm43MEZsc1NycTg?oc=5",
+     "published_at": "2026-11-06T10:08:01+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "高市総理“台湾有事発言”から1年 中国政府が改めて日本側を批判「誤った言動速やかに是正を」 APECでの日中首脳会談は厳しい見通し",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CTDIycm9jVWYzWXR2WmlEcGNYTzM2cHFhYXBUVmoyeENmYUF3RGFxT1FibnJEWm9HcGVzSFNOYUlZc1VzdU41LS14Mk9admpGUU5ITUVyUDZmb0p1M3lIRlZVdzRtWjNCem91THI1SW5janhS?oc=5",
+     "published_at": "2026-11-06T10:20:33+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "高市総理の台湾有事めぐる答弁から1年「誤り正していない」中国が改めて撤回要求",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oOU40NkxwUTBzQkJlZ1g2SFYxV1l5WGdaX0VRVjMyUWZRQ1FBRDBmZ2F6LUdmZ2NyUkpSdVFNV1pUQ3VncU9IMDAwS0Rqd3BCa0VwTGd5VTBfaUdQNDZYdlcwNE1WSmRpSTdVd1R0eWpZWjhFYVFPNUVB?oc=5",
+     "published_at": "2026-11-06T09:31:38+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "｢台湾有事｣発言から1年 中国外務省｢責任は日本側に｣",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5faTY2WFIwYzhqNTF4a1ZYUDJlc3Y5djF4WmFRcjlILTFrbHlpR0VBOEtCN0JKZ25kRTN0aDlXLWtiYjdkaHN5Q29jSkRRUQ?oc=5",
+     "published_at": "2026-11-06T22:57:00+00:00"
+    }
+   ],
+   "japan_main_count": 7,
+   "japan_main_checked_at": "2026-11-07T01:00:42.627799+00:00"
+  },
+  {
+   "id": "97223748-c890-42be-a013-98471d574b6e",
+   "title_ja": "金融庁が個人向け海外私募資産商品に慎重な販売を要請",
+   "fact_ja": "金融庁の当局者が、海外の非上場資産などを裏付けとする個人向け商品について、金融機関に慎重な販売を促した。",
+   "category": "経済政策",
+   "target": "金融庁の私募資産商品への対応",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T01:27:00+00:00",
+   "updated_at": "2026-11-06T01:27:00+00:00"
+  },
+  {
+   "id": "c93eb545-74ac-4727-bc81-93bad27f08f3",
+   "title_ja": "警察が指名手配容疑者の捜査強化月間を開始",
+   "fact_ja": "警察は11月1日から、指名手配容疑者の捜査を強化する月間を始め、公式サイトやSNSで情報提供を呼びかけている。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T01:30:12+00:00",
+   "updated_at": "2026-11-06T01:30:12+00:00"
+  },
+  {
+   "id": "5fded5ee-8136-4ba0-8c40-fe9c1654a5d0",
+   "title_ja": "中国商務省がEU・日本産化学品などにダンピング調査",
+   "fact_ja": "中国商務省は11月6日、EU産パラ系アラミド繊維糸と、EUおよび日本産のエチリデンノルボルネンについて反ダンピング調査を開始した。",
+   "category": "経済政策",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T01:33:26+00:00",
+   "updated_at": "2026-11-06T01:33:26+00:00"
+  },
+  {
+   "id": "29d3acd6-7b32-4eb3-8dc4-15ab898698fd",
+   "title_ja": "日本製紙が熊本の被災工場で生産を終了",
+   "fact_ja": "日本製紙は11月6日、7月の熊本の地震で被災した八代工場での印刷用紙とパルプの生産を終了すると発表した。",
+   "category": "企業・産業",
+   "target": "日本製紙の八代工場生産終了",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T02:30:00+00:00",
+   "updated_at": "2026-11-06T02:30:00+00:00"
+  },
+  {
+   "id": "5b0b3873-b026-4b8e-9e30-b209f4c235f8",
+   "title_ja": "経産省が中部電力に業務改善を求める",
+   "fact_ja": "経産省は11月6日、浜岡原発の再稼働審査での地震データ不正を受け、中部電力に再発防止などを含む業務改善計画の提出を求めた。",
+   "category": "エネルギー・資源",
+   "target": "中部電力のデータ不正への対応",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T02:52:00+00:00",
+   "updated_at": "2026-11-06T02:52:00+00:00"
+  },
+  {
+   "id": "45f5a7eb-f329-49a6-b67e-a4a2df3c3c49",
+   "title_ja": "日越関係の深化と人権・労働権問題が焦点に",
+   "fact_ja": "ベトナムのト・ラム大統領が日曜から4日間訪日する予定で、高市首相にはベトナムの労働権をめぐる約束履行への対応が求められている。",
+   "category": "外交",
+   "target": "日本のベトナム関係と労働権問題への対応",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T04:00:12+00:00",
+   "updated_at": "2026-11-06T04:00:12+00:00"
+  },
+  {
+   "id": "ebae9ed7-f4b8-4c1f-9031-69d83cf8a5f4",
+   "title_ja": "アニメ観光が人口減少地域の活性化に寄与",
+   "fact_ja": "アニメ・漫画ファンが各地を訪れ、人口減少に悩む自治体に観光客や移住者をもたらしている。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T05:56:00+00:00",
+   "updated_at": "2026-11-06T05:56:00+00:00"
+  },
+  {
+   "id": "407b70ef-aa0b-48f0-9d58-a8e7b3987e0e",
+   "title_ja": "トヨタとWaymo、日本で2027年に自動運転タクシー導入",
+   "fact_ja": "トヨタは自動運転配車のWaymoと提携し、bZ4Xベースの自動運転車を2027年に日本で投入する。愛知県の高岡工場で生産する。",
+   "category": "企業・産業",
+   "target": "トヨタとWaymoの自動運転提携",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T06:29:00+00:00",
+   "updated_at": "2026-11-06T06:29:00+00:00"
+  },
+  {
+   "id": "fe58296a-2029-4f4d-b734-fe2393984ff9",
+   "title_ja": "政府が人口減少対策の有識者会議を初開催",
+   "fact_ja": "政府は少子化の反転と人口減少下の社会経済システムの再構築に向けた有識者会議を初めて開き、木内経済財政相が出席した。",
+   "category": "社会政策",
+   "target": "政府の人口減少対策",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T11:58:00+00:00",
+   "updated_at": "2026-11-06T11:58:00+00:00"
+  },
+  {
+   "id": "96e29e7a-b491-49c0-8a2f-2fe159546879",
+   "title_ja": "東京沖でM6.1の地震、津波警報なし",
+   "fact_ja": "関東沖の浅い場所でM6.1の地震が発生し、気象庁は津波警報を出さなかった。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T12:18:03+00:00",
+   "updated_at": "2026-11-06T18:41:00+00:00"
+  },
+  {
+   "id": "c7ceea9a-243b-4fce-b82b-5218e470edd1",
+   "title_ja": "在沖米軍が夜間外出禁止を1カ月延長",
+   "fact_ja": "沖縄の米軍が外出禁止措置を1カ月延長したと日本の報道が伝えた。",
+   "category": "安全保障",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T13:10:00+00:00",
+   "updated_at": "2026-11-06T17:36:00+00:00"
+  },
+  {
+   "id": "c1e21263-0dc7-436d-a120-8ef86c598045",
+   "title_ja": "北日本の解体現場で一酸化炭素中毒の疑い、10人搬送",
+   "fact_ja": "北日本の解体現場で一酸化炭素中毒の疑いにより10人が病院に搬送された。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T13:13:00+00:00",
+   "updated_at": "2026-11-06T13:13:00+00:00"
+  },
+  {
+   "id": "a161134b-295e-4071-8ea8-e1674559974c",
+   "title_ja": "ソニーが有線ヘッドホンMDR-3Rを発売",
+   "fact_ja": "ソニーは1979年の初代ウォークマン付属品に着想を得た60ドルの有線ヘッドホンMDR-3Rを発表した。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T13:34:44+00:00",
+   "updated_at": "2026-11-06T13:34:44+00:00"
+  },
+  {
+   "id": "a6f0577a-e533-4840-ab43-56bdfd00f4e2",
+   "title_ja": "南ア代表デュ・トイ選手がトヨタヴェルブリッツを退団",
+   "fact_ja": "南アフリカ代表のデュ・トイ選手が契約の早期解除を申し出て、トヨタヴェルブリッツを即日退団した。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T14:10:23+00:00",
+   "updated_at": "2026-11-06T14:13:06+00:00"
+  },
+  {
+   "id": "984fdb34-8eb0-4638-ad43-219f0e11fa53",
+   "title_ja": "TCSとサストラが日本IT市場向け人材育成センターを開設",
+   "fact_ja": "インドのTCSとサストラが、日本のIT市場で働く学生を育成するセンターを立ち上げた。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T14:51:00+00:00",
+   "updated_at": "2026-11-06T14:51:00+00:00"
+  },
+  {
+   "id": "50658e42-d7e6-4c9e-bfee-04a5af2b1e9b",
+   "title_ja": "トヨタがドイツで商用車などに年末割引",
+   "fact_ja": "トヨタはドイツで年末まで軽商用車に最大35%、一部の電動車に最大7600ユーロの割引を実施する。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T14:55:29.098000+00:00",
+   "updated_at": "2026-11-06T14:55:29.098000+00:00"
+  },
+  {
+   "id": "6883063c-4f8f-469f-b38b-9fe7cc74df50",
+   "title_ja": "パナソニックが中国国際輸入博覧会に出展",
+   "fact_ja": "パナソニックが中国国際輸入博覧会で、中国の産業高度化を成長に生かす方針を示した。",
+   "category": "企業・産業",
+   "target": "パナソニックの中国事業戦略",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T17:30:00+00:00",
+   "updated_at": "2026-11-06T17:30:00+00:00"
+  },
+  {
+   "id": "727b08af-4d38-409a-85aa-e769328c3ef4",
+   "title_ja": "ウクライナ国防相が小泉防衛相と会談",
+   "fact_ja": "ウクライナの国防相が小泉防衛相と安全保障情勢や長期的な防衛パートナーシップについて協議し、日本の支援に謝意を示した。",
+   "category": "安全保障",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T18:01:00+00:00",
+   "updated_at": "2026-11-06T18:01:00+00:00"
+  },
+  {
+   "id": "1a3c1ff3-de2f-4079-add0-a5c086551b5f",
+   "title_ja": "入国記録に法令順守の意思を問う項目を追加する案",
+   "fact_ja": "出入国在留管理庁が、入国記録に「日本の法令を順守する意思があるか」を問う項目を加える省令改正案のパブリックコメントを実施している。2027年1月の施行を想定している。",
+   "category": "社会政策",
+   "target": "入国記録への法令順守の質問追加",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T18:40:54+00:00",
+   "updated_at": "2026-11-06T18:40:54+00:00"
+  },
+  {
+   "id": "324f70a0-246a-4b08-8aa0-af9c60ca1e0f",
+   "title_ja": "日本発着クルーズ市場の拡大と国内運航船の動向",
+   "fact_ja": "ディズニークルーズ船の就航計画や那覇港のターミナル着工など、日本発着クルーズへの関心が高まっている。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T23:00:00+00:00",
+   "updated_at": "2026-11-06T23:00:00+00:00"
   }
  ],
  "articles": [
@@ -18794,10 +19631,10 @@
    "id": "4d17119a-86dc-4370-b75e-1a787cc76b09",
    "fetched_at": "2026-09-29T02:37:08.907179+00:00",
    "event_id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
-   "summary_ja": "首相が中朝露の動向を挙げ、スパイ防止法と対外情報機関を推進。国民監視への懸念も併記。",
-   "angle": "監視強化の懸念",
+   "summary_ja": "首相が中朝ロの動向を挙げ、スパイ防止法と対外情報機関の創設を強調。監視強化への懸念にも触れた。",
+   "angle": "政府方針と監視懸念",
    "tone": "neu",
-   "evidence": "政府権限が大きくなるほど国民監視が強まる懸念（본문: 국민 감시가 강화될 수 있다는 우려）",
+   "evidence": "정부 권한이 커질수록 국민 감시가 강화될 수 있다는 우려",
    "processed_at": "2026-09-29T02:38:17.800982+00:00",
    "relevant": true,
    "basis": "body"
@@ -19285,8 +20122,8 @@
    "id": "db4b4854-e82e-45ce-9559-cc7614b9e2c0",
    "fetched_at": "2026-09-29T02:59:43.556324+00:00",
    "event_id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
-   "summary_ja": "首相が有識者会議を始動し、情報力強化は急務と述べた。日本版CIAを視野に入れる。",
-   "angle": "情報力強化の始動",
+   "summary_ja": "17人の有識者会議が初会合。首相は情報力強化を急務と述べ、地政学的課題を理由に挙げた。",
+   "angle": "初会合と首相発言",
    "tone": "neu",
    "evidence": "Strengthening Japan’s intelligence capabilities is an urgent priority",
    "processed_at": "2026-09-29T03:01:43.615663+00:00",
@@ -30248,7 +31085,7 @@
    "id": "02a534f2-8d5f-47f6-8002-558bd76b9894",
    "fetched_at": "2026-10-07T03:56:36.324654+00:00",
    "event_id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
-   "summary_ja": "日本が新たな情報機関で表舞台に出るとの見出し。本文なし。",
+   "summary_ja": "日本が新たな情報機関で表舞台に出るという見出しの記事。本文はなし。",
    "angle": "新情報機関の創設",
    "tone": "none",
    "evidence": "",
@@ -30282,8 +31119,8 @@
    "id": "4c05fa5a-9f1c-4fae-906d-5680e3430b4a",
    "fetched_at": "2026-10-07T03:56:36.324843+00:00",
    "event_id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
-   "summary_ja": "中国との緊張が高まる中、日本が独自の情報機関を築くと伝える。",
-   "angle": "対中緊張が背景",
+   "summary_ja": "対中緊張が高まるなか、日本が独自の情報機関を整備するという見出しの記事。",
+   "angle": "対中緊張との関連",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-07T03:57:56.820854+00:00",
@@ -30316,8 +31153,8 @@
    "id": "38aa73a5-f48b-4d72-9148-c9e27b0e7b82",
    "fetched_at": "2026-10-07T03:56:36.325027+00:00",
    "event_id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
-   "summary_ja": "日本が情報活動の体制を大きく見直すとの見出し。本文なし。",
-   "angle": "情報体制の刷新",
+   "summary_ja": "日本が情報活動を大幅に見直すという見出しの記事。本文はなし。",
+   "angle": "情報活動の見直し",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-07T03:57:56.820854+00:00",
@@ -30333,7 +31170,7 @@
    "id": "0f53f6da-f7f9-4996-a900-fbc8f8021909",
    "fetched_at": "2026-10-07T03:56:36.325125+00:00",
    "event_id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
-   "summary_ja": "日本の情報機関と中国を扱うポッドキャスト。内容の手がかりなし。",
+   "summary_ja": "日本の情報機関と中国を扱うポッドキャスト。見出しのみ。",
    "angle": "情報機関と中国",
    "tone": "none",
    "evidence": "",
@@ -33800,7 +34637,7 @@
    "id": "ff193e9e-d0d8-4729-a939-1e5948f5eb57",
    "fetched_at": "2026-10-10T00:43:54.110696+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "日本の内閣が、初の食料品消費税減税法案を承認したと伝える。",
+   "summary_ja": "日本の閣議が、食料品の消費税を初めて引き下げる法案を承認した。",
    "angle": "閣議決定",
    "tone": "none",
    "evidence": "",
@@ -34244,10 +35081,10 @@
    "id": "15298c29-c59f-48f8-99f7-1bb360b13ca5",
    "fetched_at": "2026-10-10T00:43:56.766194+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "政府が減税法案を国会に提出。経済への利点とリスク、他策との比較が来週論点になると伝える。",
+   "summary_ja": "政府が減税法案を国会に提出し、経済への利点とリスクや他の施策との比較が議論される見通し。",
    "angle": "法案提出と論点",
    "tone": "neu",
-   "evidence": "merits and risks to the economy",
+   "evidence": "intense discussions ... over its merits and risks to the economy",
    "processed_at": "2026-10-10T00:47:01.628419+00:00",
    "relevant": true,
    "basis": "body"
@@ -35088,7 +35925,7 @@
    "id": "89ab65e7-b8fa-42df-ab95-0bdafb68c332",
    "fetched_at": "2026-10-11T00:12:45.351973+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "高市首相が、減税で1人あたり約3万6千円の負担軽減になると説明したと伝える。",
+   "summary_ja": "高市首相は、減税で国民1人当たり約3万6千円の負担軽減になると説明した。",
    "angle": "首相の説明",
    "tone": "neu",
    "evidence": "expected to reduce household financial burdens by about ¥36,000",
@@ -43050,10 +43887,10 @@
    "id": "a9a3f78a-b2ad-4ca6-bf9a-eb632522cb6c",
    "fetched_at": "2026-10-17T23:02:38.090580+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "IMF高官が一時的な減税を歓迎しつつ、財政悪化への警戒も示したと伝える。",
+   "summary_ja": "IMF幹部が一時的な減税を歓迎しつつ、財政悪化への警戒も示した。",
    "angle": "IMFの評価",
-   "tone": "fav",
-   "evidence": "“a very welcome step.”",
+   "tone": "neu",
+   "evidence": "“a very welcome step.” Still, he warned against fiscal deterioration",
    "processed_at": "2026-10-17T23:05:47.175747+00:00",
    "relevant": true,
    "basis": "body"
@@ -46915,10 +47752,10 @@
    "id": "80af0e08-c46f-4e51-b8c0-53e6dd69ec5b",
    "fetched_at": "2026-10-20T23:48:31.730889+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "国会で審議が始まり、野党が物価高対策の代替案を示したと伝える。",
-   "angle": "審議入りと野党案",
+   "summary_ja": "国会で審議が始まり、野党が物価高対策の代替案を示した。",
+   "angle": "審議入り",
    "tone": "neu",
-   "evidence": "opposition parties proposed alternative ways",
+   "evidence": "opposition parties proposed alternative ways to combat rising prices",
    "processed_at": "2026-10-20T23:51:46.195341+00:00",
    "relevant": true,
    "basis": "body"
@@ -48980,10 +49817,10 @@
    "id": "7d745041-ba0e-40e3-baed-19d014728dec",
    "fetched_at": "2026-10-22T23:57:50.987724+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "物価下落効果や10兆円の財源、元に戻せるかなど多くの疑問を挙げ、首相の固執を問う。",
+   "summary_ja": "物価下落効果、10兆円の財源、2年後の元に戻す約束に疑問が出ていると伝える。",
    "angle": "効果と財源の疑問",
    "tone": "crit",
-   "evidence": "물가 하락 효과가 있을지, 10조엔 ... 어찌 조달할지",
+   "evidence": "물가 하락 효과가 있을지, 10조엔 ... 재원을 어찌 조달할지 논란",
    "processed_at": "2026-10-23T00:01:38.518893+00:00",
    "relevant": true,
    "basis": "body"
@@ -52411,8 +53248,8 @@
    "id": "80b54634-a73a-4631-a578-f9ccb5e88971",
    "fetched_at": "2026-10-25T23:11:17.891443+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "野党が給付の詳細不足を指摘し、首相自身の説明を求めたと伝える。",
-   "angle": "給付の詳細不足",
+   "summary_ja": "野党が給付制度の詳細不足を指摘し、首相自身の説明を求めた。",
+   "angle": "詳細不足の追及",
    "tone": "crit",
    "evidence": "lack of details about a planned benefit program",
    "processed_at": "2026-10-25T23:14:39.973101+00:00",
@@ -53767,10 +54604,10 @@
    "id": "27d6b84b-19c3-43d5-9e39-39956f79244b",
    "fetched_at": "2026-10-27T00:23:38.301443+00:00",
    "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
-   "summary_ja": "情報流出が相次ぐ中、政府がサイバー対策の閣僚会議を開き、首相が対策強化を表明した。",
-   "angle": "政府の対応",
+   "summary_ja": "情報流出が相次ぐ中、首相が閣僚会議後に状況は深刻と述べ、対策強化を急ぐ考えを示した。",
+   "angle": "政府の緊急対応",
    "tone": "neu",
-   "evidence": "We must urgently strengthen our countermeasures",
+   "evidence": "The situation is serious",
    "processed_at": "2026-10-27T00:27:58.512883+00:00",
    "relevant": true,
    "basis": "body"
@@ -55329,10 +56166,10 @@
    "id": "c900ad83-01ed-4638-8050-15f53e3bc75c",
    "fetched_at": "2026-10-28T00:28:23.933480+00:00",
    "event_id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
-   "summary_ja": "外国政府のためのロビー活動者に登録を求める案や、干渉への罰則を検討していると伝える。",
-   "angle": "外国代理人登録",
+   "summary_ja": "外国政府のために働く人の登録制や、秘密裏の干渉への罰則を新法に盛る案を検討していると伝えた。",
+   "angle": "外国代理人登録制",
    "tone": "neu",
-   "evidence": "requiring people who lobby on behalf of foreign governments to register",
+   "evidence": "people acting on behalf of foreign governments would have to register",
    "processed_at": "2026-10-29T00:50:50.978567+00:00",
    "relevant": true,
    "basis": "body"
@@ -55725,10 +56562,10 @@
    "id": "a14c56f5-4fee-4a74-95d4-c77e4d43c308",
    "fetched_at": "2026-10-29T00:48:14.085856+00:00",
    "event_id": "b789ee04-cc05-4e2a-9d8d-3dbc9154ba6d",
-   "summary_ja": "米中間選挙後の政治的膠着で米国のアジア関与が薄れかねないとして、日本が備えていると伝える。",
-   "angle": "米国の関心低下",
+   "summary_ja": "中間選挙後の政治対立で米政権の関心が外交からそれる恐れがあり、日本は備えを進めていると分析家の見方を伝える。",
+   "angle": "米政権の外交空白",
    "tone": "crit",
-   "evidence": "more unpredictable ally; risk diverting the White House’s attention",
+   "evidence": "more unpredictable ally; risk diverting the White House’s attention from foreign policy",
    "processed_at": "2026-10-29T00:55:42.102491+00:00",
    "relevant": true,
    "basis": "headline"
@@ -62220,10 +63057,10 @@
    "id": "824d1000-2ce6-4e63-adb5-aeea32527a18",
    "fetched_at": "2026-11-02T00:36:45.737662+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "与党は衆院採決を目指し、野党は首相の委員会出席を求めていると伝える。",
-   "angle": "採決日程の攻防",
+   "summary_ja": "与党が今週の衆院採決を目指す中、野党は首相の委員会出席を求めている。",
+   "angle": "採決への攻防",
    "tone": "neu",
-   "evidence": "seeks to pass the prime minister’s signature consumption tax bill",
+   "evidence": "Opposition parties are demanding that Prime Minister Sanae Takaichi attend",
    "processed_at": "2026-11-02T00:38:36.207359+00:00",
    "relevant": true,
    "basis": "body"
@@ -64627,10 +65464,10 @@
    "id": "e5961d85-031a-43b6-ac31-945487a79aa4",
    "fetched_at": "2026-11-05T01:25:39.943430+00:00",
    "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
-   "summary_ja": "日本政府は米AI企業などに未公開の脆弱性情報の早期提供を求める方針と報道。",
-   "angle": "サイバー防御強化",
+   "summary_ja": "日経報道として、日本が米AI企業などに未公開の脆弱性情報の早期提供を求める方針だと伝えた。",
+   "angle": "脆弱性情報の入手",
    "tone": "neu",
-   "evidence": "strengthen defences against rising cyberattacks",
+   "evidence": "seek earlier access to information on undisclosed software vulnerabilities",
    "processed_at": "2026-11-06T01:33:27.389121+00:00",
    "relevant": true,
    "basis": "body"
@@ -65269,7 +66106,7 @@
    "id": "d41615ed-ef17-438d-882e-dc92d9eb4f58",
    "fetched_at": "2026-11-05T01:26:38.110098+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "調査で、減税分の使い道は貯蓄が25.7%で最多だったと伝える。",
+   "summary_ja": "調査では、減税で浮いた分を貯蓄に回すとの回答が最多だった。",
    "angle": "使い道の調査",
    "tone": "none",
    "evidence": "",
@@ -65286,10 +66123,10 @@
    "id": "4a216055-d0d6-4530-a088-4a74d6bbd2f6",
    "fetched_at": "2026-11-05T01:26:38.112003+00:00",
    "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
-   "summary_ja": "国民民主の玉木代表が現状では賛成不可能と述べ、党内も賛否が割れていると伝える。",
-   "angle": "国民民主の態度",
+   "summary_ja": "国民民主の玉木代表は、現状の法案では賛成は不可能との考えを示した。",
+   "angle": "国民民主の姿勢",
    "tone": "crit",
-   "evidence": "“impossible in its current form.”",
+   "evidence": "“impossible in its current form”",
    "processed_at": "2026-11-06T01:31:56.722095+00:00",
    "relevant": true,
    "basis": "body"
@@ -65658,10 +66495,10 @@
    "id": "b812d288-a7d0-4313-88a4-afa0cebe9009",
    "fetched_at": "2026-11-05T01:26:38.783876+00:00",
    "event_id": "b789ee04-cc05-4e2a-9d8d-3dbc9154ba6d",
-   "summary_ja": "選挙で苦戦したトランプ氏が中国やロシアに接近する懸念と、防衛費圧力への日本政府の警戒を伝える。",
-   "angle": "対中露接近の懸念",
+   "summary_ja": "中間選挙で苦戦した大統領が中ロに接近し日本が置き去りになる事態を、日本政府が警戒していると伝える。",
+   "angle": "中ロ接近への警戒",
    "tone": "crit",
-   "evidence": "leaving Japan vulnerable to his unpredictable foreign policy",
+   "evidence": "Tokyo cannot rule out the possibility; Japan vulnerable to his unpredictable foreign policy",
    "processed_at": "2026-11-06T01:31:56.722095+00:00",
    "relevant": true,
    "basis": "body"
@@ -66225,10 +67062,10 @@
    "id": "55e3e3a3-2807-4fca-a4eb-ef152ee8bb74",
    "fetched_at": "2026-11-06T01:30:11.892566+00:00",
    "event_id": "b789ee04-cc05-4e2a-9d8d-3dbc9154ba6d",
-   "summary_ja": "民主党大勝を受け、日本が安保・貿易・市場への影響に不安を抱く様子を、政府の説明や識者の多様な見方とともに伝える。",
-   "angle": "日本の不安と備え",
-   "tone": "crit",
-   "evidence": "leaves Japan jittery; dangerous vacuum in Indo-Pacific deterrence",
+   "summary_ja": "民主党大勝で日本は不安を抱く一方、政府は同盟の不変を強調。識者は外交の多角化を促し、予測不能性を抑止とみる声も紹介する。",
+   "angle": "同盟と多角化",
+   "tone": "neu",
+   "evidence": "Japan insists the alliance remains unshakeable; “His unpredictability itself is deterrence,”",
    "processed_at": "2026-11-06T01:35:14.396468+00:00",
    "relevant": true,
    "basis": "body"
@@ -66478,8 +67315,8 @@
    "id": "1928ee24-d804-4751-80e4-309dbe696b7b",
    "fetched_at": "2026-11-06T01:30:13.339205+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "モスクワがJTインターナショナルのロシア資産を管理下に置いた。",
-   "angle": "資産の接収",
+   "summary_ja": "モスクワがJTインターナショナルのロシア資産の管理権を掌握したと、大統領令を根拠に伝えた。",
+   "angle": "大統領令の事実",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-11-06T01:38:24.314821+00:00",
@@ -66495,8 +67332,8 @@
    "id": "3a0e83f7-4934-4687-9ace-504f728c6174",
    "fetched_at": "2026-11-06T01:30:13.339782+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "プーチン大統領が大統領令でJTのロシア生産拠点を外部管理に移した。",
-   "angle": "資産の接収",
+   "summary_ja": "ロシア報道を引用し、JTの生産設備の株式が「インダストリアル・アセッツ」の外部管理に移されたと伝えた。",
+   "angle": "ロシア報道の引用",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-11-06T01:38:24.314821+00:00",
@@ -66546,8 +67383,8 @@
    "id": "42819014-034e-4b73-88b4-d9c7d11c0084",
    "fetched_at": "2026-11-06T01:30:13.341438+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "JT関連のロシア工場4か所が大統領令で一時的にロシア企業の管理下に入った。",
-   "angle": "資産の接収",
+   "summary_ja": "日本メディアを引用し、JT関連のロシア国内4工場がロシア企業の一時管理下に置かれたと伝えた。",
+   "angle": "日本報道の引用",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-11-06T01:38:24.314821+00:00",
@@ -66563,8 +67400,8 @@
    "id": "4155a6c4-aaba-4ad5-8361-df48fb5a727a",
    "fetched_at": "2026-11-06T01:30:13.342051+00:00",
    "event_id": "c190a0d7-587a-4052-b777-4abbfee48d24",
-   "summary_ja": "高市首相が沖縄政策協議会で、基地負担軽減を目に見える形で実現すると述べた。",
-   "angle": "基地負担軽減",
+   "summary_ja": "高市首相が沖縄政策協議会で、米軍基地の負担軽減を「目に見える形」で実現すると述べたと日本メディアを引用して伝えた。",
+   "angle": "首相の表明",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-11-06T01:39:24.362763+00:00",
@@ -66580,8 +67417,8 @@
    "id": "2d41d8b3-3024-47fa-ab19-c903bf369aba",
    "fetched_at": "2026-11-06T01:30:13.342617+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "プーチン大統領が日本企業の資産を一時的な管理下に置いた。",
-   "angle": "資産の管理",
+   "summary_ja": "プーチン大統領が日本企業の資産を一時的な管理下に置いたと簡潔に伝えた。",
+   "angle": "大統領令の事実",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-11-06T01:39:24.362763+00:00",
@@ -67338,6 +68175,1578 @@
    "tone": "crit",
    "evidence": "facing growing criticism over its handling; response has consistently been reactive and too slow",
    "processed_at": "2026-11-06T01:35:14.396468+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/business/japan-urges-russia-to-return-control-of-japan-tobacco-assets-cfe0723e?mod=rss_worldnews",
+   "title": "Moscow Seizes Japan Tobacco’s Russia Factories",
+   "published_at": "2026-11-06T06:47:00+00:00",
+   "kind": "news",
+   "id": "ab48e410-96d6-4b00-9105-ec94d80688b2",
+   "fetched_at": "2026-11-07T00:51:05.874615+00:00",
+   "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
+   "summary_ja": "ウクライナを巡り西側企業を狙うロシアの手法の一環で、日本への懲罰でもあると位置づけた。",
+   "angle": "対日報復の構図",
+   "tone": "crit",
+   "evidence": "punishing Tokyo; Russian pattern of targeting Western firms",
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/asia/japan-cybersecurity-package-hacking-attacks-6531921",
+   "title": "Japan launches emergency cybersecurity package after wave of attacks",
+   "published_at": "2026-11-06T16:47:00+00:00",
+   "kind": "news",
+   "id": "6445644c-ce97-423d-bb3f-2806bfc6ec73",
+   "fetched_at": "2026-11-07T00:51:07.131288+00:00",
+   "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
+   "summary_ja": "ハッキング急増を受け、日本が緊急対策パッケージを始動したと伝え、首相の発言を引用した。",
+   "angle": "緊急対策の発表",
+   "tone": "neu",
+   "evidence": "launched a multimillion-dollar emergency policy package",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/east-asia/japan-tokyo-quake-kanto-region-6531296",
+   "title": "Magnitude-6.1 quake hits off Tokyo, no tsunami alert issued",
+   "published_at": "2026-11-06T12:54:00+00:00",
+   "kind": "news",
+   "id": "1fdd8277-7c96-4094-a572-36de86d6ba55",
+   "fetched_at": "2026-11-07T00:51:07.131686+00:00",
+   "event_id": "96e29e7a-b491-49c0-8a2f-2fe159546879",
+   "summary_ja": "東京沖でM6.1の地震があり、津波警報は出なかった。",
+   "angle": "地震の概要",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/asia/anime-manga-pop-culture-tourism-japan-communities-6526746",
+   "title": "How anime tourism is helping breathe new life into Japan's shrinking towns",
+   "published_at": "2026-11-06T05:56:00+00:00",
+   "kind": "news",
+   "id": "931613e0-db97-45d0-8ed1-d9d44635555e",
+   "fetched_at": "2026-11-07T00:51:07.132065+00:00",
+   "event_id": "ebae9ed7-f4b8-4c1f-9031-69d83cf8a5f4",
+   "summary_ja": "アニメ観光が人口減少に悩む地方の町に新たな機会をもたらしている。",
+   "angle": "アニメ観光",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/business/boj-chief-ueda-sees-some-upside-risks-inflation-6532056",
+   "title": "BOJ chief Ueda sees 'some upside risks' to inflation",
+   "published_at": "2026-11-06T17:25:32+00:00",
+   "kind": "news",
+   "id": "2c8b1484-41b4-4a1f-bd76-9d8fafb71b1e",
+   "fetched_at": "2026-11-07T00:51:07.132441+00:00",
+   "event_id": "5b213d22-d92b-45fb-a1aa-289dc320196e",
+   "summary_ja": "植田総裁がIMFのセミナーで、基調的物価は2%近辺で推移しつつ上振れリスクもあると述べた。",
+   "angle": "物価見通し",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/business/bojs-ueda-says-japan-could-do-well-ai-replacing-labor-given-existing-shortages-6532026",
+   "title": "BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages",
+   "published_at": "2026-11-06T17:05:18+00:00",
+   "kind": "news",
+   "id": "a9296354-4189-45f8-9cd0-fc6c520ea6d6",
+   "fetched_at": "2026-11-07T00:51:07.132820+00:00",
+   "event_id": "5b213d22-d92b-45fb-a1aa-289dc320196e",
+   "summary_ja": "植田日銀総裁がIMF主催の場で、AIによる労働代替は人手不足の日本に好都合と述べた。",
+   "angle": "AIと人手不足",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/sport/springbok-stalwart-du-toit-leave-japanese-club-immediate-effect-6531551",
+   "title": "Springbok stalwart Du Toit to leave Japanese club with immediate effect",
+   "published_at": "2026-11-06T14:10:23+00:00",
+   "kind": "news",
+   "id": "8c7a5dfc-37e8-4c50-81d4-e9cd909510b4",
+   "fetched_at": "2026-11-07T00:51:07.133216+00:00",
+   "event_id": "a6f0577a-e533-4840-ab43-56bdfd00f4e2",
+   "summary_ja": "南ア代表デュ・トイ選手がトヨタヴェルブリッツを即日退団する。",
+   "angle": "退団の理由",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3373555/japan-deploys-ai-specialist-teams-counter-cyberattack-wave",
+   "title": "Japan deploys AI, specialist teams to counter cyberattack wave",
+   "published_at": "2026-11-06T09:37:42+00:00",
+   "kind": "news",
+   "id": "add31f7a-a95d-46ee-891d-bceafe75f1b8",
+   "fetched_at": "2026-11-07T00:51:10.501752+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373470/growing-vietnam-ties-test-japans-commitment-rules-based-regional-order",
+   "title": "Growing Vietnam ties test Japan’s commitment to rules-based regional order",
+   "published_at": "2026-11-06T04:00:12+00:00",
+   "kind": "news",
+   "id": "099cef00-a263-431f-ad47-f1d0c76a2b7b",
+   "fetched_at": "2026-11-07T00:51:10.502086+00:00",
+   "event_id": "45f5a7eb-f329-49a6-b67e-a4a2df3c3c49",
+   "summary_ja": "ベトナムとの関係深化が、日本の規範重視の姿勢を試していると論じる。",
+   "angle": "人権と戦略",
+   "tone": "crit",
+   "evidence": "putting Tokyo’s commitment to a rules-based regional order under scrutiny",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3373478/post-us-midterms-ai-worries-pummel-shares-japan-south-korea",
+   "title": "Post-US midterms AI worries pummel shares in Japan, South Korea",
+   "published_at": "2026-11-06T02:31:40+00:00",
+   "kind": "news",
+   "id": "33979bca-08d8-47b2-a305-2543dd07a481",
+   "fetched_at": "2026-11-07T00:51:10.502420+00:00",
+   "event_id": "6cce8aa0-e70f-4ddd-acec-e1b45b9c85c1",
+   "summary_ja": "米中間選挙後のAI投資懸念で日韓の株価が急落した。",
+   "angle": "株価急落",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/week-asia/people/article/3373382/how-japans-660-most-wanted-stay-hidden-slums-day-labour-and-forged-ids",
+   "title": "How Japan’s 660 most wanted stay hidden: slums, day labour and forged IDs",
+   "published_at": "2026-11-06T01:30:12+00:00",
+   "kind": "news",
+   "id": "91dd5551-4916-4046-a443-18c1a9b6a0f7",
+   "fetched_at": "2026-11-07T00:51:10.502753+00:00",
+   "event_id": "c93eb545-74ac-4727-bc81-93bad27f08f3",
+   "summary_ja": "警察の捜査強化月間を機に、指名手配犯が長年潜伏できる実態を分析。",
+   "angle": "潜伏の実態",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373577/tokyo-still-dodging-issue-year-takaichi-row-beijing-says",
+   "title": "Tokyo still ‘dodging the issue’ a year on from Takaichi row, Beijing says",
+   "published_at": "2026-11-06T11:22:41+00:00",
+   "kind": "news",
+   "id": "f5326239-af94-46b0-a190-82b35279c777",
+   "fetched_at": "2026-11-07T00:51:10.503387+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "北京は発言から1年、東京が問題を回避し続けていると述べ、責任は日本にあると主張した。",
+   "angle": "中国の責任追及",
+   "tone": "neu",
+   "evidence": "controversial comments about Taiwan",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/motor/news/article6aedea601d9d38d6d601b866/toyota-mit-rabattaktion.html",
+   "title": "Toyota mit Rabattaktion",
+   "published_at": "2026-11-06T14:55:29.098000+00:00",
+   "kind": "news",
+   "id": "1e45a0ae-6155-4c8c-a6c3-be67b62c4749",
+   "fetched_at": "2026-11-07T00:51:12.857945+00:00",
+   "event_id": "50658e42-d7e6-4c9e-bfee-04a5af2b1e9b",
+   "summary_ja": "トヨタがドイツで年末まで商用車などの割引キャンペーンを実施。",
+   "angle": "販売割引",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/regionales/hamburg/article6ae8430fa68c18ce70cdb8b8/konzert-in-hamburg-grosse-show-zum-tourauftakt-von-tokio-hotel-in-deutschland.html",
+   "title": "Konzert in Hamburg: Große Show zum Tourauftakt von Tokio Hotel in Deutschland",
+   "published_at": "2026-11-06T10:49:56.100000+00:00",
+   "kind": "news",
+   "id": "9bd80653-6d7d-4401-8ef2-211a9ab86219",
+   "fetched_at": "2026-11-07T00:51:12.858233+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Spielfilm-Godzilla-Minus-Zero/!6227436/",
+   "title": "Spielfilm „Godzilla Minus Zero“: Das Drachenwesen liebt Gewitter",
+   "published_at": "2026-11-06T16:59:00+00:00",
+   "kind": "news",
+   "id": "76eaca46-811a-47ff-8fd5-07b8dd995acc",
+   "fetched_at": "2026-11-07T00:51:15.658544+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "tagesschau",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUjlDemRzMVIxR20yUlBRenNWS1VXUC1WaDhGOFExZE1GeHJtOFY1ZEZRbDU1cTI5ZUJvT0RTQ3Jac05LU1BxZGVZVm42aFNQX1F3RktTZzVVTjZwVVpuLWx4OUV4UndnaXJFUnZ6dW9qaS05b1lMZTllaGVoeWRNSHQ5eklMRkNBTFdsblpQTEZqTUlYaXI2czBfM2Q3WnhWRkNXVWNKVEpfZ3V0M0MwcmlqckZja3ZUcVFGWHlkem5rWEpBTDFjV3dRbw?oc=5",
+   "title": "Hessen: Tokio Hotel in Frankfurt: Ein \"Zuviel\" gibt es bei diesem Konzert nicht",
+   "published_at": "2026-11-06T07:41:00+00:00",
+   "kind": "news",
+   "id": "bddbe793-e03a-401f-bd18-4d945cb2c42c",
+   "fetched_at": "2026-11-07T00:51:16.785768+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "tagesschau",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObEgwNlpEZGhoVWVDM2dBa2MzYXZsZnRYR1BoN1BFWkFZUnJLdUJNSFRBNEFsYnRsR21nX1RDVUlBT3dUaUZpT0lwdWpRSDR0QnFGYlBQaE83LUgwVS1uOXpZWnlVV1BpejFhTUhkYzdGc050RnBNMjE4TG1OLTNjb3p0UmZsRlUxTV9od3NHODBJelh0enhsbzZhVjZueWdBbFNmNnA4LWxqV3B6TDhVTDFyQTZ3Y21JVG9KbUpERVVabVlkMU9LUmphblRnZlkzTDUyWmlIQWtiVkpRNVRubjNWSDIwQQ?oc=5",
+   "title": "Größte Wasserstoff-Gasturbine der Welt: Lingen testet Stromgiganten mit japanischer Technik",
+   "published_at": "2026-11-06T20:17:00+00:00",
+   "kind": "news",
+   "id": "6a4573f1-dc29-4a2c-bb70-47fec9d9ede8",
+   "fetched_at": "2026-11-07T00:51:16.786025+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "tagesschau",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOemxkeW5KNkRsS1A3M3RiX1JSY2tSMDcyaTVYSGZxaXV6M0s1b28yaDVTUVc2VHBxWjYyMkFNQU5KVDFwd1lOMURXcnZPNUIzMEpxTHhLSFRtbERubks3MG5ZM3I2LXJOS3lKZTQxU0lrSGFGT3hNdi1SMXJheUNaU0UzZ0VUX2FhOGhxZVVEUS1EaVo4a21YeHdDWW1rRS1pVlJuWTNYZ0E4amp5SHVBdjAzZG10a3NUaXJMbkdUOUlGVVl4bmNhdlUxcFBGRHFvT3V5d0pJeXQ?oc=5",
+   "title": "Tokio Hotel begeistern Fans in ausverkaufter Festhalle",
+   "published_at": "2026-11-06T07:35:00+00:00",
+   "kind": "news",
+   "id": "9dcd4975-17d8-4eda-9761-037afe771451",
+   "fetched_at": "2026-11-07T00:51:16.786270+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1373821.shtml",
+   "title": "Japan bears full responsibility for strained ties, FM says a year after Takaichi’s erroneous remarks on Taiwan question",
+   "published_at": "2026-11-05T19:16:34+00:00",
+   "kind": "news",
+   "id": "cf827ab7-951b-4349-a185-fef8bc227113",
+   "fetched_at": "2026-11-07T00:51:48.440035+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "中国外務省の主張に加え、非核三原則見直しや軍備拡大を挙げて日本を強く非難する。",
+   "angle": "日本の軍拡批判",
+   "tone": "crit",
+   "evidence": "dangerous and provocative signal; remilitarization; war machine",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1373815.shtml",
+   "title": "Quad launches Malabar drills off Japan; expert says training fuels regional tensions as Japan risks overestimating own strength",
+   "published_at": "2026-11-05T17:09:09+00:00",
+   "kind": "news",
+   "id": "e5c9e02b-af53-4210-8872-e15eca9f229d",
+   "fetched_at": "2026-11-07T00:51:48.440428+00:00",
+   "event_id": "d3687e7e-d6cb-4f25-a143-20f796dfe770",
+   "summary_ja": "日米豪印がマラバール演習を開始。中国の専門家は地域の緊張を高め日本は自国の力を過信しかねないと指摘。",
+   "angle": "地域の緊張",
+   "tone": "crit",
+   "evidence": "risks leading Tokyo into a serious strategic miscalculation",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1373802.shtml",
+   "title": "China launches anti-dumping probes into para-aramid filament yarn from EU, ethylidene norbornene from EU, Japan",
+   "published_at": "2026-11-06T01:33:26+00:00",
+   "kind": "news",
+   "id": "e9fc4514-4d5d-4874-aa09-755b64793dca",
+   "fetched_at": "2026-11-07T00:51:48.440778+00:00",
+   "event_id": "5fded5ee-8136-4ba0-8c40-fe9c1654a5d0",
+   "summary_ja": "中国商務省がEUと日本産の化学品などへの反ダンピング調査を開始。",
+   "angle": "中国の通商措置",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1373800.shtml",
+   "title": "Japan still going in circles, failing to correct mistakes, Chinese FM says nearly a year after Takaichi's erroneous remarks on Taiwan region",
+   "published_at": "2026-11-06T01:02:57+00:00",
+   "kind": "news",
+   "id": "8c744ee9-431f-4789-a9f8-dd956d8dee7d",
+   "fetched_at": "2026-11-07T00:51:48.441144+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "中国外務省報道官の発言を伝え、日本が問題を回避し誤りを正していないと批判する。",
+   "angle": "中国側の要求",
+   "tone": "crit",
+   "evidence": "erroneous remarks; evading and dodging the issue",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/business/202611060006",
+   "title": "Taiex plunges over 3,700 points in early trading as TSMC hits limit down",
+   "published_at": "2026-11-06T02:40:05+00:00",
+   "kind": "news",
+   "id": "e9c80fe0-8011-4c6b-8c17-5ef91e962a0d",
+   "fetched_at": "2026-11-07T00:51:49.703227+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://timesofindia.indiatimes.com/world/rest-of-world/will-you-comply-with-japanese-laws-japan-plans-new-question-for-foreign-visitors-on-entry-form/articleshow/135616205.cms",
+   "title": "Will you comply with Japanese laws? Japan plans new question for foreign visitors on entry form",
+   "published_at": "2026-11-06T18:40:54+00:00",
+   "kind": "news",
+   "id": "5296ff65-bacd-45a2-9463-9307ae9ea490",
+   "fetched_at": "2026-11-07T00:51:50.610260+00:00",
+   "event_id": "1a3c1ff3-de2f-4079-add0-a5c086551b5f",
+   "summary_ja": "日本が入国時に法令順守の意思を問う項目の追加を検討しており、判断基準は未説明と伝えた。",
+   "angle": "入国審査の新項目",
+   "tone": "neu",
+   "evidence": "draft documents do not explain how an applicant's answer would be assessed",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajYtdTlTeV83OFI4ekxDRXducDVsUUZnb2N3MURhNDV4U1FPTVV2a1luTVF3a0lRUXFWR3VldUtNeEdVMC1Ga0gzWWZyc1NtX3FrLTlpYTZxbTc3ZFVPd3BNOUlWOC1BaDNFRXQ4MkFObjJXUXhMTXhFenJTWkJ6WkxmS0hOdFgxT2htZkZCTXZqeTlJUGxMUUw2cHl3WGU1V1JYd0VScDNoOTJOZUpqMGRoVnozcTNhNWk0bmpBN2E2d0J6SVpqaHdqci1PZW5YTkZN0gHYAUFVX3lxTFBKV0xtWE02Z2p3d2lTQ0tBbHNxMXpFYkhKVnNyWmEyUmh0b0RvSnZyLU1KamxsZzFWOUUtQU1TcFpkRElURVMySGtuTk9VRE9zWjZlblhORUV2MXlCVHhfcllRS2JEUDBqMGh0elhwbVluaThIbUNZSzRJQi05TlZIWDBBVzdRZUc2NEw0WVRFUW9YWmF5Vmx3dFZ1UFZoRHRBUFpjZERhSEo0S1h4cXA0R2RlYVRNOXlVR1JfMzZMR01wMVRta3pIVXhHaElodDdmcVpZRFoyNg?oc=5",
+   "title": "TCS, Sastra launch centre to train students for Japan’s IT market",
+   "published_at": "2026-11-06T14:51:00+00:00",
+   "kind": "news",
+   "id": "0063f838-6f85-4a36-bbe4-f4a38fa6fdd7",
+   "fetched_at": "2026-11-07T00:51:50.611128+00:00",
+   "event_id": "984fdb34-8eb0-4638-ad43-219f0e11fa53",
+   "summary_ja": "TCSとサストラが日本のIT市場向けの学生育成センターを開設。",
+   "angle": "人材育成",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNEpfSllGejh2SjVHd1FvMExLa0hIT1ZITmRua0dHLXJnWjlRMkRJSFVGcDV2TUZ2V0ppV2UyVWlVTHc4VVh2eks4eWs4cWlTMWR5OExwN0V3Vk9YbENsQXVmblpwanExSVFtdmZMQ1haWWJHTU02aURHSUJidW1MWGJ1V3VkcHpBcURadVNIbHRvQkxmLUYxZTVaMmtKNzJ0QnZVajgxN2hMeDVlbGU2T2dfek05ZjQ5V0FCbkFRUG5FdVJMd2hrLVg2QjZzbU5QSmRnb3ZvS3RZdlFfWThVVHRUUlBtMzVkQnhYcURfQjFGLVlndWFtWG9PZWlIZUFGd1Vlal9PUTR3dThwTEJ0Z1JLUDl6LXpz0gGeAkFVX3lxTE0ycGV2aWQ1b3RPeGFhNEM1Vk43V1BJTkY2OWR4VVltbDloaE9KaUFkdEozU1hneko5d1dmeFFzbXV5UHRsUUV6TFhqQ3JuUGxES1V3eXZSMTlmMW4zSDgxOHBubUJFR05nUEg3UktoeG9GZi1nWk9YSGk3VkFteklrQUJ3TUM1YUI5NWJQZnNLblFVcmVJby12VmhKeXM4STFCc3cwb3VYOHllczQyVzkyMENSVUFyRUZsd25XQVNBYmMyVzdmRndrLTNsRlR0aGtOcVVxSUNfRXhJSzlraGFibUNxRE5LWllxVHdsVVZQOHQ5VFV6VExISUJPTzRDTjU0YWp2c1pOenM3TG5UT1ItOWFRclNRSWJUUTY3MGc?oc=5",
+   "title": "Elon Musk makes 'payment complaint' against one of Japan's biggest companies; and why reason may be Sam A",
+   "published_at": "2026-11-06T09:55:00+00:00",
+   "kind": "news",
+   "id": "2cce2b25-2472-458e-ab67-cc01cbfa611a",
+   "fetched_at": "2026-11-07T00:51:50.611584+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQTFNNnhJaTk5R3JJZndGS19NMWlfOXJ5U051OEwtZkxNZGtWX1hUSmVLRGYwempyMTdzU18zSlluTUctRU5OSU5Ob09PdnAtVnktbG1RZ04tUnF1cDVTVE0tbUdWMmdnVExpYjNJNWtFVng3NG8wT0NhaE1PWFZqb1EwQkpjb0VVSFduUnBEVENzdkRXUjIzalVHS0Vaa0ZpbEZndUFvTXZ4cG4xQUVpNGZGV2RiTnRjNDY4YjlfMnJaWkNUY29XNTdSOWU5M0UwTzZDc2FqWUpVdnVhTDB3ZEVvWmZaNmp2bzM1UllkZWNVbzRwVFFhbmJhY0V3X1FyWUFVWUpMVFhsUdIBjwJBVV95cUxNcUxKZm0xeXdKbXZJS19aaExVMTcxbFl4MU9jUm4zT2dxbkFDX05lcHkwMHNiYWgtbDVHTnpLNDZCazNhVElUWVpUaWJER3ZIRVNlTUV6VXNPVlhIbmlyOGdYMzFzR21CNFZieDVDdmw1dk9qU0cwVGtOQ0xTZ0c1Qnc5b0c1U2FoQzFiUC1yM3ZmVTZxSGY0d1FBZXlLckdqN3RnUEEyOHFUdHY4V3llQkp5MVBzQjBjT0JBanIyWWlYODg4RVNZb0JhYUJDMWNXNGx6WEwtMm5VZzkxM25KRXJtVHE4QnROalVmVENPeDUxVHZCTGg5RDh0bGY5RW84RlJCY05DZ3RRY3BDMGpF?oc=5",
+   "title": "From the US to Japan: These 10 countries spent the most on their militaries in 2025; check India's rank",
+   "published_at": "2026-11-06T05:30:00+00:00",
+   "kind": "news",
+   "id": "bfc86f2c-3d88-47d3-a706-36efa7e93c9a",
+   "fetched_at": "2026-11-07T00:51:50.612055+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUUZhTmJXcnpRY2dwSXp1UkpKVGprajYtcXAtOXdRMVZDWHVyUkhHc3d1akhIMlA0dG5uSEdmZFFUcDk2cmxHRi1pSTlDai0zcUQ3ZWFUV3BSeFRDTUFIajRLbDJWRncyV253Y1RHaS1TVW43NmZ4eER5OHhmZ0lNa080ZGVZdWRmTHlOOVpzdG5scmlIVEFiSE40d05fdDM0MHB2ZVBKSEFWUUZ2M01YOXpCRU9JNlFqckRUdmdwOHdZZ1JzWWxOQXhZbGVzS1M1UGp5TXhpQ1NkeTM1TFNGaGx4Qkpna3dxaTRuWkdR0gHzAUFVX3lxTFBJUUVnMHRaZWwwTXpBUENrS2l5RnU1WC03cE5RRUx6SDBoSXM2ZmlFaEFRY3NNT3NrWjhRZkRXUEdrdjZPNlA5Wi1qeXNxQm12WUU0RFV5eVBxMmo0ekViQ2hOUS1MLWlnd0xrVURQWW5neDVKcXlnZXlpeUt2a2ptV054QkttVktVS1NEcjNwMURlOHlMT1Z2ZWpoUmtHUGVsR3REZnp3cmQyY2FMMmNlY25YMVduM3BrdkFtN29jVGZHTjQ4dDN0TEo5V1Y2c29rOWd0Wk9uOGk5V0tJMUlKaFFCUzRwRWNjdVNWVjZKajdoRQ?oc=5",
+   "title": "At 93, the battles of Tokyo still live on in Dharam Singh Mann's memory",
+   "published_at": "2026-11-06T03:59:00+00:00",
+   "kind": "news",
+   "id": "082e52e5-baee-42f7-82fd-61acb845f096",
+   "fetched_at": "2026-11-07T00:51:50.616848+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQVVPS2pLQTlNMEM3bktRZTBqeDlMV3FxNE5NVl9iQTBIOHVYZHNIczRqNGlobmpBNFMzWGpjbEdJUE5rcFVrSVpjV3lKeENMcFEyUkoxUHJwWGowZlc1UDZ1S3ExcUkyT3YxZlJSby01VVZWelM1TGxtS25PMEt5VThXcHMzOGlCSFJHbGt2OENhN3J0OXJ3WFprdEU1emJ4OEpTcHczcG1ob21JMHQwYm5BcW51ZlpteTFsUEdpR3kybWpwZEEwMWlQbWZ0MnFUM3cyUU03R2VkYjdhQnhjME9MWVNrQ25YM0lsX2JQZDFfdkFLazlWMTlETXFxcmtKSk81TkpJTUtrcGxTdklJc082TUtheC1jU0tMbtIBogJBVV95cUxPSnBwUklDaUtQaFV4OWxsd2ZsbVRqU3ZpQ3ZxUmxucDNSNG1ZTmdiakwyQUdzY2RmYzkybTNqZU1Gc0NmVEpCZEpqZ3JNZmhGR2o5SkpIRFU3MGNlamRKdEhiZk1BLW1pUkJRel9BSHlxS1RET1p4dVcwbmR4MngzMWZVVUF4c196ek1QcmUxNEJDQUpTczJCa3FqSkczUXdLTnpLbTlmMmNDcEJZcUpPOTdvZ0pFUmE4OFpXTU0xVFN4QkNKOXRpZmdMbHBUOUJvb1B6OXc4TUtVWmJJNE13dWU4czNUZ2pCV3ZucEhPZ1lWeWpMNXdUMWZuel9UOWhUU2RMSkNkRTlnVDVfRG9rVWlnVDIwblNpOEhMc1FPZVNvZw?oc=5",
+   "title": "Asian stocks plunge: Kospi tumbles over 7%, Nikkei sheds 3,000 points as AI-linked shares drag markets",
+   "published_at": "2026-11-06T04:02:00+00:00",
+   "kind": "news",
+   "id": "5a17ad3a-2c84-4504-9a07-0ffa2784d05d",
+   "fetched_at": "2026-11-07T00:51:50.617324+00:00",
+   "event_id": "6cce8aa0-e70f-4ddd-acec-e1b45b9c85c1",
+   "summary_ja": "AI関連株安でアジア株が急落、日経平均は3000円下落。",
+   "angle": "株価急落",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/11/07/MMUT4GPZNBCRFBO4UD5DB5OHO4/",
+   "title": "일본 축구 거물 FIFA 회장 도전",
+   "published_at": "2026-11-06T15:33:00+00:00",
+   "kind": "news",
+   "id": "a6f217a2-40b5-4dd2-9cf1-8bad976d21c1",
+   "fetched_at": "2026-11-07T00:51:51.263190+00:00",
+   "event_id": "0c798886-57fa-41f3-bc30-f292dd781138",
+   "summary_ja": "日本サッカー協会の田嶋名誉会長がFIFA会長選への立候補を表明した。",
+   "angle": "FIFA会長選",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/11/06/YOD7BW4X2ZEB5OIFPBXGYSMQ6A/",
+   "title": "러시아,  日 담배 기업 경영권까지 강제 접수했다",
+   "published_at": "2026-11-06T06:56:43+00:00",
+   "kind": "news",
+   "id": "c1ad13b2-97d4-4e9e-abeb-40aa5f6edc0a",
+   "fetched_at": "2026-11-07T00:51:51.263538+00:00",
+   "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
+   "summary_ja": "事実上の没収に近い強制接収で、日本政府の資金源やサハリン2への波及も懸念されると伝えた。",
+   "angle": "日本の資金源への打撃",
+   "tone": "crit",
+   "evidence": "강제 접수, 사실상 몰수에 가깝다, 일본 정부의 돈줄을 겨냥",
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/11/06/D7X3T43XD5F4FKNXR2BQZAVPXI/",
+   "title": "다카이치 ‘대만 발언’ 1년… 日 화해 손짓에도 中 “말부터 거둬라”",
+   "published_at": "2026-11-06T11:33:56+00:00",
+   "kind": "news",
+   "id": "f72bf633-b741-4aea-9f9b-d4a758f96750",
+   "fetched_at": "2026-11-07T00:51:51.263877+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "日本の共同声明再確認による融和策を中国が拒み、首脳会談の行方も不透明だと伝える。",
+   "angle": "歩み寄りの行き詰まり",
+   "tone": "neu",
+   "evidence": "日 화해 손짓에도 中 “말부터 거둬라”",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/economy/industry-company/2026/11/06/MFRWIN3EMI3GCZBYG5RTCYTDGM/",
+   "title": "진에어, 3분기 영업익 78억원 ‘흑자 전환’… 매출 역대 분기 최대",
+   "published_at": "2026-11-06T07:09:41+00:00",
+   "kind": "news",
+   "id": "05043473-db4f-4acd-b597-93af57e3286c",
+   "fetched_at": "2026-11-07T00:51:51.264830+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/6-1-magnitude-quake-hits-off-tokyo-no-tsunami-alert-weather-agency",
+   "title": "6.1-magnitude quake hits off Tokyo, no tsunami alert: Weather agency",
+   "published_at": "2026-11-06T12:18:03+00:00",
+   "kind": "news",
+   "id": "d33d7fb2-1453-400f-bd96-25c1bd3a6905",
+   "fetched_at": "2026-11-07T00:51:52.366806+00:00",
+   "event_id": "96e29e7a-b491-49c0-8a2f-2fe159546879",
+   "summary_ja": "東京沖でM6.1の地震があり、津波警報は出なかった。",
+   "angle": "地震の概要",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/tokyo-rail-stations-weed-munching-goats-chew-their-way-to-stardom",
+   "title": "Tokyo rail station’s weed-munching goats chew their way to stardom",
+   "published_at": "2026-11-06T10:58:48+00:00",
+   "kind": "news",
+   "id": "84ba28d3-9359-4c48-99b9-3fef56f03b9b",
+   "fetched_at": "2026-11-07T00:51:52.367394+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/lost-in-translation-japan-minister-blames-x-for-diplomatic-near-miss",
+   "title": "Lost in translation? Japan minister blames X for diplomatic near-miss",
+   "published_at": "2026-11-06T09:12:29+00:00",
+   "kind": "news",
+   "id": "f535a728-c8f7-44c7-99af-f9b865ae929b",
+   "fetched_at": "2026-11-07T00:51:52.367926+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/japan-to-set-up-rescue-team-after-wave-of-cyberattacks",
+   "title": "Japan to set up ‘cyber rescue team’ after wave of attacks",
+   "published_at": "2026-11-06T08:33:00+00:00",
+   "kind": "news",
+   "id": "4b016020-aaba-48c3-95f6-6a3e71cffb44",
+   "fetched_at": "2026-11-07T00:51:52.368490+00:00",
+   "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
+   "summary_ja": "日本の報道を引き、官民専門家による「サイバー救援チーム」創設などの対策案を伝えた。",
+   "angle": "救援チーム創設",
+   "tone": "neu",
+   "evidence": "cyber rescue team” made up of both government and private sector experts",
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/man-in-japan-sent-to-prosecutors-for-indecent-exposure-at-samurai-monument",
+   "title": "Man in Japan sent to prosecutors for indecent exposure at samurai monument",
+   "published_at": "2026-11-06T06:20:00+00:00",
+   "kind": "news",
+   "id": "84968778-a124-48a1-9ab2-b3d1e2d957d2",
+   "fetched_at": "2026-11-07T00:51:52.369027+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/japan-pm-takaichi-vows-effort-to-reduce-okinawa-base-burden-in-first-meeting-in-13-years",
+   "title": "Japan PM Takaichi vows effort to reduce Okinawa base burden in first meeting in 13 years",
+   "published_at": "2026-11-06T03:50:00+00:00",
+   "kind": "news",
+   "id": "aa929896-f5c8-4783-8e35-d674c43f142b",
+   "fetched_at": "2026-11-07T00:51:52.369601+00:00",
+   "event_id": "c190a0d7-587a-4052-b777-4abbfee48d24",
+   "summary_ja": "13年ぶりの沖縄政策協議会で首相が負担軽減に努めると表明。普天間移設や米兵事件への地元の怒り、予算の背景も淡々と伝えた。",
+   "angle": "13年ぶりの協議会",
+   "tone": "neu",
+   "evidence": "vowed on Nov 6 to work to reduce the burden of US military bases",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/japan-nuclear-plant-operator-chubu-electric-ordered-to-improve-operations-after-data-fraud",
+   "title": "Japan nuclear plant operator Chubu Electric ordered to improve operations after data fraud",
+   "published_at": "2026-11-06T02:52:00+00:00",
+   "kind": "news",
+   "id": "a03e6d81-5cb1-4455-a307-92908cc7b2ea",
+   "fetched_at": "2026-11-07T00:51:52.370162+00:00",
+   "event_id": "5b0b3873-b026-4b8e-9e30-b209f4c235f8",
+   "summary_ja": "経産省が中部電力に、地震データ不正を受け業務改善計画の提出を求めた。",
+   "angle": "不正と再発防止",
+   "tone": "crit",
+   "evidence": "manipulation of seismic data; series of scandals",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/sport/springbok-stalwart-du-toit-to-leave-japanese-club-with-immediate-effect",
+   "title": "Springbok stalwart Du Toit to leave Japanese club with immediate effect",
+   "published_at": "2026-11-06T14:13:06+00:00",
+   "kind": "news",
+   "id": "395f80d2-62d4-457d-8340-e20d38451370",
+   "fetched_at": "2026-11-07T00:51:52.371199+00:00",
+   "event_id": "a6f0577a-e533-4840-ab43-56bdfd00f4e2",
+   "summary_ja": "南ア代表デュ・トイ選手がトヨタヴェルブリッツを即日退団する。",
+   "angle": "退団の理由",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/business/companies-markets/sony-rewinds-to-the-walkman-era-with-us60-wired-headphones",
+   "title": "Sony rewinds to the Walkman era with US$60 wired headphones",
+   "published_at": "2026-11-06T13:34:44+00:00",
+   "kind": "news",
+   "id": "f6a82417-4368-4700-82be-06bc0eb551c8",
+   "fetched_at": "2026-11-07T00:51:52.371759+00:00",
+   "event_id": "a161134b-295e-4071-8ea8-e1674559974c",
+   "summary_ja": "ソニーが初代ウォークマン付属品を模した60ドルの有線ヘッドホンを発表。",
+   "angle": "新製品",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/sport/football/kozo-tashima-japan-leader-looking-to-bring-integrity-to-fifa",
+   "title": "Japan football head Kozo Tashima looking to bring ‘integrity’ to FIFA",
+   "published_at": "2026-11-06T08:30:00+00:00",
+   "kind": "news",
+   "id": "2220f4f7-a992-404a-b8cf-d5f1d2ad51c8",
+   "fetched_at": "2026-11-07T00:51:52.372345+00:00",
+   "event_id": "0c798886-57fa-41f3-bc30-f292dd781138",
+   "summary_ja": "田嶋氏が「誠実さ」を掲げFIFA会長選に挑むと紹介。",
+   "angle": "人物紹介",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/life/motoring/book-a-self-driving-toyota-waymo-ride-in-japan-from-2027?ai-allowed=1",
+   "title": "Book a self-driving Toyota Waymo ride in Japan from 2027",
+   "published_at": "2026-11-06T06:29:00+00:00",
+   "kind": "news",
+   "id": "fc303a50-1c29-425e-8c33-6b844685c1c3",
+   "fetched_at": "2026-11-07T00:51:52.372907+00:00",
+   "event_id": "407b70ef-aa0b-48f0-9d58-a8e7b3987e0e",
+   "summary_ja": "トヨタがWaymoと組み、2027年に日本で自動運転車の配車を始める。",
+   "angle": "自動運転提携",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/putin-seizes-control-of-japan-tobaccos-russian-assets",
+   "title": "Putin seizes control of Japan Tobacco’s Russian assets",
+   "published_at": "2026-11-06T03:45:00+00:00",
+   "kind": "news",
+   "id": "43869c14-0e6e-42b6-9077-02c52bb3fa45",
+   "fetched_at": "2026-11-07T00:51:52.373492+00:00",
+   "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
+   "summary_ja": "拡大する接収の最新例として、日本政府の抗議や株価の急落、悪化する日露関係を伝えた。",
+   "angle": "日露関係の悪化",
+   "tone": "neu",
+   "evidence": "latest foreign company to lose control; widening crackdown",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/business/japans-nominal-wages-rise-at-fastest-pace-in-about-30-years",
+   "title": "Japan’s nominal wages rise at fastest pace in about 30 years",
+   "published_at": "2026-11-06T02:10:00+00:00",
+   "kind": "news",
+   "id": "f16c1a67-f4e9-4bbb-9a33-8c9530b43621",
+   "fetched_at": "2026-11-07T00:51:52.374100+00:00",
+   "event_id": "6bb533d1-d7d2-43ff-81f1-8adb0f27e568",
+   "summary_ja": "9月の名目賃金が約30年ぶりの伸びとなり、日銀の年内利上げ観測を支える。",
+   "angle": "賃上げと利上げ",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/news-1RQp3W4lvSo/p.html",
+   "title": "Tokyo demands Moscow release seized Japan Tobacco assets",
+   "published_at": "2026-11-06T10:14:00+00:00",
+   "kind": "news",
+   "id": "33d22dad-8f5a-4f9e-a0d5-41d8303c5294",
+   "fetched_at": "2026-11-07T00:51:53.507808+00:00",
+   "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
+   "summary_ja": "東京がモスクワに対し、接収したJT資産の返還を求めたと伝えた。",
+   "angle": "日本の返還要求",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/news-1RQBEGIEwVO/p.html",
+   "title": "U.S. military in Okinawa extends curfew for one month - Japan's media",
+   "published_at": "2026-11-06T13:10:00+00:00",
+   "kind": "news",
+   "id": "32b0ac48-e50b-4ac6-8c0c-e0f6cc445be8",
+   "fetched_at": "2026-11-07T00:51:53.508273+00:00",
+   "event_id": "c7ceea9a-243b-4fce-b82b-5218e470edd1",
+   "summary_ja": "沖縄の米軍が外出禁止措置を1カ月延長したと日本の報道を引用して伝えた。",
+   "angle": "米軍の規律",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/news-1RQBSKUjgDC/p.html",
+   "title": "10 hospitalized with suspected carbon monoxide poisoning at demolition site in N. Japan",
+   "published_at": "2026-11-06T13:13:00+00:00",
+   "kind": "news",
+   "id": "258d2f95-d1b5-4ab9-80e8-9e9b786fd8f0",
+   "fetched_at": "2026-11-07T00:51:53.508742+00:00",
+   "event_id": "c1e21263-0dc7-436d-a120-8ef86c598045",
+   "summary_ja": "北日本の解体現場で一酸化炭素中毒の疑いで10人が入院した。",
+   "angle": "事故の人数",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/VHJhbnNjcmlwdDkzMTQ5/index.html",
+   "title": "China International Import Expo: Panasonic taps China's industrial upgrading for new growth",
+   "published_at": "2026-11-06T17:30:00+00:00",
+   "kind": "news",
+   "id": "dc06fc1f-6152-4fc7-a868-89c0146ec824",
+   "fetched_at": "2026-11-07T00:51:53.509180+00:00",
+   "event_id": "6883063c-4f8f-469f-b38b-9fe7cc74df50",
+   "summary_ja": "パナソニックが中国の産業高度化を新たな成長に生かす姿勢を、輸入博で示した。",
+   "angle": "中国での成長",
+   "tone": "fav",
+   "evidence": "taps China's industrial upgrading for new growth",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/US-military-extends-Okinawa-curfew-for-another-month-after-new-arrest-1RQQTk2wsWA/p.html",
+   "title": "US military extends Okinawa curfew for another month after new arrest",
+   "published_at": "2026-11-06T17:36:00+00:00",
+   "kind": "news",
+   "id": "80be58a1-ecae-4026-bea3-616c43a75f94",
+   "fetched_at": "2026-11-07T00:51:53.509630+00:00",
+   "event_id": "c7ceea9a-243b-4fce-b82b-5218e470edd1",
+   "summary_ja": "新たな逮捕を受け、在沖米軍が夜間外出禁止をさらに1カ月延長した。",
+   "angle": "米軍の規律",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/news-1RQWsnzYXUk/p.html",
+   "title": "Ukrainian MOD: Ukrainian Minister of Defence Evgeniy Khmara spoke with Japan’s Minister of Defense Shinjiro Koizumi about the security situation, modern threats, and a long-term defense partnership. Khmara thanked Japan for its aid, including vehicles, and for supporting the rehabilitation of wounded Ukrainian warriors. Russia is intensifying its attacks on Ukrainian cities, and ballistic missiles and jet-powered drones are among the main threats. Ukraine is ready to share what its Defense Forces have learned countering them.",
+   "published_at": "2026-11-06T18:01:00+00:00",
+   "kind": "news",
+   "id": "ce7a6c83-eb07-4724-9601-c44c295b2f0f",
+   "fetched_at": "2026-11-07T00:51:53.510312+00:00",
+   "event_id": "727b08af-4d38-409a-85aa-e769328c3ef4",
+   "summary_ja": "ウクライナ国防相が小泉防衛相と協議し、日本の支援に感謝して対ドローン・ミサイルの知見共有を申し出た。",
+   "angle": "日ウクライナ防衛協力",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/news-1RQZejpa7du/p.html",
+   "title": "Around 19:39, an earthquake occurred with its epicenter in the eastern waters off the Kanto region. The earthquake's magnitude is estimated to be approximately M5.8, with a maximum seismic intensity of about 3. - Japanese media",
+   "published_at": "2026-11-06T18:40:00+00:00",
+   "kind": "news",
+   "id": "2d90c541-5b3c-4605-a3c8-53d72c0c732f",
+   "fetched_at": "2026-11-07T00:51:53.510847+00:00",
+   "event_id": "96e29e7a-b491-49c0-8a2f-2fe159546879",
+   "summary_ja": "関東の東方沖を震源とする地震が発生し、最大震度は3程度と伝えた。",
+   "angle": "地震の速報",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/news-1RQZjiOMGYM/p.html",
+   "title": "At around 7:39pm, a magnitude 6.1 earthquake occurred offshore Eastern Kantō at a depth of 70km. - Japanese media",
+   "published_at": "2026-11-06T18:41:00+00:00",
+   "kind": "news",
+   "id": "40889ebd-853a-4477-bf73-a7153b884bf3",
+   "fetched_at": "2026-11-07T00:51:53.511374+00:00",
+   "event_id": "96e29e7a-b491-49c0-8a2f-2fe159546879",
+   "summary_ja": "関東東方沖で深さ70kmのM6.1の地震が発生した。",
+   "angle": "地震の速報",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/China-again-urges-Japan-to-correct-the-erroneous-words-and-deeds-1RQX4RNKIBq/p.html",
+   "title": "China again urges Japan to correct the erroneous words and deeds",
+   "published_at": "2026-11-06T18:46:00+00:00",
+   "kind": "news",
+   "id": "b1653973-5dd9-4a6a-b7fa-2ff01665ba13",
+   "fetched_at": "2026-11-07T00:51:53.511852+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "中国が日本に誤った言動の是正を改めて求めたと見出しで伝える。",
+   "angle": "中国の是正要求",
+   "tone": "crit",
+   "evidence": "erroneous words and deeds",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-06/China-slams-Japan-s-inaction-one-year-after-Takaichi-s-Taiwan-remarks-1RQVoCkDoxq/p.html",
+   "title": "China slams Japan for failing to correct mistake one year after Takaichi's Taiwan remarks",
+   "published_at": "2026-11-06T19:17:00+00:00",
+   "kind": "news",
+   "id": "ab8dd5ec-4e17-46af-aae1-cc83b680a355",
+   "fetched_at": "2026-11-07T00:51:53.512348+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "中国が、発言から1年たっても日本が誤りを正していないと非難したと伝える。",
+   "angle": "中国の対日非難",
+   "tone": "crit",
+   "evidence": "China slams Japan for failing to correct mistake",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "faz",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWkgxbllXX1ZoeEI5ZkxPN0tXb0RLd1htZDJsZ1FuQlA4UUlOYmxmWUY1a2lISU1PWkVobWtJaHVyNHk5ay00REIydjBtYVBLZnhCTmhBajNiMHhrNVlscVU5M3dFV2xKdGxPcExvODNGcGFJdzdkNXBwVjFsZGxtbFVDbk9XR3pab1hTMEQwZ0dja3NLUVQ3MC1ST0tJYmFwUFBDRi1HMHZnNWxZZzc3WFItT2hjcGxubHpYd3RyaEtWVS1LQjJYblVNVWpXYnBMcTJmdVZpRXBUS3dx?oc=5",
+   "title": "Tokio-Hotel in Frankfurt: Bei „Durch den Monsun\" singt die ganze Jahrhunderthalle",
+   "published_at": "2026-11-06T13:12:35+00:00",
+   "kind": "news",
+   "id": "41ba9e48-aeb3-45fc-9fd3-ec1e1b69fc51",
+   "fetched_at": "2026-11-07T00:51:54.557204+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "faz",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMC1CVElER2lvWlhMU3ByUkc4OEZqMXRvQVVBRU1ZWmMxc3J2XzhkMXV5dGJzUG00b0kwZmM1eGJPOEdzOHRHb2ZRR04yRjNHR3NfSWZxTVpJLVpkOENzbTJPcXVrYjI1NWx2aUlDVkZDUDNWdGdDa014Z1o1NnFYWE1NWlNKb3MzV2lSdE9SV28wZXRsZy1kLWc3ZkZBelo0UUhrakdOODcyampiQUVVUlJUNjkwZ0Q1WF9lbEdHTm5vdE5JNkJiV0NCUlV4WmVYOWg4WTVUeG8zSjVtX3ItbjFRSlFnVVJEdXRQVw?oc=5",
+   "title": "Japanische Künstlerinnen: Große Übersichtsschau im MUDAM Luxemburg",
+   "published_at": "2026-11-06T14:57:35+00:00",
+   "kind": "news",
+   "id": "1f085012-c39a-4acd-b993-fa3c0baff962",
+   "fetched_at": "2026-11-07T00:51:54.557491+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/politics/chinese-military-zhang-shengmin/",
+   "title": "Xi taps military ‘hatchet man’ to rebuild China’s army command",
+   "published_at": "2026-11-06T23:35:00+00:00",
+   "kind": "news",
+   "id": "59bc369d-00f4-4d3a-89f5-55af94de19cf",
+   "fetched_at": "2026-11-07T00:51:55.848840+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/trump-stephen-miller-chief-of-staff/",
+   "title": "Trump makes hard-liner Stephen Miller his chief of staff after midterm defeat",
+   "published_at": "2026-11-06T23:34:00+00:00",
+   "kind": "news",
+   "id": "ebb69144-e398-45f2-8ce9-488f3fe1015c",
+   "fetched_at": "2026-11-07T00:51:55.850216+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/life/2026/11/07/travel/cruises-japan-disney-domestic-mitsui-nyk/",
+   "title": "As Japan gets a Disney cruise, smaller vessels chart their own course",
+   "published_at": "2026-11-06T23:00:00+00:00",
+   "kind": "news",
+   "id": "b2e30645-6f8e-4139-b813-697535fb5779",
+   "fetched_at": "2026-11-07T00:51:55.851540+00:00",
+   "event_id": "324f70a0-246a-4b08-8aa0-af9c60ca1e0f",
+   "summary_ja": "ディズニーのクルーズ船就航が注目される中、国内運航の小型船は親密な船旅で独自路線を進む。",
+   "angle": "クルーズ市場",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:56:52.181208+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/tokyo-shallow-quake/",
+   "title": "Magnitude 6.1 quake hits off Tokyo, but no tsunami alert issued",
+   "published_at": "2026-11-06T12:28:00+00:00",
+   "kind": "news",
+   "id": "c7eb0aa6-2d00-42ec-b2ac-7aedc1ed7ae8",
+   "fetched_at": "2026-11-07T00:51:55.852917+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/society/declining-birthrate-expert-panel/",
+   "title": "‘Quiet crisis’: Government expert panel convenes to tackle population decline",
+   "published_at": "2026-11-06T11:58:00+00:00",
+   "kind": "news",
+   "id": "691b7e69-7aba-417a-a6ac-386536d8b2e9",
+   "fetched_at": "2026-11-07T00:51:55.854452+00:00",
+   "event_id": "fe58296a-2029-4f4d-b734-fe2393984ff9",
+   "summary_ja": "政府が人口減少対策の有識者会議を初開催し、木内氏が危機感を示した。",
+   "angle": "人口減少対策",
+   "tone": "neu",
+   "evidence": "Population decline is a national crisis",
+   "processed_at": "2026-11-07T00:56:08.350260+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/takaichi-cybersecurity-package/",
+   "title": "Takaichi administration announces emergency cyberdefense package",
+   "published_at": "2026-11-06T09:20:00+00:00",
+   "kind": "news",
+   "id": "7b5f0cbb-e9d7-46e8-9ebf-59686857c894",
+   "fetched_at": "2026-11-07T00:51:55.855780+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/crime-legal/najib-pays-house-arrest-fine/",
+   "title": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest",
+   "published_at": "2026-11-06T08:49:00+00:00",
+   "kind": "news",
+   "id": "dcd8484a-6ffd-4858-b48a-e97848c6454a",
+   "fetched_at": "2026-11-07T00:51:55.857146+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/russell-brand-guilty/",
+   "title": "Russell Brand guilty of rape and three sexual assaults",
+   "published_at": "2026-11-06T08:48:00+00:00",
+   "kind": "news",
+   "id": "b2f3dbbf-03cc-43f7-9e61-7ca3cd1264d7",
+   "fetched_at": "2026-11-07T00:51:55.858582+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/companies/chubu-electric-business-improvement-order/",
+   "title": "Chubu Electric given business improvement order over data scandal",
+   "published_at": "2026-11-06T08:44:00+00:00",
+   "kind": "news",
+   "id": "d0f2bab5-c6f3-4d76-84cd-d8e2adaede33",
+   "fetched_at": "2026-11-07T00:51:55.859937+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/okinawa-policy-council-meeting/",
+   "title": "Okinawa Policy Council meeting held for first time in 13 years",
+   "published_at": "2026-11-06T08:38:00+00:00",
+   "kind": "news",
+   "id": "5341b9b2-b072-4fcf-91a8-d893c0496864",
+   "fetched_at": "2026-11-07T00:51:55.861347+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/06/sumo/kyushu-basho-preview-2026/",
+   "title": "Sumo set to end 2026 on high note as stars align ahead of Kyushu Basho",
+   "published_at": "2026-11-06T08:33:00+00:00",
+   "kind": "news",
+   "id": "4d6e0593-f065-4c94-82a5-421d74d3c724",
+   "fetched_at": "2026-11-07T00:51:55.862763+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/tech/binance-hack-funds-china/",
+   "title": "Binance hack funds flow to Chinese launderers, Chainalysis says",
+   "published_at": "2026-11-06T08:25:00+00:00",
+   "kind": "news",
+   "id": "1904034f-c314-429f-b834-99827a66d171",
+   "fetched_at": "2026-11-07T00:51:55.864165+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/06/soccer/kozo-tashima-fifa-integrity/",
+   "title": "Kozo Tashima looking to bring ‘integrity’ to FIFA with run for president",
+   "published_at": "2026-11-06T07:50:00+00:00",
+   "kind": "news",
+   "id": "db0ee9f9-5767-4b28-bbdc-d839ca678721",
+   "fetched_at": "2026-11-07T00:51:55.865668+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/crime-legal/former-prosecutor-rape-trial/",
+   "title": "Ex-Japan prosecutor who accused boss of rape says dignity ‘shattered’",
+   "published_at": "2026-11-06T07:31:00+00:00",
+   "kind": "news",
+   "id": "cd934f2f-43b0-457a-bc8e-6990cbb9f911",
+   "fetched_at": "2026-11-07T00:51:55.867190+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/crime-legal/addict-rehabilitation-funds-misuse/",
+   "title": "Drug addict rehabilitation facility head accused of siphoning ¥110 million",
+   "published_at": "2026-11-06T07:31:00+00:00",
+   "kind": "news",
+   "id": "2ed7fc66-1a33-45fc-a541-80b0fbe8341d",
+   "fetched_at": "2026-11-07T00:51:55.868719+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/06/tennis/wta-pegula-andreeva-comments/",
+   "title": "WTA takes blame after broadcasting Jessica Pegula comments about Mirra Andreeva",
+   "published_at": "2026-11-06T07:16:00+00:00",
+   "kind": "news",
+   "id": "5dc63c4b-d7eb-4eed-ade0-7748cc39c9cd",
+   "fetched_at": "2026-11-07T00:51:55.870172+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/politics/indonesia-wiretap-rivalry/",
+   "title": "Prabowo wiretap spills top Indonesia rivalry into public",
+   "published_at": "2026-11-06T07:04:00+00:00",
+   "kind": "news",
+   "id": "cd771131-e4a2-41f4-a16e-765d9b1f6af9",
+   "fetched_at": "2026-11-07T00:51:55.871672+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/megumi-yokota-mother-news-conference/",
+   "title": "Mother wants to see abductee Megumi Yokota ‘just once’ before time runs out",
+   "published_at": "2026-11-06T06:47:00+00:00",
+   "kind": "news",
+   "id": "a2036f66-b67f-4cd1-9d94-0b83df8b4258",
+   "fetched_at": "2026-11-07T00:51:55.873317+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/politics/macao-jails-ex-lawmaker-subversion/",
+   "title": "Macao jails ex-lawmaker in first national security trial",
+   "published_at": "2026-11-06T06:45:00+00:00",
+   "kind": "news",
+   "id": "80406592-7323-44c9-84ba-03de3160951d",
+   "fetched_at": "2026-11-07T00:51:55.874762+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/midterms-hope-ukraine-russia/",
+   "title": "U.S. midterms offer hope on new aid for Ukraine, analysts say",
+   "published_at": "2026-11-06T06:22:00+00:00",
+   "kind": "news",
+   "id": "59082c39-928e-4af2-b30f-3b3913df1105",
+   "fetched_at": "2026-11-07T00:51:55.876268+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/takaichi-taiwan-remarks-anniversary/",
+   "title": "Few signs of thaw in Japan-China relations one year after Takaichi’s Taiwan remarks",
+   "published_at": "2026-11-06T06:06:00+00:00",
+   "kind": "news",
+   "id": "34c82f4b-1dea-47cc-9e7d-3dc6c7ab58aa",
+   "fetched_at": "2026-11-07T00:51:55.877936+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "発言から1年、対立が続き雪解けの兆しはほとんどないと、経緯とともに伝える。",
+   "angle": "関係改善の兆し薄",
+   "tone": "neu",
+   "evidence": "Few signs of thaw; remain stubbornly at odds",
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/jt-seize-russia/",
+   "title": "Putin seizes Japan Tobacco assets, further straining relations with Japan",
+   "published_at": "2026-11-06T05:42:00+00:00",
+   "kind": "news",
+   "id": "57e15d23-4f1e-4251-ace3-7dc474dacddf",
+   "fetched_at": "2026-11-07T00:51:55.879526+00:00",
+   "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
+   "summary_ja": "4工場が対象となり、日本が即座に抗議して撤回を求め、関係が一段と悪化すると伝えた。",
+   "angle": "日本の抗議",
+   "tone": "neu",
+   "evidence": "further straining relations; drawn immediate protest from Tokyo",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/consumption-tax-bill-passed-lower-house/",
+   "title": "Bill to lower consumption tax on food clears Lower House",
+   "published_at": "2026-11-06T05:32:00+00:00",
+   "kind": "news",
+   "id": "b55e54b9-f611-4c2a-90df-05d1d1dd44bd",
+   "fetched_at": "2026-11-07T00:51:55.881060+00:00",
+   "event_id": "20d386f2-ce3d-43b5-88fc-51e27893533f",
+   "summary_ja": "減税法案が衆院を通過し、首相の生活費対策の重要施策が前進した。",
+   "angle": "衆院通過",
+   "tone": "neu",
+   "evidence": "advancing a key measure in Prime Minister Sanae Takaichi’s push",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/economy/boe-raises-rates/",
+   "title": "Bank of England raises rates for first time since 2023 and warns more likely",
+   "published_at": "2026-11-06T04:16:00+00:00",
+   "kind": "news",
+   "id": "f92f8fd4-137c-4612-a3c3-dfa0b623886b",
+   "fetched_at": "2026-11-07T00:51:55.882678+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/blue-tsunami-wipes-nasdaq/",
+   "title": "Blue tsunami wipes out $2.5 trillion from Nasdaq as investors fret about AI trade",
+   "published_at": "2026-11-06T04:00:00+00:00",
+   "kind": "news",
+   "id": "220bf5f8-7879-4f78-bb1f-f726a682c8d9",
+   "fetched_at": "2026-11-07T00:51:55.884317+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/06/art/mariko-mori-tokyo-exhibition/",
+   "title": "Mariko Mori predicted the future. She’ll do it again.",
+   "published_at": "2026-11-06T03:46:00+00:00",
+   "kind": "news",
+   "id": "e613f0c8-bff6-47b8-90de-075bc8f9360d",
+   "fetched_at": "2026-11-07T00:51:55.886034+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/companies/musk-midterms-roi/",
+   "title": "Musk has little to show for his record spending on Republican campaigns in U.S. midterms",
+   "published_at": "2026-11-06T03:38:00+00:00",
+   "kind": "news",
+   "id": "54e6f945-28e8-4325-a5cb-5ccc4aba389e",
+   "fetched_at": "2026-11-07T00:51:55.887717+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/somalia-political-crisis/",
+   "title": "Chaos in Somalia as president accused of arresting chief justice",
+   "published_at": "2026-11-06T03:10:00+00:00",
+   "kind": "news",
+   "id": "37b779c7-0c94-41c8-a2fa-97f74b419513",
+   "fetched_at": "2026-11-07T00:51:55.889333+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/06/more-sports/putin-russia-world-sports/",
+   "title": "Vladimir Putin calls out nations opposing Russia’s return to international sports",
+   "published_at": "2026-11-06T02:33:00+00:00",
+   "kind": "news",
+   "id": "21724e2d-07ab-4274-a4ba-ae16e2fc2e9f",
+   "fetched_at": "2026-11-07T00:51:55.891026+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/companies/nippon-paper-kumamoto-quake/",
+   "title": "Nippon Paper to end production at quake-hit plant in Kumamoto",
+   "published_at": "2026-11-06T02:30:00+00:00",
+   "kind": "news",
+   "id": "5e6e25fa-926f-4fca-9a25-95e728787391",
+   "fetched_at": "2026-11-07T00:51:55.892652+00:00",
+   "event_id": "29d3acd6-7b32-4eb3-8dc4-15ab898698fd",
+   "summary_ja": "日本製紙が地震で被災した熊本の工場の生産終了を発表。",
+   "angle": "被災工場の閉鎖",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/",
+   "title": "Nikkei 225 falls 6% following AI-related declines on Wall Street",
+   "published_at": "2026-11-06T01:58:00+00:00",
+   "kind": "news",
+   "id": "3f13e66a-2967-4d3b-b4e3-5da1c8eb6cf3",
+   "fetched_at": "2026-11-07T00:51:55.894241+00:00",
+   "event_id": "6cce8aa0-e70f-4ddd-acec-e1b45b9c85c1",
+   "summary_ja": "日経平均が米株安を受けて約6%下落し、6万円を割り込んだ。",
+   "angle": "株価急落",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/retail-private-asset-products-caution/",
+   "title": "Japanese regulator urges caution on retail private asset products",
+   "published_at": "2026-11-06T01:27:00+00:00",
+   "kind": "news",
+   "id": "92435527-54d4-4c86-917a-a6bcba597a72",
+   "fetched_at": "2026-11-07T00:51:55.895861+00:00",
+   "event_id": "97223748-c890-42be-a013-98471d574b6e",
+   "summary_ja": "金融庁が、海外の私募資産を用いた個人向け商品の販売に慎重さを求めた。",
+   "angle": "個人投資家保護",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/editorials/2026/11/06/trump-midterm-response-mystery/",
+   "title": "Trump’s midterm shellacking: an uncertain response",
+   "published_at": "2026-11-06T01:25:00+00:00",
+   "kind": "opinion",
+   "id": "d396872b-9be5-4ac0-839e-6984fdb4f444",
+   "fetched_at": "2026-11-07T00:51:55.914909+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/06/japan/japan-us-post-midterm-relations/",
+   "title": "Navigating Japan-U.S. relations after the ‘blue tsunami’",
+   "published_at": "2026-11-06T01:04:00+00:00",
+   "kind": "opinion",
+   "id": "daa1c578-16ac-40e7-828e-fcd60d5b0c1b",
+   "fetched_at": "2026-11-07T00:51:55.916692+00:00",
+   "event_id": "b789ee04-cc05-4e2a-9d8d-3dbc9154ba6d",
+   "summary_ja": "民主党の大勝を受け、日本は共和党寄りの姿勢を改め、民主党の台頭に対応する必要があると論じる。",
+   "angle": "民主党への対応",
+   "tone": "crit",
+   "evidence": "Japanese leadership may be surprised and disappointed; failed to fully understand several facts",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/brands-mizuno-asics-fight-back-super-shoe-market/",
+   "title": "Japanese Brands Fight Back in the 'Super Shoe' Market",
+   "published_at": "2026-11-06T09:01:00+00:00",
+   "kind": "news",
+   "id": "47d9de81-0a99-47d6-9d5b-9c7b8e1eacb4",
+   "fetched_at": "2026-11-07T00:51:56.693430+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": null,
+   "relevant": null
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/shodo-calligraphy-nominated-unesco-heritage-status/",
+   "title": "Japanese Calligraphy Nominated for UNESCO Heritage Status",
+   "published_at": "2026-11-06T06:01:00+00:00",
+   "kind": "news",
+   "id": "9fb0b00e-f92d-4a9e-9629-2ab06dde723b",
+   "fetched_at": "2026-11-07T00:51:56.693864+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-07T00:55:02.421901+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/intelligence-committee-former-chair-simon-gass-japan-new-agency-interview/",
+   "title": "Former UK Intelligence Committee Chair Backs Japan's Plan for Foreign Intelligence Agency",
+   "published_at": "2026-11-06T01:31:00+00:00",
+   "kind": "news",
+   "id": "97fe2dbb-1542-4529-9fa2-2c6d47ddcd1c",
+   "fetched_at": "2026-11-07T00:51:56.694268+00:00",
+   "event_id": "ab15d9f3-8b85-42c6-90c1-9c0ba47d794a",
+   "summary_ja": "英国の元合同情報委員会議長が、日本の対外情報機関創設を支持し、時間や文化、監督が課題と述べた。",
+   "angle": "英元高官の支持",
+   "tone": "fav",
+   "evidence": "It is absolutely right that a country of Japan's importance",
+   "processed_at": "2026-11-07T00:53:38.696880+00:00",
    "relevant": true,
    "basis": "body"
   }
