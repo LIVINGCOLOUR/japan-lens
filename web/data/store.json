@@ -7349,7 +7349,7 @@
    "target": "",
    "judged_count": 0,
    "first_seen": "2026-10-08T23:30:39+00:00",
-   "updated_at": "2026-11-06T17:25:32+00:00"
+   "updated_at": "2026-11-07T03:23:00+00:00"
   },
   {
    "id": "0529e167-1365-4013-998a-5d552382d766",
@@ -7984,7 +7984,7 @@
    "target": "米国のICC制裁への日本政府の対応",
    "judged_count": 0,
    "first_seen": "2026-10-09T22:02:00+00:00",
-   "updated_at": "2026-11-03T05:13:00+00:00"
+   "updated_at": "2026-11-07T04:27:00+00:00"
   },
   {
    "id": "77a8bdb1-e8f5-4418-8d09-73fa7ed18dc1",
@@ -8226,7 +8226,7 @@
    "target": "日中の経済関係と相互依存",
    "judged_count": 0,
    "first_seen": "2026-10-11T05:31:00+00:00",
-   "updated_at": "2026-10-11T05:31:00+00:00"
+   "updated_at": "2026-11-07T01:24:00+00:00"
   },
   {
    "id": "3f00b802-6642-4a81-81c7-e3403c9a924b",
@@ -8550,42 +8550,48 @@
   },
   {
    "id": "2b2f0e7e-49c8-4fa8-94ef-87723656d158",
-   "title_ja": "日米が在日米軍の勤務外行動規範を見直し、沖縄の殺害事件を受け",
-   "fact_ja": "茂木外相は、沖縄で米海兵隊員が容疑者となっている女性殺害事件を受け、在日米軍の基地外での行動規範を米側と見直していると述べた。巡回や夜間外出管理、外出（リバティ）制度が協議対象で、高市首相も日米で協議を始めたと説明した。",
+   "title_ja": "日米が在日米軍の勤務外行動規範を見直し、沖縄の殺害事件を受け再発防止策も",
+   "fact_ja": "沖縄で米海兵隊員が容疑者となっている女性殺害事件を受け、茂木外相は在日米軍の基地外での行動規範を米側と見直していると述べた。巡回や夜間外出管理、リバティ制度が協議対象で、高市首相も日米協議を始めたと説明した。その後、日米は再発防止策として、沖縄での米軍向け教育の強化などで合意した。",
    "category": "安全保障",
    "target": "在日米軍の行動規範の見直し",
-   "judged_count": 5,
+   "judged_count": 6,
    "first_seen": "2026-10-13T07:48:00+00:00",
-   "updated_at": "2026-10-14T13:29:00+00:00",
+   "updated_at": "2026-11-07T03:24:00+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "茂木外相は、既存の規則が実効的に機能しているかを含め、巡回や夜間外出管理などを米側と協議すると述べた。高市首相は、事件への対応と再発防止に政府として全力を尽くす考えを示し、有効な措置について日米の協議を先週始めたと説明した。",
-   "japan_basis": "overseas_reports",
+   "japan_position_ja": "茂木外相は、既存の規則が実効的に機能しているかを含め、巡回や夜間外出管理などを米側と協議して見直すと説明した。高市首相は、事件への対処と再発防止に全力を尽くすと述べた。その後、日米は再発防止策として、外務省の沖縄担当特使による講義や、沖縄の文化・歴史に関する新たな教育プログラム（2027年度開始）などで合意した。",
+   "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "茂木外相の発言を中心に、基地外での行動規範の見直しと、沖縄が長年抗議してきた米軍関係の犯罪の背景を簡潔に伝えている。"
+     "view_ja": "外相の発言を中心に、行動規範の見直しを淡々と伝えた。続報では、米軍向け教育の強化など日米が合意した再発防止策を報じた。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "CNA、サウスチャイナ・モーニング・ポスト、ストレーツ・タイムズは、ほぼ同じ内容（AFP配信とみられる記述）で、見直しの内容と、米軍関係の犯罪が沖縄で長く抗議を招いてきた背景を淡々と伝えている。ストレーツ・タイムズは、2024年に更新された現行方針（午前1〜5時の飲酒禁止など）や、米軍の作戦停止と夜間外出禁止、抗議デモにも触れ、詳しく伝えている。論調は評価を避けた事実報道が中心で、米国務長官が哀悼を示したことにも言及している。国営・政府系のCGTNは、高市首相が米軍の勤務外行動規範を厳格化する協議を進めていると見出しで伝えている。",
+   "overseas_view_ja": "独立した媒体のうちストレーツ・タイムズ（AFP配信）は、米軍関係者による犯罪が沖縄で抗議を招いてきたと背景を説明した。2024年に改定された現行方針や、米軍が逮捕後に取った活動停止と夜間外出禁止の措置も添えている。サウスチャイナ・モーニング・ポストは見出しで見直しを伝えるのみで、論評は見られない。全体として事実を淡々と伝える報じ方が中心。シンガポールのCNAは同内容を報じ、CGTNは高市首相が米軍の勤務外行動規則の厳格化を協議中と伝えた。",
    "search_ja": "茂木 在日米軍 行動規範 沖縄 殺害",
    "japan_main": [
     {
-     "outlet": "TBS",
-     "title": "強盗殺人事件受けた米軍の “反省” 「午前0時～午前5時まで外出禁止」に高市総理 「普通は寝ている時間、十分ではない」 実効性ある再発防止策を協議中と表明",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yOXlxUWRPYkw4S241c1Q3dE1IRFhNQ3lqQmhodnNweVZ0ak96U0F4RG5UNEtMSlc1T1VEV1lMeThCb2FpZk5GQ0NEcU0xUUs4Vkxmcy1NdGpMcGJpQS1YVFV3cw?oc=5",
-     "published_at": "2026-10-13T07:50:00+00:00"
+     "outlet": "読売新聞",
+     "title": "米兵強盗殺人事件受け「夜間パトロール」拡充、「沖縄の文化・歴史」学ぶ講習新設も…再発防止策で日米合意",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRNl91WHJCYS1tRHR3MmdwcWZnSXpib0tfZDZTOEoxYjRhQ2VEbmhMR2RBQ1NOUjRKUmxPZWIwZTR6dWV3RnBXME1FdE5Ya2Z3WV84UWNmY1ZTVXRRenRmU0pTQUo2UQ?oc=5",
+     "published_at": "2026-11-07T00:50:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "米兵犯罪防止策、茂木氏急ぐ方針 沖縄強殺事件受け",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRaDBiNk5UZ2I4NmFJX1JRVDh5c05qOV9mRmVLaWJtRG8zNUZuQ2ZBMElYVHpWUVFvSW1WVU4tTlpBVl9OOXNDTm1DRUhBbHZrRVF2YjU2NUVINUl4cFl6ek41SktvZ0Rx?oc=5",
+     "published_at": "2026-10-17T07:00:00+00:00"
     },
     {
      "outlet": "フジテレビ",
      "title": "高市首相 米軍の再発防止策「不十分」 那覇市の女性殺害事件",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CQ25nQ1pfZVNTcUp4R2JPZ0dGQXoxWnBQekRLNzBZVDVxUFV3ZUFDbzkyUkhEVDZ1OWI0X3F0NFlyYlVHUjdNaXFmV3o5Zw?oc=5",
-     "published_at": "2026-10-13T09:09:00+00:00"
+     "published_at": "2026-10-13T07:00:00+00:00"
     }
    ],
-   "japan_main_count": 5,
-   "japan_main_checked_at": "2026-10-15T00:02:13.905026+00:00"
+   "japan_main_count": 6,
+   "japan_main_checked_at": "2026-11-08T00:34:29.311228+00:00"
   },
   {
    "id": "f6bbd43d-6f93-4971-b169-1fd744bf7108",
@@ -10342,309 +10348,261 @@
   {
    "id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
    "title_ja": "JAXAが火星衛星探査機MMXをH3で打ち上げ、探査機は予定の軌道へ",
-   "fact_ja": "JAXAは10月20日、火星衛星フォボスの試料を持ち帰る探査機MMXをH3ロケット10号機で種子島から打ち上げ、探査機は分離されて火星へ向かった。",
+   "fact_ja": "JAXAは10月20日、火星衛星フォボスの試料を持ち帰る探査機MMXをH3ロケット10号機で種子島宇宙センターから打ち上げた。探査機は約70分後に分離され、火星へ向かう軌道に入った。試料の地球帰還は2031年の予定。",
    "category": "科学技術政策",
    "target": "JAXAの火星衛星探査計画",
-   "judged_count": 38,
+   "judged_count": 39,
    "first_seen": "2026-10-18T02:28:00+00:00",
-   "updated_at": "2026-10-23T09:19:06+00:00",
+   "updated_at": "2026-11-07T16:53:36+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "JAXAは、フォボスから10グラム以上の試料を採取し2031年に地球へ持ち帰る計画で、火星の衛星の起源や太陽系の成り立ちの解明、将来の有人火星探査に向けた技術開発を目指している。探査機は約1年の飛行を経て来年8月ごろ火星周回軌道に入る予定。高市首相はXで、歴史的な取り組みの成功と試料の持ち帰りを願うと述べた。",
+   "japan_position_ja": "JAXAは、MMXでフォボスから10g以上の試料を採取し、2031年に地球へ持ち帰ることを目指している。火星衛星の成り立ちや太陽系の起源の解明に加え、将来の火星往復探査に必要な技術の確立も目的としている。高市首相はXで、歴史的な取り組みの成功と試料の回収を祈ると述べた。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "H3の打ち上げと探査機の軌道投入の成功を、火星衛星への着陸を試みる初の5年計画として「歴史的」と位置づけて伝えた。"
+     "view_ja": "H3の打ち上げ成功と、探査機が火星へ向かう軌道に入ったことを、5年間にわたる計画の始まりとして伝えている。"
     },
     {
      "outlet": "JAPAN Forward",
-     "view_ja": "打ち上げの経緯、開発費、H3の成功率といった数字を並べて伝え、続報では試料から生命の起源の手がかりが得られる可能性と計画の意義を詳しく解説した。"
+     "view_ja": "H3の3回連続成功や開発費、火星到着後の行程を詳しく伝え、後続記事では試料から生命の起源の手がかりが得られる可能性と採取の難しさを解説している。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "独立系の海外媒体は、打ち上げ成功を「歴史的」「世界初」の挑戦として好意的に伝えた。ガーディアン（英）は「一生に一度のチャンス」という言葉を見出しに使った。ストレーツ・タイムズやドイツのDie Weltは、米国の火星サンプル回収計画が中止された一方で、中国の天問3号が2031年ごろにより早く試料を持ち帰る可能性にも触れた。Die Weltは、独仏が開発した探査車イデフィックスへのドイツの貢献に焦点を当てた。中国の国営・政府系メディアのCGTNとGlobal Timesは、打ち上げの成功や計画の内容を淡々と伝えており、シンガポールの政府系CNAは「歴史的」と好意的に伝えている。",
-   "search_ja": "MMX 火星衛星 H3 打ち上げ",
+   "overseas_view_ja": "独立した媒体は、火星圏初の試料回収・往復を目指す計画の打ち上げ成功を、歴史的な挑戦として総じて好意的に伝えている。AFP配信のStraits Timesなどは、生命の起源や有人探査の基礎になる点を挙げ、米国の火星試料回収計画が中止された一方で中国のTianwen-3が2031年に先行しうる点も添えている。ドイツ語圏の媒体（Die Welt、SZ、FAZ、tagesschau）は独仏開発のローバー「Idefix」の参加に焦点を当て、Die Weltは費用が中止された米欧計画より小さいと指摘している。中国の国営メディア（CGTN、Global Times）は、打ち上げと探査機の分離を淡々と伝えている。",
+   "search_ja": "MMX H3 火星衛星 打ち上げ",
    "japan_main": [
     {
      "outlet": "NHK",
      "title": "探査機「MMX」 火星へ向かう軌道に 衛星「フォボス」探査へ",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ubmFmYlRDcFlfVm5nMVhvWUFHUVRsVVdPT3hfMHdrV3hBZWdoampNa1FFaUpMSUpMMC1tbWM4bmJYenJHNFdTa0hQNlJqdFhoYU1Pc1FBemxkTlZmajZN?oc=5",
-     "published_at": "2026-10-19T19:42:34+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
+    },
+    {
+     "outlet": "NHK",
+     "title": "火星衛星探査機「MMX」 種子島宇宙センターから打ち上げ成功",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNZkVualUtZURBaml2Y1RyWXBROHg1dDJTMExncmI5SGw5MkV5MnN1aDFZdVVzakZjdGJMa3JSbWZPdHhXVmM3T1NVbGZlaWtzcHpaRDBveUg1eWg1OFdv?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "NHK",
      "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」早朝に打ち上げ",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VSGJwS2ZwMkluMi1LX1NvYVMxVEdrank3NWFVN2NFcE43WHJBeUxyRXd3b29vcmdkMndHa1NzSnAwMGo2QmdES1ZQY2U1LUhoZllVNFdqT1FfMlNsZXpj?oc=5",
-     "published_at": "2026-10-17T22:41:25+00:00"
+     "published_at": "2026-10-18T07:00:00+00:00"
     },
     {
      "outlet": "NHK",
-     "title": "打ち上げ成功のＭＭＸ 太陽電池パドル展開し順調に飛行",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JYjZPMlczb2xET29nSE9qRzUwUjFtVEdOUGZpNlItaGlVdWlfdnpxVjR6ZkNBVU44dFFHV3VUZk1UaExwZG5WNTVzaE5iUFdvQ2hNN1J0ZUlVX2xqNkF3?oc=5",
-     "published_at": "2026-10-21T12:05:00+00:00"
+     "title": "H3ロケット「MMX」搭載してあす打ち上げへ 鹿児島",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oSFdQT3M5MUZsY1JVazV0NndZTXdzdThtYUlRVXI4Xzg4cEpUQmlCU290d19xa21ablQ3ODl2MFdNQTlOTmw0SmNTWHVYX2NMYllHcnkxSmUzYWxYRllB?oc=5",
+     "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
      "outlet": "朝日新聞",
-     "title": "MMX打ち上げ成功 火星衛星で世界初の試料採取へ、往復5年の旅 動画",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3FRODlFUHNrQXYxRWlxSFoxN2U1RHY2a3B3aGk4R0VsLU9PNkhOQlRybTdIYjdkdGt0NDVUTUVtWkZFalY4dVFJN0VhcW9UUnotVGJyQUprSVRCY2tlZjNsMEFCYjVpQUs5SjdJdHAtdVYwdVJMN3ppNk1Zd2JaM25HVnEyX2dnWnUtRXRaMHR2UQ?oc=5",
-     "published_at": "2026-10-19T21:00:04+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "火星の謎、迫る旅 衛星探査機ＭＭＸ、打ち上げ",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1RHczM252MGk2Yk5PbjZPbTJ5dmZORjdvaXNtMC1iM3p5Mjh4NXI0VXdydFhRYkdTQnNwc255MEYwWHlZdHhza3czcDlUWWdla19ITjh3d1phRklQ?oc=5",
-     "published_at": "2026-10-20T20:00:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "「MMX」載せたH3ロケット打ち上げ 見物客「言葉にならない」 [鹿児島県]",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81bzkwLUx3T3MydFNvblBxc1J1djBYdUlkX0JLWFA2LTNHODFkOGJ3TWZ4WDEydmsyM1U3WHRMQjl3OG1nb0RnWTlMekdUY3dlSEVSNEk5UEx5RUdaeU9nd3dDVUw1WDg?oc=5",
-     "published_at": "2026-10-20T05:30:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "2年越し打ち上げMMXに安堵と重圧 バトンはロケットから探査機へ",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sSjg2WUxaOWI5UWUycXZ5NnByNjNhbkVsekFHZk5VUmlzTm9UVE9FTi1vZld5cHI5LVNqWjhyRkdOTTZraEFQYTRqT3BTc3NNdUpoUHF2NHVsS3BrYjB2aG9QMlJpRDA?oc=5",
-     "published_at": "2026-10-20T03:00:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "「MMX」載せたH3ロケット打ち上げ 見物客「言葉にならない」 動画",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXZnlXZkZSdzR5YnZ4d1d2UmpVN2JhbzZqVnZ0dnE2OEFmclNLNTd0VU5FcnBNWlhDaGJ6d3lmWTNVejlfem0ySWJNU2d2RnNFR1FfdUthckptY0F1VWtOMnNiNFh6eldVeXplUnJkNA?oc=5",
-     "published_at": "2026-10-20T05:30:00+00:00"
+     "title": "火星衛星探査機打ち上げ成功 世界初の試料採取へ、往復５年の旅",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVEgyUlk3MGppQWlTS1lxMjZmR0N5V2NhR2FqMHdzS3MyTlo4b0FlejFDUGZlVUh2akl3cDgzOTJORmp6bndsa0hLMnd6R1lPQlhUUHEwUzJMQkpPc0hpaktXYnowdHZxRUdyOVZR?oc=5",
+     "published_at": "2026-11-06T16:46:41+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "「火星衛星の砂」持ち帰り目指す探査機搭載、「Ｈ３」は２０日午前に打ち上げへ…ＪＡＸＡ発表",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04cEhjV1lkaVI4bE5MeUwzUUZpZUtETmN0RER1MjRrX1JqbjNlWEtXRzJ0ZkJnVGpHY2M3czNBZURsaDRreHZER3VQUXlEeXczRTBEd2N0N3RqT2FNZ2pLSlY2SU4?oc=5",
-     "published_at": "2026-10-18T10:02:00+00:00"
+     "title": "火星衛星探査機「ＭＭＸ」を搭載したＨ３ロケット１０号機、種子島宇宙センターの発射地点へ移動",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tSWFmNzJtNUtFLU84a2tIVHcyWHNCNm1Qbzd1SVRRckxRNHJURXFnajJRVmZCemh2TGgzS1NxQzA0bFJ3SDh2cGUtNm5xckNtU2hIcF83dzNqQmNjSlkyQkVJQlg?oc=5",
+     "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
      "title": "「Ｈ３」２度の打ち上げ失敗克服、ＭＭＸいざ火星へ「２年お待たせした」…責任者そろって記者会見し笑顔",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03bUFPMjR4cFhQZFpLWUhJME55Qno4NkNxTldobzdqTEd2ODdHRmU4XzZEcEhya0VYT3dfcDRTanRMRlFoZ0hmV1BvTUVCNHpuVGJrYkRKOWlHWUdaTTlsU0l2MTE?oc=5",
-     "published_at": "2026-10-20T10:50:00+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "火星衛星探査機「ＭＭＸ」の打ち上げ成功…鹿児島・種子島宇宙センター",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jTnBsRFVmT25TNEVnT3REODBqeGREX0l5bGMxYmNQelo3VWRrdGRlQ3NiTTBKNUFWdjJqTHA0QU1YWDFPTTFTNFRjM2I1ZHZoSDM1Z1FMR2xhTVE?oc=5",
-     "published_at": "2026-10-19T21:45:00+00:00"
+     "title": "火星衛星探査機「ＭＭＸ」の打ち上げ成功、サンプルリターンに向け５年の長期ミッション…成功すれば世界初",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51aDY2dGQwT2RYbXpzajVHbnN3S0NWbEswbE8zYWQ5dDR1RDVQSUE4Z014T1NlOTVnYXNlM2RiWGdUZ1hRVURYMGdoRzlfbFFYZE9wUklWamlNd2ZvakNGNEpDcGU?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "月の次に人類の活動圏になる可能性ある火星、ＪＡＸＡ「探査活動の礎となる技術獲得」…「ＭＭＸ」打ち上げ成功",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUFFvekhiSGhtb1hxeHI3OFRoVEpRV3ZPcnVOOVJUTnZaSlVkSlpNemozM3EzS1BfVVM5WG1WQmt3enQwajFwV2VURkhmRVRGYkV6bzZUQTd6eHlqb3VaaHRyWWU?oc=5",
-     "published_at": "2026-10-20T09:25:00+00:00"
+     "title": "火星衛星探査機の打ち上げ成功、ＪＡＸＡの米拠点でも歓声…ＮＡＳＡ元研究者「重要な任務ぜひ成功させて」",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kMThpN0l4NVd3Z21SNEtia2NYanF0S0dHZTFNbDNqV2J6RkpmbmF3eDBFTlRxRERQUzdJWDIyNzgzM0dyV09fVzNWd3RzYndpTDVZdUl3aDNpNmZmSmFRTm96ZVA?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
-     "title": "火星衛星探査機ＭＭＸ打ち上げ成功、ＪＡＸＡプロジェクトマネージャ「どきどきしたが計画通りいってほっと」",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RUWV6c0ZsNkNSSzhGTW5SVjMybW1VWnRUVjUxOWFoY3labDhYdzdqWkMtWHZVVVFSdDUzYmRlbzNKMWpjQk8tNUVZOGgyR0NYd2JSZGx2RWdrZzU0eW1RM2JQTGo?oc=5",
-     "published_at": "2026-10-20T02:27:00+00:00"
+     "title": "「火星衛星の砂」持ち帰り目指す探査機搭載、「Ｈ３」は２０日午前に打ち上げへ…ＪＡＸＡ発表",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04cEhjV1lkaVI4bE5MeUwzUUZpZUtETmN0RER1MjRrX1JqbjNlWEtXRzJ0ZkJnVGpHY2M3czNBZURsaDRreHZER3VQUXlEeXczRTBEd2N0N3RqT2FNZ2pLSlY2SU4?oc=5",
+     "published_at": "2026-10-18T07:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
-     "title": "火星衛星探査機「MMX」打ち上げ成功 29年ごろ衛星「フォボス」で試料採取 [写真特集6/12]",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1RNVTkyTU9mVnA1YVpHTmtwazM1alB6UU55RmwyTzVqb3pWVFRwMGhkMWRlRy1DWTVnOEtMZGZMMFdTdENEUkp0ZHVZZ0xhS3UtU2ZwX1VkaTdlTkk2LVF4N0pxMjNoTGV0WDFISUhwQXBXcU9fNGlrSHNaYXhsU1NSdnN1d0U?oc=5",
-     "published_at": "2026-10-19T21:50:02+00:00"
-    },
-    {
-     "outlet": "毎日新聞",
-     "title": "火星衛星探査機「MMX」打ち上げ成功 JAXAが記者会見 [写真特集1/8]",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDFUdzJDQU9qbm5mTUl4TmV5U1hCVkhpbFVzdTBoQ3lwd3pfdXIwU2NGbmNQRDc2aVJBcy1JVWh5M2xqMGdXWXpNOVItb1NTSnZoRjRHbW9uN240V2RNLUg1MWhrZVVUMlExT1h2WXZWa1BXUmFOR0tKc3dWWXdVdGtBZHdJUEE?oc=5",
-     "published_at": "2026-10-20T02:15:38+00:00"
+     "title": "MMX打ち上げ成功",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0Y0VpaDgteUtCNWRUZktxTkEtSnVhWWNfbGQ0d1FNcklrTmJhMlIwX25ZZlBTYjlkZnNzbmQ4UHREc2hRVzVQQVdfXzNjb2FJSDJxamJ0T3dmTnp2ekFyNTVkSk9MaTE5UUJzQWZGXzg?oc=5",
+     "published_at": "2026-11-05T21:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
      "title": "火星衛星探査機「MMX」打ち上げ成功 世界初の試料持ち帰りへ",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yNXNrQUxhSGkzWXBqaHJ2enNwV1ZUZlB0QlhnZTc4Wk9CT0hSSE5pcWwxN0pxNC1sdjZkNkNSTDdtSFA2bEdMa1A4NjlFM1RIdkczTVp4QXVFRXNldDVndS1mYndRSTJQ?oc=5",
-     "published_at": "2026-10-19T20:28:00+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
-     "title": "火星衛星探査：火星衛星の砂、初回収へ MMX打ち上げ成功、往復5年の旅",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpUkRKTkx0OWNDLXczZ2d6dVFxb2tGWVk4WGZuWEIzY0I3OXNESzN0RTVwbS10ODMtYkJfdF9qWWlSYmhLRE5rWVVQZ2ltTjNVZ1hUcE5NVXlBT0g4N1QweHBRTEhScmxH?oc=5",
-     "published_at": "2026-10-20T17:04:09+00:00"
+     "title": "H3ロケット10号機 打ち上げ成功",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nbW1pNmVRVGhuOHpaUFpDYk9UMThhbU5BTmVSRDhVbjZZdnprS2psSEEtQThQZDg3ZEVXNnZ5RlBxQkcyUDJha2s4bFNiNUdVcE5jbEM0cUhDMl9HNUE?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "火星衛星探査機「MMX」打ち上げ成功 29年ごろ衛星「フォボス」で試料採取 [写真特集6/12]",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1RNVTkyTU9mVnA1YVpHTmtwazM1alB6UU55RmwyTzVqb3pWVFRwMGhkMWRlRy1DWTVnOEtMZGZMMFdTdENEUkp0ZHVZZ0xhS3UtU2ZwX1VkaTdlTkk2LVF4N0pxMjNoTGV0WDFISUhwQXBXcU9fNGlrSHNaYXhsU1NSdnN1d0U?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "火星衛星探査機「MMX」打ち上げ成功 JAXAが記者会見 [写真特集1/8]",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDFUdzJDQU9qbm5mTUl4TmV5U1hCVkhpbFVzdTBoQ3lwd3pfdXIwU2NGbmNQRDc2aVJBcy1JVWh5M2xqMGdXWXpNOVItb1NTSnZoRjRHbW9uN240V2RNLUg1MWhrZVVUMlExT1h2WXZWa1BXUmFOR0tKc3dWWXdVdGtBZHdJUEE?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "産経新聞",
-     "title": "【動画】H3ロケット10号機打ち上げ成功 火星衛星探査機「MMX」を予定軌道に投入",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wMEdXVW96cDA3WVVXbHNfUllhLVZ0Z2ZvRXY0TEZUZUwxVVdGbWhsM2xBRjViVFp6b2stTFRlMkJkeEVncERTU1dMUFpIWk0waV9vbUxIVUxETnVSM2dmMGlCYmdWZEdKN3dXNVNrU2VPalp6MVE?oc=5",
-     "published_at": "2026-10-19T20:57:17+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "【フォトギャラリー】H3ロケット10号機打ち上げ成功 火星衛星探査機「MMX」を予定軌道に投入",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NQlpsWk9GVXNUVl9rUVlMZUpfRmItaFdnb1pyQkxmM21BUjNjZktwNTctRnNDeGR4Mk1oZk5rWlkyem5iU2NaQlBYWjd5OXBaNDZ6Z2tnNzIwejI1MDVfRmxXb0hTUzZ3OXBIazNEUHVLMTJBNkE?oc=5",
-     "published_at": "2026-10-20T02:45:00+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "H3ロケットが発射地点に移動 火星衛星探査機「MMX」を搭載、20日早朝に打ち上げ",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sb0VuWDRVNGFQRUFIZU1LcGtPQnNGTVpJLTZIREc5Z2h3ZERZSlY3aU5BQ2UwbUpYQ1k0WFFaNE44Y0lIZm9SMmtRemRIRGc1eXNFRkVhRUFiNDdNV2dIQlJGVHdQbEtNMW1fT1hVY0ZKY25pa2c?oc=5",
-     "published_at": "2026-10-19T06:59:23+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "火星衛星探査機「MMX」を搭載して打ち上げられたH3ロケット10号機＝20日午前4時41分、鹿児島県南種子町（JAXA提供）",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1hzVzhHVVVNT0hGM3g4WlJIMF8wemh6c1FMUHNSNDh1dm9tM3VmY0ZCN3BLMUtSWDhLVjhxajVXc0tPY0N0d0dRREdoMWtEdm5uNzlkRXV4MV9RaFpYT3VRWWxGQU0ySUVWckRDNGRCc1BkNlFEYTZlSXdnSXU4WUhMUmNSNmo1eXZUQVYxOTc1dHRMRWYya3NqaW5tei1jZEE?oc=5",
-     "published_at": "2026-10-19T20:57:17+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "火星衛星探査機「MMX」を搭載して打ち上げられたH3ロケット10号機＝20日午前4時41分、鹿児島県南種子町（JAXA提供）",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEx5b2FsYlRMTU5ROFhLd0tPLUJDa1hpd2w3QjFfaG9RQkRnczFlUHJzXzl2aGlaa1Nsb2Mxd1FWOXlKUFliMnpJcVhYcXJiUnAyRmdhYVk4TTBXbnUyS0xwQktiSF8zU0NvQ1BDcEExNkhkRF9mY2d5TkhDVjFwUGw0YWtqYmhhU01paWdlMHBabzdSX3dVcjRKQzU1ZFdnWXc?oc=5",
-     "published_at": "2026-10-19T19:53:36+00:00"
+     "title": "「H3」打ち上げ成功で喜び爆発 最も強力な「24形態」を採用 MMXはこれからが本番",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3A5a1JmUmExSEYxR3dSOTEtRldBZEx4aHVBVmp4aXdMU0FwS2xCdjJINHFaV2dZdzhGcXU5cEQwTXNKRmd2SEVCR0JnSnVaX2FScW51LVZXdUsyMEdNa1l4TXNLeXlsNDdWUEVGTWs3TkJoNGRPQzlpNEE4UVJtNHFOYW5UdlpQZVBRTA?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "日本経済新聞",
      "title": "H3ロケット打ち上げ成功 火星衛星探査機「MMX」搭載、試料採取へ",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ObXcyUTlVNDJnM0Z0WWFidzFGekllb2VvUXluV1oxSDVMa3dJMV85NjNCNTRZSUkyVmRrSnBuajBjTmp4aHBCbWxIRVNiblVLTGk5bjBLT3MwWnZCM01NQk5pOHB6VlNTbmVWTQ?oc=5",
-     "published_at": "2026-10-19T19:42:34+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "日本経済新聞",
      "title": "H3ロケット20日打ち上げへ、責任者「わくわく」 火星圏目指す",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92YmxFWDZycm5VMF9nYk10Zy05bGFsU2VaZF9PTVNGN05kRXh3SzNUN2lVMUtlX2plLU0yczJMcFpRLWRTMGVkc0tycExnYTFfNlpOWFliUVVXbjBqWkRWUTdsakNJaWQ2MkU0cw?oc=5",
-     "published_at": "2026-10-18T07:48:47+00:00"
+     "published_at": "2026-10-18T07:00:00+00:00"
     },
     {
      "outlet": "日本経済新聞",
-     "title": "GSユアサの宇宙用リチウムイオン電池、火星衛星探査機「MMX」に搭載",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYzBhdjRsc3doYkN2T0ZlYllEYjhzSjhxYUxmYUo1bktzaVhOYUpzT1ppN21nUTNrZG1BMGN5Y2x3dENmRTFKMkJwR0c4MjVHcmM5YXdxQ19tSVVzVXFtZW0tMGVYQjdzV2VnUA?oc=5",
-     "published_at": "2026-10-21T07:49:25+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "火星衛星探査機MMX、地上との通信など正常動作を確認 JAXA",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxNDIxOWFnWXRyWEVnTlp6V0pJRlN4YWFCVTBoaDlKcmpvVGtGYU1PWUZNT1c0QW5vN2hyYTlOT2RwMUJVREQyYnY0bXdHVHRMSGJsc3RxR1c3X3QwMUE2N0dLa3ZLdGU3N2FFdQ?oc=5",
-     "published_at": "2026-10-21T08:00:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "「太陽みたい」H3ロケット10号機 火星衛星から試料持ち帰る人類史上初の挑戦 5年の旅路はじまる",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWk5KZlUyc2dZNWxrLUJLOW1kRmZ4RDg4b3doaHJkNGw1UG9zVEJkWUgzZXJDN2Q1cEtpVU9UMnNjeGpyRzVlNjlWWmFvQUxSY3NrRGQ5My1fY0hYMTBaUTFlcVpuekZKd2pWU3l1U3Q3ZUxxUTJRMElYMHgxTEplMUpILTc0dDA?oc=5",
-     "published_at": "2026-10-20T10:19:00+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "“人類史上初”のミッションへ…H3ロケット10号機の打ち上げ成功 火星衛星探査機｢MMX｣搭載（2026年10月19日掲載）",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IMk9EU1lBNXVhNWg5c1NlR2hFTFZKNTlEcU5NYlJtakV5Z1VYNzVnTmdBUUN2eEg2RnR2QUtNRUJFdW4tcEkxU29ZbmF4Vi1wZkdId3ZLdWt3dDJRUGpVeHZVVGxLSUNHUlB1cGRqOGxKdTk1TWVycTI2WVM?oc=5",
-     "published_at": "2026-10-20T02:58:00+00:00"
+     "title": "H3ロケット打ち上げ成功 火星衛星の探査機搭載、サンプル採取めざす : 映像",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tRTN5ZnN3NzVGR1NhbkcwdEh0UktOR2ZSYWsxeV9UMmtpZ090NFBJV0hGeERDV2JqNmstNThPZWRNT3dCSjB4RF9FaF9wQ2hlWUd5UTJn?oc=5",
+     "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
      "outlet": "日本テレビ",
      "title": "人類史上初のミッションの幕開け H3ロケット10号機打ち上げ成功 火星衛星探査機「MMX」5年に渡る旅へ",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTczcGdwM3ZrYllFUkdZNVRqbnB3bzFrcTNqWTZxdlBkQjdqMnctSXVMSGxNUFI3d0Q4SDczQUV6YjEtUDBNQkM3ejZway1HeGtPaU5qQTZxN01mXzJkSGNhOTJsdEU1S2lscnE1RWpfQUpYS3IzZ2d6SU9IYk1oZ2R4THdqelE?oc=5",
-     "published_at": "2026-10-20T02:48:00+00:00"
+     "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "H3ロケット10号機、打ち上げ成功 “人類史上初のミッション”始まる（2026年10月19日掲載）",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxSk5uMXBxcjNQakxHaWNOOGdISS1FbmxkUEJFRm9nT1FLa3htcHZYNWNKSUY3M3piMVVhU0hjQ2dRZWJNX2luXzlodmduQnNITVFFNmZONzB6djgyLXRORnZOc2k5cDctcTBGRjR1eGZIOEVPbzh0cDNBSGM?oc=5",
-     "published_at": "2026-10-19T22:44:00+00:00"
+     "title": "人類史上初の挑戦へ 20日未明にH3ロケット10号機打ち上げ 火星の衛星から試料持ち帰る探査機「MMX」も搭載",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0NGSUphRTk3VXVoajdySFRhZkpTa3B1UWpuN2hqY3kwTU5FWVdkN0VhVVN1dE1TY3dMZW5nUThNM2F3THYwbGJNU2F5YzBodXFRZFl1dW5pcmo4NmtCclBWSEtKVXR4cG90cUhuTkhTSVlvVTB2ME10QXViOGowUGpoTjFGd1k?oc=5",
+     "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "【速報】H3ロケット10号機打ち上げ成功（2026年10月19日掲載）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodUZibHFZSGx2Zkx6WnIyTDJpVE9tVzhYaGYzRTNzQzl0QktTNUtUNGtxMEVKNmVSNkdTVnI5OThWX2p1el9jOFdSWnJwUUtLMUlwTWc3blpxeHRMSjRnd0hmMkhCRWd6ajVIQ1F4dUpPZWxPRVg2MEJDMEN5Z28?oc=5",
-     "published_at": "2026-10-19T20:56:00+00:00"
+     "title": "“人類史上初”のミッションへ…H3ロケット10号機の打ち上げ成功 火星衛星探査機｢MMX｣搭載",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IMk9EU1lBNXVhNWg5c1NlR2hFTFZKNTlEcU5NYlJtakV5Z1VYNzVnTmdBUUN2eEg2RnR2QUtNRUJFdW4tcEkxU29ZbmF4Vi1wZkdId3ZLdWt3dDJRUGpVeHZVVGxLSUNHUlB1cGRqOGxKdTk1TWVycTI2WVM?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
-     "outlet": "TBS",
-     "title": "【ライブ配信】H3ロケット10号機 打ち上げへ 火星衛星探査機「MMX」搭載10月20日（火）午前4時41分03秒予定 H3初の惑星探査ミッション【鹿児島・種子島宇宙センターからLIVE】2026",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wLW5oNmtReVpwNmM5MHJRV3JvX1V4bmVNMzZJZ1Rsajl0TS1fcWpXaXhsWUx3TXpEdk56UDQ3Q1JmamhhT2toR29Mc09uX2VTeS01RzFsZw?oc=5",
-     "published_at": "2026-10-17T03:37:00+00:00"
+     "outlet": "日本テレビ",
+     "title": "【速報】H3ロケット10号機打ち上げ成功 火星衛星探査機「MMX」5年に渡る旅が始まる",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVIxTmI1MlpNYXZRb3dkdmtSXzRVNVdkQzh0VFdrTW1YTFJLZ0pITTBDallyaFpTS25MNjZiWEVZUzBqV0ZPekcyVTVzUGRLOHA1STl0blZjQXpjaEl0QVVWVlQtRHcwVHEyWWdnM2hCMmlWemFaNlZ0ZkY4RWhlUHU3ZDd3aUU?oc=5",
+     "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
-     "outlet": "TBS",
-     "title": "H3ロケット10号機打ち上げ 火星衛星探査機「MMX」搭載 「まばゆい光放ち宇宙へ」",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PblZhOFhBenhBR0U5cDBwRTBESFhhUHZCZ3NvVGdCRnFwUm5wcDVNS0Q1WjB6b21RQ09CM2pjcHhIcHBzUWtRbTI4NUp4NGc4TDd2MzRWeGNyU2dtZ1d1a3c0WElxY3M?oc=5",
-     "published_at": "2026-10-19T19:58:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "火星の衛星から砂持ち帰る探査機「MMX」搭載…Ｈ3ロケット10号機が発射地点へ 20日午前4時41分に種子島から打ち上げへ",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sd3hYc1VSWVNwUC0tcF9xMi1VUlZIY1dFWDlzX2tmTUVfakZtZFhTOGIxaWhCQnlHV2VjX19fUl9vZ2xWT193WFdVZWtZLUVvdEtkSXZZZGI0M09qUFhB?oc=5",
-     "published_at": "2026-10-19T11:30:00+00:00"
+     "outlet": "日本テレビ",
+     "title": "「太陽みたい」H3ロケット10号機 火星衛星から試料持ち帰る人類史上初の挑戦 5年の旅路はじまる",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWk5KZlUyc2dZNWxrLUJLOW1kRmZ4RDg4b3doaHJkNGw1UG9zVEJkWUgzZXJDN2Q1cEtpVU9UMnNjeGpyRzVlNjlWWmFvQUxSY3NrRGQ5My1fY0hYMTBaUTFlcVpuekZKd2pWU3l1U3Q3ZUxxUTJRMElYMHgxTEplMUpILTc0dDA?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "TBS",
      "title": "種子島から火星衛星へ H3ロケット打ち上げ成功 火星衛星探査機「MMX」で世界初のサンプルリターンに挑戦",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhRnRjZ1V1bVNKODNzZ2gxNGtERDRfbFc0RjBqX3V3aEZEM0Rqb3RoV0NScGdHUm8yeUlxUDdNcjhVSGlNemhiN1JHUEJxV1hlUl81LVJuSQ?oc=5",
-     "published_at": "2026-10-20T10:22:00+00:00"
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44TVRFZGk3SVNQQnNLRTAwZi10TkNiUHU2VjMxUWF0Z0hldms4R0RlQUpOVjJ5TF8zR3ZfMDRXZ2JKUWItcTVnRVRMRXlIdlA2dXduYVpSVWxDS3lpVlNKZkloOA?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "TBS",
-     "title": "H3ロケット10号機 打ち上げ成功 火星衛星探査機「MMX」を軌道に投入",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RV1RVWmY0LVIxNkR6LTR5WkQ3bnJnemcxQTQ0Qm9idTE5VE9CMm1mM0tQcWpIS1ZLNm9DS1NCWlJCYjdZeDVTMklyTTRCVUlYd3gtX1VFaWRib2R4SlVJ?oc=5",
-     "published_at": "2026-10-19T20:58:00+00:00"
+     "title": "火星の衛星から砂持ち帰る探査機「MMX」搭載…Ｈ3ロケット10号機が発射地点へ 20日午前4時41分に種子島から打ち上げへ",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd0RBSTh2NWxJOV8xMXFLdXExSlZXMFpYSEVVNVIyM2hKYmJ1X2tFU0dfbWxRWGpSQS14dW1KMm1YcVM2MXNqTHV3QnFidHhFel9hQVpoZWNaVTFvZUgzd0x5Mk9DWmVpc0VKWGdxTmtkQzljTFFIaXp5TWxIajg5bmtCSGVFYmNYMmFsYU5VUjRaS0lickx0anpwVlczSGFjQWJTMXBsQUpST1ZmTzVIX1ZEcDJpRzJGMG9JV0xnZFZBS2NmTmFaQmJORGdjeFpXalk2TXYtamM0UExQa2YyZ2NNSUJEd2VzRnItaVZHVWxqRUl6WkE?oc=5",
+     "published_at": "2026-11-06T05:30:34+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "人類史上初「火星圏からのサンプルリターン」へ 探査機MMX 日本が挑む衛星フォボスの砂採取「はやぶさ」の技術継承し2031年地球帰還予定【サンデーモーニング】",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1peUVmTHBYcXBoUGV5V0ZXaWhRaURMaU9TZVo2RVJqMHVieERzRElQSHVMZDV6Y1JqRkxLT3RqZHVGQUl6cDRvX1R3LV82TzYtdFY1TlVad2RxR1R0bHFzSg?oc=5",
+     "published_at": "2026-10-25T07:00:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "火星の衛星から砂持ち帰る探査機「MMX」搭載…Ｈ3ロケット10号機が発射地点へ 20日午前4時41分に種子島から打ち上げへ",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43cGFlT2xnWlZBa3RkUFZoMGl5VUUtd0lKRUw5UmxRNWREZVRKdEhZbHRDUFJpRTJjbUlvVEg5OGU0eU85b2NxOGxhTmpabzlqZUxaTnU5MA?oc=5",
+     "published_at": "2026-10-19T07:00:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "H3ロケット10号機打ち上げ 火星衛星探査機「MMX」搭載 「まばゆい光放ち宇宙へ」",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oRmNaVm9IT05mZ3ZRZS1GU21nYU4xS1ZiUWg0NDVFa3FWa0o1Z0lGbEdienk4NE5NNzFXY1ZFU2Ixbmhyd2hZMkFDd1diTF9Ucjc0ekZWYw?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
      "title": "H3ロケット10号機打ち上げ成功 火星衛星探査機「MMX」を計画上の軌道で分離",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nN2dWX1lIMVREZEI4UUFBRU5faEtPZmRENGwtRGc4WkhTNTgxRy1Xb0FXNE14NFlqUk1lT0ZOR25wbHdoLUZfdzF3YmRld1F3OWhsTkUtbll5bmJ1UVhlZ2hIM1E0enRaMFVCUkhMdFVQZw?oc=5",
-     "published_at": "2026-10-20T02:14:19+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
      "title": "H3ロケット10号機打ち上げ成功 火星衛星探査機「MMX」搭載",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11ZEd5dy1taE1fY21MOEd2YWhmTHpvYThVVHl6dnlKWnhkajRkaUNaWkRQUzNpMjFPcHZvVk9yNWliZ3lkbkFZWDFpZ3ZDOEdoMElaS0E4SldFdDI2VkpEZUVsdUI2VV8yT0wtN0VWZ2FSQQ?oc=5",
-     "published_at": "2026-10-19T20:50:14+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
      "title": "「火星圏での探査の第一歩」H3ロケット10号機打ち上げ成功 火星衛星探査機を搭載",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8td2p1T1M2WUhJdmY4OEpKSnpRMmtLOFJGM2h0dVBIeEFKay1wTUxUVmRwTE9mOHVham5HN0Y1bm55MDA5cDRuLUdIWXJIOVZwbTZVaTUwUFMwelRZMlRuR3V1dHFTYkJ6R2hhcWlJaDNLUQ?oc=5",
-     "published_at": "2026-10-20T03:33:32+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
      "title": "“世界初”のミッションへ 火星衛星探査機『MMX』出発",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0eWVTdXFpcS1YRHY2TlhoUW8tOFd6WjBHUDJ1dFhTaWtET016NUR1OGhhZk1nLV8zSHoxamJSMUp0bUNnallRZHJjeGkyWktaTnhhVS0zbXlsUU1rc1FWUng1eDQ3MDFMdWU2SUpfekViUQ?oc=5",
-     "published_at": "2026-10-20T15:22:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "H3ロケット10号機 打ち上げ成功 見守った天文ファン「貴重な経験でした」",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jNGtpZW1zVmlqdk9ybWo2NVgxdEd4c3lGdDN0c0NybEZyT0Q5WFFvMjdVb2E0SVVuems1UE5SczhsdkFlR2c2WmlzUlZ4a2FDOUgzdzUzZjdKTVFkWHpXVUVZWmExbHpna0NjajBEZFVsdw?oc=5",
-     "published_at": "2026-10-20T08:44:26+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "【速報】H3ロケット打ち上げ成功 火星衛星探査機を搭載",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13bHRybU9wMnp5Y21VSl93cmNQUnNFRkdWRWwweElJSFZGNWNXSXVGQ2N6QXZkWWlMcW85a1pja24yNmc3Y3VUcWtXdVVQUQ?oc=5",
-     "published_at": "2026-10-19T21:09:00+00:00"
-    },
-    {
-     "outlet": "フジテレビ",
-     "title": "【解説記事】H3ロケット10号機、打ち上げ成功 火星衛星探査機MMXが世界初の砂採取へ",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qNno3NHpLLUxpRWdTcUZjQkVnbllNQXd3ejhFVlYwZ0c0U0tORVZhWUxYV2Nka2ZFa1BScEg1MkptRWJxNnRjVVFheVdrVktIV0dVU0VXSE5nT2gzU0dz?oc=5",
-     "published_at": "2026-10-20T09:51:00+00:00"
+     "published_at": "2026-10-21T07:00:00+00:00"
     },
     {
      "outlet": "フジテレビ",
      "title": "【打ち上げ成功】H3ロケットで火星衛星探査機「MMX」 フォボスの砂を世界初持ち帰りへ",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2ak9QX2ZBNzh6ZlhIWVM5dUY3YU9iZDJEa3RQZzZUZ1F4RE5rUXZkUjV4QnZXYmxvXzBIVms2X0MtQjZUYTRhNFcwNFNodw?oc=5",
-     "published_at": "2026-10-19T21:15:00+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "【解説記事】H3ロケット10号機、打ち上げ成功 火星衛星探査機MMXが世界初の砂採取へ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3V0dlajBmbHJmejlTU0FpZkpsaE51X1ZRZXNoSHVCTkczeTdRSnV3NGJjT3BoZHhSNWhPM0VGZGl3eHJfMkp6VWowcEkxdw?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "フジテレビ",
      "title": "【速報】Ｈ３ロケット１０号機打ち上げ成功 火星衛星探査機を軌道に投入 鹿児島・種子島",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5blNEaUdtOGJLblVORFZrOW4tSklTU3JPUnRnS2JsV0Nxa2lwX0tMWDdScUlKR1RiVU9Qa3pGNXRLVVgtMXEyV21HU1JvQQ?oc=5",
-     "published_at": "2026-10-19T20:52:00+00:00"
+     "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
      "outlet": "フジテレビ",
-     "title": "Ｈ3ロケット10号機の打ち上げ成功 火星衛星探査機を搭載【種子島宇宙センター】",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WaVJXTGVucWdaVXhaQTBWd05IdGRwSmtRUjB4OVc1NE1GNWVpV01xbWxGR3lpMlF6NG5jeWJ6WWpMcGN1NjdYOE1iMWd3UQ?oc=5",
-     "published_at": "2026-10-20T02:30:00+00:00"
+     "title": "「MMX」で砂や岩石など採取、地球に持ち帰る世界初のミッション挑戦へ H3ロケット10号機打ち上げ成功 高市総理も満面の笑み「よかったねぇ」",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9raU45VkFwYXZpMlpwTzhwOXZJNWlPdExCcXNXaE9aVURLbk40ZG5JWW94TXMzTVpLN3A0MXEwSlRLeTJrNldObkZ1MlFtQQ?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "火星衛星探査「MMX」打ち上げ成功 木原官房長官「大変意義深く、多岐にわたる成果期待」",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1Vld0azVSQUVBS0dIMzRTU1ZBekVVNWdzMVFzUHRFMkJBeS0zVVdSazR5NV81VTNhVFFnLWJWVzJJZ1A0MkxZQTBGUVRrdw?oc=5",
+     "published_at": "2026-10-20T07:00:00+00:00"
     }
    ],
-   "japan_main_count": 38,
-   "japan_main_checked_at": "2026-10-24T00:03:46.267549+00:00"
+   "japan_main_count": 39,
+   "japan_main_checked_at": "2026-11-08T00:34:42.901740+00:00"
   },
   {
    "id": "02c15cd0-cd86-415a-9cec-eb8ace06c7ae",
@@ -13025,7 +12983,7 @@
    "target": "高市政権の17分野成長戦略",
    "judged_count": 0,
    "first_seen": "2026-10-25T09:39:00+00:00",
-   "updated_at": "2026-10-26T07:09:00+00:00"
+   "updated_at": "2026-11-07T03:24:00+00:00"
   },
   {
    "id": "d7437e5c-26d8-43c0-aa55-f8169ffb188d",
@@ -13219,32 +13177,56 @@
   },
   {
    "id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
-   "title_ja": "相次ぐ情報流出を受け、政府がサイバー対策を強化",
-   "fact_ja": "高市政権は10月26日夜にサイバーセキュリティーの閣僚会議を開き、対策強化を急ぐ考えを示した。その後、11月6日には緊急対策パッケージを打ち出した。",
+   "title_ja": "相次ぐ情報流出を受け、政府が緊急サイバー対策パッケージを策定",
+   "fact_ja": "高市政権は10月26日夜にサイバーセキュリティーの閣僚会議を開いて対策強化を急ぐ考えを示し、11月6日には専門家チームの設置やAI活用、被害企業への支援などを盛り込んだ緊急対策パッケージを発表した。",
    "category": "安全保障",
    "target": "政府のサイバー対策強化",
-   "judged_count": 4,
+   "judged_count": 6,
    "first_seen": "2026-10-26T09:26:00+00:00",
    "updated_at": "2026-11-06T16:47:00+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "高市首相は、企業を狙ったサイバー攻撃で大規模な情報流出が相次ぎ、漏えい情報の悪用による被害も懸念される深刻な状況だとして、対策を急いで強化する考えを示した。生成AIを使った模擬攻撃テストや、中小企業にも広がる監視網の整備などを挙げた。",
+   "japan_position_ja": "高市首相は、大規模な情報流出が相次ぎ、流出情報の悪用による被害も懸念される深刻な状況だとして、対策の緊急強化を表明した。11月6日の緊急対策では、精鋭の専門家チームによる模擬攻撃や、官民の専門家による被害企業支援、AI企業との協力などを打ち出した。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "数百万人の個人情報流出が金銭的損失を生み始めているとして、首相が「状況は深刻」と述べ緊急の対策強化を訴えたことを伝えている。"
+     "view_ja": "首相の「深刻な状況」との発言を紹介し、生成AIを使った模擬攻撃や中小企業まで及ぶ監視網を伝えた。その後のパッケージは官民協力と専門家チームを軸に、AIの台頭や不十分なサイバー衛生が背景にあると説明した。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "独立系のStraits Timesは、数十社の不正アクセスを受けて日本が「サイバー救援チーム」を設ける方針だと、日本の報道を引いて伝えた。世界的にハッキングが急増し、AIが未知の侵入手口を見つける能力が注目されていることにも触れている。中国製AIツール「Artex」が日本企業への攻撃に使われたとのGMO側の説明も紹介している。シンガポールの国営系とされるCNAは、日経報道として米AI企業などからの脆弱性情報の早期入手を目指す動きや、6日の緊急対策パッケージ発表を報じた。",
-   "search_ja": "高市 サイバー 閣僚会議 情報流出",
+   "overseas_view_ja": "独立系のSCMPとストレーツ・タイムズは、相次ぐ不正アクセスに対し、AI活用や専門家チーム、「サイバー救助チーム」などで対応すると事実中心に伝えている。ストレーツ・タイムズは木原官房長官の「世界最高水準のサイバー耐性への第一歩」との発言や、中国製AIツール「Artex」が攻撃に使われたとのGMO側の説明も載せた。シンガポールの政府系とされるCNAは、米AI企業などから未公表の脆弱性情報を早期に得る方針や、数百万ドル規模のパッケージだと報じ、首相の「政府の総力を挙げる」との発言を紹介した。",
+   "search_ja": "サイバー対策 緊急パッケージ 高市 閣僚会議",
    "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "“サイバー攻撃で新チーム運用” 対策パッケージで政府調整",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQWQwc1dNVmhwUmxwcTN5TzF0ejNsTTk0SHdJRExVZDhvS1RuV01XRnV2ejEzUThRYkRUSkV5UFVwUUl3eXo1SXlxNDRzVlZWZWhHazBhREZFVFhxTDZN?oc=5",
+     "published_at": "2026-11-04T21:23:00+00:00"
+    },
+    {
+     "outlet": "NHK",
+     "title": "“能動的サイバー防御含め戦略的に実行”政府が緊急パッケージ",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mYlI0RTJGWUdoeDRuQjJ0dWlNa05HbEVNRHBkdVhJQkFNMUF5cGZqS1FMOEl6b2g4RlZHbWw5LXlVWlkxVDd1SlVEMzRPdWJOd19vT1lvSVRpOXUyMkhV?oc=5",
+     "published_at": "2026-11-06T09:26:00+00:00"
+    },
+    {
+     "outlet": "NHK",
+     "title": "不正アクセス対策 政府が予備費100億円の支出を決定",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Zd1Y2eHFRdkZhWm1GanpkdFJvMDA0UjZodW1zSy1CRWw5RUhwU1c5LXNhY1kyZ3JIN3Z3dnZYeWJHcWw4SkRUeVpwX3RabGtQNS1SNHY1YlFKYVRjYXN3?oc=5",
+     "published_at": "2026-11-06T01:43:28+00:00"
+    },
     {
      "outlet": "NHK",
      "title": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1ZC0zR2Z1M2dja0xwR0JFaF9UQnlqM0pPdGlhLWFDYmFvbTl4Tng4NUJabkFwUmJxYi1aX2wxb0NzdTBESXZfSFI2eGp5UUpYNnEzSlBBQU5TSDN6UUk0?oc=5",
      "published_at": "2026-11-06T13:42:00+00:00"
+    },
+    {
+     "outlet": "NHK",
+     "title": "相次ぐ不正アクセス対策で予備費支出へ 政府 | NHKニュース | ＡＩ・ネット・ＩＴ、サイバー攻撃",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXTFZRX0tmejlVNWxHWXdpYzRVc1pJdnlPbkI1V0s4VVdIbjNHMjlHSGRhVUVMZmsxTl9qVFZHcEVKTzBGM0VhN1Z3SWZSQ1VlRUNpeW1ZQ1JwUE85MHBZ?oc=5",
+     "published_at": "2026-11-05T13:29:35+00:00"
     },
     {
      "outlet": "朝日新聞",
@@ -13260,21 +13242,15 @@
     },
     {
      "outlet": "朝日新聞",
-     "title": "不正アクセス、サイバー攻撃の未然防止に体制強化へ 政府が対策公表 [情報漏洩・個人情報流出の最新ニュース]",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lQ0xzbjgyYlBPb0tFV3dlTEFocmZIUHNKa3FYYUlGSHIxMEdQUmJsLW12UElkSlBBMW9DSnUtZS10N01GbUdfQ2ZsTG9yWlEzYTU3aUl1d09YMHZLbDVkN0dROTd5SVk?oc=5",
-     "published_at": "2026-11-06T09:59:57+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
      "title": "相次ぐ情報漏洩に政府が緊急対策パッケージ どんな内容？効果は？",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bkdXNHdiZDVKek1qMFZQVmFLMk5HYmpMSFdKaHVXdHh4STVUZGZINXIxeWVXeGwyMmdWV05qblhZSUV0c1FJaDZ2eFlBVGcydkxnb2dhVjF4aVdRc3BZLXJPbnBpeTA?oc=5",
      "published_at": "2026-11-06T09:16:50+00:00"
     },
     {
      "outlet": "朝日新聞",
-     "title": "サイバー防御へ体制強化 緊急対策 政府、１００億円支出決定",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydGIwMG95MVhkdHZ3MGl4bTJDaTUxNE93X0RRbTBFSG80VzNLdW1qN1ZpLVl4SW10a200cXhPdHpnLWJtRmE0WHF6NFRmeEh0cEVoNzA3MDRJUmVj?oc=5",
-     "published_at": "2026-11-06T20:00:00+00:00"
+     "title": "不正アクセス、サイバー攻撃の未然防止に体制強化へ 政府が対策公表 [情報漏洩・個人情報流出の最新ニュース]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lQ0xzbjgyYlBPb0tFV3dlTEFocmZIUHNKa3FYYUlGSHIxMEdQUmJsLW12UElkSlBBMW9DSnUtZS10N01GbUdfQ2ZsTG9yWlEzYTU3aUl1d09YMHZLbDVkN0dROTd5SVk?oc=5",
+     "published_at": "2026-11-06T09:59:57+00:00"
     },
     {
      "outlet": "読売新聞",
@@ -13295,16 +13271,10 @@
      "published_at": "2026-11-06T14:34:00+00:00"
     },
     {
-     "outlet": "読売新聞",
-     "title": "社説：サイバー対策 アクセス抑止の検討は妥当だ",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHRktOVERNZlJJQmJqYTFfbm1Iay1IRXVnSFhjRWMwMGFNWEh6em16cWp1TEFzUkd3OWltSlNUM083OExFaVgta3Z6dWJrZWxCVWk3WUh3VUFmN1hLZTljbGdyZ3BBMms?oc=5",
-     "published_at": "2026-11-06T20:00:00+00:00"
-    },
-    {
      "outlet": "毎日新聞",
-     "title": "「民間でなんとかするしか…」 サイバー対策、問われる本気度",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKM05lWVpRWjM3b1VjTS1sUVV1dE5EZ1otVlNBRUVOVThhcDBSMnpId0lYSW1INnZBeFFtbi1BQ3dkeHVkRTZiRG9XblJyRF91YU9EcXNJVlBSeGJOMnlkenJGbk5TZkVq?oc=5",
-     "published_at": "2026-11-06T11:05:41+00:00"
+     "title": "サイバー防御強化へ 人員増強や設備拡充など緊急対策まとめる",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nTDZJTGJiN2tXY3lHNUtIVHNKS2xWRk5wZ1htRjd0TWtfblQ1QlVIaVRtQ1oxZm9USlhnWDUtelB5OFk1dW1nUTN5XzcxZjRXMmhHWjEyNldyQ3k2VmtJWHJrZ0N0U1NI?oc=5",
+     "published_at": "2026-11-06T08:43:16+00:00"
     },
     {
      "outlet": "毎日新聞",
@@ -13314,15 +13284,39 @@
     },
     {
      "outlet": "毎日新聞",
-     "title": "サイバー防御強化へ 人員増強や設備拡充など緊急対策まとめる",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nTDZJTGJiN2tXY3lHNUtIVHNKS2xWRk5wZ1htRjd0TWtfblQ1QlVIaVRtQ1oxZm9USlhnWDUtelB5OFk1dW1nUTN5XzcxZjRXMmhHWjEyNldyQ3k2VmtJWHJrZ0N0U1NI?oc=5",
-     "published_at": "2026-11-06T08:43:16+00:00"
+     "title": "「民間でなんとかするしか…」 サイバー対策、問われる本気度",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKM05lWVpRWjM3b1VjTS1sUVV1dE5EZ1otVlNBRUVOVThhcDBSMnpId0lYSW1INnZBeFFtbi1BQ3dkeHVkRTZiRG9XblJyRF91YU9EcXNJVlBSeGJOMnlkenJGbk5TZkVq?oc=5",
+     "published_at": "2026-11-06T11:05:41+00:00"
     },
     {
      "outlet": "毎日新聞",
      "title": "通信監視対象、国内間にも拡大検討へ 能動的サイバー防御",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93dE5kNFFwWDdBdWl3MEkzb0R2ckc0MUlMMGNpZHdneF9ONEVMbjhWNGdzeGJwZm1xQ1Y0a0lYb1BnZ3ZjdVFOcU9xWDRpOUFRX1AxeGl2NHI0Ui1wclpRamttODNVS3lF?oc=5",
      "published_at": "2026-11-06T14:02:24+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "能動的サイバー防御 政府が体制強化へ 人員増強など概要判明",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fdzRTeUZJcnZFdklOMXdIRDlGenYtc0dTcU9kNjlKeENrVE0tQlg4UjViZE5jNEVzSXlmUlVNcTVzTFEwXzhRVnlZZG1jSFZnd0FMUUpNZmdtZmNpcVg3S29UY1VOQUYy?oc=5",
+     "published_at": "2026-11-05T08:36:53+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ 予備費100億円支出",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzFfN0NqNFdDY2VlVUx2ZHVERm0xVmc2Q096bmhHa0htWGhQblUwdzVyNkhBVC1KR0F4TE1iTUV2Q2hYYlBEUXN0bjEzSzd2T096dkpNNWs0ZU5qY0U0V25rckVwME1xbkU1bzRPMi1ocVZYaHMzdjFORTU1bTRaN0ZSTnV4TVM4ZG9TaA?oc=5",
+     "published_at": "2026-11-06T11:28:13+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "政府、サイバー対策に100億円 機材整備、点検にAI活用 予備費から支出決定",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2bTNieWhEamhqb2ljMDlnZXRPZWpmaEFNaGdsaVdxaXRiWW1ja2U2azZkcUFUcFVDN1ByMTFPWHlMRXNiajRKZEtQUnRjSFpraTJRRFlYeHVEbGpOOC1zZ2wtTTRmdWwwV3FkNUszRzAzNVBXd3c?oc=5",
+     "published_at": "2026-11-06T02:04:59+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "サイバー対策、新組織続々立ち上げへ課題は人材確保 無害化措置の態勢強化も掲げる",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CUHhybUh6QVN4TWs0ZVNPME5vYXdGMnpkbWI3MnRVYTZ5ZmFETDJzNmRNa3RiRGxJdWVrQ2lBSTRuSzRiWXlJM0lhdEktME1XRm5JZl9BZVRwQUxpbTNjVmlYYndMcDZMZmVZOVZvTWRXdWlSUEE?oc=5",
+     "published_at": "2026-11-06T12:00:00+00:00"
     },
     {
      "outlet": "日本経済新聞",
@@ -13343,34 +13337,52 @@
      "published_at": "2026-11-06T12:00:00+00:00"
     },
     {
-     "outlet": "日本経済新聞",
-     "title": "サイバー攻撃対策に100億円、予備費支出を閣議決定 AIで脆弱性点検",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVi1RSGlrY20yempXQ09oZTJLbGswTW5vZno5MUZxZjhhM21pbDkxRmZGdVFYeFNzbFpHRWgtZEhOX2RuY3dTd0hQcWI0ekNDM0NQMUtTZ1dtVmFvOGNsZmJnLWs1ZnJBOU04bg?oc=5",
-     "published_at": "2026-11-06T01:08:52+00:00"
-    },
-    {
      "outlet": "日本テレビ",
      "title": "政府 「サイバーセキュリティ緊急対策パッケージ」まとめる 相次ぐ不正アクセスによる情報漏えい受け",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1blhtZEk4dmlJX3RvUGFpMDRuT2lqZFBwdzA2NGt6QTBEUnhKUHo0VEFNaTBPc24yUmx5U3liemRqY0RJZEtOMUpia0pXRWFkbWZUYmZpeUROOWlDNmp2TjNPNUlUdDNoRnA1Tjh1LVI0NkVUVXhrQUF4SWQ?oc=5",
      "published_at": "2026-11-06T10:09:01+00:00"
     },
     {
+     "outlet": "日本テレビ",
+     "title": "サイバー攻撃「救援組織」創設で調整 政府が緊急対策パッケージあす公表予定（2026年11月4日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5cFpvSkg0QWEwTUNXZFJrSWVjTUxpLXBJcHVfZ1A3a0Z1WWpiSHNCdlpnM2dqVnhRUVJhNlhTNGNZSlNaRm40RG9FckZYdlRrV3djZjR5WW1hb0hDUE40NVVNTkl6aHB6YmJwUVozbm9vR21YWkVSaG5yMjFYdw?oc=5",
+     "published_at": "2026-11-05T02:30:00+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "サイバー攻撃による被害相次ぐ 高市首相、来週中めどに緊急対策パッケージ取りまとめ指示",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51OHNvUEZ2YmZLVWpoVDF6eWo1eS1QalF0UktwbkdRa2xtd0JNOG1GWmJWZzh1eEczZXFUUXEydzVmZ1NpWWprbWpHNWhpVXVIWnV5TUw4Z3NwU3JGYy11WWdYNDloaXQ5ejM5bHdLWGZHdnFnaUJ3dGR5WGdJZw?oc=5",
+     "published_at": "2026-10-26T07:00:00+00:00"
+    },
+    {
      "outlet": "TBS",
-     "title": "高市総理「能動的サイバー防御」関連法の“強化”検討を指示",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhc0NITVJVTmF0X2gyTS1zT0MwLUU1eTQxekhlTm5xZGlPODFGNFZIUERGTExtZjNHcWlYcVd4cFpYZUJUVTRKbkw1bGhhSnM5TGkzQmM3RXFQODZZUlBDWFQxSDlNdHBkZ3REcjZvRlpzNXps?oc=5",
-     "published_at": "2026-11-06T13:50:33+00:00"
+     "title": "政府がサイバーセキュリティの関係閣僚会議を開催 高市総理「来週中をめどに緊急対策パッケージを取りまとめ」",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1p6UV9qRXlfRXpiZXRZOFJPUXkwbGE1SkNDMXh5X0tvcXZNeC12dmpmbW9Eb1ZWcmRaZlpmR1QyTExaOS1aMHlKS0NRN3c3Z3pXa1lYOE53eXFuQ1lSTnlTTTR5cXpLdUFfbVozeHdTbkRCVk13QnJYYWdrOTd4TWdhVHdDU1pqRE02UA?oc=5",
+     "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
      "outlet": "TBS",
      "title": "政府、AI活用でサイバー対策を徹底－不安払拭へ緊急パッケージ策定",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qaFp3MllYdDhjY3E5aG1tUk9vdVZ4UUJCQlJ0NUpXNk9EU1JWeDd1SmRaQXpXN0ZERDJxd0dKWGNpaEdMU241ekNuNHpLUW5xNmppRGE1b3dpUXRKLUpWNUxROC1PZVNhWVNnblJmSGRxbXpm?oc=5",
-     "published_at": "2026-11-06T15:30:00+00:00"
+     "published_at": "2026-11-06T10:18:07+00:00"
     },
     {
      "outlet": "TBS",
      "title": "政府がサイバー対策の緊急対応に約100億円「緊急対策パッケージ」とりまとめへ AI活用した対策の徹底など“概要案” 判明",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QzM1SUpKUTdFY3EyN3JSV3BoU2NoaWlCbGNlZ0ZEaXVoeEVqVU03ZWFBQW5zT3RZUVFMTTNXUWVqWW05UFZ1cXhEODBsYjlZSll1aUJqbHBLOGVVcFlzc3kyS2Z1clk?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIc3RPYXRHbHMtdHlmSC02eG1heEhlWkxNOVg3a1UxY04wYW9TeldyQ0dMY1RoTkNlZDc0RWlkMDVZTXlVdDRQdDJKd0ZNcnNNUi1QcTFlWlZldjZ5Y2lBNzRtdWtKWnpRN3UyUXo0ZERLLXdy?oc=5",
      "published_at": "2026-11-06T02:44:29+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "「総力を挙げて対処能力を高める」相次ぐ不正アクセスに政府が“緊急対策パッケージ” 防御策などへ予備費から約100億円支出",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZaXROakxKU01JUHJsd2ZhejZ5MFVMQXR2amkwZUFXNXRtNWcyRVJhUy03cUhXZkRqbVc4bXFpTHFzSGtacXRCUEJodzZzZ1NoVWowOEZjVWwwbmhkWkV1RU1zb1ZFVUJsYjlLWmRMNUItTzZW?oc=5",
+     "published_at": "2026-11-06T09:54:25+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "政府があすにもサイバー被害の「緊急対策パッケージ」とりまとめ AIを活用した対策の徹底等“概要案”が判明",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94bThock8xcTZfM3NtSVZ4UVFNRlhZTVFvZVFVZUNsMVN2Y3NBaktTeEFyMGhzTTk5QXRjQldRVlB5cmQzTDEyRkZENVd0RXZBa0lfcmFydXJJWGw5TWgycUZ2cDFoaFRtM1NrRlpkLTU1M3oy?oc=5",
+     "published_at": "2026-11-05T03:22:38+00:00"
     },
     {
      "outlet": "テレビ朝日",
@@ -13379,20 +13391,26 @@
      "published_at": "2026-11-06T10:07:08+00:00"
     },
     {
-     "outlet": "テレビ朝日",
-     "title": "相次ぐサイバー攻撃に対応 政府が「救援組織」設置へ",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBralp6NkFYcjFBZzNMamVEeWNUX0RweW81ZXl1d1RZWFZmdjg4S3VLVzlWV1dfV1RqQlE4aDJFMzZtYldDbG9CLW90U1g0THc1ZGZOUGotWnpLcEZRbzJqNkcwUEl3bkFQLWx1M3I4VmtnSEE?oc=5",
-     "published_at": "2026-11-05T04:17:00+00:00"
+     "outlet": "フジテレビ",
+     "title": "不正アクセスに「緊急対策パッケージ」 政府「アウトリーチ チーム」設置も",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SaEozZmJsVXVpTGthQnIyay0yOG4xSjFfaGNPdUhyY0lHekZsZFNuc08yYngwOUl6SEhQdmdGYTA0NE9IeU5tcVF6UXFJZw?oc=5",
+     "published_at": "2026-11-06T10:53:00+00:00"
     },
     {
-     "outlet": "テレビ朝日",
-     "title": "サイバーセキュリティ強化で100億円を支出 政府",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hYlhHLVFibWF6Z3BEYWs5Z2JKajV4YnRzOUljUXBWbnR5dUExVERUZjhObXFpTmxfZk1QNVphd2RUeU5PQzVmU1hGWTJxVXJXLWVaZlBoUkx6Wmd3WHlkV25WazJzYkkzaEhDOXNZZF9JZw?oc=5",
-     "published_at": "2026-11-06T05:47:15+00:00"
+     "outlet": "フジテレビ",
+     "title": "「サイバー救援隊」を政府が新設へ 官民の専門人材で構成 サイバー攻撃に対応 企業や組織への派遣も",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94X3Vma1VJRlI0TlgwQzRuanFKS3dubWFBVC1DTTZKUkplbDdHZVViWHZDVXdlaGxRNDBQNlZQVk9hbV9mcnpmUGJjYVlJdw?oc=5",
+     "published_at": "2026-11-05T03:36:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "サイバーセキュリティ関係閣僚会議「あらゆる対処オプションを戦略的に実行」高市総理 緊急対策パッケージの来週中めど取りまとめを表明",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zRnVYVXJZNGRBMXhOdlVIVl9rWksyeWk3VGlMb3VDc0tpQ1diQXVZYmp2VGxPR1U0U0N4azJ2Ung0TnFhYzBhSlE5ZXB6dw?oc=5",
+     "published_at": "2026-10-26T07:00:00+00:00"
     }
    ],
-   "japan_main_count": 4,
-   "japan_main_checked_at": "2026-11-07T00:59:51.748729+00:00"
+   "japan_main_count": 6,
+   "japan_main_checked_at": "2026-11-08T00:34:55.239201+00:00"
   },
   {
    "id": "52015a79-ef08-4ade-8d2f-91d451f7cb21",
@@ -14034,40 +14052,40 @@
    "fact_ja": "メルツ独首相がシンガポール、日本、韓国を歴訪し、日本で高市首相と会談した。経済安全保障と先端技術の共同宣言を出し、AI高官級対話の開始や重要鉱物の連携で合意、ウクライナ問題での協力も確認した。メルツ氏はWTOを含む規則に基づく貿易の世界的同盟も提案した。",
    "category": "外交",
    "target": "日独首脳会談",
-   "judged_count": 22,
+   "judged_count": 23,
    "first_seen": "2026-10-28T05:00:00+00:00",
-   "updated_at": "2026-10-29T19:12:49+00:00",
+   "updated_at": "2026-11-07T14:49:23+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "高市首相とメルツ首相は、経済的威圧への強い懸念を共有し、経済安全保障と先端技術の協力を強化することで一致した。共同宣言を出し、AI高官級対話の開始やウクライナ問題での協力も確認した。",
+   "japan_position_ja": "高市首相とメルツ首相は、経済安全保障と先端技術で協力を強化することで一致し、共同宣言を出した。経済的威圧、特に重要鉱物の恣意的な輸出規制に深い懸念を示した。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "経済的威圧への「深刻な懸念」を共有し、共同宣言を出したと伝える。中国も米国も名指ししていないが、双方への暗黙の批判とも読めるとした。"
+     "view_ja": "経済安保と先端技術の協力強化を共同宣言で打ち出したと伝える。中国も米国も名指ししていないが、双方への暗黙の批判と読めるとする。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "ドイツ各紙は、日独の「プレミアムパートナー」関係と、規則に基づく貿易の世界的同盟の提案を中心に報じた。Die Weltは対ロシア・中国で結束を強める動きとして、FAZは見出しでトランプ氏への不信に対する連携として描いた。taz（ロイター配信）は重要鉱物の協力に触れ、メルツ氏が中国との完全な切り離しには警告したと伝えた。朝鮮日報は、中国依存を減らす独の「アジア分散外交」と分析した。中国の国営系メディアGlobal Timesは、メルツ氏の発言を「軽薄」と批判し、日独の軍事協力に警戒を促した。",
-   "search_ja": "メルツ首相 高市首相 日独首脳会談 経済安保",
+   "overseas_view_ja": "ドイツの独立系媒体は、日独の接近を中国・ロシアや米国への対応の文脈で伝える傾向がある。ディ・ヴェルトは対露中の「プレミアムパートナーシップ」と位置づけ、FAZはトランプ氏への不信を背景に挙げた。ターツ（taz）は、世界的な貿易同盟の提案と重要鉱物の連携に加え、メルツ氏が中国経済からの完全な切り離しには警告したと報じた。朝鮮日報は、中国依存を減らす戦略との分析を伝えた。中国の国営系メディア・グローバル・タイムズは、メルツ氏の高市首相への賛辞を軽薄と批判し、日独の軍事協力に警戒を促すと主張している。",
+   "search_ja": "メルツ 高市 首脳会談 経済安保",
    "japan_main": [
-    {
-     "outlet": "NHK",
-     "title": "日独首脳会談 サプライチェーン強じん化など協力強化で一致",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82bmFZYklUM2M0U3pBNzBpa2Z4UnFYYl9uLWdmZVd6UGp5bkJGbk5sNFdVb3p0Zl9vVHJDanJxcW80d185SGRwdkN6Yzd6TG1qNWtucVRJekVzRzF5V2pN?oc=5",
-     "published_at": "2026-10-28T11:46:55+00:00"
-    },
     {
      "outlet": "NHK",
      "title": "きょう日独首脳会談 サプライチェーン強じん化など確認へ",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KTlBxejVZYU42LXc1Z0NVSjRwUjZJbmdVUzctdU54eV8yWVcxc0FxMk1SbVpKOVEwc2Z4NEltWjBtRUtDYkozeFVEdHg3UmtjRHBUaTlWcTJKcmZGdmZJ?oc=5",
-     "published_at": "2026-10-27T20:08:00+00:00"
+     "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
      "outlet": "NHK",
-     "title": "ドイツ メルツ首相が講演「半導体 AIなど日独協力拡大に期待」 | NHKニュース | ドイツ、ＡＩ・ネット・ＩＴ、企業・経営",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FUFFDazktTFJRRUtzQnJpaE1QRUVSU0NCRUFvc2VfUFFROFlmX3AwdjBHOTVTZVhEanJEd0NvaHRUeFdaNE80enNCb3ptNUFXM2tvX2VkVEd5Xy15NEpB?oc=5",
-     "published_at": "2026-10-28T16:54:05+00:00"
+     "title": "日独首脳会談 サプライチェーン強じん化など協力強化で一致",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82bmFZYklUM2M0U3pBNzBpa2Z4UnFYYl9uLWdmZVd6UGp5bkJGbk5sNFdVb3p0Zl9vVHJDanJxcW80d185SGRwdkN6Yzd6TG1qNWtucVRJekVzRzF5V2pN?oc=5",
+     "published_at": "2026-10-28T07:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "独メルツ氏、次期戦闘機「協力できる」 高市首相との首脳会談で言及 [高市早苗首相 自民党総裁]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kY2xiWVZ4bGRXZThLeFNlcVBsdlpuMExBVjlPVnl0YUFVMlFkSkFtMkc2MjR5MG94VVMyTkRLUVVLa0lKRlU3aHUwMWFSR19zX09zMC10dGl6eU9aam43aURwMDYyZzg?oc=5",
+     "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
      "outlet": "朝日新聞",
@@ -14077,45 +14095,27 @@
     },
     {
      "outlet": "朝日新聞",
-     "title": "次期戦闘機の独参加、広がる懸念 協力に言及、計画「見直しは必至」 日独首脳会談",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HYm9Wamc5RmgtTGhVdldGWnVPNnhDTWhYSnFGeVFjbmtXZmdLaG5wRnMzRDVKbml5MTRvNndzZ184S05qdmNETXBwemE3SEotdkZRdGpMR0FGeFZF?oc=5",
-     "published_at": "2026-10-28T20:00:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "独メルツ氏、次期戦闘機「協力できる」 高市首相との首脳会談で言及 [高市早苗首相 自民党総裁]",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kY2xiWVZ4bGRXZThLeFNlcVBsdlpuMExBVjlPVnl0YUFVMlFkSkFtMkc2MjR5MG94VVMyTkRLUVVLa0lKRlU3aHUwMWFSR19zX09zMC10dGl6eU9aam43aURwMDYyZzg?oc=5",
-     "published_at": "2026-10-28T12:15:03+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "日英伊の次期戦闘機、英国がドイツに呼びかけ 首脳会談前に日本警戒 [高市政権の安保見直し][安全保障関連3文書]",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfR0xvOXQxUW5KTU44TU5ZdmNWUHg5X3ZlYm42ZHNwWl9oeWFjdXdxWW5hbGhkZ0tCUGhCTjBhb1Z1LTFpZ2ttOHVYMExsaXItT1U2bVFEc1h0dFVpMVZoZ0d2bTlhaG8?oc=5",
-     "published_at": "2026-10-26T21:00:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
      "title": "日英伊戦闘機開発、独首相が協力意欲 高市首相と会談",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ER1NPcWEtb0k2akFCUDdZdjE2bDJ0a0tkZEhZNVFRVkFmamhveUhMRWhHbjN2UGVDVWs1SmFady1RQ0dwS0NqYm82MDk3a2E0Zm14dnRNWUpVZUVi?oc=5",
-     "published_at": "2026-10-28T20:00:00+00:00"
+     "published_at": "2026-10-29T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
      "title": "高市首相とメルツ独首相が会談、協力推進へ三つの共同文書…サイバー抑止力向上・半導体供給網の強化など",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kelRSNWlJQ1JneDF0VUxfbExEREpFYUc3cUJjV1ljazR2cUExRjVxODk0aGViY014Tm1OcjdiM1FrZTZJek5QRVZ6UF9ybzBaRmE2eFhZN1Q3UkFkRE1ERHpDLXVGQQ?oc=5",
-     "published_at": "2026-10-28T15:00:00+00:00"
+     "published_at": "2026-10-29T07:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
      "title": "日本とドイツがＡＩ協力強化、「ハイレベル対話」創設合意見通し…２８日に首脳会談",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44MXEwcVBNZUtpQUM3UFlUYlgzRE9ia2J2czNoRGk3NnZpNmJrMERsR01iTnZ1RzZBblFTUGNaSWtGdElyMzRJQXo3MXpLWkxtNDdQWmFuZ25vSmhxU2RsaVRmTklUdw?oc=5",
-     "published_at": "2026-10-27T20:00:00+00:00"
+     "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
-     "outlet": "読売新聞",
-     "title": "対中認識 日独足並み…首脳会談 「自由で公正な秩序」訴え",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZTRvaUhmQzJVQzMtUDlieWxZenNBRjY1ZjNodVF1dnlKcEM1SEd4aHdCZGZjeXllczRPaEhBanNBcEI2QUI5Ry1EdFNteXRpWXNDZU82LWFZYV9VMVp1MzFkN29IZw?oc=5",
-     "published_at": "2026-10-28T20:00:00+00:00"
+     "outlet": "毎日新聞",
+     "title": "日独首脳、「AI対話」創設で合意 対中念頭に重要鉱物でも協力",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94QXlzMUhtWmN5N3VTZElJMHBBbkJTcURnSUpFVFFjRm41dVJpRUI1OXNVZzRkZE1JZy1fWVppczJhUVNMcmg2Slo1eVVYZTUzMkotZzhVT2NIMmNBdUhScUdMSHhRMXlX?oc=5",
+     "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
@@ -14124,134 +14124,74 @@
      "published_at": "2026-10-28T17:02:32+00:00"
     },
     {
-     "outlet": "毎日新聞",
-     "title": "日独首脳、「AI対話」創設で合意 対中念頭に重要鉱物でも協力",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94QXlzMUhtWmN5N3VTZElJMHBBbkJTcURnSUpFVFFjRm41dVJpRUI1OXNVZzRkZE1JZy1fWVppczJhUVNMcmg2Slo1eVVYZTUzMkotZzhVT2NIMmNBdUhScUdMSHhRMXlX?oc=5",
-     "published_at": "2026-10-28T13:23:53+00:00"
-    },
-    {
      "outlet": "産経新聞",
-     "title": "＜主張＞日独首脳会談 GCAP遅れは許されぬ 社説",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96aWc0NHl3VDlrcEVDczRIY24wSHlMZmM5MkFmZXU4WEpocWM1X2hYRUhidEYtVHVVLUx1and3OEdaUFU5OWJQcnBkazQ1bW1MZVZEVGM0MWJ0dDd3d1JwSkRFYWFnX0ZpbzhIUmpPb2lKUzFGN0E?oc=5",
-     "published_at": "2026-10-29T20:01:00+00:00"
+     "title": "メルツ独首相、初訪日に出発 高市首相と首脳会談「経済安保」「防衛産業連携強化」合意へ",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85R2NmbWdNT052RHhuQWJXcHg4QW40Y3BmTzN2THFBX08wX0tKOS10OUEwNDB1U3lMenBST3hIQ2M2Um5zSVFtSURuLTZ6Uk1JaGFHN1pYMnkwN0tKdUF4MTJpUnBXcXMtWXU5ZmkxQ2pCdFpPS1E?oc=5",
+     "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
      "outlet": "産経新聞",
      "title": "日独首脳会談、AIハイレベル対話創設で合意 次期戦闘機開発への独参加検討も確認",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHF1a2dWbElibmt1VDRldHZCSGNOUXhjZ1Y2WTQtamF3NFFGUzE1MFdUby1FeHVXWmxUcl9wczZ0MVM5ZExPVlNfQzR6MVVNbEVLUFRWTFRfQkpvYjZHNkxDb1NPRzdUTjAyVGMtY1hCLTZEZ3RDTWJQSXZvNHQwTXU3S2JTSkFWV2JmdQ?oc=5",
-     "published_at": "2026-10-28T11:55:20+00:00"
+     "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
      "outlet": "産経新聞",
      "title": "28日に日独首脳会談、次期戦闘機共同開発でのドイツ参加案議題か 日本政府に慎重論も",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tekpwc2dhVmw1YmJkVTdiSG1NSjh3UFNVU2Q3YzFFeG9YWkpGQm5vZUNwSEl4ekRlNzM1WEx2d2JjRzdHTk9lckI1ek1aRF94SldkQ0RxN0hXVUV2TTZreUlWTjBNWnRJV1RBbzNxaTNTdzdHblE?oc=5",
-     "published_at": "2026-10-27T12:44:01+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "メルツ独首相、初訪日に出発 高市首相と首脳会談「経済安保」「防衛産業連携強化」合意へ",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85R2NmbWdNT052RHhuQWJXcHg4QW40Y3BmTzN2THFBX08wX0tKOS10OUEwNDB1U3lMenBST3hIQ2M2Um5zSVFtSURuLTZ6Uk1JaGFHN1pYMnkwN0tKdUF4MTJpUnBXcXMtWXU5ZmkxQ2pCdFpPS1E?oc=5",
-     "published_at": "2026-10-26T22:28:37+00:00"
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGFzMzZBd2tMS3IwNXN6Y0RSMzdub1FPbFRwMGNWYXIzLTA2c3BDT2FOMDZ4NjA2dHdwTFczZEY1MldObTE4Q1VnY2w3MkFmbUR6akJkVDVRdTc1Y3NsRDNjZzdPU1NxRzdQUFFWYmJQZUc0YUI1a2pVN1ZIZW83NEVETDMzbWFsb1I3Tg?oc=5",
+     "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
      "outlet": "産経新聞",
      "title": "ドイツ首相がアジア歴訪、高市氏と会談へ 独大統領は訪中…習氏への「気配り」外交鮮明に",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9McTdwSHk3NW1VeFg2TXhOeEdFSW8tT1BpYV9DUVNnTXFNd05CMEg2MDdQUVJHUVVqYms2bnJLTzRoUURHcHhDMWZIVWRWUjRqYUZ5NTl3d2t2bURnYWg3MC1lemNHbFI2WHZfZUJfVElEZkxfWnc?oc=5",
-     "published_at": "2026-10-26T09:03:53+00:00"
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOXzBCdC1jQmZfVThIa3NlaE45a3NGV1lOTXhNRjVHZTZzZmRKN2Q1eUV0UE5ibUw5QTBKUWxyRkxzaGlLUmpzTXBRT1dPaXMwUlRpc0NGMFc5ZWItNC02Ums5dWZLd18tUjV0OXpTbC11Q1pHNDVWSUtpTWZMSFl5YURJU19GdzFaTlhReg?oc=5",
+     "published_at": "2026-10-26T07:00:00+00:00"
     },
     {
      "outlet": "日本経済新聞",
      "title": "高市早苗首相、メルツ独首相にEV優遇除外の修正要求 強い懸念を伝達",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5bnNYcW95bEVnWkFpZ2VZZm5ZVXctN2FaMm9ycFJoQTJYZDBCNXdzUVhTV19Za2lwbTdSQ1ZLSzBpVWpVU0p2M0tfdXc5S2RfTXRVNjVfT3NVc3hjNS15TUlYSHRvM2lsRF9iSA?oc=5",
-     "published_at": "2026-10-28T11:45:00+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "メルツ独首相、日英伊の戦闘機開発に参画意欲 日独首脳会談で言及",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FVzVkU2d6WGpaaVJ4bjZHbkY0MGdicUZvQjBSd2FRbzgwMlVtZFRVRm9HSngyS2JaNzRyZWhfTENYZFQzSHlJQUVEQk9yZWxENFczU3JmZ2U3N0lhQ0ZET3FvRkM2Vk0xVktwbA?oc=5",
-     "published_at": "2026-10-28T13:15:00+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "「AIハイレベル対話」設立、日独首脳が合意へ ロボや6Gでも連携",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82LUJoTHNEQWV0TDBvN3c1ZWRhSVJSeTN1Tmdic2ZXNXpqMXoyOUJNN2l0TXhfRllZdHRrbXJXMHhSeTU0SFpSd2sydmhvSjZOZ2FyVl9YMFVBRDBhcFJWdFdFTFliYV81YVNHOA?oc=5",
-     "published_at": "2026-10-27T08:00:00+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "EV優遇除外「日本車勢にEU撤退リスク」 日独首脳会談、識者の見方",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1saHpiSGlzdWVPSjJVTFNGTWJzMnhDUW83N0JQNEFWOFFtQWlXSzFsU1lqRVV2ckZIdmtYaVJadDlWLU14dWFsMnlNQlNHZXJsdnBnckdzVGxTWXl5U2FXVGR5UnR1TmVOUWFsWA?oc=5",
-     "published_at": "2026-10-28T17:00:00+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "ドイツ首相、EUとTPPの連携意欲 投資・貿易対話「重要な一歩」",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yUllXZDIwa2JtakF2TS1Ld2NJX3c4V1hGWHc3LUFLY1NzLVdPRzlRVGhScG8zMEZtMHR0a29HSkZEZWx3TkFzbWt2RENieHg4OGdqMWhOWmxfZi1rRnpBcXZlR0EzNDY2Y1Q1aw?oc=5",
-     "published_at": "2026-10-28T11:10:57+00:00"
+     "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
      "outlet": "日本テレビ",
      "title": "高市首相、独メルツ首相と会談 経済安保やAI分野の連携で一致（2026年10月28日掲載）｜日テレNEWS NNN",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04RVF1eHIwQ0lScnFodkZybWJJRGx4TkdDLWh1Q1B0eVp5WUZhRUVqR19QSnU2X0t2SzdPWjMwSkR2OG5YeGc2SHpzOFlZYktxTUZnLU1UeWRxQ0VpRVRRZnhTellBSUdRY0dQNG1iNFZKZWtwN201d0ZSOURPZw?oc=5",
-     "published_at": "2026-10-28T12:42:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "【ライブ】高市総理とドイツのメルツ首相が共同記者発表 日独首脳会談を終えて（2026年10月28日）",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CTzRZVTUtWk04Wm11ZE8xeWctWDFBWnNNT2hYRk5FaTNNZTdlNkhLbUcyczNnckhmZzJ3RnZEaTY1UHNHcVhiRGRXTXpMVzNiUk9iNzluSUJYeUc0b1BialJ5aHU?oc=5",
-     "published_at": "2026-10-28T09:35:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "日ドイツ首脳会談 高市総理、AIの新たな対話枠組み立ち上げを発表",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4ZXcyN3BGM29ycWxzNTJUcUNaU1RULWY0Y3JIclJERlFyOGpWUldOeHFESjJEQkd1bWd3Yl91R1RiaW1vRXI2YklBVThtMW1YR1NPR0FSUnFjTzhBM2xqTkY1MHh2bFlyRzNwTEl3UUlubndq?oc=5",
-     "published_at": "2026-10-28T18:43:20+00:00"
+     "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
      "outlet": "TBS",
      "title": "木原官房長官 きのうの日独首脳会談で「GCAP」のやり取りがあったことを明らかに",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83a1J3WHh4YUk4Z0dnc2RvcHhJOEt6SFAzM05xQWdHb0pGWmpLUHFUbjNjYU9hSURhanoxbEpacDBCRC00LWZ0VFByNnNjYzBERlZpdER3UWVweEl4bldyaGtQNk9YdWV5eEJoMkFpSmJtWE43?oc=5",
-     "published_at": "2026-10-29T06:33:23+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "木原官房長官 きのうの日独首脳会談で「GCAP」のやり取りがあったことを明らかに",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vVjg3aWZuNEo4d3ZpYW5YM0h2VG5yOUdaSFNHSXNnYk8yM0psNFZVc0lmOHhfSjBIUlNmbjVnNXQ3VXRZU2pVNllSa19pVWJxNU5sSF9CWQ?oc=5",
-     "published_at": "2026-10-29T06:33:23+00:00"
+     "published_at": "2026-10-29T07:00:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
      "title": "日独首脳会談 経済安保・防衛産業で連携強化",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BVHAyR3I0RjJDcXBiOV9ZQ3IzMGtmVEJLbzNwLTk1Y2lsSjV4aWlXZUFmTEp0bzNFTWhORzB0bVVIaTB3VlEzX2VwRXphTVpxV1JtVkJhYXl3S3JoV1BrdTRSV2xPM2hNMk8zdGlGR3dKbVk?oc=5",
-     "published_at": "2026-10-28T11:53:21+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "日独首脳会談 次期戦闘機の共同開発にドイツが意欲",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjVTJ5YWVCZ2twM3E2Z1J2S01LQURHZm0tdVFfWFRnSE45c1BHVklMcnFQd3hicWlwY2kzMVl6YlctRk5renh6R001SWdsTUR3YVFsZ2RXUVRHYWZCeE1XVmRUNFowYnA0UXFDSTZHTlNjTEE?oc=5",
-     "published_at": "2026-10-28T10:02:58+00:00"
+     "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
      "outlet": "テレビ朝日",
      "title": "日独首脳会談 次期戦闘機の共同開発にドイツも参画か 日本への影響は？",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MemV4cFowZlNBUVZZcTMzd0t2YUY2VE40MVphU0N3OFpTaTdPV3QzU1FjQ0RqSldBZnpaNDBWVEJxelIyLVNtQXFnQTI1YWk1UUpPVVljQmtCWUVqTHJPR3QwZFB4bzRjb0RTUGdYaGZmeUU?oc=5",
-     "published_at": "2026-10-29T09:00:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "独メルツ首相 半導体など日独の得意分野で協力拡大呼びかけ 日本からEV巡る懸念も",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zNUdsM3VyRk9sbmhOSUVsUmpUV2xBOXRFQW9kWm80eml0Ulp6VlFfTGdSTVhkM0tYaXpVRzFBVG00cTl5c2FuWXNJdFlEUEJWcnVGekZsUDlueVJBLTluc3FlUnVDVGJTQUtFRmpCY0ZtN21XeDRPZlFB?oc=5",
-     "published_at": "2026-10-29T00:19:20+00:00"
+     "published_at": "2026-10-29T07:00:00+00:00"
     },
     {
      "outlet": "フジテレビ",
      "title": "日独首脳会談「プレミアム・パートナー」表明 AI・安全保障で連携強化",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVM1d1bnNiMGRDa3hnUlZxcjYyRUQ5NTFRRktDT3Z5WGZMMHlvVjdveEFzQVNsTXVpNGp3cVhhWmhFemU3dGNnMDlOcUtiUQ?oc=5",
-     "published_at": "2026-10-28T15:26:00+00:00"
+     "published_at": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "次期戦闘機の共同開発計画 ドイツの協力めぐり小泉防衛大臣「開発スケジュールなど考慮」",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pWDNMY0dwaWRsVGc4Qnhwd3VWV2xNQ1NtejE5WHk4Z2ZDaDl2eDhja0NqbDhhZ3I0R2RlbVNsMlBIdWlZWW10WmM1WGEwUQ?oc=5",
+     "published_at": "2026-11-02T02:44:00+00:00"
     }
    ],
-   "japan_main_count": 22,
-   "japan_main_checked_at": "2026-10-31T00:49:57.530776+00:00"
+   "japan_main_count": 23,
+   "japan_main_checked_at": "2026-11-08T00:35:08.548702+00:00"
   },
   {
    "id": "8acb68e6-3b4b-484b-97b6-7a0c161b092a",
@@ -15931,7 +15871,7 @@
    "target": "高市首相の書道に関する投稿",
    "judged_count": 0,
    "first_seen": "2026-11-04T18:07:19+00:00",
-   "updated_at": "2026-11-05T00:29:06+00:00"
+   "updated_at": "2026-11-07T01:00:12+00:00"
   },
   {
    "id": "63454d5c-b57a-4367-a4bf-a996117a0878",
@@ -16201,27 +16141,33 @@
   },
   {
    "id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "title_ja": "ロシアがJT傘下のロシア資産を大統領令で管理下に",
-   "fact_ja": "プーチン大統領が11月5日付の大統領令で、日本たばこ産業(JT)傘下JTIのロシア国内の4事業を、ロシア企業の一時的な管理下に置いた。日本政府は撤回を求めて抗議した。",
+   "title_ja": "ロシアがJT傘下のロシア事業を大統領令で一時管理下に",
+   "fact_ja": "プーチン大統領が11月5日付の大統領令で、日本たばこ産業(JT)傘下JTIのロシア国内の4事業をロシア企業の一時的な管理下に置いた。日本政府は撤回を求めて抗議した。その後、別の大統領令で対象は3社追加された。",
    "category": "企業・産業",
    "target": "ロシアによるJT資産の管理",
-   "judged_count": 9,
+   "judged_count": 11,
    "first_seen": "2026-11-05T19:37:00+00:00",
-   "updated_at": "2026-11-06T10:14:00+00:00",
+   "updated_at": "2026-11-07T13:28:43+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "日本政府は、日本の国民や企業の正当な利益が損なわれないようロシアに繰り返し求めてきたとし、外交ルートで抗議して措置の撤回を要請した。こうした動きは警戒していたとしている。",
+   "japan_position_ja": "日本政府は、日本の国民や企業の正当な利益が損なわれないようロシアに繰り返し求めてきたとし、外交ルートで抗議して措置の撤回を要求した。政府はロシアがこうした動きに出る可能性を警戒していたという。",
    "japan_basis": "japanese_media",
    "japan_views": [
     {
      "outlet": "The Japan Times",
-     "view_ja": "大統領令で4工場が対象となり、日本が即座に抗議したと伝えた。日露関係がさらに悪化するとの見方を示している。"
+     "view_ja": "日ロ関係をさらに悪化させる措置として報じ、赤沢経産相らが撤回を求めたと伝えた。政府は事態を警戒していたとする。"
     }
    ],
    "japan_split": false,
-   "overseas_view_ja": "ウォール・ストリート・ジャーナルは、ウクライナを巡り西側企業を狙うロシアの手法の一環で、東京への懲罰でもあると位置づけた。ストレーツ・タイムズ(ロイター配信)は、拡大する接収の最新例として、8月のプーチン氏の係争島訪問などで悪化した日露関係を背景に挙げた。朝鮮日報は、事実上の没収に近いと指摘し、日本政府の配当収入や、LNG供給に関わるサハリン2への波及を懸念した。中国の国営メディアCGTNは、大統領令の内容や日本側の返還要求を、評価を加えずに伝えている。",
-   "search_ja": "JT ロシア 大統領令 資産 管理",
+   "overseas_view_ja": "独立系の媒体は、西側企業を標的にするロシアの動きの拡大と日ロ関係の悪化の中に位置づけている。ウォール・ストリート・ジャーナルは日本への懲罰という見方を示し、ストレーツ・タイムズ(ロイター配信)はJTの株価急落や、ロシア事業が営業利益の約4分の1を占める点を伝えた。朝鮮日報は日本政府が大株主である点から、事実上の没収に近く日本の財源を狙ったものと強めに書き、サハリン2への波及も懸念した。サウスチャイナ・モーニング・ポストは日本にとって越えてはならない一線になりうるかを論じた。中国の国営CGTNは、大統領令や日本政府の撤回要求を短く伝えている。",
+   "search_ja": "JT ロシア 大統領令 一時管理",
    "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "ロシア JTの資産を追加で一時管理下に置く大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91SGVFbUJaRDJTcXFlTElZdXBpVmVidU1jOC1jbmdCbWVwNXpRdWF0aWhBS2Y2R0xTZkF5ZTRtWU1wZkU2a1gxRnluZkVJSjdEcThLbnY5Vk0wWjUxTmhn?oc=5",
+     "published_at": "2026-11-07T10:19:18+00:00"
+    },
     {
      "outlet": "NHK",
      "title": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令 | NHKニュース | ロシア、企業・経営",
@@ -16230,27 +16176,15 @@
     },
     {
      "outlet": "NHK",
-     "title": "海外子会社の生産拠点 ロシア企業の管理下に JTが対応検討",
+     "title": "海外子会社の生産拠点 ロシア企業の管理下に JTが対応検討 | NHKニュース | プーチン大統領、ロシア、企業・経営",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5salJMWEExZGR5cVoyQnFFWTFTMTVjNGxGQjRHTnFhbUwweVNiblFicVlxMkJVMkJYZlpjeWsxN0haS29yNFVtMjc2VUZvN1NQUldpeUZvZUU3dWNjQlRN?oc=5",
      "published_at": "2026-11-06T09:29:38+00:00"
     },
     {
-     "outlet": "朝日新聞",
-     "title": "ＪＴ資産管理、対ロ制裁に対抗か プーチン氏が大統領令、日本へ強める圧力",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIb0djQ2ItVkpYVWlUQXM5cFNqcGZFSGtDcVJCRVNPR0xjaUYyelFhQ2lMX1pySFVibXA0UHhRa2t6dkIwWEFOVEJtd0dyT1NOYUpVQ0NBUUd3cTMz?oc=5",
-     "published_at": "2026-11-06T20:00:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "ロシア、JTの現地資産を一時管理下に プーチン氏が大統領令に署名",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3RzUGJpSGRFNXlHY1F3bVRiTEMzQnZqdUZnWlJCbXp3anU5Tl9zRXE5X3JLZjd1ZTBHeVlYOC1lbVR3Zmw0S0c5dzdLWXgtcTBOM2tadEJRdWxaZ1E0Ni1zSGZvbVE?oc=5",
-     "published_at": "2026-11-05T14:30:14+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
-     "title": "JTの現地資産、ロシア側の管理下に 侵攻後も事業継続、シェア首位",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tallWT0hvU1dKZnFzbXZwdXdUSGhfa1B5VnhKX05aTDBUa1BuTXdvU3BFbTRjQWpHZm9EYWpXY1dINEtTRWp5dlduM2RnMkNTejd4em43N29OWjg2alAtS2ViYmROQTQ?oc=5",
-     "published_at": "2026-11-06T10:02:15+00:00"
+     "outlet": "NHK",
+     "title": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aDRfNVZXQTNhOENWbU5WLS1VQ1hjZUEwQXczZVRqX2lPeUNJLWpNRlUxbzM5RzNVT253dkMxb0FJMU9MU1BkSDJwTW96Zm5uZG5Ka1k1UGNILVc0Umdz?oc=5",
+     "published_at": "2026-11-06T21:53:00+00:00"
     },
     {
      "outlet": "朝日新聞",
@@ -16260,9 +16194,27 @@
     },
     {
      "outlet": "朝日新聞",
-     "title": "日本政府、ロシアに撤回要求 JT資産の一時管理 経産省幹部は訪ロ",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XSGlMdldsTzJ4cnFrb3B3Zm1xeHZpUVZROG05Rm9NTTFqZXppOC1xbmRQTS0zcGhZanItM1l1ZElWem5ydEZvZ1FQSWw1OU5hcGpLRkJ3VVA0NHhNTThHMFc3VHNZcWM?oc=5",
-     "published_at": "2026-11-06T01:47:44+00:00"
+     "title": "【社説】ロシアがJT現地法人を一時管理下に 制裁への不当な対抗だ",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45M0hNTTlybGljbjJFck50NWt1SFRKY0hRYjRRWXZzYjhNQUMxZV9aNGxMTjJRWGt6VUZNWDFUTVRESUtGVzU1NWc2MU54TUNQbUp1QkRzSE9hN1dBUXlMbnVWRmc4YVU?oc=5",
+     "published_at": "2026-11-07T10:01:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "ロシア、JTの現地資産を一時管理下に プーチン氏が大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3RzUGJpSGRFNXlHY1F3bVRiTEMzQnZqdUZnWlJCbXp3anU5Tl9zRXE5X3JLZjd1ZTBHeVlYOC1lbVR3Zmw0S0c5dzdLWXgtcTBOM2tadEJRdWxaZ1E0Ni1zSGZvbVE?oc=5",
+     "published_at": "2026-11-05T14:30:14+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "ＪＴ資産管理、対ロ制裁に対抗か プーチン氏が大統領令、日本へ強める圧力",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIb0djQ2ItVkpYVWlUQXM5cFNqcGZFSGtDcVJCRVNPR0xjaUYyelFhQ2lMX1pySFVibXA0UHhRa2t6dkIwWEFOVEJtd0dyT1NOYUpVQ0NBUUd3cTMz?oc=5",
+     "published_at": "2026-11-06T20:00:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "（社説）ロシア大統領令 制裁への不当な対抗だ",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94U25zT0REdFk1eEk3ay1jZWxZRjY0MThGMFlHNUpnUElfc3hlRDBOS29sck1MV19SSm5kYWE5NUVma3UxcndGRWpLVGdhbzJjenVobkxwUHFmTTB4?oc=5",
+     "published_at": "2026-11-07T20:00:00+00:00"
     },
     {
      "outlet": "読売新聞",
@@ -16278,51 +16230,57 @@
     },
     {
      "outlet": "読売新聞",
-     "title": "露、日本へ揺さぶり ＪＴ資産「管理」 制裁緩和狙い",
+     "title": "ロシアのＪＴ資産「一時管理」、日本の制裁緩和引き出す狙いの「揺さぶり」か…これまで外国企業３４社対象",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbjlNci1HYWw5YUFIeGlUai1OazdzdE12LWVHdE1fM1ZCV3FZOGMzX1ZUbE41U1U4Y19kMGo1dXJBWEZqZHFLRzJ0dDhoWXFHVXBuZnVKdWp3NlpQdGVvQXh3?oc=5",
      "published_at": "2026-11-06T20:00:00+00:00"
     },
     {
-     "outlet": "毎日新聞",
-     "title": "経済プラス：何が狙われた? JT工場がロシア管理下に、日本企業は戦々恐々",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUGJVUFlpOUExbmQyYWdEdFpMSDZYRlRpeUpmMS1fU29kT2U4TV9faVNyZWtncldoa2ktdW5YN01ZSFlNWGkzSmlHT3BOa2ZSemc2TUNzV1JOc0RlanU0N2I5Z29fM2JE?oc=5",
-     "published_at": "2026-11-06T20:00:00+00:00"
+     "outlet": "読売新聞",
+     "title": "社説：露の対日圧力 ＪＴへの不当な介入撤回せよ",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YdVU1ZmlqSGt2dWtmOGlFTDROY0NrbnExeWNjd1FCTTRGX2ViMjlDa1hQLTQ0S3VnaWpkTlpyaHBIcENhRDMyNTZ6SHUxd1FFck1CTFkwMnRBVlg1eHpncld5Y1Vobnc?oc=5",
+     "published_at": "2026-11-07T20:00:00+00:00"
     },
     {
      "outlet": "毎日新聞",
-     "title": "ロシア：日本企業 広がる動揺 JT露管理下 「外交カード化」危惧も",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdUtFblFVczZRdnJmSGx3RDZxdDZLR2lremhHRzlNREpqZU5YdmJwVlBSU1hva1NlTm9ib1N6T1pBbm1RQkZGTkNTbmxpOTNuLV9SaHNUU1puLU5fYzNHdVY2UVpYVXZJ?oc=5",
-     "published_at": "2026-11-06T17:01:04+00:00"
+     "title": "プーチン氏、JTのロシア事業を暫定管理下に 大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OZUI4NDFpWDNjTng4TVRhVDBLTkxpdGdIRFJqeUN6N2JkWTRhU09HMklmUUljcTNaZW52Wk9XRXRreVJPcUY1OG9rMUV2eUlKcnA2WnpoNC1qOXNNUmdEZkhqUkhhcWk1?oc=5",
+     "published_at": "2026-11-05T13:17:58+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "木原官房長官、ロシアのJT事業管理下に「速やかな撤回求めた」",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MU3VQaE1HSXVpdFhwRVhfamJxclFERGJDVkp3d0VueW51dGpsVWRTWC1zOXVDZE51UlRULUwtUkluRFpiaFBkb2xxY1lhdFFWdmNSWWZIdUkxR2ozRmJaV3VfM01wWWFW?oc=5",
+     "published_at": "2026-11-06T02:07:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQ0RGTE94Ui1pRmlOLWJ6a1FGc0EyVEdaYkZkdUhhNDJOOUNhZjFZU3hvUG1mLXZOcXVLdlM3c1EwRW1WSWp4STRIbFRudlNLQVRjazlZdUZjSDhpREY4N3pwUkNUSTR0?oc=5",
+     "published_at": "2026-11-05T14:12:58+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "毎小ニュース：国際 ロシア JTの事業「管理下」に",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GQmJlV2EwS1Z2Q2dzSFAyZDJ4WFVPNGJKR2tCUHlER1U5dVRZZm9HZmNMeEJEc0VlV0xLVks1NWZvbjNyWTU2MmRLdnhqNDFKbVF4R1FrbFJ6Ym1kZzNfdFpGWDc4RXgwUzVGem1paTJBZw?oc=5",
+     "published_at": "2026-11-06T21:06:13+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "ロシア、JT資産をさらに管理下に プーチン氏が追加命令に署名",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1maENDd1BWbHpqM2pMcWFfRUxPOUl1cU5BQk5JaEtHZEJPcl9sSVpPTGhYa2gwYXpYMmNGZHJJdHhfVlJrb2ljMk9PS2pjODdSMEhtaV9iUnJvczVha0lhVlBhdHZPMXFt?oc=5",
+     "published_at": "2026-11-07T10:59:56+00:00"
     },
     {
      "outlet": "産経新聞",
-     "title": "JTロシア事業を暫定管理下に プーチン氏が大統領令に署名",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ob1gxdzRxa1BpLUZCd2xqcGduTTF1ZEZTc2JoTFVOVHczLUhmYWV5NWZxa0htTkFKdENTT2VqZXlkblhkdmhQODBmd0l2UVc1cTNNOURFRDBVWGwtME5SckxvazJJdVZvRW1tRzR6YUNITFZiREE?oc=5",
-     "published_at": "2026-11-05T14:07:22+00:00"
+     "title": "JT「影響の確認を進める」 長期化なら業績に影響か 露政府が製造会社4社を一時管理",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02cnYyX2liSnZRZGpIbEZQY1Vkbjk4UDVVZW1IbTh6Nl9tWHFoNVYyNU1vVk10TjhVOHQxY3M2QWJROVRHWHd1MEQ3ckdOZkxzbm9qdkRIbEhtdWU2Q19xcDdMZG8zMEhZUVBRWXZDTUg4QU8wa0E?oc=5",
+     "published_at": "2026-11-06T03:28:00+00:00"
     },
     {
-     "outlet": "産経新聞",
-     "title": "ロシア、JT子会社の資産を露企業に暫定移管 対日圧力の一環か 返還は不透明",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHhwdTlQa242VjR5LUJHanRCUmQzX0IzTUhOcWdMaG9HMzYyQTVEcG9HbW9WTFkyS3hFZDFtaDRidGp5MkxFc2Q4b3hnQ1IxWE5JejhIOTRXVGdxeE8yVEFLOTE3b0ZOekotSWp6ZFFtY0NmTzBVaVNkVkRBT1NiN1JKNjhNa2ZlZXdBWQ?oc=5",
-     "published_at": "2026-11-05T14:50:10+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "日本への圧力を強めるロシアのプーチン大統領（ロイター）",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1UtMFY0UnhxeEZrX2EyaEIyOV9xOW9zanVjTEJOUEhNOHFXamM3UHEycmpaeTZsSlNEQ29sUWJsYzlOQ0FDMkFoeW5mWHhMc0hwcVRqdzZseVdyeXVLcHItOS1pRWlCWVBFZ3AyNm5UWXdIM2V1Q0JNcTliNXEtU0w4STJTdktrRklQNnB6VWpnRlBBb3lUbkJtNGtYREx0Zmc?oc=5",
-     "published_at": "2026-11-05T21:43:34+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "片山財務相、ロシアに撤回要求 JT子会社めぐる大統領令 政府が株式保有",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16MjYtV2psaDZDUEJ5WXpOU1RjWnU4TUtxUlBoZzJzb21FZVJHVHl0Tlo0dFVKUXJ3Y2lINW0zYzVqd3JOTE9vZXo5WlQzYzhPSVpCazNIVEJDU2pMZ1JPeHlGNi1faVdoM2kxRXNWbGxTanhqOWc?oc=5",
-     "published_at": "2026-11-06T00:57:06+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "ロシアのプーチン大統領（ロイター＝共同）",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTE9xcXk2aE9GQVBOeWdoWUx0UEdNT2NFVjhOREdNaXRoRUdmWHdLT21uZEJhbllWbDFUQktRUG1iYkxTNzdjdXBQWjJVck5NOFZLVnE1b1hweG9PT29JYjZUZ29JcTZTcEstSDlvS3o3dDFmTXhBbTU5MFFLZHNUZEx1cnVoMVFpV1FpdFlTUmQ3N3JGMEMzeG9yVWZkV3o2TVE?oc=5",
-     "published_at": "2026-11-05T14:07:22+00:00"
+     "outlet": "日本経済新聞",
+     "title": "ロシア、新たにJT関連3社を一時管理下 追加の大統領令で計7社に",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xeHo3OHFXbVBqdk1feTB6Ykt4Z0dGZExhUEppdzk5NVZpOEpqanNjOTgtSERaR25PVjVCVXNVMUM2ajdMRnYzWlkxUmZqZF9yY2ViMGVpV3RWUUYwSTZLWWxiMlJBTy1fendHcw?oc=5",
+     "published_at": "2026-11-07T09:35:24+00:00"
     },
     {
      "outlet": "日本経済新聞",
@@ -16332,33 +16290,27 @@
     },
     {
      "outlet": "日本経済新聞",
+     "title": "JT株、売り注文殺到 ロシアが「製造4社を一時管理下に」",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EclN2cF80bC04ejB6RWhLektpMWZIZWJCVmIzSS16d2l4cG9VVkN3SU5rSjg0aEdRZEVJZVkxT0dHNllSRzZUVXZGcEVQN2ZRODVXSU1wZF9qRXZrTm5zbUN0MkYyN1EyNGJhYw?oc=5",
+     "published_at": "2026-11-06T01:40:50+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
      "title": "ロシアの「企業管理」措置、日本にも 商社など100社以上が拠点",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYkU2bkFpbHdzM0JoTVdaLURjX1BkTXN6aGZsQm5tZVZIN2V3SEJpa0U3ZkFKUXRja19SMjNhbTRMZEVvSW5wQU1QcVZ2dzRQTHBKemlzcWdVVTFVTGhlN3h1Vi15Z3lQVzNyWg?oc=5",
      "published_at": "2026-11-06T01:08:03+00:00"
     },
     {
      "outlet": "日本経済新聞",
-     "title": "JT株価、私設取引でストップ安 ロシアが資産を一時管理下に",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nZkZXMWMyRklYTjQtaWJDenRYZEprXzdJTWpkdjdEa1ZreldFeHBTbWp3dXpHblRuWjlCQWFRTlRzQllyVnFXSERudm5xSlc0QjZrV21JNmxPb2xZU01QM2QtcGpuRWlPS0djcA?oc=5",
-     "published_at": "2026-11-05T13:45:34+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "JT子会社管理、財務相「ロシアに撤回要求」 経産省幹部ら訪ロし抗議",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KVzZqQkZBTXlnaWx0d01GS3Vma1dwYmpZbWYxbWh6c1dYNUhwYkFwdUdvdl9VLV9ZbFU5bElUakpoem1hQ2IwZ2tjVGh2RnpFWXI5ZE1mWHVIT2UxZTMtS29fM0RqMXBuLUVnbQ?oc=5",
-     "published_at": "2026-11-06T00:53:52+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "JT株、売り注文殺到 ロシアが「製造4社を一時管理下に」",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EclN2cF80bC04ejB6RWhLektpMWZIZWJCVmIzSS16d2l4cG9VVkN3SU5rSjg0aEdRZEVJZVkxT0dHNllSRzZUVXZGcEVQN2ZRODVXSU1wZF9qRXZrTm5zbUN0MkYyN1EyNGJhYw?oc=5",
-     "published_at": "2026-11-06T01:40:50+00:00"
+     "title": "今日の株価材料（新聞など、6日）プーチン氏、JTのロシア法人を「一時管理下に」 大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUYjVvNWVZSG1DVFYyWlBDWl9aOHVFenV6Q3RRWTVLclBuZWZFandtWDlWQmtsTHRKM2pUVV8yOHJfSlg5Q3R4UXVhMnVXQjQzUWN4NE14VjFYRm04anFHTEt6bTJXams0WFlGeQ?oc=5",
+     "published_at": "2026-11-05T22:12:28+00:00"
     },
     {
      "outlet": "日本テレビ",
-     "title": "JTのロシア事業を一時管理下に プーチン大統領が大統領令に署名（2026年11月5日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdENZSk1QWDRPOTdOT1VZd29mYXBBNVhLMVBFZ2R1Q21UTnVoYWt6TkpUTXBoempkaFRhM1BudExvbVgxN2M0d29ab2VmNmFHdmdNdHZySllNa1dPSU5kbXlKTEt0Z1R6d2J3WWdfb2ttSHo4WERWcDRxLU1uR1pOWDBBX1o?oc=5",
-     "published_at": "2026-11-05T14:53:00+00:00"
+     "title": "プーチン大統領、新たにJT関連3社のロシア事業の資産を一時管理下に（2026年11月7日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXFLcXhBU0pjLUJfRHhlN0QwZUt0bTRSdTVHekFjWkIxTXlNZTVVZjNTOHptaUtUWW80SWtHOTg5c1ZDUG5zN3YzX0VyZ3M5MjFPZFQ3TjYtWk1NOERSb3piMmxEXy1WdEdxOE9PN2NOSE93b2JqemhaXzV1bDFHaFdTR0c?oc=5",
+     "published_at": "2026-11-07T16:00:03+00:00"
     },
     {
      "outlet": "日本テレビ",
@@ -16367,9 +16319,27 @@
      "published_at": "2026-11-06T02:47:00+00:00"
     },
     {
+     "outlet": "日本テレビ",
+     "title": "JTのロシア事業を一時管理下に プーチン大統領が大統領令に署名（2026年11月5日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdENZSk1QWDRPOTdOT1VZd29mYXBBNVhLMVBFZ2R1Q21UTnVoYWt6TkpUTXBoempkaFRhM1BudExvbVgxN2M0d29ab2VmNmFHdmdNdHZySllNa1dPSU5kbXlKTEt0Z1R6d2J3WWdfb2ttSHo4WERWcDRxLU1uR1pOWDBBX1o?oc=5",
+     "published_at": "2026-11-05T14:53:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ロシア、JT関連3社を追加で一時管理下に－対象は計7社",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TV2hVWGVaVzZfZ1BxVnhhWDlfZU1YY1VhOUhWVHVwMHBfZUxUYm94WnUtNXBnX096SV9qc1JWSXdmQV9kU0pCUm5Xd2U2RW51akJ2VlVDWnJQaVlQMXVsV3NUWkdfX2FDbjNNaHgzWEJxYjly?oc=5",
+     "published_at": "2026-11-07T13:07:07+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "JT ロシアの現地法人がロシア企業の管理下に置かれたことを確認",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iOVhfeWl6SzNESzdUV3dSSmx6TDgwX0VaRzhIazh6LXBNYnVGalAyamh2eXlZN1o3Z1JkZ05uaFktVHVFTk4yd0c3RFdxRE9iem5LbE9tUXdSWHphLWdSNnhZbm9BQzlaNEJKZ01EMjFyWjdD?oc=5",
+     "published_at": "2026-11-07T15:00:42+00:00"
+    },
+    {
      "outlet": "TBS",
      "title": "プーチン大統領 JTのロシア資産を国内企業の暫定管理下に 大統領令に署名",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RYlo5TkwxU0Faei1wenY0X1F1Z0gzb0M4OTk2S0RMRnpwQ0ZRZ2FlNFdsMjZVUkxmb2hNYnB6N0NFMy01ZjJ3MmtMQUh1d1FkcngwNnNLMA?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5WTBLelZjVFN2VS1abWpsZ01adWVqX2VOTUJCMEZUaWF5a0ttMURxMHZjbGR3eXZZQVI2UzhadXM4c1g1UG5ZUmYzOFBnN3JnaDRoWDJvUTRaa1pMdjhjREFVWFFCZWVnSXNNQTJ1MGNqb0hr?oc=5",
      "published_at": "2026-11-05T15:30:45+00:00"
     },
     {
@@ -16385,24 +16355,6 @@
      "published_at": "2026-11-05T21:23:00+00:00"
     },
     {
-     "outlet": "TBS",
-     "title": "JTのロシア事業を現地企業の“暫定管理下”に プーチン氏が大統領令に署名 日本政府は抗議、措置撤回を要求",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByNUVUNjd3UjJHd0hSYXdEclkzeW5iRTJwSG85UllkcnU2QVl1TmV0dmFEOHhrQkNmS19zSE9kTDFnNjd4WEdjUzZLZ2pneG11OXl4WkxBdkNyOEFndUtrUjBLNXlUbjg1Y3Z0b3R6VGxKcjVU?oc=5",
-     "published_at": "2026-11-06T02:59:20+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "JTのロシア資産をロシア企業の暫定管理下に 「措置の撤回などの対応求めた」片山さつき財務大臣",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84ak9vcjVtSFlXUnNfY3g4cEJkVUFyc3ZmaVJJalNMa3lkZlEzZEVkdW4zWngtaE0xbFdCcjMzX3A1Z1lsM2hoenhBX2xHNkZ1UXlETWl1NG9NNkI0RzJhUmlDRG5lZ3l6bjlBWk9RRjVjOEtn?oc=5",
-     "published_at": "2026-11-06T00:35:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "プーチン大統領、JTのロシア資産「一時管理下に」“事実上の接収”",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WVGxaRTc4MWFuaXB4S2RzdmpIQU9ONmlGWXBleEI0blUwbFg0LVlMdlBkRk1veE9FTzcyVTUzTG1OOWluRi1zSU9NT1dPMXNQdGVjX2NYNUM1bmNFUHkxY3UyN3c4U25tX1ZqOENqajZkTlozVE1QYjZ3?oc=5",
-     "published_at": "2026-11-05T14:11:24+00:00"
-    },
-    {
      "outlet": "テレビ朝日",
      "title": "【情報まとめ】「事実上の接収」プーチン氏が大統領令 JTロシア事業の資産を一時管理下に 日本政府側は抗議・措置撤回求める",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqWUVsOHFUTjdlTGpHT2pBZjdTcEczdnVvbUdYMERnVjVCMVRmcEtwY0N2TWxQNld4d0pad1RtZHNzMUVTYkdFYm9SZlBxQXd0ZmEtdTY5VVptdkQzLXJjYUI4SnVhVUxKWmxjWmVrNDZxRDBXdHdwb05B?oc=5",
@@ -16413,6 +16365,12 @@
      "title": "JTのロシア法人「一時管理下に」 プーチン大統領 制裁続ける日本政府への圧力か",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02VFFGbmpCOHdqU2xXTnVOVDZCV1luSmlqTnhFblp1M29lUjVIdnVYaDBfUXRESWRrZGtKNm1Gc0p0N2pTcUM4MW9vRzZxV2lGb0VJVDd3MnBCTUUtYnhTSE9yYi1qM3l5V3Q3RVdDSEMyYWJrNklXTU9R?oc=5",
      "published_at": "2026-11-06T02:48:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "プーチン大統領、JTのロシア資産「一時管理下に」“事実上の接収”",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WVGxaRTc4MWFuaXB4S2RzdmpIQU9ONmlGWXBleEI0blUwbFg0LVlMdlBkRk1veE9FTzcyVTUzTG1OOWluRi1zSU9NT1dPMXNQdGVjX2NYNUM1bmNFUHkxY3UyN3c4U25tX1ZqOENqajZkTlozVE1QYjZ3?oc=5",
+     "published_at": "2026-11-05T14:11:24+00:00"
     },
     {
      "outlet": "テレビ朝日",
@@ -16431,10 +16389,34 @@
      "title": "JTロシア国内の事業を一時的に管理 プーチン氏が大統領令 日本への圧力強める",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUmZmRUVsNnJ5U29oT2JqMnpMeE1ZSXpucmN4TkN3OENBaVR5MmxPZlpwT1BESXVUbUl1Wm5taEdjTmdHcG5tR1lXQXRKUQ?oc=5",
      "published_at": "2026-11-05T16:35:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5",
+     "published_at": "2026-11-07T21:26:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "JT現地法人3社 追加で管理下に プーチン氏 大統領令に署名",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EVmp2c3hFQXBtTFI4MkhJX25iY0MtWW4xTWJtREtra0MzXzgtVDA5RF9PdUFkQ0tMUnpTaGhsSTg4OUNnWWZUSUgtakRhdw?oc=5",
+     "published_at": "2026-11-07T15:53:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "プーチン大統領 JT現地法人3社を追加で一時管理下に 経営権喪失へ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2d194NjFqSXU2b090RlhkeEoyeUQzT3hhVnp2UERTVG44TnBsNmNWOWVpanJKR2l6V0VpQ2JpZjIyNEVGaGZIRTRMemJsQQ?oc=5",
+     "published_at": "2026-11-07T09:50:34+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "JT「影響の確認進めている」 ロシア国内事業の4社“経営権失う” プーチン大統領令 記者拘束など日本への圧力の一環か",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUFA3UldldjRwZkdicG96Y0ZheGNZQzB2aWRxSkRkdUhqOThsLV85TEpaZUMtOXdUNVJXbmFPWU4tY25iT3Z5d2Zhai1xQQ?oc=5",
+     "published_at": "2026-11-06T03:54:00+00:00"
     }
    ],
-   "japan_main_count": 9,
-   "japan_main_checked_at": "2026-11-07T01:00:18.459843+00:00"
+   "japan_main_count": 11,
+   "japan_main_checked_at": "2026-11-08T00:35:20.763008+00:00"
   },
   {
    "id": "21b3692f-80aa-4ca4-87db-948602852a8e",
@@ -16499,20 +16481,25 @@
   {
    "id": "c190a0d7-587a-4052-b777-4abbfee48d24",
    "title_ja": "高市首相が沖縄政策協議会で基地負担軽減を「目に見える形」で実現と表明",
-   "fact_ja": "高市首相は11月6日、13年ぶりに開かれた沖縄政策協議会で、在沖縄米軍基地の負担軽減について目に見える成果を出すよう努力すると述べ、関係閣僚に2027年度予算編成での沖縄支援策の検討を指示した。",
+   "fact_ja": "高市首相は11月6日、13年ぶりに開かれた沖縄政策協議会で、在沖縄米軍基地の負担軽減で目に見える成果を出すよう努力すると述べ、関係閣僚に2027年度予算編成での沖縄支援策の検討を指示した。",
    "category": "安全保障",
    "target": "高市首相の基地負担軽減の表明",
-   "judged_count": 2,
+   "judged_count": 3,
    "first_seen": "2026-11-06T03:50:00+00:00",
-   "updated_at": "2026-11-06T07:32:00+00:00",
+   "updated_at": "2026-11-06T08:38:00+00:00",
    "judge_version": 2,
    "read_count": 0,
-   "japan_position_ja": "高市首相は沖縄政策協議会で、在沖縄米軍基地の負担軽減で目に見える成果を出すと述べ、関係閣僚に2027年度予算編成での沖縄支援策の検討を指示した。茂木外相は、米兵による事件を受け、日米が米軍要員への教育強化で一致したと説明した。",
-   "japan_basis": "overseas_reports",
-   "japan_views": [],
+   "japan_position_ja": "高市首相は、13年ぶりに開かれた沖縄政策協議会で、在沖縄米軍基地の負担軽減に全力で取り組み、目に見える形で実現すると述べた。あわせて地域振興策などの課題にも、沖縄県と協力して取り組む意向を示した。協議会は9月の知事選で当選したコジ知事の要請を受けて開かれた。",
+   "japan_basis": "japanese_media",
+   "japan_views": [
+    {
+     "outlet": "The Japan Times",
+     "view_ja": "13年ぶりの協議会開催を淡々と伝え、首相の「基地負担の目に見える軽減」への意欲と、県と協力して地域振興に取り組む姿勢を紹介している。"
+    }
+   ],
    "japan_split": false,
-   "overseas_view_ja": "独立系のシンガポールのストレーツ・タイムズ（共同通信配信）は、首相の表明を事実中心に伝えた。普天間飛行場の移設計画、米兵による事件への地元の怒り、玉城前知事から交代した古謝知事が経済を重視したことなどを併せて紹介し、中国の動きを背景にした南西諸島の防衛強化にも触れた。古謝知事が返還時期を求めたが、政府は具体的な日付を示さなかったとも書いている。中国の国営系CGTNは、日本メディアを引用して首相の「目に見える形」での負担軽減発言を短く伝えた。",
-   "search_ja": "高市首相 沖縄政策協議会 基地負担軽減",
+   "overseas_view_ja": "The Straits Times（共同配信）は、首相の表明を伝えつつ、普天間飛行場の辺野古移設計画や米兵による事件への地元の怒りという背景を添えている。知事が返還時期の明示を求めたのに対し、政府は具体的な日付に触れなかった点も書いている。一方で、中国の動きを受けた南西諸島の防衛強化という政府の狙いにも触れている。中国の国営系メディアCGTNは、日本メディアの報道を引く形で、首相の発言を見出しで伝えている。",
+   "search_ja": "沖縄政策協議会 高市首相 基地負担軽減",
    "japan_main": [
     {
      "outlet": "NHK",
@@ -16522,9 +16509,9 @@
     },
     {
      "outlet": "朝日新聞",
-     "title": "首相「基地負担軽減、目に見える形で」 13年ぶり沖縄政策協議会 [高市早苗首相 自民党総裁]",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95VERoeUw5NlRCdWdNb0VHU3pnX3J1MHlmbnFaRloxNjZOTFZTdTJrbS03ekVIOFFWcjBGY2R0bG1hOEtjbHpHWHlzMElGMDRMeWZRcnFGWm8wX2RPZGw0RTJ6d0pUblU?oc=5",
-     "published_at": "2026-11-06T02:35:00+00:00"
+     "title": "【社説】国と沖縄、13年ぶりの協議会再開 基地負担軽減の具体策を [高市早苗首相 自民党総裁]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SVUJ6NFdJdVJUYWNoN1ZhYi1XcUc5SldwbTBfMUNwalY4TGYzZEpjVUwzTjFkd1pld3psbXdZcHNKaFJWNTlLQ1VPN3BoRzBfMkZxSzJtREY0LXhhaWhPQnB1ZmhZdEE?oc=5",
+     "published_at": "2026-11-06T10:01:00+00:00"
     },
     {
      "outlet": "朝日新聞",
@@ -16534,15 +16521,21 @@
     },
     {
      "outlet": "朝日新聞",
-     "title": "【社説】国と沖縄、13年ぶりの協議会再開 基地負担軽減の具体策を [高市早苗首相 自民党総裁]",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SVUJ6NFdJdVJUYWNoN1ZhYi1XcUc5SldwbTBfMUNwalY4TGYzZEpjVUwzTjFkd1pld3psbXdZcHNKaFJWNTlLQ1VPN3BoRzBfMkZxSzJtREY0LXhhaWhPQnB1ZmhZdEE?oc=5",
-     "published_at": "2026-11-06T10:01:00+00:00"
-    },
-    {
-     "outlet": "朝日新聞",
      "title": "13年ぶりの沖縄政策協議会 政府は「県政交代」の政治的効果演出へ [高市早苗首相 自民党総裁]",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93bldsTGtoMkRPU0p2Z200V1hiOEdUZHl0SmNqTTVvNVhWR2xSZ0Z3eTdPUktELVh0dEk3VkxHSlYzTXhVRW1zZGVhOFZuM2Rvb2FWdnpNWnNZYVNSWFV2T3FBYkFleUU?oc=5",
      "published_at": "2026-11-06T10:10:38+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "首相「基地負担軽減、目に見える形で」 13年ぶり沖縄政策協議会 [高市早苗首相 自民党総裁]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95VERoeUw5NlRCdWdNb0VHU3pnX3J1MHlmbnFaRloxNjZOTFZTdTJrbS03ekVIOFFWcjBGY2R0bG1hOEtjbHpHWHlzMElGMDRMeWZRcnFGWm8wX2RPZGw0RTJ6d0pUblU?oc=5",
+     "published_at": "2026-11-06T02:35:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "「沖縄政策協議会」１３年ぶり対話の場…「普天間返還に向け一歩前進」「国のさらなる支援を」期待と注文",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzWWV4SDkxSmNDb0pnN1Zka3BTWUVWc216YnRFRG1zMGNvb09Hc21BQmlMazByMUl3X0l0RGJqVFdoMUY2RDFTMXZxQ1RWclBMZDlqLXE3dG5ZV3ktcEV0bVoxbDJ5RDRwVFU2N0ZFYnFMdw?oc=5",
+     "published_at": "2026-11-07T01:25:00+00:00"
     },
     {
      "outlet": "毎日新聞",
@@ -16611,8 +16604,8 @@
      "published_at": "2026-11-06T01:40:00+00:00"
     }
    ],
-   "japan_main_count": 2,
-   "japan_main_checked_at": "2026-11-07T01:00:29.345065+00:00"
+   "japan_main_count": 3,
+   "japan_main_checked_at": "2026-11-08T00:35:31.054445+00:00"
   },
   {
    "id": "d3687e7e-d6cb-4f25-a143-20f796dfe770",
@@ -16632,7 +16625,7 @@
    "target": "高市首相の台湾発言をめぐる日本の対中姿勢",
    "judged_count": 7,
    "first_seen": "2026-11-05T19:16:34+00:00",
-   "updated_at": "2026-11-06T19:17:00+00:00",
+   "updated_at": "2026-11-07T18:58:00+00:00",
    "judge_version": 2,
    "read_count": 0,
    "japan_position_ja": "高市首相は2025年11月7日の国会で、台湾有事で集団的自衛権に基づく自衛隊の対応があり得ると述べた。それをきっかけに中国との対立が続いている。政府は台湾への立場は1972年の日中共同声明のとおりだとしている。",
@@ -16647,6 +16640,12 @@
    "overseas_view_ja": "SCMPは、中国が責任は全面的に日本にあるとし、日本が問題を回避していると批判したと伝え、高市首相のAPEC出席のための訪中予定にも触れている。朝鮮日報は、日本が共同声明の再確認で融和を図ったのに中国が発言そのものの是正を求めて拒んだと伝え、首脳会談の見通しも不透明だとしている。中国の国営・政府系メディアのグローバル・タイムズとCGTNは、高市氏の発言を誤りと断じて日本を非難している。グローバル・タイムズは非核三原則の見直しや軍備拡大にも触れ、日本の軍国主義化を警戒すべきだと主張している。",
    "search_ja": "高市 台湾発言 1年 中国外務省",
    "japan_main": [
+    {
+     "outlet": "毎日新聞",
+     "title": "高市首相の「台湾有事」答弁1年 中国副報道局長が改めて批判",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yZmtENXFwUVZ3R0ktcmZGWmhpaHBPdXlBRlEwSkNkNW10TlY1clFodTc4dWtoUEhhTWhSWkFRZ3VaTmRfTV9qdWh2ZkJmbEd0ZU1uU2x6aDlXTFRqSXo0NzRYRkdzRHA0?oc=5",
+     "published_at": "2026-11-06T09:26:57+00:00"
+    },
     {
      "outlet": "産経新聞",
      "title": "中国、台湾有事答弁1年を前に日本批判 「反省と是正に向けた誠意や行動を示していない」",
@@ -16688,10 +16687,16 @@
      "title": "｢台湾有事｣発言から1年 中国外務省｢責任は日本側に｣",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5faTY2WFIwYzhqNTF4a1ZYUDJlc3Y5djF4WmFRcjlILTFrbHlpR0VBOEtCN0JKZ25kRTN0aDlXLWtiYjdkaHN5Q29jSkRRUQ?oc=5",
      "published_at": "2026-11-06T22:57:00+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "中国外務省が「台湾有事」めぐる高市総理答弁の訂正を改めて要求 「責任は完全に日本側」 7日で答弁から1年",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rbHZwM0M5aDZPckF6ZnVMLUZ0QnZqT3pocjRHZ3llNDRxbjloS18yMExFamx4eEJOV0w0YW40ZGcyUjFKVGdhdmQxbUlCQQ?oc=5",
+     "published_at": "2026-11-06T08:38:00+00:00"
     }
    ],
-   "japan_main_count": 7,
-   "japan_main_checked_at": "2026-11-07T01:00:42.627799+00:00"
+   "japan_main_count": 10,
+   "japan_main_checked_at": "2026-11-08T00:35:42.850137+00:00"
   },
   {
    "id": "97223748-c890-42be-a013-98471d574b6e",
@@ -16741,7 +16746,7 @@
    "target": "中部電力のデータ不正への対応",
    "judged_count": 0,
    "first_seen": "2026-11-06T02:52:00+00:00",
-   "updated_at": "2026-11-06T02:52:00+00:00"
+   "updated_at": "2026-11-06T08:44:00+00:00"
   },
   {
    "id": "45f5a7eb-f329-49a6-b67e-a4a2df3c3c49",
@@ -16892,6 +16897,86 @@
    "judged_count": 0,
    "first_seen": "2026-11-06T23:00:00+00:00",
    "updated_at": "2026-11-06T23:00:00+00:00"
+  },
+  {
+   "id": "c49866bb-5868-44b7-8ad3-452f2e2fa8f7",
+   "title_ja": "赤沢経産相がXの自動翻訳の誤りを指摘",
+   "fact_ja": "赤沢経産相は、Xの自動翻訳が会談相手の名前を誤って表示したと述べ、修正を求めた。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T09:12:29+00:00",
+   "updated_at": "2026-11-06T09:12:29+00:00"
+  },
+  {
+   "id": "0c7e1157-bf46-4b1a-9bb8-ab280658626e",
+   "title_ja": "マスク氏が日本の大手企業に関し支払いの申し立て",
+   "fact_ja": "マスク氏が日本の大手企業をめぐり支払いに関する申し立てを行ったと報じられた。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-06T09:55:00+00:00",
+   "updated_at": "2026-11-06T09:55:00+00:00"
+  },
+  {
+   "id": "ae26065f-88bc-493b-818a-9903660437f7",
+   "title_ja": "ベトナムの最高指導者が訪日",
+   "fact_ja": "ベトナムの最高指導者が日本を訪問し、戦略的パートナーシップが取り上げられた。",
+   "category": "外交",
+   "target": "日越関係",
+   "judged_count": 0,
+   "first_seen": "2026-11-07T09:41:00+00:00",
+   "updated_at": "2026-11-07T09:41:00+00:00"
+  },
+  {
+   "id": "f0b913a3-1467-488c-9cc5-780e07722598",
+   "title_ja": "三浦知良選手がJ3最年長出場記録を更新",
+   "fact_ja": "59歳のミウラ・カズヨシ選手が福島ユナイテッドの試合に途中出場し、J3での最年長出場記録を更新した。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-07T15:19:50+00:00",
+   "updated_at": "2026-11-07T15:23:21+00:00"
+  },
+  {
+   "id": "20383662-d5dd-4b7f-b53e-0a989012e9fa",
+   "title_ja": "ラグビー、ウェールズ対日本はウェールズが28-21で勝利",
+   "fact_ja": "ネーションズ選手権でウェールズが日本を28-21で破った。日本はジョーンズ監督が指揮した。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-07T18:33:06+00:00",
+   "updated_at": "2026-11-07T20:28:28+00:00"
+  },
+  {
+   "id": "9da60b7c-79f6-47e3-af60-71ad64115c97",
+   "title_ja": "茨城県沖でM5.4の地震",
+   "fact_ja": "11月7日夜、茨城県沖でマグニチュード5.4の地震が発生し、最大震度は3と推定された。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-07T19:09:00+00:00",
+   "updated_at": "2026-11-07T19:09:00+00:00"
+  },
+  {
+   "id": "e026e851-3a9b-46f4-9b36-9604f9337ace",
+   "title_ja": "韓国式の大容量低価格コーヒー店が東京で人気",
+   "fact_ja": "韓国系の低価格コーヒーチェーンが東京都心に相次ぎ出店し、大容量のテイクアウト用アイスコーヒーが人気を集めている。",
+   "category": "企業・産業",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-07T22:00:00+00:00",
+   "updated_at": "2026-11-07T22:00:00+00:00"
+  },
+  {
+   "id": "3039aa00-468f-4451-a97d-3ecac81f0a03",
+   "title_ja": "静岡県西部を震源とするM5.7の地震で愛知県で負傷者",
+   "fact_ja": "11月8日午前1時4分ごろ、静岡県西部を震源とするM5.7の地震があり、愛知県で多数の負傷者が出た。津波の心配はなかった。",
+   "category": "その他",
+   "target": "",
+   "judged_count": 0,
+   "first_seen": "2026-11-07T22:34:58+00:00",
+   "updated_at": "2026-11-08T07:48:00+00:00"
   }
  ],
  "articles": [
@@ -37981,10 +38066,10 @@
    "id": "e06ed5c2-d90f-4903-a4a0-95930b0b1eb2",
    "fetched_at": "2026-10-14T00:15:17.203773+00:00",
    "event_id": "2b2f0e7e-49c8-4fa8-94ef-87723656d158",
-   "summary_ja": "茂木外相が米軍の基地外行動規範の見直しを表明。高市首相も再発防止を強調し、過去の米兵犯罪にも触れた。",
-   "angle": "規範見直しの内容",
+   "summary_ja": "茂木外相が在日米軍の基地外行動規範を見直していると述べ、巡回や夜間外出管理が対象になると伝えた。",
+   "angle": "規範の見直し",
    "tone": "neu",
-   "evidence": "a thorn in relations between the close security allies",
+   "evidence": "whether the existing rules are effectively functioning",
    "processed_at": "2026-10-14T00:19:34.591078+00:00",
    "relevant": true,
    "basis": "body"
@@ -38114,10 +38199,10 @@
    "id": "a5088044-c382-42a6-8956-3eda05d68c9d",
    "fetched_at": "2026-10-14T00:15:20.777434+00:00",
    "event_id": "2b2f0e7e-49c8-4fa8-94ef-87723656d158",
-   "summary_ja": "沖縄の殺害事件を受け、日米が米軍のリバティ制度など勤務外の規則を見直していると伝える。",
-   "angle": "外出制度の見直し",
-   "tone": "neu",
-   "evidence": "Crimes including rapes, assaults, hit-and-runs and drunk driving",
+   "summary_ja": "沖縄の殺害事件を受け、日米が米軍のリバティ制度を見直すと見出しで伝えた。",
+   "angle": "リバティ制度見直し",
+   "tone": "none",
+   "evidence": "",
    "processed_at": "2026-10-14T00:19:34.591078+00:00",
    "relevant": true,
    "basis": "headline"
@@ -38348,10 +38433,10 @@
    "id": "6bd95eb9-704b-4d84-9304-17aa49d9bfdc",
    "fetched_at": "2026-10-14T00:16:04.106849+00:00",
    "event_id": "2b2f0e7e-49c8-4fa8-94ef-87723656d158",
-   "summary_ja": "規範見直しに加え、現行方針や事件の経緯、米軍の対応、抗議デモまで詳しく伝える。",
-   "angle": "事件の経緯と現行策",
+   "summary_ja": "規範見直しに加え、現行方針の内容や米軍の活動停止・夜間外出禁止の措置、抗議の様子も伝えた。",
+   "angle": "規則の現状と背景",
    "tone": "neu",
-   "evidence": "a thorn in relations between the close security allies",
+   "evidence": "have long triggered protests on the southern Japanese island",
    "processed_at": "2026-10-14T00:19:34.591078+00:00",
    "relevant": true,
    "basis": "body"
@@ -38667,8 +38752,8 @@
    "id": "0e3e2389-08fb-4f18-84bc-664950de0484",
    "fetched_at": "2026-10-14T00:16:12.305609+00:00",
    "event_id": "2b2f0e7e-49c8-4fa8-94ef-87723656d158",
-   "summary_ja": "茂木外相が行動規範の見直しを説明。沖縄で米兵犯罪が抗議を招いてきた背景を簡潔に伝える。",
-   "angle": "規範見直しの表明",
+   "summary_ja": "茂木外相が米軍の基地外行動規範を見直していると述べたことを簡潔に伝えた。",
+   "angle": "規範の見直し",
    "tone": "neu",
    "evidence": "whether the existing rules are effectively functioning",
    "processed_at": "2026-10-14T00:19:34.591078+00:00",
@@ -39944,8 +40029,8 @@
    "id": "5082982e-669f-4a9c-a67b-fe4db388b0fd",
    "fetched_at": "2026-10-14T23:53:46.348727+00:00",
    "event_id": "2b2f0e7e-49c8-4fa8-94ef-87723656d158",
-   "summary_ja": "高市首相が、米軍の勤務外行動規範の厳格化について日米で協議中だと述べたと見出しで伝える。",
-   "angle": "規則の厳格化",
+   "summary_ja": "高市首相が、米軍の勤務外行動の規則を厳格化する協議を日米で進めていると述べたと伝えた。",
+   "angle": "首相の説明",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-14T23:58:01.979242+00:00",
@@ -44105,8 +44190,8 @@
    "id": "cc649237-a175-4032-9b6a-47f877ce2b39",
    "fetched_at": "2026-10-18T23:01:42.032784+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "打ち上げ直前、火星圏への初の往復探査として意義を伝え、担当者の期待を紹介。",
-   "angle": "史上初の往復",
+   "summary_ja": "火星圏初の往復となる歴史的な火星衛星ミッションを控えていると、打ち上げ前に伝えた。",
+   "angle": "打ち上げ前の期待",
    "tone": "fav",
    "evidence": "historic round-trip mission; incredibly exciting",
    "processed_at": "2026-10-18T23:05:28.671056+00:00",
@@ -44204,10 +44289,10 @@
    "id": "5f53187b-b5b4-4d7e-b56a-29570a4bb503",
    "fetched_at": "2026-10-18T23:01:44.959670+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "生命の起源に迫る火星衛星探査の準備が進むと、計画の狙いを淡々と紹介。",
-   "angle": "生命の起源",
-   "tone": "neu",
-   "evidence": "could help unlock the origins of the Solar System",
+   "summary_ja": "生命の起源の解明を目指す火星衛星ミッションの準備が進むと伝えた。",
+   "angle": "生命起源の解明",
+   "tone": "none",
+   "evidence": "",
    "processed_at": "2026-10-18T23:05:28.671056+00:00",
    "relevant": true,
    "basis": "headline"
@@ -44485,10 +44570,10 @@
    "id": "f656b16d-533d-42f0-a129-2bd89b4917f0",
    "fetched_at": "2026-10-18T23:02:33.184086+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "打ち上げ前の解説で、着陸脚の難しさや中国との競争にも触れ、計画を総合的に伝える。",
+   "summary_ja": "火星圏初の往復ミッションの狙いと技術的な難しさ、米中の競争を詳しく紹介した。",
    "angle": "計画の全体像",
-   "tone": "neu",
-   "evidence": "landing legs was particularly difficult; Tianwen-3",
+   "tone": "fav",
+   "evidence": "historic round-trip mission; world's first",
    "processed_at": "2026-10-18T23:04:07.564251+00:00",
    "relevant": true,
    "basis": "body"
@@ -44672,8 +44757,8 @@
    "id": "4714b924-b261-4a16-9085-76bb1e267305",
    "fetched_at": "2026-10-18T23:02:34.269810+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "火星衛星への往復探査を「歴史的」と見出しで紹介。",
-   "angle": "史上初の往復",
+   "summary_ja": "火星衛星への歴史的な往復ミッションを打ち上げると見出しで伝えた。",
+   "angle": "歴史的な往復",
    "tone": "fav",
    "evidence": "historic round-trip mission",
    "processed_at": "2026-10-18T23:05:50.902397+00:00",
@@ -44706,10 +44791,10 @@
    "id": "8ddb4fdf-e4cf-45de-9310-539996f5c6b5",
    "fetched_at": "2026-10-18T23:02:34.769744+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "フォボス試料回収は世界初で、未踏の重要な目標だと位置づける。",
-   "angle": "世界初の試料回収",
+   "summary_ja": "火星衛星から試料を集める世界初のミッションを打ち上げると伝えた。",
+   "angle": "世界初の試料採取",
    "tone": "fav",
-   "evidence": "world-first mission; most important unclimbed mountains",
+   "evidence": "world-first mission",
    "processed_at": "2026-10-18T23:05:28.671056+00:00",
    "relevant": true,
    "basis": "headline"
@@ -45196,8 +45281,8 @@
    "id": "e95afff6-52b9-4fe9-b159-2bd04daccc24",
    "fetched_at": "2026-10-20T00:14:56.931342+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "打ち上げ成功と関係者の喜び、NASAの期待、専門家が語る難しさを伝える。",
-   "angle": "打ち上げ成功",
+   "summary_ja": "打ち上げと分離の成功に加え、専門家の話から火星圏での試料回収の難しさも伝えた。",
+   "angle": "成功と難しさ",
    "tone": "fav",
    "evidence": "world-first mission; paradigm-shifting science",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
@@ -45213,10 +45298,10 @@
    "id": "1ce4c461-3892-48c3-a9b9-08e2d9a00ca6",
    "fetched_at": "2026-10-20T00:14:56.931651+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "探査機の分離成功と関係者の喜び、NASAの期待を伝え、成果を強調。",
+   "summary_ja": "歴史的な火星衛星ミッションで探査機の打ち上げに成功したと伝えた。",
    "angle": "打ち上げ成功",
    "tone": "fav",
-   "evidence": "successfully launches probe in historic Mars moon mission",
+   "evidence": "successfully launches; historic Mars moon mission",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
    "relevant": true,
    "basis": "body"
@@ -45281,8 +45366,8 @@
    "id": "e3dc5360-44f9-4389-b416-7551761d004d",
    "fetched_at": "2026-10-20T00:15:12.999218+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "壮大な計画と位置づけ、ドイツが関わる探査車や米国の火星計画中止、中国との競争を解説。",
-   "angle": "独の貢献と競争",
+   "summary_ja": "独仏のローバー参加や、中止された米欧計画より費用が小さい点を詳しく伝えた。",
+   "angle": "独の貢献と費用",
    "tone": "fav",
    "evidence": "spektakuläre Mars-Mond-Mission gestartet",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
@@ -45298,10 +45383,10 @@
    "id": "d83fc06d-b046-4183-8f74-d3a56420e0d4",
    "fetched_at": "2026-10-20T00:15:12.999344+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "独仏開発の探査車イデフィックスを載せた探査機の出発と、火星衛星の基礎情報を伝える。",
-   "angle": "独仏の探査車",
-   "tone": "neu",
-   "evidence": "Eine H3-Rakete hob erfolgreich mit der Sonde ab",
+   "summary_ja": "独仏開発のローバー「Idefix」を載せた探査機の出発と火星衛星の概要を伝えた。",
+   "angle": "Idefixの出発",
+   "tone": "none",
+   "evidence": "",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
    "relevant": true,
    "basis": "body"
@@ -45315,7 +45400,7 @@
    "id": "1cb5c71b-1827-4a28-8499-949cc5a6b526",
    "fetched_at": "2026-10-20T00:15:16.592645+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "日本が火星衛星への探査を始めたと見出しで伝える。",
+   "summary_ja": "日本が火星衛星への探査を開始したと伝えた。",
    "angle": "打ち上げ",
    "tone": "none",
    "evidence": "",
@@ -45332,8 +45417,8 @@
    "id": "99e15c6c-329f-4dcd-a1e5-5df4354ae829",
    "fetched_at": "2026-10-20T00:15:16.592754+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "日本のロケットが欧州の探査車をフォボスへ送ると、欧州の関わりを見出しにした。",
-   "angle": "欧州の関与",
+   "summary_ja": "日本のロケットが欧州開発の探査車をフォボスへ送ると伝えた。",
+   "angle": "欧州の探査車",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
@@ -45349,7 +45434,7 @@
    "id": "ef39cfc7-7fb7-4b1d-a169-6214b2abede6",
    "fetched_at": "2026-10-20T00:15:16.592856+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "欧州も参加する日本のフォボス探査を見出しで紹介。",
+   "summary_ja": "欧州も参加する日本のフォボス探査ミッションを伝えた。",
    "angle": "欧州の参加",
    "tone": "none",
    "evidence": "",
@@ -45366,7 +45451,7 @@
    "id": "e729e883-e14c-454b-9f8e-e15e37920beb",
    "fetched_at": "2026-10-20T00:15:16.592957+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "日本の火星衛星探査の開始を見出しで伝える。",
+   "summary_ja": "日本の火星探査ミッションの開始を伝えた。",
    "angle": "打ち上げ",
    "tone": "none",
    "evidence": "",
@@ -45517,10 +45602,10 @@
    "id": "1d7fc0f0-491c-43c2-a156-5868f16ba25a",
    "fetched_at": "2026-10-20T00:15:51.186904+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "歴史的な5年計画として、目的、費用、技術試験の意義を解説。",
-   "angle": "計画の意義",
+   "summary_ja": "5年間の計画の概要や費用、通信遅延への対応を、歴史的な挑戦として伝えた。",
+   "angle": "計画の概要",
    "tone": "fav",
-   "evidence": "historic five-year mission; ambitious project",
+   "evidence": "launches historic mission; ambitious project",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
    "relevant": true,
    "basis": "body"
@@ -45550,7 +45635,7 @@
    "id": "30bcdf89-588f-4dc0-8cb6-389461b15f73",
    "fetched_at": "2026-10-20T00:15:51.187460+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "MMXが10月20日に打ち上げられ、2031年までに試料を持ち帰る予定と見出しで伝える。",
+   "summary_ja": "MMXが20日に打ち上げられ、2031年までに試料を持ち帰る予定と伝えた。",
    "angle": "打ち上げ予定",
    "tone": "none",
    "evidence": "",
@@ -45718,10 +45803,10 @@
    "id": "ee99aee3-f5bc-45aa-b8f4-7bf08be57b0c",
    "fetched_at": "2026-10-20T00:15:52.512591+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "衛星の起源をめぐる2仮説と採取方法を解説し、着陸の難しさや過去の失敗も紹介。",
-   "angle": "衛星の起源",
+   "summary_ja": "火星衛星の誕生の謎に迫る計画と、弱い重力での着陸の難しさを詳しく紹介した。",
+   "angle": "衛星誕生の謎",
    "tone": "neu",
-   "evidence": "着陸も쉽지 않은 도전",
+   "evidence": "착륙도 쉽지 않은 도전; 세계 최초 사례",
    "processed_at": "2026-10-20T00:19:30.498210+00:00",
    "relevant": true,
    "basis": "body"
@@ -45735,10 +45820,10 @@
    "id": "eaba0f8a-74e0-43c2-9d8f-3f5c06c56479",
    "fetched_at": "2026-10-20T00:15:53.340238+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "打ち上げ成功と関係者の喜びを伝え、中国が先に試料を持ち帰る可能性にも触れる。",
-   "angle": "打ち上げ成功",
+   "summary_ja": "打ち上げ成功と計画の概要に加え、米国の中止と中国の先行可能性にも触れた。",
+   "angle": "成功と各国競争",
    "tone": "fav",
-   "evidence": "historic Mars moon mission; incredibly happy",
+   "evidence": "successfully launches; historic Mars moon mission",
    "processed_at": "2026-10-20T00:21:08.658883+00:00",
    "relevant": true,
    "basis": "body"
@@ -45973,9 +46058,9 @@
    "id": "5a6c2d8d-8f69-4126-b3f8-5fca4fd84725",
    "fetched_at": "2026-10-20T00:15:55.285764+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "探査機の分離と軌道投入に成功し、打ち上げは成功だったと伝える。",
-   "angle": "打ち上げ成功",
-   "tone": "fav",
+   "summary_ja": "JAXAがMMXの分離と軌道投入に成功し、打ち上げは成功したと伝えた。",
+   "angle": "分離と軌道投入",
+   "tone": "neu",
    "evidence": "The launch was a success.",
    "processed_at": "2026-10-20T00:21:08.658883+00:00",
    "relevant": true,
@@ -45990,8 +46075,8 @@
    "id": "65cd5534-71cc-45a2-8f7e-933dc2c72336",
    "fetched_at": "2026-10-20T00:15:55.740466+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "前例のない試料回収に向けた打ち上げ成功を「一生に一度の機会」として伝える。",
-   "angle": "史上初の挑戦",
+   "summary_ja": "フォボスの岩石を集める歴史的ミッションを「一生に一度の機会」として伝えた。",
+   "angle": "歴史的な挑戦",
    "tone": "fav",
    "evidence": "Once-in-a-lifetime chance; historic mission",
    "processed_at": "2026-10-20T00:21:08.658883+00:00",
@@ -46040,8 +46125,8 @@
    "id": "3614a063-ddd7-41af-8047-bc6b44bbe7ea",
    "fetched_at": "2026-10-20T00:15:56.039160+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "探査機MMXが探査車イデフィックスを載せて打ち上げられたと見出しで伝える。",
-   "angle": "打ち上げ",
+   "summary_ja": "ローバー「Idefix」を載せた探査機MMXが打ち上げられたと伝えた。",
+   "angle": "Idefixの出発",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-20T00:21:08.658883+00:00",
@@ -46057,8 +46142,8 @@
    "id": "f3298bad-9f99-4064-8f40-95078e98ec76",
    "fetched_at": "2026-10-20T00:15:56.039291+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "探査車イデフィックスが火星衛星へ向かう、日本の探査が始まったと見出しで伝える。",
-   "angle": "打ち上げ",
+   "summary_ja": "「Idefix」を載せた探査機が火星衛星へ出発すると伝えた。",
+   "angle": "Idefixの出発",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
@@ -46091,8 +46176,8 @@
    "id": "5364abd9-880f-4605-85a6-f6de6868ed83",
    "fetched_at": "2026-10-20T00:15:56.331720+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "探査車イデフィックスが火星衛星へ向かう、日本の探査が始まったと見出しで伝える。",
-   "angle": "打ち上げ",
+   "summary_ja": "「Idefix」を載せた探査機が火星衛星へ出発すると伝えた。",
+   "angle": "Idefixの出発",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
@@ -46108,10 +46193,10 @@
    "id": "e8f8a842-9e27-4b4b-81b0-3fda7f22be23",
    "fetched_at": "2026-10-20T00:15:56.910509+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "火星衛星からの試料採取を目指す初の探査を日本が打ち上げたと伝える。",
-   "angle": "初の試料採取",
-   "tone": "none",
-   "evidence": "",
+   "summary_ja": "日本が火星衛星から試料を集める初のミッションを打ち上げたと伝えた。",
+   "angle": "世界初の試料採取",
+   "tone": "fav",
+   "evidence": "first mission to collect samples",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
    "relevant": true,
    "basis": "headline"
@@ -46125,10 +46210,10 @@
    "id": "8b97ce9b-5426-4387-ad55-a050e951b197",
    "fetched_at": "2026-10-20T00:15:56.910623+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "動画で、日本の歴史的な火星探査の試料回収計画の打ち上げを紹介。",
+   "summary_ja": "日本が歴史的な火星への試料回収ミッションを打ち上げた映像を伝えた。",
    "angle": "打ち上げ映像",
    "tone": "fav",
-   "evidence": "historic sample-return mission",
+   "evidence": "launches historic sample-return mission",
    "processed_at": "2026-10-20T00:20:47.038939+00:00",
    "relevant": true,
    "basis": "headline"
@@ -46191,7 +46276,7 @@
    "id": "6d0cb67e-4c05-486c-858c-c2e93bb65a1e",
    "fetched_at": "2026-10-20T00:15:58.610381+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "H3の打ち上げと軌道投入に成功し、5年計画が始まったと伝える。",
+   "summary_ja": "H3の打ち上げと軌道投入の成功を、5年間の野心的な計画の始まりとして伝えた。",
    "angle": "打ち上げ成功",
    "tone": "fav",
    "evidence": "historic bid; ambitious five-year mission",
@@ -47000,10 +47085,10 @@
    "id": "563ff380-3ec5-454c-8463-912b920b0056",
    "fetched_at": "2026-10-20T23:47:50.982586+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "高市首相の祝意、JAXA会長の発言、独の探査車の挑戦、中国の計画を伝える。",
-   "angle": "独の探査車",
-   "tone": "neu",
-   "evidence": "Wir wünschen diesem historischen Unterfangen Erfolg",
+   "summary_ja": "打ち上げ成功と高市首相の祝意、Idefixの試験や中国の計画を詳しく伝えた。",
+   "angle": "首相の祝意と計画",
+   "tone": "fav",
+   "evidence": "erfolgreich; historischen Unterfangen Erfolg",
    "processed_at": "2026-10-20T23:50:12.041230+00:00",
    "relevant": true,
    "basis": "body"
@@ -47017,7 +47102,7 @@
    "id": "2062e588-a6ec-4537-b804-185bd56e022e",
    "fetched_at": "2026-10-20T23:47:53.992935+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "日本が探査車をフォボスへ送ると見出しで伝える。",
+   "summary_ja": "日本が探査車を火星衛星フォボスへ送ると伝えた。",
    "angle": "探査車の派遣",
    "tone": "none",
    "evidence": "",
@@ -47034,8 +47119,8 @@
    "id": "eac7a03e-6ed9-4d23-beb5-10b59df8f869",
    "fetched_at": "2026-10-20T23:47:53.993159+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "ARD東京の特派員が、初の試料は5年後になるとこの探査について語る。",
-   "angle": "試料は5年後",
+   "summary_ja": "東京特派員が、最初の試料は5年後に得られる見通しだと伝えた。",
+   "angle": "試料到着の見通し",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-20T23:51:46.195341+00:00",
@@ -47051,7 +47136,7 @@
    "id": "34bc1da3-a5ed-421c-8e5a-d3f02261e955",
    "fetched_at": "2026-10-20T23:47:53.993375+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "日本の火星衛星探査が打ち上げに成功したと見出しで伝える。",
+   "summary_ja": "火星衛星ミッションの打ち上げが成功したと伝えた。",
    "angle": "打ち上げ成功",
    "tone": "fav",
    "evidence": "erfolgreich gestartet",
@@ -47119,10 +47204,10 @@
    "id": "97611cc5-4bba-46ea-a7ba-f73330117ef6",
    "fetched_at": "2026-10-20T23:48:23.931355+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "打ち上げと分離の経過、探査機の目的、2031年の試料帰還予定を事実中心に伝える。",
-   "angle": "計画の概要",
+   "summary_ja": "打ち上げ時刻、分離、探査機の目的と日程を事実中心に伝えた。",
+   "angle": "打ち上げの経過",
    "tone": "neu",
-   "evidence": "launched an H3 rocket; return the samples to Earth",
+   "evidence": "launched an H3 rocket; placing it onto a trajectory",
    "processed_at": "2026-10-20T23:50:12.041230+00:00",
    "relevant": true,
    "basis": "body"
@@ -47186,8 +47271,8 @@
    "id": "73a089a9-bc50-4ea4-8bca-8c8d3f3ff68b",
    "fetched_at": "2026-10-20T23:48:25.039623+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "前例のない、フォボスの岩石を持ち帰る日本の探査が打ち上げられたと伝える。",
-   "angle": "前例のない探査",
+   "summary_ja": "フォボスの岩石を持ち帰る前例のないミッションを打ち上げたと伝えた。",
+   "angle": "前例のない挑戦",
    "tone": "fav",
    "evidence": "first-of-its-kind mission",
    "processed_at": "2026-10-20T23:53:11.707715+00:00",
@@ -47422,7 +47507,7 @@
    "id": "24a0719b-3b47-4cc9-bbb8-4760d6d4931f",
    "fetched_at": "2026-10-20T23:48:29.386300+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "日本が火星衛星から試料を持ち帰る探査を打ち上げたと見出しで伝える。",
+   "summary_ja": "火星衛星から試料を持ち帰るミッションを打ち上げたと伝えた。",
    "angle": "打ち上げ",
    "tone": "none",
    "evidence": "",
@@ -47439,9 +47524,9 @@
    "id": "f1631e47-9761-4244-be64-fe6d6e1221e6",
    "fetched_at": "2026-10-20T23:48:29.386746+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "世界初となり得る火星衛星探査のロケット打ち上げを見出しで伝える。",
+   "summary_ja": "世界初となりうる火星衛星ミッションのロケットを打ち上げたと伝えた。",
    "angle": "世界初の可能性",
-   "tone": "neu",
+   "tone": "fav",
    "evidence": "potential world-first Martian moon mission",
    "processed_at": "2026-10-20T23:53:11.707715+00:00",
    "relevant": true,
@@ -47557,8 +47642,8 @@
    "id": "a0061719-fcd0-4f5a-901d-e7fb06549ddd",
    "fetched_at": "2026-10-20T23:48:29.944158+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "探査車イデフィックスを載せた日本の探査が始まったと見出しで伝える。",
-   "angle": "打ち上げ",
+   "summary_ja": "「Idefix」を載せた日本の探査機が打ち上げられたと伝えた。",
+   "angle": "Idefixの出発",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-20T23:50:12.041230+00:00",
@@ -47574,8 +47659,8 @@
    "id": "325cc94f-91cf-42e7-bfc9-ee5adc993ab4",
    "fetched_at": "2026-10-20T23:48:30.211958+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "探査車イデフィックスを載せた日本の探査が始まったと見出しで伝える。",
-   "angle": "打ち上げ",
+   "summary_ja": "「Idefix」を載せた日本の探査機が打ち上げられたと伝えた。",
+   "angle": "Idefixの出発",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-20T23:50:12.041230+00:00",
@@ -48198,9 +48283,9 @@
    "id": "8b4d84d9-3c34-4161-9491-94834aa81f16",
    "fetched_at": "2026-10-20T23:48:32.375941+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "打ち上げ成功、探査機の諸元、開発費、H3の成功率、今後の工程を数字中心に伝える。",
-   "angle": "打ち上げの数字",
-   "tone": "neu",
+   "summary_ja": "H3が探査機を計画どおりの軌道に投入し、H3の成功率や開発費、行程を詳しく伝えた。",
+   "angle": "打ち上げ成功",
+   "tone": "fav",
    "evidence": "successfully placed the MMX spacecraft into its planned orbit",
    "processed_at": "2026-10-20T23:51:46.195341+00:00",
    "relevant": true,
@@ -49436,10 +49521,10 @@
    "id": "920ddaef-c0cf-4567-93a6-84802ad01f83",
    "fetched_at": "2026-10-21T23:59:50.861977+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "採取方法や着陸地選びの難しさに触れつつ、生命の起源の手がかりへの期待を伝える。",
-   "angle": "試料への期待",
+   "summary_ja": "試料が生命の起源の手がかりになりうる点と、着陸地点選びの難しさを解説した。",
+   "angle": "試料の科学的意義",
    "tone": "fav",
-   "evidence": "extremely significant; Clues to the Origins of Life",
+   "evidence": "extremely significant; clues to the origins of life",
    "processed_at": "2026-10-22T00:04:34.681640+00:00",
    "relevant": true,
    "basis": "body"
@@ -51289,8 +51374,8 @@
    "id": "a34c4c5c-aeaf-43af-b580-a242ac5533f1",
    "fetched_at": "2026-10-23T23:50:59.070853+00:00",
    "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
-   "summary_ja": "インドの選挙人名簿問題と並べ、火星衛星へのロケット打ち上げを短く紹介する番組の見出し。",
-   "angle": "ニュース一覧",
+   "summary_ja": "インドの選挙人名簿問題と並べ、火星衛星へのロケット打ち上げを簡潔に伝えた。",
+   "angle": "ニュース項目",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-23T23:54:07.253237+00:00",
@@ -54604,10 +54689,10 @@
    "id": "27d6b84b-19c3-43d5-9e39-39956f79244b",
    "fetched_at": "2026-10-27T00:23:38.301443+00:00",
    "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
-   "summary_ja": "情報流出が相次ぐ中、首相が閣僚会議後に状況は深刻と述べ、対策強化を急ぐ考えを示した。",
-   "angle": "政府の緊急対応",
+   "summary_ja": "情報流出が相次ぐ中、政府が緊急の閣僚会議を開き、首相が対策強化を急ぐと表明した。",
+   "angle": "政府の初動対応",
    "tone": "neu",
-   "evidence": "The situation is serious",
+   "evidence": "The situation is serious... We must urgently strengthen our countermeasures",
    "processed_at": "2026-10-27T00:27:58.512883+00:00",
    "relevant": true,
    "basis": "body"
@@ -56613,10 +56698,10 @@
    "id": "eefb41a3-1636-406f-8a56-f5c65290425f",
    "fetched_at": "2026-10-29T00:48:15.344612+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "日独が防衛と通商で接近し、プーチン・習近平による課題に共に対抗する姿勢を伝える。",
+   "summary_ja": "独日が防衛・貿易で接近し、プーチン氏と習氏による課題に共に対抗すると伝え、首相の提案にも触れる。",
    "angle": "対露中の連携",
    "tone": "fav",
-   "evidence": "Premium-Partnerschaft; rücken bei Verteidigung und Handel zusammen",
+   "evidence": "Premium-Partnerschaft gegen Russland und China formiert",
    "processed_at": "2026-10-29T00:58:18.113741+00:00",
    "relevant": true,
    "basis": "body"
@@ -56647,8 +56732,8 @@
    "id": "bcc89481-e863-407f-892e-bf1e060c709f",
    "fetched_at": "2026-10-29T00:48:15.345746+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ首相のアジア訪問で、経済と防衛協力が日本での協議の中心になると伝える動画。",
-   "angle": "訪日の協議内容",
+   "summary_ja": "アジア歴訪中のメルツ氏の訪日で、経済と防衛が会談の中心になると伝える動画。",
+   "angle": "会談の主題",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-29T00:55:42.102491+00:00",
@@ -56664,10 +56749,10 @@
    "id": "9a225419-c3ed-40da-a06e-6ef77c0aaae3",
    "fetched_at": "2026-10-29T00:48:17.609301+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ氏が東京でWTO含む貿易同盟を提案し、日独は重要鉱物の協力で署名したと伝える。",
+   "summary_ja": "メルツ氏が東京でWTOを含む規則に基づく貿易の世界的同盟を提案し、日独は重要鉱物の連携で署名したと伝える。",
    "angle": "貿易同盟の提案",
    "tone": "neu",
-   "evidence": "Rohstoffpartnerschaft; warnte erneut davor, sich ganz abzukoppeln",
+   "evidence": "Rohstoffpartnerschaft; warnte davor, sich ganz von Chinas Wirtschaft abzukoppeln",
    "processed_at": "2026-10-29T00:58:18.113741+00:00",
    "relevant": true,
    "basis": "body"
@@ -56681,8 +56766,8 @@
    "id": "ab66c5fe-ffcb-4f92-a62f-d4177f14ed58",
    "fetched_at": "2026-10-29T00:48:18.585618+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ首相の東京訪問で、日独関係をめぐる協議が行われたと伝える。",
-   "angle": "日独関係の協議",
+   "summary_ja": "メルツ氏の東京訪問での独日関係をめぐる会談を伝える。",
+   "angle": "二国間関係",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-29T00:58:18.113741+00:00",
@@ -56698,8 +56783,8 @@
    "id": "48ff6bc4-629b-407f-b4d4-deb1dafe8a97",
    "fetched_at": "2026-10-29T00:48:18.585918+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "日独が防衛・貿易・技術での協力強化で一致したと伝える。",
-   "angle": "協力分野の拡大",
+   "summary_ja": "メルツ氏の訪日で、防衛・貿易・技術での協力強化を伝える。",
+   "angle": "協力強化",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-29T00:58:18.113741+00:00",
@@ -56715,8 +56800,8 @@
    "id": "afb081f9-00eb-4450-84fe-4233ac0d40c2",
    "fetched_at": "2026-10-29T00:48:18.586175+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ首相がアジア歴訪の一環として日本訪問を続けていると伝える。",
-   "angle": "訪問の動静",
+   "summary_ja": "メルツ氏が日本での訪問日程を続けていると伝える。",
+   "angle": "訪問の動向",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-29T00:58:18.113741+00:00",
@@ -56932,7 +57017,7 @@
    "id": "668b2f72-9715-4a54-ab0d-b052c0456679",
    "fetched_at": "2026-10-29T00:49:02.144012+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "独大統領は中国、首相は日韓へと役割を分け、中国依存を減らす外交戦略と分析する。",
+   "summary_ja": "独大統領が中国、首相が日韓を訪れる分担外交を、中国依存を減らす戦略として分析する。",
    "angle": "中国依存の軽減",
    "tone": "neu",
    "evidence": "중국 의존을 줄이려는 외교 전략이 담겨 있다는 분석",
@@ -57234,8 +57319,8 @@
    "id": "56e895dc-4868-44db-93c8-9aa9d3e15816",
    "fetched_at": "2026-10-29T00:49:05.026505+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "高市首相が日独のAI高官級対話の開始で合意したと伝える。",
-   "angle": "AI対話の開始",
+   "summary_ja": "高市首相が、AI高官級対話の開始でメルツ氏と合意したと伝える。",
+   "angle": "AI対話",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-29T00:58:18.113741+00:00",
@@ -57251,7 +57336,7 @@
    "id": "bebb708e-fae9-40ff-b15e-7feb6d5f7564",
    "fetched_at": "2026-10-29T00:49:05.026951+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "高市首相がウクライナ問題でメルツ氏と協力を確認したと伝える。",
+   "summary_ja": "高市首相が、ウクライナ問題での協力をメルツ氏と確認したと伝える。",
    "angle": "ウクライナ協力",
    "tone": "none",
    "evidence": "",
@@ -57268,7 +57353,7 @@
    "id": "fb67666d-164a-46df-8c08-e3f15564bd5e",
    "fetched_at": "2026-10-29T00:49:05.027517+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ氏が核融合技術など日独の企業間合意が20件超あると述べたと伝える。",
+   "summary_ja": "メルツ氏が、核融合技術を含む20件超の日独企業間合意があると述べたと伝える。",
    "angle": "企業間合意",
    "tone": "none",
    "evidence": "",
@@ -57302,8 +57387,8 @@
    "id": "6d5c21f4-2b23-4e68-a055-b4f0c412cd66",
    "fetched_at": "2026-10-29T00:49:05.718536+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ氏が東京で自由貿易を訴える一方、ブリュッセルは障壁を築いていると対比する。",
-   "angle": "自由貿易と障壁",
+   "summary_ja": "メルツ氏が東京で自由貿易を訴える一方、EUは障壁を築いているという対比を伝える。",
+   "angle": "自由貿易の訴え",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-29T00:58:18.113741+00:00",
@@ -57319,7 +57404,7 @@
    "id": "680b44ff-d884-42e0-89d2-3a186315a8a5",
    "fetched_at": "2026-10-29T00:49:05.718805+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ氏が日本でルールに基づく貿易の世界的同盟を提案したと伝える。",
+   "summary_ja": "メルツ氏が日本で、規則に基づく貿易の世界的同盟を提案したと伝える。",
    "angle": "貿易同盟の提案",
    "tone": "none",
    "evidence": "",
@@ -57336,8 +57421,8 @@
    "id": "6c382a9f-e1e4-433f-968b-c8e52435311b",
    "fetched_at": "2026-10-29T00:49:05.719082+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ首相がアジア歴訪で日本との協力強化を訴えたと伝える。",
-   "angle": "対日協力の強化",
+   "summary_ja": "メルツ氏が日本との協力強化を訴えたアジア訪問を伝える。",
+   "angle": "協力強化",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-29T00:57:03.817165+00:00",
@@ -57387,8 +57472,8 @@
    "id": "4ecc8b21-b32c-436a-9847-8a669b18dd11",
    "fetched_at": "2026-10-29T00:49:05.965377+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "ドイツと日本を「プレミアムパートナー」と位置づける見出し。",
-   "angle": "重要な partner",
+   "summary_ja": "ドイツと日本が「プレミアムパートナー」と位置づけられたと伝える。",
+   "angle": "パートナーシップ",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-10-29T00:58:18.113741+00:00",
@@ -57404,9 +57489,9 @@
    "id": "e1c4cb0a-f2b9-4124-b517-e0152bf165c8",
    "fetched_at": "2026-10-29T00:49:05.965630+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ氏の訪日を、トランプ氏の信頼性への不安に対して共に備える動きとして描く。",
+   "summary_ja": "トランプ氏の信頼性の低さを背景に、日独が共に向き合う構図を描く。",
    "angle": "対米不信",
-   "tone": "neu",
+   "tone": "crit",
    "evidence": "Gemeinsam gegen Trumps Unzuverlässigkeit",
    "processed_at": "2026-10-29T00:55:42.102491+00:00",
    "relevant": true,
@@ -57534,10 +57619,10 @@
    "id": "d032eb51-6fc9-4c55-97cb-25716400cd93",
    "fetched_at": "2026-10-29T00:49:07.565835+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "高市・メルツ両氏が経済安保と先端技術の協力強化を誓い、経済的威圧への強い懸念を共同宣言で示したと伝える。",
+   "summary_ja": "日独が経済安保と先端技術で共同宣言を出し、経済的威圧への懸念を示した。中米への暗黙の批判とも読めると伝える。",
    "angle": "経済安保の協力",
-   "tone": "neu",
-   "evidence": "agreeing to bolster cooperation on economic security",
+   "tone": "fav",
+   "evidence": "agreeing to bolster cooperation on economic security and advanced technologies",
    "processed_at": "2026-10-29T00:57:03.817165+00:00",
    "relevant": true,
    "basis": "body"
@@ -59119,9 +59204,9 @@
    "id": "29b01900-3e1c-4d52-908d-ff365ba62857",
    "fetched_at": "2026-10-30T00:50:38.461596+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ氏が日本でトランプ氏に対抗する結束を探っていると見る。",
+   "summary_ja": "メルツ氏が日本でトランプ氏に対抗する結束を求めている点を取り上げる。",
    "angle": "対米結束",
-   "tone": "neu",
+   "tone": "crit",
    "evidence": "Schulterschluss gegen Trump",
    "processed_at": "2026-10-30T00:52:32.601088+00:00",
    "relevant": true,
@@ -59138,8 +59223,8 @@
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
    "summary_ja": "ドイツが日本の投資攻勢からどう利益を得たいかを扱う。",
    "angle": "日本の投資",
-   "tone": "none",
-   "evidence": "",
+   "tone": "fav",
+   "evidence": "Wie Deutschland von Japans Investitionsoffensive profitieren will",
    "processed_at": "2026-10-30T00:54:07.804949+00:00",
    "relevant": true,
    "basis": "headline"
@@ -60043,10 +60128,10 @@
    "id": "59a0b18d-beac-4629-bb61-3047b6c9d83e",
    "fetched_at": "2026-10-31T00:43:16.844855+00:00",
    "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
-   "summary_ja": "メルツ首相の高市首相への接近を、政治的に軽率だと中国側が批判する論評。",
-   "angle": "対中けん制への警戒",
+   "summary_ja": "メルツ氏の高市首相への賛辞を軽薄と断じ、日独の軍事協力や台湾発言を批判する。",
+   "angle": "対中けん制批判",
    "tone": "crit",
-   "evidence": "clear display of political frivolity",
+   "evidence": "Merz's flattery of Takaichi was politically frivolous",
    "processed_at": "2026-10-31T00:45:08.722357+00:00",
    "relevant": true,
    "basis": "body"
@@ -65464,10 +65549,10 @@
    "id": "e5961d85-031a-43b6-ac31-945487a79aa4",
    "fetched_at": "2026-11-05T01:25:39.943430+00:00",
    "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
-   "summary_ja": "日経報道として、日本が米AI企業などに未公開の脆弱性情報の早期提供を求める方針だと伝えた。",
+   "summary_ja": "日経報道として、日本が米AI企業などから未公表の脆弱性情報を早期入手する方針だと伝えた。",
    "angle": "脆弱性情報の入手",
    "tone": "neu",
-   "evidence": "seek earlier access to information on undisclosed software vulnerabilities",
+   "evidence": "plans to seek earlier access to information on undisclosed software vulnerabilities",
    "processed_at": "2026-11-06T01:33:27.389121+00:00",
    "relevant": true,
    "basis": "body"
@@ -67315,10 +67400,10 @@
    "id": "1928ee24-d804-4751-80e4-309dbe696b7b",
    "fetched_at": "2026-11-06T01:30:13.339205+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "モスクワがJTインターナショナルのロシア資産の管理権を掌握したと、大統領令を根拠に伝えた。",
-   "angle": "大統領令の事実",
-   "tone": "none",
-   "evidence": "",
+   "summary_ja": "モスクワがJTインターナショナルのロシア資産を大統領令で掌握したと伝える。",
+   "angle": "資産掌握の速報",
+   "tone": "neu",
+   "evidence": "Moscow seizes control of Japan Tobacco International's Russian assets",
    "processed_at": "2026-11-06T01:38:24.314821+00:00",
    "relevant": true,
    "basis": "headline"
@@ -67332,7 +67417,7 @@
    "id": "3a0e83f7-4934-4687-9ace-504f728c6174",
    "fetched_at": "2026-11-06T01:30:13.339782+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "ロシア報道を引用し、JTの生産設備の株式が「インダストリアル・アセッツ」の外部管理に移されたと伝えた。",
+   "summary_ja": "ロシア報道を引用し、JT系の生産施設の株式が外部管理に移されたと伝える。",
    "angle": "ロシア報道の引用",
    "tone": "none",
    "evidence": "",
@@ -67383,7 +67468,7 @@
    "id": "42819014-034e-4b73-88b4-d9c7d11c0084",
    "fetched_at": "2026-11-06T01:30:13.341438+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "日本メディアを引用し、JT関連のロシア国内4工場がロシア企業の一時管理下に置かれたと伝えた。",
+   "summary_ja": "日本の報道を引用し、JT関連の4工場が一時的にロシア企業の管理下に置かれたと伝える。",
    "angle": "日本報道の引用",
    "tone": "none",
    "evidence": "",
@@ -67400,9 +67485,9 @@
    "id": "4155a6c4-aaba-4ad5-8361-df48fb5a727a",
    "fetched_at": "2026-11-06T01:30:13.342051+00:00",
    "event_id": "c190a0d7-587a-4052-b777-4abbfee48d24",
-   "summary_ja": "高市首相が沖縄政策協議会で、米軍基地の負担軽減を「目に見える形」で実現すると述べたと日本メディアを引用して伝えた。",
-   "angle": "首相の表明",
-   "tone": "none",
+   "summary_ja": "首相が沖縄政策協議会で、基地負担軽減を目に見える形で実現すると述べたと、日本メディアを引いて伝えた。",
+   "angle": "首相の発言",
+   "tone": "neu",
    "evidence": "",
    "processed_at": "2026-11-06T01:39:24.362763+00:00",
    "relevant": true,
@@ -67417,8 +67502,8 @@
    "id": "2d41d8b3-3024-47fa-ab19-c903bf369aba",
    "fetched_at": "2026-11-06T01:30:13.342617+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "プーチン大統領が日本企業の資産を一時的な管理下に置いたと簡潔に伝えた。",
-   "angle": "大統領令の事実",
+   "summary_ja": "プーチン氏が日本企業の資産を一時管理下に置いたと簡潔に伝える。",
+   "angle": "一時管理の事実",
    "tone": "none",
    "evidence": "",
    "processed_at": "2026-11-06T01:39:24.362763+00:00",
@@ -68187,10 +68272,10 @@
    "id": "ab48e410-96d6-4b00-9105-ec94d80688b2",
    "fetched_at": "2026-11-07T00:51:05.874615+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "ウクライナを巡り西側企業を狙うロシアの手法の一環で、日本への懲罰でもあると位置づけた。",
-   "angle": "対日報復の構図",
+   "summary_ja": "ウクライナ問題で西側企業を狙うロシアの流れで、東京への懲罰でもあると位置づける。",
+   "angle": "日本への懲罰",
    "tone": "crit",
-   "evidence": "punishing Tokyo; Russian pattern of targeting Western firms",
+   "evidence": "punishing Tokyo",
    "processed_at": "2026-11-07T00:55:02.421901+00:00",
    "relevant": true,
    "basis": "headline"
@@ -68204,10 +68289,10 @@
    "id": "6445644c-ce97-423d-bb3f-2806bfc6ec73",
    "fetched_at": "2026-11-07T00:51:07.131288+00:00",
    "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
-   "summary_ja": "ハッキング急増を受け、日本が緊急対策パッケージを始動したと伝え、首相の発言を引用した。",
+   "summary_ja": "日本が相次ぐ攻撃を受け緊急対策を始動し、首相が政府の総力を挙げると述べたと伝えた。",
    "angle": "緊急対策の発表",
    "tone": "neu",
-   "evidence": "launched a multimillion-dollar emergency policy package",
+   "evidence": "Japan launched a multimillion-dollar emergency policy package",
    "processed_at": "2026-11-07T00:56:08.350260+00:00",
    "relevant": true,
    "basis": "body"
@@ -68305,13 +68390,14 @@
    "kind": "news",
    "id": "add31f7a-a95d-46ee-891d-bceafe75f1b8",
    "fetched_at": "2026-11-07T00:51:10.501752+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "angle": null,
-   "tone": null,
-   "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
+   "summary_ja": "AI活用による脆弱性の発見や専門家チーム創設を含む緊急対策をまとめたと伝えた。",
+   "angle": "AIと専門家チーム",
+   "tone": "neu",
+   "evidence": "promoting the use of artificial intelligence to identify vulnerabilities",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "scmp",
@@ -68604,13 +68690,14 @@
    "kind": "news",
    "id": "2cce2b25-2472-458e-ab67-cc01cbfa611a",
    "fetched_at": "2026-11-07T00:51:50.611584+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "angle": null,
-   "tone": null,
-   "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "0c7e1157-bf46-4b1a-9bb8-ab280658626e",
+   "summary_ja": "マスク氏が日本の大手企業に関し支払いの申し立てをしたと報じられた。",
+   "angle": "マスク氏の動き",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "headline"
   },
   {
    "outlet_id": "toi",
@@ -68687,10 +68774,10 @@
    "id": "c1ad13b2-97d4-4e9e-abeb-40aa5f6edc0a",
    "fetched_at": "2026-11-07T00:51:51.263538+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "事実上の没収に近い強制接収で、日本政府の資金源やサハリン2への波及も懸念されると伝えた。",
-   "angle": "日本の資金源への打撃",
+   "summary_ja": "事実上の没収で日本政府の財源を狙った措置とし、サハリン2への波及も懸念する。",
+   "angle": "没収と日本の財源",
    "tone": "crit",
-   "evidence": "강제 접수, 사실상 몰수에 가깝다, 일본 정부의 돈줄을 겨냥",
+   "evidence": "사실상 몰수에 가깝다",
    "processed_at": "2026-11-07T00:55:02.421901+00:00",
    "relevant": true,
    "basis": "body"
@@ -68769,13 +68856,14 @@
    "kind": "news",
    "id": "f535a728-c8f7-44c7-99af-f9b865ae929b",
    "fetched_at": "2026-11-07T00:51:52.367926+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "angle": null,
-   "tone": null,
-   "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "c49866bb-5868-44b7-8ad3-452f2e2fa8f7",
+   "summary_ja": "赤沢経産相が、Xの自動翻訳が相手首脳の名前を誤ったとして修正を求めた。",
+   "angle": "翻訳の誤り",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
   },
   {
    "outlet_id": "straitstimes",
@@ -68786,10 +68874,10 @@
    "id": "4b016020-aaba-48c3-95f6-6a3e71cffb44",
    "fetched_at": "2026-11-07T00:51:52.368490+00:00",
    "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
-   "summary_ja": "日本の報道を引き、官民専門家による「サイバー救援チーム」創設などの対策案を伝えた。",
-   "angle": "救援チーム創設",
+   "summary_ja": "サイバー救助チームなどを含む対策を報道ベースで詳しく伝え、官房長官の発言も紹介した。",
+   "angle": "救助チームの新設",
    "tone": "neu",
-   "evidence": "cyber rescue team” made up of both government and private sector experts",
+   "evidence": "first step towards transitioning to a society that meets the world's top standards",
    "processed_at": "2026-11-07T00:55:02.421901+00:00",
    "relevant": true,
    "basis": "body"
@@ -68819,10 +68907,10 @@
    "id": "aa929896-f5c8-4783-8e35-d674c43f142b",
    "fetched_at": "2026-11-07T00:51:52.369601+00:00",
    "event_id": "c190a0d7-587a-4052-b777-4abbfee48d24",
-   "summary_ja": "13年ぶりの沖縄政策協議会で首相が負担軽減に努めると表明。普天間移設や米兵事件への地元の怒り、予算の背景も淡々と伝えた。",
-   "angle": "13年ぶりの協議会",
+   "summary_ja": "首相が13年ぶりの協議会で負担軽減を誓ったが、返還時期の明示はなく、事件への地元の怒りも背景にあると伝えた。",
+   "angle": "移設と地元感情",
    "tone": "neu",
-   "evidence": "vowed on Nov 6 to work to reduce the burden of US military bases",
+   "evidence": "central government did not mention a specific date",
    "processed_at": "2026-11-07T00:53:38.696880+00:00",
    "relevant": true,
    "basis": "body"
@@ -68921,10 +69009,10 @@
    "id": "43869c14-0e6e-42b6-9077-02c52bb3fa45",
    "fetched_at": "2026-11-07T00:51:52.373492+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "拡大する接収の最新例として、日本政府の抗議や株価の急落、悪化する日露関係を伝えた。",
-   "angle": "日露関係の悪化",
+   "summary_ja": "取締り拡大の一環で、東京は即座に抗議し、株価は急落、関係悪化の経緯も整理する。",
+   "angle": "取締り拡大と関係悪化",
    "tone": "neu",
-   "evidence": "latest foreign company to lose control; widening crackdown",
+   "evidence": "latest foreign company to lose control of Russian operations",
    "processed_at": "2026-11-07T00:53:38.696880+00:00",
    "relevant": true,
    "basis": "body"
@@ -68955,10 +69043,10 @@
    "id": "33d22dad-8f5a-4f9e-a0d5-41d8303c5294",
    "fetched_at": "2026-11-07T00:51:53.507808+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "東京がモスクワに対し、接収したJT資産の返還を求めたと伝えた。",
+   "summary_ja": "東京がモスクワに、差し押さえたJT資産の解放を求めたと伝える。",
    "angle": "日本の返還要求",
-   "tone": "none",
-   "evidence": "",
+   "tone": "neu",
+   "evidence": "Tokyo demands Moscow release seized Japan Tobacco assets",
    "processed_at": "2026-11-07T00:56:08.350260+00:00",
    "relevant": true,
    "basis": "headline"
@@ -69238,13 +69326,14 @@
    "kind": "news",
    "id": "7b5f0cbb-e9d7-46e8-9ebf-59686857c894",
    "fetched_at": "2026-11-07T00:51:55.855780+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "angle": null,
-   "tone": null,
-   "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "6a79d97a-6cb6-4ddb-acc5-ed78bf855c2d",
+   "summary_ja": "専門家チームやAI企業との協力を柱とする緊急対策を発表し、AIの台頭などを背景に挙げた。",
+   "angle": "官民協力の強化",
+   "tone": "neu",
+   "evidence": "cybersecurity crisis... barrage of high-profile cyberattacks",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
   },
   {
    "outlet_id": "japantimes",
@@ -69259,8 +69348,8 @@
    "angle": null,
    "tone": null,
    "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
   },
   {
    "outlet_id": "japantimes",
@@ -69275,8 +69364,8 @@
    "angle": null,
    "tone": null,
    "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
   },
   {
    "outlet_id": "japantimes",
@@ -69286,13 +69375,14 @@
    "kind": "news",
    "id": "d0f2bab5-c6f3-4d76-84cd-d8e2adaede33",
    "fetched_at": "2026-11-07T00:51:55.859937+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "angle": null,
-   "tone": null,
-   "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "5b0b3873-b026-4b8e-9e30-b209f4c235f8",
+   "summary_ja": "経産省が中部電力にデータ不正をめぐり業務改善命令を出し、計画提出を求めた。",
+   "angle": "業務改善命令",
+   "tone": "crit",
+   "evidence": "eliminate the insular nature of its highly specialized nuclear power division",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
   },
   {
    "outlet_id": "japantimes",
@@ -69302,13 +69392,14 @@
    "kind": "news",
    "id": "5341b9b2-b072-4fcf-91a8-d893c0496864",
    "fetched_at": "2026-11-07T00:51:55.861347+00:00",
-   "event_id": null,
-   "summary_ja": null,
-   "angle": null,
-   "tone": null,
-   "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "event_id": "c190a0d7-587a-4052-b777-4abbfee48d24",
+   "summary_ja": "13年ぶりの沖縄政策協議会で、首相が基地負担の目に見える軽減に努力すると述べたと淡々と伝えた。",
+   "angle": "協議会の開催",
+   "tone": "neu",
+   "evidence": "We'll make every effort to realize a visible reduction",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
   },
   {
    "outlet_id": "japantimes",
@@ -69496,10 +69587,10 @@
    "id": "57e15d23-4f1e-4251-ace3-7dc474dacddf",
    "fetched_at": "2026-11-07T00:51:55.879526+00:00",
    "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
-   "summary_ja": "4工場が対象となり、日本が即座に抗議して撤回を求め、関係が一段と悪化すると伝えた。",
-   "angle": "日本の抗議",
-   "tone": "neu",
-   "evidence": "further straining relations; drawn immediate protest from Tokyo",
+   "summary_ja": "日ロ関係をさらに悪化させる措置として、日本政府の即時抗議と撤回要求を伝える。",
+   "angle": "日本政府の抗議",
+   "tone": "crit",
+   "evidence": "further straining relations with Japan",
    "processed_at": "2026-11-07T00:53:38.696880+00:00",
    "relevant": true,
    "basis": "body"
@@ -69714,8 +69805,8 @@
    "angle": null,
    "tone": null,
    "evidence": null,
-   "processed_at": null,
-   "relevant": null
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
   },
   {
    "outlet_id": "japanforward",
@@ -69749,6 +69840,736 @@
    "processed_at": "2026-11-07T00:53:38.696880+00:00",
    "relevant": true,
    "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/sport/tandy-admits-wales-need-vast-improvement-despite-japan-win-6533461",
+   "title": "Tandy admits Wales need vast improvement despite Japan win",
+   "published_at": "2026-11-07T20:23:09+00:00",
+   "kind": "news",
+   "id": "196abc4f-0c0b-4203-ab50-55741e7df379",
+   "fetched_at": "2026-11-08T00:26:23.773661+00:00",
+   "event_id": "20383662-d5dd-4b7f-b53e-0a989012e9fa",
+   "summary_ja": "ウェールズ監督が日本戦勝利にも内容の改善が必要と述べた。",
+   "angle": "監督の談話",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/sport/adams-double-lifts-lacklustre-wales-28-21-win-over-japan-6533386",
+   "title": "Adams double lifts lacklustre Wales to 28-21 win over Japan",
+   "published_at": "2026-11-07T18:33:06+00:00",
+   "kind": "news",
+   "id": "a84be95d-f0cb-431b-bf6d-48b8a2a66199",
+   "fetched_at": "2026-11-08T00:26:23.773933+00:00",
+   "event_id": "20383662-d5dd-4b7f-b53e-0a989012e9fa",
+   "summary_ja": "ウェールズがアダムズ選手の2トライで日本に28-21で勝利した。",
+   "angle": "試合結果",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/sport/japan-great-king-kazu-miura-sets-oldest-appearance-record-59-6533271",
+   "title": "Japan great 'King Kazu' Miura sets oldest appearance record at 59",
+   "published_at": "2026-11-07T15:19:50+00:00",
+   "kind": "news",
+   "id": "8cc67b09-6d44-4d20-9191-318df63aea43",
+   "fetched_at": "2026-11-08T00:26:23.774206+00:00",
+   "event_id": "f0b913a3-1467-488c-9cc5-780e07722598",
+   "summary_ja": "ミウラ・カズヨシ選手が59歳でJ3最年長出場記録を更新した。",
+   "angle": "最年長記録",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/business/putin-expands-temporary-administration-japan-tobacco-assets-in-russia-6533126",
+   "title": "Putin expands temporary administration of Japan Tobacco assets in Russia",
+   "published_at": "2026-11-07T13:28:43+00:00",
+   "kind": "news",
+   "id": "22c575fa-47af-4b34-981c-ed9c840ef8c6",
+   "fetched_at": "2026-11-08T00:26:23.774477+00:00",
+   "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
+   "summary_ja": "別の大統領令で一時管理の対象にJTI関連の3社が追加されたと伝える。",
+   "angle": "管理対象の拡大",
+   "tone": "neu",
+   "evidence": "added three more companies to those included in the original order",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373624/russias-seizure-japan-tobacco-assets-last-straw-tokyo-amid-frosty-ties",
+   "title": "Is Russia’s seizure of Japan Tobacco assets the last straw for Tokyo amid frosty ties?",
+   "published_at": "2026-11-07T01:00:16+00:00",
+   "kind": "news",
+   "id": "73574263-38f2-4337-96cb-d3a2f66d429a",
+   "fetched_at": "2026-11-08T00:26:27.425482+00:00",
+   "event_id": "b5ee6458-f2f7-4cb9-9448-1d7f1a5c1d95",
+   "summary_ja": "今回の資産掌握が冷え込む日ロ関係で東京の越えてはならない一線になりうるかを論じる。",
+   "angle": "日本の一線",
+   "tone": "crit",
+   "evidence": "last straw for Tokyo amid frosty ties",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/hong-kong/politics/article/3373638/hypocritical-hong-kong-hits-back-criticism-joshua-wongs-sentence",
+   "title": "‘Hypocritical’: Hong Kong hits back at criticism of Joshua Wong’s sentence",
+   "published_at": "2026-11-07T06:31:27+00:00",
+   "kind": "news",
+   "id": "b7bbb6a9-2397-4d8f-a48f-c68e9d613b76",
+   "fetched_at": "2026-11-08T00:26:27.426802+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373580/sanae-takaichi-slammed-online-praising-calligraphy-without-mentioning-china",
+   "title": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
+   "published_at": "2026-11-07T01:00:12+00:00",
+   "kind": "news",
+   "id": "6d5248fc-8ef2-40b0-acc0-88001f9c6b97",
+   "fetched_at": "2026-11-08T00:26:27.427038+00:00",
+   "event_id": "62d71c4a-8aa3-4fea-8953-e8ed3d588362",
+   "summary_ja": "高市首相が書道を称賛する投稿で中国の起源に触れなかったとして、ネットで批判された。",
+   "angle": "書道投稿の反発",
+   "tone": "crit",
+   "evidence": "slammed online for praising calligraphy without mentioning China",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/vermischtes/article6aefb9aea389bc337cfc9906/mitten-in-der-nacht-japan-von-erdbeben-der-staerke-5-7-erschuettert-zahlreiche-verletzte.html",
+   "title": "Mitten in der Nacht: Japan von Erdbeben der Stärke 5,7 erschüttert – zahlreiche Verletzte",
+   "published_at": "2026-11-08T00:13:18.159000+00:00",
+   "kind": "news",
+   "id": "d72bc344-67e0-4fcb-b1e3-a763c38cbca8",
+   "fetched_at": "2026-11-08T00:26:29.001900+00:00",
+   "event_id": "3039aa00-468f-4451-a97d-3ecac81f0a03",
+   "summary_ja": "深夜のM5.7の地震で少なくとも22人が負傷し、広範囲で揺れを感じた。",
+   "angle": "被害の規模",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Melt-Banana-in-Berlin/!6224136/",
+   "title": "Melt-Banana in Berlin: Die Verhältnisse, in Unordnung und damit zum Tanzen gebracht",
+   "published_at": "2026-11-07T12:35:00+00:00",
+   "kind": "news",
+   "id": "9a0f97c5-466c-4ab6-af5b-f60964a750df",
+   "fetched_at": "2026-11-08T00:26:31.396257+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1373844.shtml",
+   "title": "One year on, Takaichi’s erroneous remark remains uncorrected, and Japan’s fangs are growing back",
+   "published_at": "2026-11-06T23:54:52+00:00",
+   "kind": "news",
+   "id": "d18dd695-1b80-4a37-a8bd-6c796e6f93e9",
+   "fetched_at": "2026-11-08T00:27:04.569416+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "台湾発言から1年、高市首相が誤りを正さず日本が軍備を強めていると中国側が批判する論評。",
+   "angle": "台湾発言1年",
+   "tone": "crit",
+   "evidence": "erroneous remark remains uncorrected, and Japan’s fangs are growing back",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://timesofindia.indiatimes.com/world/rest-of-world/magnitude-5-7-earthquake-hits-central-japan-dozens-reportedly-injured/articleshow/135648927.cms",
+   "title": "Magnitude 5.7 earthquake hits central Japan, dozens injured",
+   "published_at": "2026-11-07T23:57:41+00:00",
+   "kind": "news",
+   "id": "4e45cb5b-ac0c-4d9c-abfb-9d144de7f286",
+   "fetched_at": "2026-11-08T00:27:06.152788+00:00",
+   "event_id": "3039aa00-468f-4451-a97d-3ecac81f0a03",
+   "summary_ja": "中部日本でM5.7の地震があり、多数が負傷、政府が連絡室を設置した。",
+   "angle": "被害と政府対応",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOblgwdE5EYkZiZ2FmRV9EbU5GQUZDWHhUZGZrNG1HVjc1anhoelVZbS1XWU13b3h0aEtmYjRJbzRfeDJ1RXVRVzFNMFpZd3dwZWlsS29JcGxHZW5lX2psVE0yRGhBcWlRLVlNNkV2b1VZaVlVU1kxTFBPbTdOb2FDTFQtTHdteFlmOFpzS2xpd2QxOFVUNUNyT2JPcjdiUGcwcGNTYzhuenpaLXlLcmRGZmVxQjZucUU4aE1wWTM4TmJiYmZJUWw2M2phN1puNEx4V01Hek5KNHg5eFRFV3Bpc2RUU241bWdtY2Z0SWhRTWdLTzRKSVHSAfsBQVVfeXFMTjJadXVYWkJueWJZalpSUUd1Tkh4YklHbUt5bDBFSzVRQmhGSkRVckkxU3VLZ0UtTHJmUEpWbDIybXhCVGJPWlNsWnRHWU12dHhiRVNzaTZOYXZ1RWJYWHplVmpnQW0zaGs5RGRla0htazd6TTRfaW9wZEY4ZFRQWTZZX2otTHc5WDFwaGIzMnljcVc4VnlqSU1OSEQyano4Nm90Nk5SN3l6RV94LTByQWRJUDV2SlU2TzFsWXlhYUdiWjQ2QnZUWTU1QkpvcUpuajJSS29PRG1xa3U4elJVWDdueGlkVWNJUHlaNy1NdHFmUlhHY0l1MnRSTTg?oc=5",
+   "title": "Vietnam’s top leader visits Japan: Entering a new era of strategic partnership",
+   "published_at": "2026-11-07T09:41:00+00:00",
+   "kind": "news",
+   "id": "0ebb23d0-2368-4b1d-87eb-4f40808e32ed",
+   "fetched_at": "2026-11-08T00:27:06.153132+00:00",
+   "event_id": "ae26065f-88bc-493b-818a-9903660437f7",
+   "summary_ja": "ベトナムの最高指導者が訪日し、戦略的パートナーシップの新時代と位置づけられた。",
+   "angle": "日越の連携",
+   "tone": "fav",
+   "evidence": "Entering a new era of strategic partnership",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUXFVOGU1bzVFdURfdTh3VVEzNEhPc2ZxbHhjTk5mMFBsQ1FtdnFTd05PWWN4RGMwSFZmR0dETEhjUFZoQ0RWdXR5LUNQbE41TzdWeGZMZlJRYnJFazA3aFUzdTU0N0ktZlc0VDE1WGNMRjZIMmNXSDN6bGhzeTV1NnRsRjZBbWRhQWFOSHlSYzIxYUh3ZTkyU2x2NHpjb3k0XzJmR21jeWF1dG42dElOcURDUFZoY2lDcUFxMm9UMzlsWUEzWFBESzZVdEZUT0x3Ty1iWV9ycFl5UGxDNGlvUWRzbUdOYUppZjFGbHdn0gHzAUFVX3lxTE9Fem1adTlCb3h6Unc3ZmtWZ0J4UlBZNVlRZUpzRzdKQnlRZkF5bUFuQk1iYWVvUnF0cElRSi1DMlkzNWJkUDlrbWNZSHR5Qno1dXc5TGJZUzVMaWI5U3VYWkQ1MEIzb2dNWkxBS1NSN3Y1djl2SFpoeXRKbHl1dHVhSWc1ZDg5YVdLU3A3T3JPd2ZpMFNTUTJmN1IxUk5IdkVkMmpkYWY1STdCVUJtaDk5R0NxNEZMOFYzYTJPaWdNRjJ2Wnh0RnJxcHlCQUdYM3MzbkEyX2pXck9EdVoxT3VqT0EzamJVdzgyeEdlZlYxRUdQdw?oc=5",
+   "title": "Eye on China: US looks to reactivate WWII airbases once used against Japan",
+   "published_at": "2026-11-07T09:45:00+00:00",
+   "kind": "news",
+   "id": "5bc2886a-0f28-49a5-adf0-8167f309a14d",
+   "fetched_at": "2026-11-08T00:27:06.153449+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnl0UUJuVU5heGhoWjhjS21PNW9tbC0wRnowSTV0Y0JjUW93NnlRUGJSQjRyZVBWdnMzbHNDcUx5ZmZoWld4S2MtVjE0TEVOcHB5NjdyTkNEV255SjR0N05aMU1NSGZzc0trRTBYeHdkblNsUGQ5MWpuek9YOUN4TWlhdEtzb09fcGZQaEVkdUx6QWlEV05QTDhFc3RtR0kxenF2M1ZoeVdpcXpyWkhMS3RIeUxzblZVQUZRZjhhUC1leTBMWkpYZUxpSk1NQdIBzgFBVV95cUxNNnl0UUJuVU5heGhoWjhjS21PNW9tbC0wRnowSTV0Y0JjUW93NnlRUGJSQjRyZVBWdnMzbHNDcUx5ZmZoWld4S2MtVjE0TEVOcHB5NjdyTkNEV255SjR0N05aMU1NSGZzc0trRTBYeHdkblNsUGQ5MWpuek9YOUN4TWlhdEtzb09fcGZQaEVkdUx6QWlEV05QTDhFc3RtR0kxenF2M1ZoeVdpcXpyWkhMS3RIeUxzblZVQUZRZjhhUC1leTBMWkpYZUxpSk1NQQ?oc=5",
+   "title": "4 NIT-R researchers bag Japan research opportunity",
+   "published_at": "2026-11-07T06:14:00+00:00",
+   "kind": "news",
+   "id": "9d820c7d-36ba-4961-9c20-bbf87c81e067",
+   "fetched_at": "2026-11-08T00:27:06.154047+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "toi",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdmNfVEVJbS1yUmUyQ1hZaV9oYl85Rk9lbHExWnMtdjhUaDhVS2lvaHR5TWQzX01RdTNGWTVKOVU3UkpZd2Z5ZV9ONkdUMDM5REoyd2dvQ3dOcDVhMXZzbVNmVVRSMElqYkV1MUdqMlNMZUFLQnk0Tno1dFFwYmxOQmhfaEZaOXBmOTZSRTdISWtxSGd2Z0o4QmM2b1hXTXNwY1duZ05fRm52ZURnTEFDeXdzT3hWRFR4aEhQVFdYQks0TlZwdFlaU3ZkbGhhSVdYTEVxM0NaLXpGckh2c1dHc0VqdkdvVE1QZ2FB0gHrAUFVX3lxTFB2Y19URUltLXJSZTJDWFlpX2hiXzlGT2VscTFacy12OFRoOFVLaW9odHlNZDNfTVF1M0ZZNUo5VTdSSll3ZnllX042R1QwMzlESjJ3Z29Dd05wNWExdnNtU2ZVVFIwSWpiRXUxR2oyU0xlQUtCeTROejV0UXBibE5CaF9oRlo5cGY5NlJFN0hJa3FIZ3ZnSjhCYzZvWFdNc3BjV25nTl9GbnZlRGdMQUN5d3NPeFZEVHhoSFBUV1hCSzROVnB0WVpTdmRsaGFJV1hMRXEzQ1otekZySHZzV0dzRWp2R29UTVBnYUE?oc=5",
+   "title": "Japanese Ambassador Ono Keiichi: Diwali is about joy and togetherness",
+   "published_at": "2026-11-07T13:00:00+00:00",
+   "kind": "news",
+   "id": "2b6bdda3-47a5-4236-b346-4337e0ecdd61",
+   "fetched_at": "2026-11-08T00:27:06.154358+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/japan/2026/11/08/FVQH2P3PMZDEFCNRWU4SHTVPAY/",
+   "title": "“K-드라마처럼 들고 다닐래요”… 요즘 도쿄서 하루 1000잔 팔리는 이 ‘음료’는?",
+   "published_at": "2026-11-07T22:00:00+00:00",
+   "kind": "news",
+   "id": "c63ada49-265b-4c7a-9574-4c22cb3953ca",
+   "fetched_at": "2026-11-08T00:27:06.777065+00:00",
+   "event_id": "e026e851-3a9b-46f4-9b36-9604f9337ace",
+   "summary_ja": "韓国式の大容量低価格コーヒー店が東京で人気で、冬の需要が課題と伝える。",
+   "angle": "韓国系カフェ人気",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/asia/east-asia/5-7-magnitude-quake-strikes-central-japan-at-least-20-injured-in-aichi-prefecture",
+   "title": "5.7-magnitude quake strikes central Japan, at least 20 injured in Aichi prefecture",
+   "published_at": "2026-11-07T22:34:58+00:00",
+   "kind": "news",
+   "id": "dcb83e56-10f2-4a05-b0f8-a0c5995b9a45",
+   "fetched_at": "2026-11-08T00:27:07.766771+00:00",
+   "event_id": "3039aa00-468f-4451-a97d-3ecac81f0a03",
+   "summary_ja": "中部日本でM5.7の地震があり、愛知県で少なくとも20人が負傷した。",
+   "angle": "被害の規模",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/sport/tandy-admits-wales-need-vast-improvement-despite-japan-win",
+   "title": "Tandy admits Wales need vast improvement despite Japan win",
+   "published_at": "2026-11-07T20:28:28+00:00",
+   "kind": "news",
+   "id": "42051121-bc28-4502-9aa9-d8bff7d25604",
+   "fetched_at": "2026-11-08T00:27:07.768959+00:00",
+   "event_id": "20383662-d5dd-4b7f-b53e-0a989012e9fa",
+   "summary_ja": "ウェールズ監督が改善の必要を語り、日本のジョーンズ監督は好機を逃したと悔やんだ。",
+   "angle": "両監督の談話",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/sport/adams-double-lifts-lacklustre-wales-to-28-21-win-over-japan",
+   "title": "Adams double lifts lacklustre Wales to 28-21 win over Japan",
+   "published_at": "2026-11-07T18:38:26+00:00",
+   "kind": "news",
+   "id": "0646886c-4314-459d-9331-a2ee2b9786d1",
+   "fetched_at": "2026-11-08T00:27:07.769335+00:00",
+   "event_id": "20383662-d5dd-4b7f-b53e-0a989012e9fa",
+   "summary_ja": "ウェールズが日本に28-21で勝ったが、内容は低調だったと伝える。",
+   "angle": "試合内容",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/sport/football/japan-great-king-kazu-miura-sets-oldest-appearance-record-at-59",
+   "title": "Japan great 'King Kazu' Miura sets oldest appearance record at 59",
+   "published_at": "2026-11-07T15:23:21+00:00",
+   "kind": "news",
+   "id": "6937f754-d859-418a-83fa-e6137b8f9242",
+   "fetched_at": "2026-11-08T00:27:07.769718+00:00",
+   "event_id": "f0b913a3-1467-488c-9cc5-780e07722598",
+   "summary_ja": "ミウラ・カズヨシ選手が59歳でJ3最年長出場記録を更新した。",
+   "angle": "最年長記録",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-07/Japan-s-refusal-to-correct-course-puts-regional-peace-at-risk-1RSvQL9nIJO/p.html",
+   "title": "Japan's refusal to correct course puts regional peace at risk",
+   "published_at": "2026-11-07T18:58:00+00:00",
+   "kind": "news",
+   "id": "da05dbf0-b49a-4475-b28e-1fbb2def2b2b",
+   "fetched_at": "2026-11-08T00:27:09.262880+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "日本が方針を改めないことが地域の平和を危うくするとの中国側の論調。",
+   "angle": "日本の姿勢批判",
+   "tone": "crit",
+   "evidence": "Japan's refusal to correct course puts regional peace at risk",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-07/news-1RSGdWWV1pm/p.html",
+   "title": "Japan's NERV: ‘At around 8:07 pm, a magnitude 5.4 earthquake occurred offshore Ibaraki Prefecture. The est. maximum intensity is 3'",
+   "published_at": "2026-11-07T19:09:00+00:00",
+   "kind": "news",
+   "id": "0dd6f91d-6a22-433c-8a87-fd01666ab5b2",
+   "fetched_at": "2026-11-08T00:27:09.263292+00:00",
+   "event_id": "9da60b7c-79f6-47e3-af60-71ad64115c97",
+   "summary_ja": "茨城県沖でM5.4の地震が発生、最大震度3と推定された。",
+   "angle": "地震速報",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-08/news-1RTytWRUH7i/p.html",
+   "title": "Japanese media: Magnitude 5+ earthquake hits Aichi Prefecture; damage situation in various areas, at least 12 people have been injured in the prefecture as a result of this earthquake.",
+   "published_at": "2026-11-08T07:48:00+00:00",
+   "kind": "news",
+   "id": "90e8c588-7346-42d8-b49d-8d04fb3a0894",
+   "fetched_at": "2026-11-08T00:27:09.263684+00:00",
+   "event_id": "3039aa00-468f-4451-a97d-3ecac81f0a03",
+   "summary_ja": "愛知県を中心とする地震で、同県で少なくとも12人が負傷したと伝える。",
+   "angle": "負傷者数",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "sz",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd00wSlJHOGxoUm5LX2hiblpYZlh2TV93NGszXzZtZThESlZwckVIYlpBUHRUUEN2Zzc5ZE5DMXA1SWp5X29QaEdqOS1HNjk2Q3FqcHFXMDZmZU5aTFBNZlhzcWZOcXZkMmVaajF4ZURFbHc4dWZsVk0yd3RPVFdtLXFjOVVLWld3R08zSXRKb2cwWXluXzczcEFOcUh1bWpFLWRoZDdwamZMSDRCall6ck9zbEZhR0EwWU5lSjFQZEJkZXk3aVl1MmVR?oc=5",
+   "title": "Asienreise: Bundeskanzler Friedrich Merz wirbt für engere Zusammenarbeit mit Japan - Panorama - SZ.de",
+   "published_at": "2026-11-07T14:49:23+00:00",
+   "kind": "news",
+   "id": "a6cda2f5-5165-435b-97ef-8a245a8a1cf8",
+   "fetched_at": "2026-11-08T00:27:09.788918+00:00",
+   "event_id": "306b5e54-849b-4f0a-a261-5a6b17fca52f",
+   "summary_ja": "メルツ氏が日本との協力強化を訴えたアジア訪問を伝える。",
+   "angle": "協力強化",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "sz",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEFKWjR0RlhBWHFxQ0ZtaTFPbVZEUGxZcUdabC1ZbEJXTFp1cW85VlNZdjQtdVNuMmpldVNNYjhIaDhHTkc1T0RmbkhuT0lCZDFlUTZ0TEx6ck5mS1ljYjJOam9JT2hWVXNCa0RRU09MRERINUd2bTJucS16TzN0Qm5uV045MGlzMi1CSTVRUkJ6aW5uZWlSbkRLNHBnNlVFV1FadEl2Y21QT0VYZkhmSXZsdWxFbnhxYVN5ZFYzSHRCMzJKdjA2dkQ3MA?oc=5",
+   "title": "Deutsch-französischer Rover «Idefix» fliegt zu Marsmond – Japanische Mission gestartet - Panorama - SZ.de",
+   "published_at": "2026-11-07T16:53:36+00:00",
+   "kind": "news",
+   "id": "daae9fd8-aa9e-4b44-9699-2338b16b2eed",
+   "fetched_at": "2026-11-08T00:27:09.789107+00:00",
+   "event_id": "450e81e5-c1f9-4325-9d0e-8d175f78ad7a",
+   "summary_ja": "独仏開発のローバー「Idefix」を載せた日本の探査機が打ち上げられたと伝えた。",
+   "angle": "Idefixの出発",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": true,
+   "basis": "headline"
+  },
+  {
+   "outlet_id": "faz",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTY3T3NqX1M3VnVEV2M4Z0xUNTlqcTljRlBhZnd1MnFnMU9TZGZzVTNjVHBJVV94R18xMHVSOWdKNmYwVTA1U1JVV0VzMUZCaFJRakJJeHAydUhiOW16U3Z3Z3JKNFRZNmx3QWZWX0ROZUU5SG1OU2tFUlpCcjl1MGFmUWhoa3o1eXdsNFdhamZpU3hjSkhQRTlvWnVxSG9pb29MQUpYanVNakotNXZtaE5GeHhYOWVfOTkwbmo5T0JDaHM?oc=5",
+   "title": "Japan trifft Deutschland im Neuen Kunstverein Aschaffenburg",
+   "published_at": "2026-11-07T13:57:20+00:00",
+   "kind": "news",
+   "id": "1c5c4019-cba6-4a04-b9de-65841bc326c3",
+   "fetched_at": "2026-11-08T00:27:10.081230+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/life/2026/11/08/food-drink/naohiko-noguchi-living-national-treasure-sake-japan/",
+   "title": "A toast to Naohiko Noguchi, sake’s first living national treasure",
+   "published_at": "2026-11-07T23:05:00+00:00",
+   "kind": "news",
+   "id": "c99c553b-0488-4cc0-83b6-29c8a9f7c809",
+   "fetched_at": "2026-11-08T00:27:11.804038+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/life/2026/11/08/food-drink/curry-roux-cube-recipe-kakushi-aji-hidden-flavor/",
+   "title": "A curry palette for all your ‘hidden flavors’",
+   "published_at": "2026-11-07T23:00:00+00:00",
+   "kind": "news",
+   "id": "26933b34-db28-4e58-b9a8-24bda3fa4fd9",
+   "fetched_at": "2026-11-08T00:27:11.805042+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/japan/politics/japan-contribution-icc-us-sanctions/",
+   "title": "Japan eyes early contribution payment to ICC as court faces U.S. sanctions",
+   "published_at": "2026-11-07T04:27:00+00:00",
+   "kind": "news",
+   "id": "8dbf2b68-6837-4bb8-9d95-e113ddf458ea",
+   "fetched_at": "2026-11-08T00:27:11.806108+00:00",
+   "event_id": "e9c8b4ef-95cf-412e-8421-b9b4bb9b4469",
+   "summary_ja": "米国の制裁を受けるICCへの分担金を、日本が前倒しで支払う案を検討している。",
+   "angle": "ICC支援策",
+   "tone": "neu",
+   "evidence": "considering paying its 2027 contributions to the International Criminal Court ahead of schedule",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/japan/crime-legal/us-japan-okinawa-crime/",
+   "title": "Japan eyes education programs for U.S. troops in Okinawa after recent robbery-murder",
+   "published_at": "2026-11-07T03:24:00+00:00",
+   "kind": "news",
+   "id": "d60bb464-3f29-4e38-85e7-f814eb61d5a2",
+   "fetched_at": "2026-11-08T00:27:11.807173+00:00",
+   "event_id": "2b2f0e7e-49c8-4fa8-94ef-87723656d158",
+   "summary_ja": "日米が合意した再発防止策として、沖縄の米軍向けの教育プログラム強化などを伝えた。",
+   "angle": "再発防止の教育",
+   "tone": "neu",
+   "evidence": "recurrence prevention measures, which were agreed upon by both sides",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-priority-items-investments/",
+   "title": "Japan picks 28 priority items for ¥370 trillion in investments",
+   "published_at": "2026-11-07T03:24:00+00:00",
+   "kind": "news",
+   "id": "51606b36-00bc-4016-89bd-2eca79e20c15",
+   "fetched_at": "2026-11-08T00:27:11.808238+00:00",
+   "event_id": "f9d99e6b-cb7d-416a-9166-0c6958df9ac4",
+   "summary_ja": "政府が成長戦略の柱として28の重点品目を選び、官民370兆円超の投資対象とした。",
+   "angle": "重点投資分野",
+   "tone": "neu",
+   "evidence": "Large-scale and strategic investment support measures are essential",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/boj-ueda-2-inflation-rate/",
+   "title": "BOJ’s Ueda says unclear how long 2% inflation rate will remain",
+   "published_at": "2026-11-07T03:23:00+00:00",
+   "kind": "news",
+   "id": "897beea9-64b0-44a1-88f5-c4fa83d8e59b",
+   "fetched_at": "2026-11-08T00:27:11.809329+00:00",
+   "event_id": "5b213d22-d92b-45fb-a1aa-289dc320196e",
+   "summary_ja": "植田日銀総裁がIMFで講演し、2%の基調的インフレがいつまで続くかは不明と述べた。",
+   "angle": "インフレ見通し",
+   "tone": "none",
+   "evidence": "",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/",
+   "title": "China’s top spy agency recruited woman who targeted Nvidia’s Jensen Huang",
+   "published_at": "2026-11-07T02:42:00+00:00",
+   "kind": "news",
+   "id": "5f15e012-3edc-4bc9-bec8-99175a5b35dd",
+   "fetched_at": "2026-11-08T00:27:11.810432+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+   "title": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings",
+   "published_at": "2026-11-07T02:16:00+00:00",
+   "kind": "news",
+   "id": "c64f403f-06d6-4b6c-a5fe-c5f0c779a5b1",
+   "fetched_at": "2026-11-08T00:27:11.811564+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/china-japan-selective-economic-dependence/",
+   "title": "Japan and China shifting toward selective economic dependence",
+   "published_at": "2026-11-07T01:24:00+00:00",
+   "kind": "news",
+   "id": "3ece36ab-6576-464e-b96a-5ee895785f2a",
+   "fetched_at": "2026-11-08T00:27:11.812631+00:00",
+   "event_id": "e8b4e0e6-acd9-4d0c-bba0-5d0a64b81377",
+   "summary_ja": "台湾発言から1年、日中は選択的な経済依存へ移りつつある。",
+   "angle": "選択的依存",
+   "tone": "neu",
+   "evidence": "continuing to look for new opportunities while cutting risks",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/paraguay-president-santiago-pena-impeached/",
+   "title": "Crisis-hit Paraguay impeaches president and replaces him with VP",
+   "published_at": "2026-11-07T01:23:00+00:00",
+   "kind": "news",
+   "id": "32ee996f-d5d2-47c2-bc0a-00fd30d78092",
+   "fetched_at": "2026-11-08T00:27:11.813694+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-biz-community-china-tensions/",
+   "title": "Japan business community working to ease tensions between Tokyo and Beijing",
+   "published_at": "2026-11-07T00:19:00+00:00",
+   "kind": "news",
+   "id": "7e9a0d00-bcc6-4297-ace0-d2513ef625ef",
+   "fetched_at": "2026-11-08T00:27:11.814810+00:00",
+   "event_id": "e55824b8-13fb-4ffa-9b29-78e644244338",
+   "summary_ja": "台湾発言から1年、日本の経済界が日中の緊張緩和に向け動いている。",
+   "angle": "経済界の仲介",
+   "tone": "neu",
+   "evidence": "necessary to approach relations from various angles",
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": true,
+   "basis": "body"
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/trump-congress-tariffs-clash/",
+   "title": "Trump and U.S. Congress set to clash over economic costs of tariffs",
+   "published_at": "2026-11-06T23:37:00+00:00",
+   "kind": "news",
+   "id": "61e2f661-f0a5-42da-95a2-c7fd3c3c45c4",
+   "fetched_at": "2026-11-08T00:27:11.815948+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/us-iran-deal-nuclear/",
+   "title": "U.S. and Iran edge closer to deal with nuclear issue back in play",
+   "published_at": "2026-11-06T23:37:00+00:00",
+   "kind": "news",
+   "id": "8e8b1092-54c3-4226-be35-96cac0fe1df6",
+   "fetched_at": "2026-11-08T00:27:11.817139+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/world/apple-autocomplete-dictator-trump-sleepy-joe/",
+   "title": "Apple’s autocomplete restrictions include ‘Dictator Trump’ and ‘Sleepy Joe,’ researcher finds",
+   "published_at": "2026-11-06T23:36:00+00:00",
+   "kind": "news",
+   "id": "b1541e0d-bfcf-499b-b6a7-b45c37d8c44e",
+   "fetched_at": "2026-11-08T00:27:11.818360+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japantimes",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/europe-putin-end-war-russia-concerns/",
+   "title": "Europe insists Putin end war before discussing Russia’s concerns",
+   "published_at": "2026-11-06T23:36:00+00:00",
+   "kind": "news",
+   "id": "215875cf-5d06-44b6-838d-8ad5ae0d8929",
+   "fetched_at": "2026-11-08T00:27:11.819535+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/stand-up-cheer-for-change-rethinking-gender-bias-through-cheerleading-as-a-case-study/",
+   "title": "Stand Up, Cheer for Change: Rethinking Gender Bias Through Cheerleading as a Case Study",
+   "published_at": "2026-11-07T23:15:00+00:00",
+   "kind": "news",
+   "id": "cf999a7f-00b8-4409-8c5d-bfb60acde2d8",
+   "fetched_at": "2026-11-08T00:27:12.550543+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:29:44.663678+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/shin-ushijima-chapter-19-japan-for-sale-2/",
+   "title": "Chapter 19: Japan for Sale!",
+   "published_at": "2026-11-07T08:29:00+00:00",
+   "kind": "news",
+   "id": "8debeb99-6906-4fdf-85c4-8b89799f4ef8",
+   "fetched_at": "2026-11-08T00:27:12.550816+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
+  },
+  {
+   "outlet_id": "japanforward",
+   "url": "https://japan-forward.com/mitake-gorge-ozawa-brewery-sawanoi-tofu/",
+   "title": "Hidden Wonders | Tokyo Sake and Tofu Along the Clear Waters of Mitake Gorge",
+   "published_at": "2026-11-07T01:15:00+00:00",
+   "kind": "news",
+   "id": "d4dc0be6-9614-4cf8-ad65-b9b500df58f1",
+   "fetched_at": "2026-11-08T00:27:12.551114+00:00",
+   "event_id": null,
+   "summary_ja": null,
+   "angle": null,
+   "tone": null,
+   "evidence": null,
+   "processed_at": "2026-11-08T00:28:42.803473+00:00",
+   "relevant": false
   }
  ]
 }
