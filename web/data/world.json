@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T03:55:35.872397+00:00",
+ "generated_at": "2026-11-18T03:06:43.498495+00:00",
  "rules": {
   "min_countries": 3,
   "min_areas": 2,
@@ -312,50 +312,460 @@
  ],
  "stories": [
   {
-   "id": "4c457e21-320f-469c-8269-d3f78471ee7d",
-   "title_ja": "米商務省、第三国経由の中国向けAI半導体アクセスを制限する新規則を発表",
-   "fact_ja": "米商務省は、中国が第三国のデータセンターなどを通じて先端AI半導体にアクセスするのを防ぐ新たな規則を発表した。マレーシア、タイ、インドネシア、シンガポール、ブラジルが輸出許可の要件の対象になると伝えられている。",
-   "category": "経済",
-   "first_seen": "2026-11-16T21:05:00+00:00",
-   "updated_at": "2026-11-17T03:21:00+00:00",
+   "id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65",
+   "title_ja": "イスラエル議会がアイゼンコット氏系のカハナ氏を議長に選出",
+   "fact_ja": "イスラエル議会は17日、ガディ・アイゼンコット氏の陣営に近いマタン・カハナ氏を新議長に選んだ。アイゼンコット氏は政権の樹立を目指しており、同陣営はネタニヤフ首相の政策の見直しを掲げている。",
+   "category": "政治",
+   "first_seen": "2026-11-17T21:51:29+00:00",
+   "updated_at": "2026-11-18T02:42:13+00:00",
    "country_views": [
     {
-     "country": "SG",
-     "view_ja": "国営・政府系のCNAは、他国経由で中国が先端チップを入手するのを防�ぐ狙いを、トランプ氏のアジア訪問と絡めて伝えている。独立系のストレーツ・タイムズは、東南アジアのデータセンターに影響し得る点に注目し、シンガポールが新規則を検討していると報じている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "朝鮮日報は、ニューヨーク株が3日続落した市況の中で、エヌビディアの経営体制への不安とこの規制が半導体株を揺らしたと伝えている。"
+     "country": "FR",
+     "view_ja": "ル・モンドはネタニヤフ氏にとっての打撃と位置づけ、アイゼンコット氏に組閣の期限が来月まであることや、カハナ氏が早ければ翌日にもネタニヤフ氏の政策の見直しに着手する見通しを伝えている。"
     },
     {
      "country": "US",
-     "view_ja": "ウォール・ストリート・ジャーナルは、中国向けチップ出荷をさらに制限する商務省の規則として簡潔に報じ、同じ記事でトランプ氏と金正恩氏の面会の可能性など他の話題も扱っている。"
+     "view_ja": "ニューヨーク・タイムズは、カハナ氏が立法過程を主導する立場に就き、野党がネタニヤフ氏を複数の面で追及しようとしていると伝えている。"
     },
     {
-     "country": "DE",
-     "view_ja": "ズュートドイッチェ・ツァイトゥングは、中国のAI開発を抑える狙いで特定の国への輸出条件を厳しくしたと説明し、政権内で意見が完全には一致していないようだとも指摘している。"
+     "country": "SG",
+     "view_ja": "ストレーツ・タイムズは、議長が2023年10月7日のハマス攻撃の調査など、アイゼンコット氏の陣営の法案を進められる点に焦点を当てている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "ガーディアンは、退任する政権の政策を覆すための重要な一歩として報じ、カハナ氏がアイゼンコット氏の盟友で次期政権づくりを進める党首の側近だと説明している。"
     },
     {
      "country": "QA",
-     "view_ja": "国営・政府系のアルジャジーラは、エヌビディアをめぐる問題の最中に、中国の遠隔アクセスを阻むため5か国に輸出許可を求めると伝えている。"
+     "view_ja": "国営・政府系のアルジャジーラは、アイゼンコット氏の陣営がネタニヤフ氏の最も論争的な国内政策の一部を覆すと約束していることを伝え、別の記事ではアラブ系政党の支持を受けて選ばれた点を強調している。"
+    },
+    {
+     "country": "AU",
+     "view_ja": "ABCは「ネタニヤフ氏の盟友が議長の座を追われた」という見出しで、ネタニヤフ氏の最大のライバルであるアイゼンコット氏らが前政権の政策を巻き戻す力を得うると伝えている。"
+    },
+    {
+     "country": "DE",
+     "view_ja": "南ドイツ新聞は、野党が議会の議長職を握ったことを中心に、多数の議員がカハナ氏に投票し、同氏が元閣僚でアイゼンコット氏の党に属すると淡々と伝えている。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "コリア・ヘラルドはAP通信の記事を載せ、野党側に支持された議長が選ばれ、退任する政権の政策を巻き戻す重要な一歩になったと伝えている。"
+    }
+   ],
+   "difference_ja": "多くの媒体は、ネタニヤフ氏の政策の巻き戻しや野党側への主導権の移動を軸に伝えている。ル・モンドとABCは「打撃」「議長の座を追われた」とネタニヤフ氏側の後退を前面に出し、ストレーツ・タイムズは10月7日攻撃の調査法案に触れている。アラブ系政党の支持に言及したのはアルジャジーラだけで、ほかの媒体の記事にはその記述がない。",
+   "japan_main": [
+    {
+     "outlet": "朝日新聞",
+     "title": "イスラエル国会、新議長を選出 野党陣営とアラブ系会派が支持 [イスラエル・パレスチナ問題]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbjJtcFdBUjRnRjBmWDQxaHo5dEwzQ2tMQ2xPNEtLb2FKX1UtTGhINUJVTzZRNUxrYmVVQldxUzNMbUlKeTVodkRQc2VETmd4TW45TUdFbXcwZElOOTFlU3RteDdTZXM?oc=5",
+     "published_at": "2026-11-17T22:27:11+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "反ネタニヤフ首相陣営が国会議長選出 イスラエル、主導権へ一歩 第三勢力も支持",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMUk5aEoySzJZZVlZZW40cmdBQjUwRGtMWi1XSk5ZUFRDSG1NUXB0ejV4Zl92eFZndzNVWUtCYkRUUlpkTzUzd0RQdmk3RXFNVVR1STdfcjFjSDBWT09fNVhIZTYwcElxMEFqRWdOYXZwNzJOY3c?oc=5",
+     "published_at": "2026-11-18T00:29:49+00:00"
+    }
+   ],
+   "japan_view_ja": "朝日新聞と産経新聞は、新議長の選出を野党陣営の動きとして伝え、アラブ系会派や第三勢力の支持にも触れている。アラブ系政党の支持に触れる点はアルジャジーラと共通し、他国の媒体より支持の広がりに目を向けている。",
+   "japan_main_checked_at": "2026-11-18T03:02:30.393639+00:00",
+   "place_countries": [
+    "IL"
+   ],
+   "day": "2026-11-18",
+   "n_outlets": 8,
+   "n_countries": 8,
+   "n_independent_countries": 7,
+   "n_areas": 4
+  },
+  {
+   "id": "9dc3b89b-4602-43b0-867c-342c11b3663d",
+   "title_ja": "米NSAの機密内部通信網が一時障害",
+   "fact_ja": "米国家安全保障局(NSA)が内部通信に使う機密ネットワークが17日に障害を起こし、NSAは定期保守中の「一時的な機能低下」と説明した。一部の内部システムに影響が出たが、重要任務の能力は維持されているとした。",
+   "category": "社会",
+   "first_seen": "2026-11-17T18:57:26+00:00",
+   "updated_at": "2026-11-18T02:36:17+00:00",
+   "country_views": [
+    {
+     "country": "HK",
+     "view_ja": "障害の事実とNSAの説明（定期保守中の一時的な機能低下、重要任務は継続）を中心に、相次ぐ技術障害の一つとして伝えている。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "独立した媒体のストレーツ・タイムズは、NSAの障害の事実と、相次ぐ障害に対しトランプ大統領が「問題ない」と述べたことを伝えている。国営・政府系のCNAは、障害の波が米政府に及んだことと、トランプ氏の「問題ない」との発言を前面に出している。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "朝鮮日報は、航空や金融、ITの障害が続く中で安全保障の中枢にまで及んだとして、デジタル基盤の老朽化への懸念を強調している。外部からのハッキングの形跡は見つかっていないとも伝える。コリア・ヘラルドはロイター電で、政権が広範な問題との見方を軽視している点を伝えている。"
+    },
+    {
+     "country": "AU",
+     "view_ja": "ABCは、米国で技術的トラブルが続く中でNSAの内部通信システムが障害に見舞われたと簡潔に伝えている。"
+    },
+    {
+     "country": "FR",
+     "view_ja": "ル・モンドは、国防当局者の話とNSAの声明を伝え、先週来の重要な政府・民間機能へのサイバー関連の混乱に続く出来事と位置づけている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系のアルジャジーラは、米国で続く技術的トラブルの最新例として伝え、「不運の連続」と表現して経緯を解説している。"
+    }
+   ],
+   "difference_ja": "各媒体ともNSAの「一時的な機能低下」という説明を軸に事実を伝えている。違いは文脈の置き方にある。朝鮮日報は航空・金融障害に続く点とインフラ老朽化への懸念を強調し、ストレーツ・タイムズやCNAはトランプ氏の発言に注目した。アルジャジーラは米国の相次ぐ失態という枠組みで描いている。",
+   "japan_main": [
+    {
+     "outlet": "産経新聞",
+     "title": "米NSA通信網に障害か 機密情報を送受信 サイバー攻撃の証拠見つからず",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaYXN4RGlrVEJxeEF2blJ4RzBGc1dQbWFJZkpEWG1RVUJ3bzBTamdRc0RGUndVem43Y0lNNHFYNjU3MWFxN1lFQWFCbGxJV1duQ3RTX0MwbDZuMG9mVDJqeXdpRXBxOF9rMW9lM2Z4bjhJN2hhR0E?oc=5",
+     "published_at": "2026-11-17T20:45:51+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "アメリカ国家安全保障局の機密性高い通信ネットワークで一時障害“サイバー攻撃ではない”（2026年11月17日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmZ3QTNoXzJXUjN1a2RUa1V1WWhtaUFkejV0LXFJMXlMQ3FhaVBXOE4zX1hPcGZDYThBRTJGdGlrZ3hkQVVvS2N6YUFPS3Nmd2czSzQ2ZGItQVV6TFAtNlFkaGdNX09GcWJmblBJa2hHVmdldUFsVFNWSkZybmRSdWxUY0Y?oc=5",
+     "published_at": "2026-11-18T01:02:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "米国家安全保障局の機密ネットワークで障害、一部システム利用できず",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWtWSTVJMjZpRExtMW1EZUpXNFFuMFhnTVI2d3JBZTlnaklscHBKTE5PZllBekhMWUc5bnI2ejJSQVNHTGhXa01XYTYtZWZsdDFrTnQwMkVRQUdVZnNxM3J0UzluV1VtWENHZnZKR0JQYlZf?oc=5",
+     "published_at": "2026-11-17T20:31:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "米国家安全保障局の機密通信網が停止 トランプ氏への情報伝達に影響なし 米報道",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSWU0V3FPOVE0eGZNUnZEZU53WG1Pa1B2SFlEVWg3ZGxlbXhhMVY2WmFGaGwwSDB4QVF5a2pfN3JoS0VzUWRRSXpJU25ldWtKWkZPVUFfQXlSX1d0aDJUMkdfaEZnX2VoT2tlbGQ5QVE2LXNHbGU2cENn?oc=5",
+     "published_at": "2026-11-17T21:54:33+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の媒体は、NSAの機密網の障害そのものと、サイバー攻撃の証拠が見つかっていない点を中心に伝えている。テレビ朝日はトランプ氏への情報伝達に影響がないとの報道に触れており、各国が強調した相次ぐ障害の文脈や政権の反応は見出しからは目立たない。",
+   "japan_main_checked_at": "2026-11-18T03:02:52.151241+00:00",
+   "place_countries": [
+    "US"
+   ],
+   "day": "2026-11-18",
+   "n_outlets": 8,
+   "n_countries": 6,
+   "n_independent_countries": 5,
+   "n_areas": 3
+  },
+  {
+   "id": "8a6c7472-89f2-4365-b1f4-aba80fc94291",
+   "title_ja": "トランプ氏殺害を企てたパキスタン人男性に禁錮27年超の判決",
+   "fact_ja": "ブルックリンの連邦裁判所は、トランプ大統領の殺害を企てたとして有罪となったパキスタン人のアシフ・マーチャント被告に、禁錮330か月（27年超）を言い渡した。司法省によると、動機は米国によるイラン革命防衛隊のソレイマニ司令官殺害への報復だった。",
+   "category": "社会",
+   "first_seen": "2026-11-17T23:08:18+00:00",
+   "updated_at": "2026-11-18T02:47:12+00:00",
+   "country_views": [
+    {
+     "country": "HK",
+     "view_ja": "司法省の発表に基づき、被告がイランとのつながりを指摘され、ソレイマニ司令官殺害への報復として米国の政治家や政府高官の殺害に殺し屋を雇おうとした点を伝えている。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "被告が、テヘランにいる家族を守るために計画に加わらされたと証言したことをリードに据え、被告側の主張に焦点を当てている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "被告がイランと関係があるとされ、ソレイマニ司令官殺害への報復を求めたと裁判所が認定したことを、司法省の発表に沿って伝えている。"
+    },
+    {
+     "country": "IN",
+     "view_ja": "イランの指示による計画だったと見出しで打ち出し、刑期330か月、2024年の計画、3月の有罪評決、攻撃前に阻止されたことを整理して伝えている。"
+    },
+    {
+     "country": "PK",
+     "view_ja": "司法省の発表を引用し、判事名や被告の年齢など判決の詳細を伝えている。トランプ氏ほか米政界の要人の殺害計画で有罪となった被告に焦点を当てている。"
+    }
+   ],
+   "difference_ja": "各媒体とも、判決内容と報復動機という中心的な事実は共通しており、大きな食い違いはない。違いは強調点にあり、インドの媒体はイランの指示による計画と見出しで明示し、シンガポールの媒体は被告の「家族を守るため強いられた」という証言を前面に出した。パキスタンの媒体は司法省発表の引用による判決の詳細が中心で、イランとの関係への言及はリード部分では目立たない。",
+   "japan_main": [],
+   "japan_view_ja": "",
+   "japan_main_checked_at": "2026-11-18T03:03:10.130091+00:00",
+   "place_countries": [
+    "US",
+    "PK",
+    "IR"
+   ],
+   "day": "2026-11-18",
+   "n_outlets": 5,
+   "n_countries": 5,
+   "n_independent_countries": 5,
+   "n_areas": 2
+  },
+  {
+   "id": "accc81f0-dc00-4fbf-a9da-5ea2582b9b5a",
+   "title_ja": "エヌビディア前CEOが復帰の意向を示し、取締役会長は復帰させない方針を表明",
+   "fact_ja": "辞任したエヌビディアのジェンスン・フアン前CEOが、取締役会が望むならCEOに復帰してもよいと表明した。これに対しハーベイ・ジョーンズ会長は、取締役会は復帰させる意向がないと述べた。",
+   "category": "経済",
+   "first_seen": "2026-11-17T17:20:33+00:00",
+   "updated_at": "2026-11-18T01:48:48+00:00",
+   "country_views": [
+    {
+     "country": "PK",
+     "view_ja": "フアン氏が辞任後初めて、復帰を求める声の高まりを理由に復帰への意欲を示したことと、自らの過ちを認めたことを中心に伝えている。"
+    },
+    {
+     "country": "RU",
+     "view_ja": "国営・政府系の媒体は、フアン氏が取締役会の判断次第で復帰してもよいと述べた発言を簡潔に伝えている。"
+    },
+    {
+     "country": "SG",
+     "view_ja": "国営・政府系の媒体は、フアン氏の復帰意向表明を受けて、会長が再雇用しないと述べた展開を見出しに据えている。"
+    },
+    {
+     "country": "FR",
+     "view_ja": "ジョーンズ会長が、取締役会は辞任を全会一致で受け入れ復帰させる意向はないと述べた点を軸に、辞任の経緯も添えて伝えている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "復帰は認めないとの会社の姿勢と、辞任劇の後に発表された好調な四半期決算を併せて伝えている。"
+    },
+    {
+     "country": "AU",
+     "view_ja": "復帰を求める声が多い中でも、数兆ドル規模のAI投資がかかっており、取締役会が受け入れるのは危険すぎるとの分析を紹介している。"
+    }
+   ],
+   "difference_ja": "フアン氏の発言を軸にする媒体と、取締役会の拒否を軸にする媒体に分かれる。フランスは辞任理由や会長の言葉を詳しく載せ、英国は決算、豪州は投資リスクの分析と、それぞれ会社や市場への影響に目を向けている。大きな評価の対立はなく、事実を比較的淡々と伝えている。",
+   "japan_main": [
+    {
+     "outlet": "朝日新聞",
+     "title": "エヌビディア前CEO「復帰できれば光栄」 不倫で辞任後、初の声明",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13Q2ItUmVCTkZFZ21wdEpENnBhWG5yRUhHQVRZaTAxR280QzdkRS1SMTdQaUtXdThIQUozRkJwaTE0aERkZjhFbWl1WWJ1dFVYaERCRnEteVEyLUN2Z0loSFBUc296Rkk?oc=5",
+     "published_at": "2026-11-17T18:02:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "エヌビディア、ＣＥＯ復帰模索 辞任のフアン氏、ＡＩ業界・政界から支持 取締役会は別の後任探し",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FWEhyWUVGc3E1WU5ZSVp0XzFoN1BRX3ZKZHpsZEEwajN6S20tR3lQYTVUNWNwZUp0ZUVNaTNEWDI0TmN5NkRaWm82NGhXTFdOLWE4RXRCRDZSd2w0?oc=5",
+     "published_at": "2026-11-17T20:00:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "エヌビディアのフアン前ＣＥＯ、取締役会が認めればＣＥＯ復帰意向…「利益になるなら喜んで」",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiLVlQTC1hcTB5WURDUFVkOTFEX3VUTG5IQTFVbHVodFVEcU0zSFRyWG13LW1tSVVfRjFFMlROYW5yd0MtSUJEYzRrbHY2SkNZRVFkMGVIUXVuV1NQb2NpcnFUNGo?oc=5",
+     "published_at": "2026-11-17T17:35:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "エヌビディア、フアン氏の「ＣＥＯ復帰」否定…フアン氏が主導した巨額の「ＡＩ投資戦略」に変化生じる可能性",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qYW14LWhERGx1TV8wVWZUUVpKS2dTa01sTVZGTmVyMlEwSGp3a0dOS1otMWNzY2J3N1U4bGZRcVE4MmNTVW0zdXpIckVGUnVRcFNhUE5weGVwX1l0TGx5eXc2TXk?oc=5",
+     "published_at": "2026-11-18T01:50:00+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "NVIDIAファン氏「CEO喜んで復帰」と声明 支持広がり受け",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0cGVoR2NmLTJMNmF4ekVEV0tCQ0YtdUJ2RkZwaUZCNURfODFsc0U4TFhWY0ZxaTNmTHhqYk1ZZTFRUURPemc5cm5GQzhSd3FIay11YUhNOUxKNWNPWXlrS3QydlRqcGxsSGM4OQ?oc=5",
+     "published_at": "2026-11-17T17:12:26+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "NVIDIA、取締役会長「ファン氏復帰させず」 11〜1月売上高9割増",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KYjZHOXpxbDlSMll5RGxFX0ZyV1YzcXdHWHBaY1NGUFpiM0MwVmlYMVRYSVpDQTdMWGcwV2hMYTRGaFVvMDJBV0R0bk5oUlpERFBXMHZGV01OT292TFF2UkU3X2Vsc2FsTkdMeg?oc=5",
+     "published_at": "2026-11-17T19:53:55+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "ジェンスン・フアン氏､エヌビディア「CEO復帰」期待に応えたい－声明",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fMHg5Z1hKZ1NWUlpMRlFvQl9KMUJRVlkyLU5zSkJGay1Cc29Qa29jN1k4M01lNFhaajFDZ2pRdUFPZXF1Q3ZXWUJJb29GQ25YU1NnV0J4THV5aVpqa054WWQtRTlwYU0?oc=5",
+     "published_at": "2026-11-17T16:51:32+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "エヌビディア・フアン氏が辞任後初の声明 要請あれば「CEOに喜んで復帰」",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fTDJwdVIwLWNSc1EzNU14dmJlMHNyYXQtTlV4aTRpb3MyLUIzR1FwV3hjUTRDdF9CUFNEZ2V6bjR3SE1nVkF5Yk85TGFQaDRRbncza0JRc2h1cC1UMnhpNm56aWdEQkd2OUdVb0JHWFBtQ1pT?oc=5",
+     "published_at": "2026-11-17T18:41:23+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体も、フアン氏の復帰意向表明と会長による復帰否定を中心に報じている。加えて、トランプ氏の容認姿勢や支持の広がり、決算、AI投資戦略への影響といった周辺の動きも見出しに入れている。",
+   "japan_main_checked_at": "2026-11-18T03:03:29.041644+00:00",
+   "place_countries": [
+    "US"
+   ],
+   "day": "2026-11-18",
+   "n_outlets": 6,
+   "n_countries": 6,
+   "n_independent_countries": 4,
+   "n_areas": 3
+  },
+  {
+   "id": "422abff5-355f-4554-9939-acb1359d89e7",
+   "title_ja": "エヌビディアの8～10月期決算が市場予想を上回る",
+   "fact_ja": "エヌビディアは第3四半期（8～10月期）の売上高が前年同期の約2倍になったと発表し、決算は市場予想を上回った。ジェンスン・フアン氏の辞任後初の決算で、同社はフアン氏の復帰を認めない方針を示した。",
+   "category": "経済",
+   "first_seen": "2026-11-17T17:12:00+00:00",
+   "updated_at": "2026-11-18T02:30:31+00:00",
+   "country_views": [
+    {
+     "country": "SG",
+     "view_ja": "国営・政府系の媒体は、売上高が2倍になったことと、1株利益が2.77ドルで予想の2.48ドルを上回ったことを数字中心に伝えている。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "朝鮮日報は、フアン氏辞任後初の決算で、私生活のスキャンダルや対中輸出規制強化による株価急落の中でもAI半導体の需要を示したと評価を紹介している。コリア・ヘラルドはAFP配信で復帰否定を伝え、決算を受けてソウル株が大幅高で始まったことも報じた。"
+    },
+    {
+     "country": "HK",
+     "view_ja": "サウスチャイナ・モーニング・ポストは、売上高が1150億ドル超に倍増した点に加え、フアン氏が復帰を望むと述べた数時間後に会社が復帰を否定した経緯と、中国のスパイ疑惑に絡む解任を前面に出している。"
+    },
+    {
+     "country": "DE",
+     "view_ja": "南ドイツ新聞は、売上高と利益が倍増した予想外の好決算と、フアン氏が復帰の用意を示す一方で取締役会議長が拒んだ点を並べて伝えている。"
+    },
+    {
+     "country": "ID",
+     "view_ja": "ジャカルタ・ポストは、解任されたCEOの復帰がないことと売上の急増を見出しで伝えている。"
+    }
+   ],
+   "difference_ja": "多くの媒体が好決算とフアン氏の復帰否定を併せて伝えており、事実関係に大きな食い違いはない。シンガポールの媒体は業績の数字に絞り、香港・韓国・ドイツは経営トップをめぐる混乱や、スパイ・スキャンダルなどの背景も盛り込んでいる。韓国のコリア・ヘラルドは決算が自国の株式市場に与えた影響にも触れている。",
+   "japan_main": [
+    {
+     "outlet": "読売新聞",
+     "title": "エヌビディア８～１０月期決算、売上高・最終利益ともに前年同期比２倍で過去最高",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54SjhzWmdNbnNQN1Q1dGNoUmVKUF93R3ZoWVhSQWNLcWRrWjVhTGZVdlVPLUY0ODVGc2Ffczhaa1RvQVBVM2sxd1JmUjl2amNlN2E3TmtsZThUbFJRV0tzMmNxN1Q?oc=5",
+     "published_at": "2026-11-17T21:52:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "ＣＥＯ辞任のエヌビディア、８～１０月期の売上高１８・５兆円・最終利益１０・４兆円…ともに前年同期の２倍",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13U19tTXhEWDd6czFvTlI5WXVCZ3Z4Vy1jZ0xPZUJDRDlSdGdENjFUby1SemhPWGFYN0pxeVdibzVTQ0pwWG90Ml9xT0kyR0RKYU82NVZhelNQcHFPdkRvNGo4VVo?oc=5",
+     "published_at": "2026-11-18T02:35:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "エヌビディア、フアン氏の「ＣＥＯ復帰」否定…フアン氏が主導した巨額の「ＡＩ投資戦略」に変化生じる可能性",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qYW14LWhERGx1TV8wVWZUUVpKS2dTa01sTVZGTmVyMlEwSGp3a0dOS1otMWNzY2J3N1U4bGZRcVE4MmNTVW0zdXpIckVGUnVRcFNhUE5weGVwX1l0TGx5eXc2TXk?oc=5",
+     "published_at": "2026-11-18T01:50:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "エヌビディア、最終利益倍増で過去最高 「勢いは本物」クレス氏",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNnIwZmZ1QzMwUmppTFJqbUZZRjJEbFYxaEdzRnB0WmY5Xzg5OWtYLTU1eVhuUnFiQjREcnRBN19jdU5WdDB2X1pmN2FxRHNfaENrNFdGNnpDRTFiMzQ3OWlqdGItTXp5?oc=5",
+     "published_at": "2026-11-18T01:51:28+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "米エヌビディアが四半期の最高益更新 8～10月期、10.4兆円 前年同期の2倍",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GVktzRVpZbExLdS04WDl2cTJBQXdpc3phNFFkODU4V3NzcnkyT242OER1djZOazhZODQxU1ZtZHJYWnNLbDlCeExiTkpiNjdseVl0Y2hsWE45RUp0eGRPYUpJcFdjRGFrMmoxaU8tMDFBelJ2dHc?oc=5",
+     "published_at": "2026-11-17T23:04:32+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "NVIDIA、取締役会長「ファン氏復帰させず」 11〜1月売上高9割増",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KYjZHOXpxbDlSMll5RGxFX0ZyV1YzcXdHWHBaY1NGUFpiM0MwVmlYMVRYSVpDQTdMWGcwV2hMYTRGaFVvMDJBV0R0bk5oUlpERFBXMHZGV01OT292TFF2UkU3X2Vsc2FsTkdMeg?oc=5",
+     "published_at": "2026-11-17T19:53:55+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "NVIDIA株、時間外で一時5%高 業績拡大を好感",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBeVJDSmwxRmcwbEJfc294a0ZNbHpFZVFqUWpvOE9teTE3UUdjRkZJaWZiSWtZZzRYQTQ4V0d0Mldvd083TmNKRUdMcmR2RlpvMkZWd3NXSjNrOWNha2xDWkZnRUdkeExXeGtubQ?oc=5",
+     "published_at": "2026-11-17T21:34:22+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "NVIDIA決算 市場「好業績」「高成長信じられず」、次期トップ焦点",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XaHZMZEtfdFFpUHhVSEhFcm9nNzZtQWFPS1B4c2dJMGtTLTVhV2FTYl82blphenlJd2ZrSzNpOVN5OXJqSlYtOFlmWXY3cU9kaHRJeDJZNV9nT05kbU5HdUtVNk9JdmEwSGdSTw?oc=5",
+     "published_at": "2026-11-18T02:15:53+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "エヌビディア、売上高見通しが市場予想上回る－フアン氏退任後初決算",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0waEU5c252OEpCX3hhMDBPNWRpN0pYVnd2eUs4ZU5aLThsbGNrR0VJeTB4OUVQSnJ4VGF0Wk1wTHFBVHk1ZXI2R2RQbUV1OTZFOW5zZl9DTkh6eGtOLXJrV3E4Q0RlUHc?oc=5",
+     "published_at": "2026-11-17T23:17:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【速報】エヌビディア「フアン氏のCEO復帰ない」 売上高・純利益最高に",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85c2tlaDFPNFdHQi1qWDk2LUMzZl9hVC1IbWNucUd1cGRNU1hydTVOSEFhWUdjYndBMDBUZ0ZGdVFUVlItUUNweURiTS1GdzhicFNxYjdxdXVqX2htY0NRSlN4NWtRYnFCYlNkTTlrSjlSd0J6NG93R2x3?oc=5",
+     "published_at": "2026-11-18T01:25:14+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "“フアン氏のCEO復帰ない” 米エヌビディア取締役会議長",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rVXM1UU1ELTFWdU82aGFkZ0FET1VKUTA4RkJ0WlRmYUM3dVNfYmN0bmM4RUwzWVJQdzdHeHNzTmRmV1pvQ2NOOW5wd09NRG1UT0x3WHN1ODNHMW9URWVHVExWSkNlVzl6SGYtaUlDMml2Z1dUX0RzeTFR?oc=5",
+     "published_at": "2026-11-18T01:54:38+00:00"
+    },
+    {
+     "outlet": "フジテレビ",
+     "title": "エヌビディア取締役会「フアン氏復帰させる意向はない」 8～10月期決算、売上高・純利益ともに過去最高",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83ZDlPLWJ1MldDR0h5U0xPaUJoUldFdVQxUG1BRlIwZmI5MHlscVdKMlpCVzBlVEJZM2h5dFhiQzZKX1d2VHZlWHF1MmlVZw?oc=5",
+     "published_at": "2026-11-18T01:45:00+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体も、過去最高の売上高・利益とフアン氏の復帰否定を中心に伝えている。円換算の金額、株価の反応、次期トップや投資戦略への影響といった点に注目した見出しが目立つ。",
+   "japan_main_checked_at": "2026-11-18T03:03:50.371452+00:00",
+   "place_countries": [
+    "US"
+   ],
+   "day": "2026-11-18",
+   "n_outlets": 6,
+   "n_countries": 5,
+   "n_independent_countries": 4,
+   "n_areas": 2
+  },
+  {
+   "id": "4c457e21-320f-469c-8269-d3f78471ee7d",
+   "title_ja": "米商務省が中国のAI半導体遠隔利用を防ぐ新規則を発表",
+   "fact_ja": "米商務省は、中国企業が第三国のデータセンターなどを通じて先端AI半導体にアクセスするのを制限する新たな規則を発表した。マレーシア、タイ、インドネシア、シンガポール、ブラジルが輸出許可の要件の対象になると伝えられている。",
+   "category": "経済",
+   "first_seen": "2026-11-16T21:05:00+00:00",
+   "updated_at": "2026-11-18T02:00:00+00:00",
+   "country_views": [
+    {
+     "country": "SG",
+     "view_ja": "国営・政府系のCNAは、規制の狙いや東南アジアのデータセンター産業への影響、中国の反発を解説している。独立系のストレーツ・タイムズは、シンガポール政府が新規則を検討していること、データセンターへの打撃の可能性、中国の報復警告を伝えている。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "朝鮮日報は、ニューヨーク株が3日続落した場面で、エヌビディアの経営陣を巡る不安と今回の規制が半導体株を揺らしたと、市場への影響を中心に伝えている。"
+    },
+    {
+     "country": "US",
+     "view_ja": "WSJは、規則が中国向けの半導体出荷をさらに制限することと、規制強化を受けたアジア株の下落を伝えている。論説では、中国の計算資源の一部が密輸チップで賄われているとの指摘や、AI安全保障競争の視点も示している。"
+    },
+    {
+     "country": "CN",
+     "view_ja": "国営・政府系のグローバル・タイムズは、中国政府が新規則を「典型的な経済的威圧」と批判し、正当な権益を守ると表明したことを伝えている。"
+    },
+    {
+     "country": "DE",
+     "view_ja": "ジュートドイッチェ・ツァイトゥングは、トランプ政権が中国のAI開発を抑えるため輸出条件を厳しくしたと伝え、政権内部で意見が完全には一致していないようだと触れている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系のアルジャジーラは、エヌビディアを巡る問題の中で、米国が中国の遠隔アクセスを止めようとしていると伝え、5カ国への許可要件を挙げている。"
     },
     {
      "country": "TH",
-     "view_ja": "バンコク・ポストは、規制を受けてシンガポールが先端AIチップへの「信頼できるアクセス」を求めていると、当事国の反応を中心に伝えている。"
+     "view_ja": "バンコク・ポストは、シンガポールが米国の新規制を受けて先端AI半導体への「信頼できるアクセス」を求めていると伝えている。"
+    },
+    {
+     "country": "ID",
+     "view_ja": "ジャカルタ・ポストは、規制の概要に加え、シンガポールの対応や、インドネシア政府が立場を擁護しつつ協議に応じる姿勢を伝えている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "BBCは、東南アジアへの新規制が中国にどう響くかに焦点を当て、チップ自体だけでなくその計算能力へのアクセスも制限される点を説明している。"
     }
    ],
-   "difference_ja": "米国やドイツの媒体は規則の狙いと米政権内の事情に重点を置く一方、シンガポールやタイの媒体は東南アジアのデータセンターや当事国の対応に注目している。韓国の媒体は株式市場への影響とエヌビディアの経営問題を絡めて伝えている。対象国を具体的に挙げたのはアルジャジーラで、ドイツの媒体は政権内の不一致に触れている。",
+   "difference_ja": "米国と韓国の媒体は、規則そのものに加えて株式市場やエヌビディアを巡る問題、チップの密輸といった文脈を重視している。東南アジアの媒体は、自国のデータセンターや半導体の調達への影響と政府の対応を中心に伝えている。中国の国営・政府系媒体は、規則を経済的威圧と批判する中国政府の主張を前面に出している。",
    "japan_main": [
     {
-     "outlet": "NHK",
-     "title": "アメリカ商務省 先端半導体の中国などへのう回輸出防ぐ新規則",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rVGEtVnp6bTR3amdBR2N4WGpzZG1ta1lTbTdLQ281cXNWV1FGM2NnNzZBYUNWQlJwTnktdExDNFZxcW1SZkpzemdsR084dDg2dlVXdE5sNnlpMW5vS0Nj?oc=5",
-     "published_at": "2026-11-16T23:14:00+00:00"
+     "outlet": "朝日新聞",
+     "title": "先端半導体、遠隔利用を制限 輸出規制の抜け道、対策 米商務省",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81ZWNMSjYtMElsaHVPM2UwVUNhd2YxcWVQVlVmSmhicDhBUXJnTDhodW9Vb0dDREtHbF93MHhWVmlqeXZhLUNIS2ItNWo5RG1rTFB2NGtSZDhuSGJx?oc=5",
+     "published_at": "2026-11-17T20:00:00+00:00"
     },
     {
      "outlet": "朝日新聞",
      "title": "先端半導体の「遠隔利用」を制限 米商務省が新たな輸出規則を発表",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xN0owSlI1cTdfRS1iX29kS1hGR0NBa3A1aEVWbEpnVUlYYjhxdDBibVZ1TFpETXAtLXdEZWkyVnJrQnlyYjN6QTljY2JsMlpYLUdwNlpydUFQbVNtUURwRkdVdWh2SkE?oc=5",
+     "published_at": "2026-11-17T00:57:54+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "先端半導体の「遠隔利用」を制限 米商務省が新たな輸出規則を発表",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Dc0M0UUYwdmU0UVBmZEY1YlpodEdUanJlV1dTZzRYMXdUN1NZNG51UWVFcEE1MHk4V2ptbkVVVmx1Q19PS2xBYTMwbGRNUWJxV2RzUDkxSWV1bW5rZ0Rqa2JMRTR1NEQ0NTJ6TDVB?oc=5",
      "published_at": "2026-11-17T00:57:54+00:00"
     },
     {
@@ -366,9 +776,27 @@
     },
     {
      "outlet": "毎日新聞",
+     "title": "エヌビディア 揺れる米 半導体 対中輸出規制強化 AI向け",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wczlra3hXTkVyZGhJQlFiNTRDTDh5N2pxN1I2TVBlR0ItNlFucWh5MjZEeGpSbVpSZl9ISXM0aTY1MXI5a0V0Z3NDRlVxUmVuWS1NSE1TMEQxaVFPVkN0d0RIelBIbE0t?oc=5",
+     "published_at": "2026-11-17T17:01:18+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
      "title": "米、AI半導体の輸出規制強化案を発表 中国への迂回輸出を警戒",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CSndfQWZjeWtacDdiZ1NlOU5ldFF2NGoxOXBUdGtLV2c2bUtNRU9wQ20xY3pHX3ZBMXREVXM2bW1adEE1RDFVUVpNSGFDQm5jSXZrUHBGYks2TFdfVHpuWURLV0VnaGZK?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zYS02NEE0ZDEtQjJtODJVZEh2SWEtdEVNSWhIMVNoTk5BU0E3WWFBbDlkZmJmTm9vSEpBQjVDenFVSktncUVXUjd3SkFoR3p0VFpkMW5OOFZpdU1xb2ZicURpVHB2dzg?oc=5",
      "published_at": "2026-11-17T02:07:19+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "ＮＥＷＳＦＬＡＳＨ：米、AI半導体の対中輸出規制強化へ",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hc1RlVEJhaGt3Rmx2VWFITHhNb2liRFhXLVRCZFpWc25SamVXZXZPMjI5OHUwaFc1QWxMRmRaVkd5VVd1Yml1Mk9JVGdxYkIwa3dTODY5aGVSUG5FWmwtVEJnaEJudGow?oc=5",
+     "published_at": "2026-11-17T04:05:35+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "米、半導体輸出規制を強化 対中、遠隔利用の防止狙い",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FSlJOV0xoNmkzT241NmFobDFlRVdab0xaU2JHQWhDYUsyTTVHSXJEcUVoSVZhblBQMHkzUkVaeEhLcWlkVjBmU0NEa1RiRG5fRTYycTRMN0ZmTkhlb0NIN01nYmFDV1A4LWd0UGlSdlBsb3dMRHc?oc=5",
+     "published_at": "2026-11-17T00:12:43+00:00"
     },
     {
      "outlet": "産経新聞",
@@ -381,19 +809,144 @@
      "title": "米商務省、先端半導体の「迂回輸出」規制 NVIDIA疑惑に対応",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qU0xSc2dtbGQ2N1FHOU1ZQmZrWHF5V2kxMzlZSjNMbXA2bDdLMmplUV9JdWE1MGlQdGVWdnlhUWhvRjJuUzE5dWlac0xsWWxxTGhtWHB4cTZUOFl0eW04Xy1jZkktNDdDMXk4ag?oc=5",
      "published_at": "2026-11-16T19:36:30+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "アドバンテスト株価、一時5.8%安 米半導体の輸出規制強化が重荷",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EMkxIRGQ0M0Ewb245S1dXcjNvNnkyY1J6eEFYX2d0ZHBWeGdsWVhmRkV4bk1CeUxBSWJQa3lhUHhycERwUTI0aWxvdm5vcU9xODIxN185UXdYTGxsRmRoSlJ1ZC0yOGI3QWtmWg?oc=5",
+     "published_at": "2026-11-17T01:15:45+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "NYダウ、大幅反落し739ドル安 AI関連銘柄の売り膨らむ",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10SjExZjV2N1FZOHk5ck5aOWJGUHgyLXktNWU3UU9BaWN0NGVwQkdCNDk4YmY2SFcwT1FiQlF5Y08tVFdHcFliZW9ONlI2RlppSU1oQlQwYlhqTHZFWVpvaGh5RldJbDVwYzNiUw?oc=5",
+     "published_at": "2026-11-16T21:33:01+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "東証前引け 日経平均は続落、705円安 米半導体規制強化が重荷",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbHByUFMtZnhXdk5WOXlSaVdDZHhFRXpueWV3ODdQR002MHdGTXdSZWY5b3hLakNDVzgwMnhsaXVfSFJaMXRmYXJkWXFIampsd2ZBNDBaYkZBWWk5NW50TUdtTm5aOVF0TjY5Rg?oc=5",
+     "published_at": "2026-11-17T02:55:03+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "米国株、ダウ反落し739ドル安 半導体の輸出規制強化が重荷 ナスダックも続落",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Yd3ZaY2Vycmt0eFh3dm9jcEFTRXNmRU84OGN4X1otMWFoVkpycTI5QnFVR25PYXUwR1JwMUg0NGp4TVhVVkpwV1Z4bGhuOUpQTnRUbmdscVRYZWt4SGhYQlhhT19iLXMtblByNg?oc=5",
+     "published_at": "2026-11-16T21:57:26+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "米国、中国によるエヌビディア製先端AI半導体への遠隔アクセスを制限",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXa1JuLV8yOUpaSWV3R2RyZkpiamVKOWNoQU00QU1TTGVsTXNnejloY3dscmt3dHFySElVWVY3S0M5SnhBbGZDNVhEcDNyLUg5Yml3V2wtNGRNNE5UZjVwWjBqLXpUMVVPQ1R3S21aUkFRRWNf?oc=5",
+     "published_at": "2026-11-16T22:35:00+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "アメリカ商務省 先端半導体の輸出規制強化を発表 エヌビディアめぐる疑惑へ対応か",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCY0pDbzdpX1RFQ05QRDJVZVJGOUhTYWlOZEo3V21rSHVLcTQyZXhNM1o5cmE4Y3ZWdUtKTVhJNHliR2tnRGdBdzBoUWhUYjVXRjBjUmFIOV96c2ljWEl3TjBMZ0dUbVY2XzhWM1dXbzg3Rkp1?oc=5",
+     "published_at": "2026-11-17T07:48:33+00:00"
     }
    ],
-   "japan_view_ja": "日本の主要媒体は、迂回輸出や遠隔利用の防止という規則の中身を軸に、エヌビディアをめぐる疑惑への対応という背景を結びつけて伝えている。東南アジア各国の対応に焦点を当てた見出しは、今回の候補には見られない。",
-   "japan_main_checked_at": "2026-11-17T03:52:18.529157+00:00",
+   "japan_view_ja": "日本の主要媒体は、規制の内容に加え、エヌビディアを巡る疑惑への対応という文脈や、東京株・NY株の下落といった市場への影響を目立って伝えている。一方、見出しからは東南アジア各国の反応や中国の反発への言及は目立たない。",
+   "japan_main_checked_at": "2026-11-18T03:04:17.369634+00:00",
    "place_countries": [
     "US",
     "CN"
    ],
    "day": "2026-11-17",
-   "n_outlets": 7,
-   "n_countries": 6,
-   "n_independent_countries": 5,
+   "n_outlets": 10,
+   "n_countries": 9,
+   "n_independent_countries": 7,
    "n_areas": 3
+  },
+  {
+   "id": "a09c55a6-fb75-4edf-80d0-c6aad4d9e551",
+   "title_ja": "英国がヨルダン川西岸の入植地建設に関わるイスラエル企業8社を制裁",
+   "fact_ja": "英国は17日、ヨルダン川西岸の入植地の計画や建設に関わるイスラエル企業8社への制裁を発表した。",
+   "category": "外交",
+   "first_seen": "2026-11-17T13:26:46+00:00",
+   "updated_at": "2026-11-18T08:39:00+00:00",
+   "country_views": [
+    {
+     "country": "PK",
+     "view_ja": "新規建設を止める狙いだと伝え、ミリバンド外相の「入札するな、建設するな、二国家解決の破壊で利益を得るな」という呼びかけを引用している。欧州の指導者がすでに非難していることにも触れている。"
+    },
+    {
+     "country": "TH",
+     "view_ja": "入植活動に関わるイスラエル国内の個人・団体への、英国による最近の規制強化の一環として、8社への制裁を淡々と伝えている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "英国がイスラエルの現地での行動に対し強硬な方針を打ち出して以来、初めての制裁だと位置づけて伝えている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系の媒体は、二国家解決を守るための制裁だと位置づけ、入植地を「違法」と表現して伝えている。"
+    },
+    {
+     "country": "CN",
+     "view_ja": "国営・政府系の媒体は、入植地拡大に関与する8社への英国の制裁を見出しで簡潔に伝えている。"
+    }
+   ],
+   "difference_ja": "どの媒体も、8社への制裁という中心的な事実は共通して伝えている。カタールの国営・政府系媒体は入植地を「違法」と表現し、二国家解決の保護という目的を見出しに掲げている。パキスタン紙はミリバンド外相の発言を引用し、英国の媒体は今回が新方針後で初の制裁だという点に注目している。",
+   "japan_main": [
+    {
+     "outlet": "日本経済新聞",
+     "title": "英、入植地建設のイスラエル企業8社に制裁 ヨルダン川西岸巡り",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LVjN6eS1uY2dyWXRPcUZQV2NMc3BfZ1V0VFZRV0dnRXpTZWxQV0M3MTE1eWlVWURoQ0V3UkxIUUpabGZYSEhPZTdhUjhHRW5FOHI0MHMzZ28tRExYdjVvcFFwU19QOUk3bUtZUg?oc=5",
+     "published_at": "2026-11-17T14:49:46+00:00"
+    }
+   ],
+   "japan_view_ja": "日本経済新聞は、入植地建設に関わるイスラエル企業8社への英国の制裁を、各国と同様に事実中心で伝えている。見出しからは日本への影響などの独自の焦点は見えない。",
+   "japan_main_checked_at": "2026-11-18T03:04:33.927778+00:00",
+   "place_countries": [
+    "GB",
+    "IL",
+    "PS"
+   ],
+   "day": "2026-11-17",
+   "n_outlets": 5,
+   "n_countries": 5,
+   "n_independent_countries": 3,
+   "n_areas": 2
+  },
+  {
+   "id": "c62580a6-316d-412f-8187-c742dfd6a998",
+   "title_ja": "イスラエル首相府の選挙介入疑惑に野党が調査を要求",
+   "fact_ja": "ネタニヤフ首相の事務所がアラブ系政党のメンバーを陥れようとしたとの報道を受け、イスラエルの野党が「クーデター未遂」と非難して調査を求めている。アラブ系政党による票の買収疑惑は根拠がないと判明している。",
+   "category": "政治",
+   "first_seen": "2026-11-16T15:03:00+00:00",
+   "updated_at": "2026-11-17T23:53:11+00:00",
+   "country_views": [
+    {
+     "country": "DE",
+     "view_ja": "独立した媒体のtazは野党の「クーデター未遂」批判と、票買収の主張が根拠なしと判明した点を伝えている。Die Weltは調査報道を踏まえ、首相府の職員が警察を意図的に欺いたのかという疑惑に焦点を当てている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系の媒体は、野党が首相府によるアラブ系政党への罠の試みを「クーデター」と呼び、調査を求めていることを簡潔に伝えている。"
+    },
+    {
+     "country": "PK",
+     "view_ja": "独立した媒体のDawnは、野党指導者らの非難に加え、釈放された3人や、司法長官がシン・ベトによる合同リスト幹部への盗聴要請を退けたことなど、経緯を詳しく伝えている。"
+    },
+    {
+     "country": "FR",
+     "view_ja": "独立した媒体のLe Mondeは、選挙から3週間たっても「大規模な不正」の具体的証拠がなく、警察とシン・ベトが首相側に利するよう動いたと批判されている点に焦点を当てている。"
+    }
+   ],
+   "difference_ja": "野党の非難を軸に据える点は各媒体で共通している。Dawnは司法長官の判断など手続きの詳細を、Le Mondeは警察と国内治安機関の役割を、Die Weltは首相府職員が警察を欺いたかという点を重視している。強い言葉の「クーデター」は、見出しでAl JazeeraとDawnが野党の主張として引用している。",
+   "japan_main": [],
+   "japan_view_ja": "",
+   "japan_main_checked_at": "2026-11-18T03:04:51.649514+00:00",
+   "place_countries": [
+    "IL"
+   ],
+   "day": "2026-11-17",
+   "n_outlets": 5,
+   "n_countries": 4,
+   "n_independent_countries": 3,
+   "n_areas": 2
   },
   {
    "id": "9762faa0-eec8-420c-9b4c-aa907e1903b8",
@@ -468,92 +1021,249 @@
    "n_areas": 2
   },
   {
-   "id": "4cc5b2ef-cd65-4b78-a0ad-01d6bb77e920",
-   "title_ja": "米連邦地裁判事、留学生・記者の滞在期間を制限する新ビザ規則を無効と判断",
-   "fact_ja": "米連邦地裁のデニス・セイラー判事は16日(月)、外国人留学生や記者の滞在・就労期間を従来より厳しく制限するトランプ政権の政策を無効とした。判事は、この政策は恣意的で裁量の濫用にあたり、法にも沿わないと述べた。",
+   "id": "1a9dd4f4-1819-4071-98da-95d9580ab579",
+   "title_ja": "EU5カ国がルワンダに送還拠点を設ける計画を発表",
+   "fact_ja": "ドイツ、オーストリア、オランダ、ギリシャ、デンマークの5カ国が、欧州に滞在資格のない人や難民申請を退けられた人を送る「リターン・ハブ」をルワンダに設ける計画を11月16日に発表した。開設は2027年が見込まれ、人権団体が懸念を示している。",
    "category": "政治",
-   "first_seen": "2026-11-16T21:11:53+00:00",
-   "updated_at": "2026-11-16T22:23:00+00:00",
+   "first_seen": "2026-11-16T05:36:50+00:00",
+   "updated_at": "2026-11-17T19:45:00+00:00",
    "country_views": [
     {
-     "country": "FR",
-     "view_ja": "ルモンドは、判事の命令文にある「恣意的で気まぐれ、裁量の濫用」という厳しい表現を引用し、司法判断の中身を中心に伝えている。"
-    },
-    {
-     "country": "TH",
-     "view_ja": "バンコク・ポストは、トランプ政権が導入しようとした、留学生や記者の滞在・就労期間をより厳しく制限する政策を連邦判事が無効にした、という事実を簡潔に伝えている。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "ストレーツ・タイムズは、新規則で留学生の滞在が4年に制限される点を示し、規則の具体的な内容に触れている。"
-    }
-   ],
-   "difference_ja": "いずれの媒体も判決の事実を淡々と伝えており、大きな違いは見られない。ルモンドは判事の言葉を引用して判断理由を示し、バンコク・ポストは政策の影響を受ける対象を説明し、ストレーツ・タイムズは4年という具体的な期限を挙げている。",
-   "japan_main": [],
-   "japan_view_ja": "",
-   "japan_main_checked_at": "2026-11-17T03:52:52.688594+00:00",
-   "place_countries": [
-    "US"
-   ],
-   "day": "2026-11-17",
-   "n_outlets": 3,
-   "n_countries": 3,
-   "n_independent_countries": 3,
-   "n_areas": 2
-  },
-  {
-   "id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f",
-   "title_ja": "米全土の離陸停止命令で航空混乱が続く",
-   "fact_ja": "米国で13日(金)に出された全土の離陸停止命令の影響で、日曜も約1,900〜2,000便が欠航し、混乱は3日目に入った。政権側は正常化が月曜にずれ込むと説明し、トランプ大統領は前任のバイデン政権を批判した。",
-   "category": "社会",
-   "first_seen": "2026-11-15T15:42:00+00:00",
-   "updated_at": "2026-11-17T00:16:01+00:00",
-   "country_views": [
-    {
-     "country": "SG",
-     "view_ja": "独立系のストレーツ・タイムズは、ダフィー運輸長官の正常化見通しや、その後の経済的影響の試算、資金をめぐる対立を伝えている。国営・政府系のCNAは、さらに約1,900便が欠航して回復が月曜にずれ込む点と、3日間の混乱後に平常化が見込まれる点を伝えている。"
-    },
-    {
-     "country": "TH",
-     "view_ja": "バンコク・ポストは、政権が混乱がさらに1日続き得ると警告し、正常化の時期が後ろにずれたことを淡々と伝えている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "朝鮮日報は、トランプ氏がバイデン前政権に責任を転嫁し、管制システムの全面刷新と議会への予算支援を求めた点を伝えている。また累計欠航が1万7000便を超え、9・11以降で最長の離陸停止だとし、政権が500億ドルを議会に求めている点にも触れている。"
-    },
-    {
-     "country": "PK",
-     "view_ja": "ドーンは、政権が混乱の長期化を警告したことに加え、技術力を誇る世界最大の経済大国でなぜこうした混乱が起きたのかという疑問が残っている点を伝えている。"
-    },
-    {
-     "country": "RU",
-     "view_ja": "国営・政府系のタス通信は、トランプ氏が前政権を、既に老朽化し壊れていた制度をさらに悪化させたと非難した点を伝えている。さらにCNNを引用し、FBIが機器を押収して事案の状況を再現する方針だと報じている。"
+     "country": "DE",
+     "view_ja": "独立した媒体が政策の中身、ルワンダの人権状況、連立内の批判、抑止効果、既存の受け入れ施設の実情まで多面的に報じている。論評では是非が割れ、評価する見方と「obszöner Deal」と批判する見方がある。"
     },
     {
      "country": "FR",
-     "view_ja": "ルモンドは、約2,000便の欠航と、これまで沈黙していたトランプ氏がバイデン前大統領に責任を負わせた点を中心に伝えている。"
+     "view_ja": "独立した媒体が5カ国の発表を伝え、人権団体の懸念を添えつつ、欧州の移民政策の転換を示すものと位置づけている。"
     },
     {
-     "country": "CN",
-     "view_ja": "国営・政府系のCGTNは、ダフィー運輸長官がNBCで、混乱は「今日か明日の終わり」までに収まると述べたことを伝えている。"
+     "country": "US",
+     "view_ja": "独立した媒体が、5カ国が拒否された難民申請者の拠点を作ろうとしている点を、「知っておくべきこと」として整理している。"
     },
     {
-     "country": "AU",
-     "view_ja": "ABCは、トランプ氏がバイデン政権から混乱を引き継いだと主張し、管制システム更新の資金を議会に承認するよう求めた点に焦点を当てている。"
+     "country": "SG",
+     "view_ja": "独立した媒体は、移民が帰国・定住・他国への移動を選べる施設という計画の仕組みを伝えている。国営・政府系の媒体は、滞在資格のない移民の送還を円滑にするための合意として淡々と報じている。"
     },
     {
-     "country": "GB",
-     "view_ja": "BBCは、数千便が欠航・遅延し、運輸長官が通常運航の回復は月曜になる可能性があると述べた点を伝えている。"
+     "country": "HK",
+     "view_ja": "独立した媒体が、人権団体が弱い立場の人々が虐待の危険にさらされると非難している点を前面に出しつつ、ルワンダとの交渉が続いていることも伝えている。"
     },
     {
      "country": "QA",
-     "view_ja": "国営・政府系のアルジャジーラは、離陸停止で航空会社に数億ドル規模の損失が出得る点と、航空会社幹部がFAAシステム近代化を支持し、長官が議会に500億ドルを求めている点を伝えている。"
+     "view_ja": "国営・政府系の媒体は、5カ国の発表に加え、47の支援団体・労組・人権団体が計画の撤回を求める共同声明を出したことを伝えている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "独立した媒体が計画を発表として伝え、法的な異議申し立てが予想されることや「重大な道義的失敗」との批判を紹介している。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "独立した媒体が、難民の流入を受けてEU5カ国がルワンダに送還施設を作って追放する、という流れで見出しにしている。"
+    },
+    {
+     "country": "TH",
+     "view_ja": "独立した媒体が、国連や人権団体の懸念にもかかわらず、施設がルワンダの首都に置かれるとルワンダ政府筋がAFPに述べたことを伝えている。"
     }
    ],
-   "difference_ja": "多くの媒体は欠航数と正常化の見通しを淡々と伝えている。一方、韓国、フランス、オーストラリア、ロシアはトランプ氏の前政権批判を前面に出している。韓国やカタールは、管制システム刷新の費用や議会への500億ドルの要求といった資金面にも触れている。ロシアの国営・政府系媒体は、FBIによる機器押収という別の側面を伝えている。",
-   "japan_main": [],
-   "japan_view_ja": "",
-   "japan_main_checked_at": "2026-11-17T03:53:11.364090+00:00",
+   "difference_ja": "ドイツの媒体は国内の当事者として、連立内の批判、抑止効果、ルワンダの人権状況、論評での賛否など幅広く扱っている。英語圏や香港、カタールの媒体は人権団体の批判や法的課題を目立たせ、仏・米・シンガポールの媒体は計画の概要を中心に伝えている。タイの媒体はルワンダ政府筋の情報を載せ、韓国の媒体は難民流入を背景に置いた見出しにしている。",
+   "japan_main": [
+    {
+     "outlet": "朝日新聞",
+     "title": "独など欧州5カ国、不法移民のルワンダ移送計画発表 人権団体は批判",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DbVZOa3dYZkRyNlhJbUNGTkNKd1NKVVo5WGwxN0dnTnVsNllBcW5WdkY1ci02N3luWlJvR0pFeG0yc0VuZ3dmV3BNUDhva0tJOUpFVnJVa1l5RUdfellmZHBYNlN1TUE?oc=5",
+     "published_at": "2026-11-17T10:18:36+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "欧州5カ国の移民 ルワンダ送還へ 独など拠点設置計画 人権団体 「弱い立場の人々にとってリスク」",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Nd2wwVWIyVC00M0FYNFdQWnZIajZVZGhZanZaQTAzZUcxSG9QVHBWd0xVUFlFWFFXV18xS2pzZlRMX2N5REY3T3VTeDBqWG5pZGkyTVBlVDI4NENWNm4tS3paeERjQmsy?oc=5",
+     "published_at": "2026-11-17T17:01:23+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "欧州5カ国、移民送還拠点をルワンダに設置へ 背景に反移民感情",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oLUVEYlQzd2piVzNxeDNzU292bUZRd0RpU0k2Q19nUmZBeUVDR1Y5WE9MTk5heUprdURsS3REVUhzeDhJSlRKSkdKeGhubnBRd3lEbGdTTC1QN2RTNTk1UGh0QjRUSjZw?oc=5",
+     "published_at": "2026-11-17T01:05:51+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "ＮＥＷＳＦＬＡＳＨ：欧州移民送還拠点 ルワンダに設置へ",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bm1EQ0NRVWVMSVpSZFg1VW15bEs1czM0QTBEMTlnSW5zLVQyX3ZkbmJIQVZXTndNLTJTdnBXWm1aQ3JHbXR6UE02RnlhRkRlLU04aEgzbnMxQlpiN3RZcnk3NERfUGc5?oc=5",
+     "published_at": "2026-11-17T04:05:36+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "ドイツなど欧州5カ国、ルワンダに不法移民の送還拠点を設置へ",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DTHA5LURrR2RoeE1YRnpldFRFdDE5NWVLRGtMOFM5MEZVVzJrLTMxMVU4X2FaUWRwM1hRbUZGdnU5bFVrRExmRHZtRzc1YmFKNFpoQzg5SGNDWHZMWWZ4cGhFRU9KZkRnQndOZg?oc=5",
+     "published_at": "2026-11-17T16:27:09+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "欧州5か国とルワンダ、不法移民の強制送還推進へ拠点施設の開設計画を発表",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tZU5ySlg0Q3FqSmpIb1VjdTRvcFk5c3ZfcklObklBTFRLY2pNQTRVdmxURVdkMXI1MlNYcHlRSGR2SlJXd3pvS2F2ek1WdVd5TnFpOGFPWms5T2gyRnVRSnRIZUdCZUZiLWp2NHVuYkFOQ0Yt?oc=5",
+     "published_at": "2026-11-17T11:16:21+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "欧州5か国とルワンダ、不法移民の強制送還推進へ拠点施設の開設計画を発表",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VTHhVWEFMbVRDM1BYeVdmUUpsZmh2dnBUX1NwRVRjVmlRWWE2al81Q0I2V2drN3RuYThQNVFKczFxZGQwVFQ3S2VlaGdzV3ExejhFa25MYjF4YXFXNUVweHRxdHE?oc=5",
+     "published_at": "2026-11-17T11:16:21+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の媒体は、5カ国の計画発表と人権団体の批判を軸に伝え、一部は背景に反移民感情があると触れている。ドイツ国内の論争や連立内の批判、ルワンダ側の事情といった細部は、見出しからは見えない。",
+   "japan_main_checked_at": "2026-11-18T03:05:24.212572+00:00",
+   "place_countries": [
+    "DE",
+    "AT",
+    "NL",
+    "GR",
+    "DK",
+    "RW"
+   ],
+   "day": "2026-11-16",
+   "n_outlets": 15,
+   "n_countries": 9,
+   "n_independent_countries": 8,
+   "n_areas": 3
+  },
+  {
+   "id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f",
+   "title_ja": "米全土の離陸停止命令で航空混乱が3日目に続く",
+   "fact_ja": "米国で13日(金)に出された全土の離陸停止命令の影響で、日曜も約1,900〜2,000便が欠航し、混乱は3日目に入った。政権側は正常化が月曜にずれ込むと説明し、トランプ大統領は前任のバイデン政権を批判した。",
+   "category": "社会",
+   "first_seen": "2026-11-15T15:42:00+00:00",
+   "updated_at": "2026-11-17T23:49:35+00:00",
+   "country_views": [
+    {
+     "country": "SG",
+     "view_ja": "独立した媒体のストレーツ・タイムズは、運輸長官の正常化見通しに加え、その後の経済的損失の試算、ユナイテッド航空の一時停止、機器設置の停止など復旧と資金をめぐる動きを追っている。国営・政府系のCNAは、欠航が続き全面復旧が月曜にずれ込む点と、空港が平常に戻る見通しを伝えている。"
+    },
+    {
+     "country": "TH",
+     "view_ja": "バンコク・ポストは、政権が離陸停止命令による混乱がさらに1日続き得ると述べ、正常化の時期が後ろにずれたと淡々と伝えている。"
+    },
+    {
+     "country": "KR",
+     "view_ja": "朝鮮日報は、トランプ氏が初めて見解を示してバイデン前政権に責任を転嫁し、管制システム全面交換のため議会に追加予算を求めたことを報じている。累計欠航が1万7000便を超え、9・11以降で最長の離陸中断とも伝えている。"
+    },
+    {
+     "country": "PK",
+     "view_ja": "ドーンは、混乱が続く見通しと数百便の追加欠航に加え、技術大国でなぜこうした事態が起きたのかという疑問が残っている点を伝えている。"
+    },
+    {
+     "country": "RU",
+     "view_ja": "国営・政府系のタス通信は、トランプ氏が前政権が老朽化した航空システムをさらに悪化させたと非難した点を中心に伝え、後には連邦捜査局(FBI)が機器を押収したとのCNN報道を紹介している。"
+    },
+    {
+     "country": "FR",
+     "view_ja": "ル・モンドは、ほぼ2,000便が追加で欠航したことと、トランプ氏が異例の沈黙を破って前任のバイデン氏に責任を負わせたことを伝えている。"
+    },
+    {
+     "country": "CN",
+     "view_ja": "国営・政府系のCGTNは、運輸長官がNBCの取材に、混乱は「今日か明日の終わり」までに収まると述べたことを見出しで伝えている。"
+    },
+    {
+     "country": "AU",
+     "view_ja": "ABC(豪)は、トランプ氏が前政権から混乱を引き継いだと主張し、老朽化した管制システムの更新に議会の予算承認が必要だと訴えた点に焦点を当てている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "BBCは、全土での運航停止から2日後も数千便が欠航・遅延しており、運輸長官が通常運航の回復は月曜になる可能性があると述べたことを伝えている。"
+    },
+    {
+     "country": "QA",
+     "view_ja": "国営・政府系のアルジャジーラは、全土の離陸停止が航空会社に数億ドルの損失を与え得る点と、運輸長官が議会に500億ドルを求め、航空各社の幹部がFAAのシステム近代化を支持している点を中心に伝えている。"
+    }
+   ],
+   "difference_ja": "多くの媒体は欠航の規模と正常化の遅れを基本に伝えているが、焦点は分かれる。トランプ氏のバイデン前政権批判を前面に出したのは朝鮮日報、タス、ABC(豪)、ル・モンドで、アルジャジーラやストレーツ・タイムズは経済的損失や資金・予算の問題へ進んでいる。国営・政府系ではCGTNが運輸長官の収束見通しを、タスがトランプ氏の批判を取り上げている。",
+   "japan_main": [
+    {
+     "outlet": "朝日新聞",
+     "title": "全米の空港で全便が一時離陸停止 7千便以上欠航、日本にも一部影響",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yOHNtVmphOGpwTnVOb1dxdVhkNXQ1TzJzcnVHLXBvc2RFODI1a1VYSFRqY0ZTZ18zRU9FcUlIOWxuX3hXbXJTTlVmb1U2ZTNta09lNEYxLWhPRm1rZXlHQ0Q2bXlYTXc?oc=5",
+     "published_at": "2026-11-13T22:06:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "アメリカの全空港「管制施設の通信システム障害」で離陸停止措置、４時間後に通信復旧し運航再開",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRGhnNnUwVllrVlRLR0xfcVlXZW9jZURlbzRVV3VraGlpZmgzX1dPeDlDNm0zc2pucGcwOF9raWRSZndoUmR1UFhsZGpfRk01YW1nUEhHQ0k3Rk5nSEpXOGVR?oc=5",
+     "published_at": "2026-11-14T02:02:00+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "全米空港で離陸停止措置、計１万６０００便が遅延・欠航…国土安全保障長官「現時点でサイバー攻撃示す証拠ない」",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XbTJmUjFpdHVhNEx6djF5eHBEbWw2aXhtVGtnRDJaUG9GeXNXWXNXLU1DWG9UZ1pIUXdYdEdvMFRDNjVvWms5RDBfbHhIanRHa0xCbFEyckozVHpIMTBGb0tR?oc=5",
+     "published_at": "2026-11-14T12:39:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "14日も1万3000便超が欠航・遅延 全米の空港混乱なお続く",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wVmNzYm5tOE9QWEY1SXF1UkJGSjc5U2Z6aXBEYWNWQlN1NTNpY1BJMm5UOUZEUDlMaEpob2xjY1NiZWFQbHhwaE1XNEtRQnNjekR1dFVQek9JaHNVODV3N2RSaG1BZGVw?oc=5",
+     "published_at": "2026-11-15T02:34:03+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "全米の空港で離陸4時間超停止 通信障害、6600便以上が欠航",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNczBmbWg4TTNnYVUtQzBpNXBWQkU5d0EwRTh5a2xrTHVSblJqdVRmNmdLWDUtTDhQTUFUc2JPc0l4RVhsbmk4VF9CT3ZMUHhLa1A2Uzc2N1psUzZncVc4ZEVuR1JYbXVsUXFydA?oc=5",
+     "published_at": "2026-11-13T21:45:20+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "全米の空港で離陸停止、L3ハリスの機材が原因の可能性 当局が指摘",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PaUdqWkhWX0RhR0lraEtld21zSFVoN243dlQtcmZZOXZoMzV4VkhGbGlMLXctVzB2M0huaG1XUGFPUW1fSEVHTjlBd2V4bUtkQlJLZ1NuS2xtT0V0bE9rSUlfTHFsY211U1FsQw?oc=5",
+     "published_at": "2026-11-16T20:01:23+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "全米空港の離陸停止、老朽化更新があだ 航空大手「資金足りない」",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xYmRJeENYWGYwY1dYM3NLRS1Wcm0zd3BIRmx5bXowWkp4Tm10eERTZXFVZUtPMHljeTg4ZXpSeDI1ekVKU1kyWmgyZ0NSSmZBSHA0ZFZLcUFqRjV4ZDNDV0xDX1lGX3ZmWEV3Vw?oc=5",
+     "published_at": "2026-11-17T21:10:35+00:00"
+    },
+    {
+     "outlet": "日本テレビ",
+     "title": "【中継】全米の空港で大規模通信障害 航空機の地上待機命令…解除される 1万4000便超が遅延・欠航（2026年11月13日掲載）",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzlLTElrX2xXSVRGdmllVXY0STFRZGNScDlqMmRLWEMzZVdyVVZOckFpeHl3REhiRUFOSGdrYWh2a1IwYWhFa1JJVnlPQm9waXcwUFFndm4tbGhYM3hIRm91ekc3U2JDcTcyTTR6TlVNVEN6SXltR1BVS3BrU00tZ2NrVm0?oc=5",
+     "published_at": "2026-11-14T03:02:01+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "米航空便の混乱続く、4時間超の離陸停止余波－老朽設備の弱点あらわ",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4VG04WG84WVZseFdkdzd5UVZVNmhlZXZJRmFCODNwTVBSQml1OUdCaTRFdXhYdGNsaUw2YlN6d2lROTRHOE04X3dRd1VVSHJtSUZNUkdrSDl2LUlHSkxlamVtbEVoOXM?oc=5",
+     "published_at": "2026-11-14T01:44:31+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "米国で空の混乱続く、15日も1600便超欠航－全米運航停止の影響残る",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkS2tON1JlLVlZV3hBcHNJZEE4Mk9vSmVtbFI1QzdaVU9qMlQ0dmhTeU44SVdGaDJIVElIUXZlMDNLRVVBeF9oUVZZdnNDa0ZMa2VuWnkzTG0tM3kzaUNjUlFGN09iVW8?oc=5",
+     "published_at": "2026-11-15T19:00:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【速報】アメリカ国内の航空機全便で離陸停止命令 通信障害の影響か 米連邦航空局",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mczNHdUxZSUVISE1NOGVaY2JGdmpadGo2YXNmdXJVRGZvcXlkZjlYX0RpemR5NTY1Sk1QNTFDWXNKekU1dGl6b3pIRDVKdk9NOFpkUS10SUgzZnJfNE9CSmE2cDF5cXVuVkxaR3VKcWpvUXZvbGxnWEtB?oc=5",
+     "published_at": "2026-11-13T21:45:29+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【速報】アメリカ国内の航空機全便に出していた離陸停止命令を解除 米運輸長官",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WUWlNZWtfbnUtNTF6andDS3pJUFRNbEx1S2lYNDlrOEpOeTN6WVhNMGItc0x6dzBrd1U1aUpZRDdqNVdKeUQ4R1ViSDJ5cE5aNC1yQkdWdC1oTXNqWDFZUEU3eWVyTFVCMFNGTnlCUVVpcmZ0ZVdwNHVn?oc=5",
+     "published_at": "2026-11-14T01:52:36+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "【まとめ】全米の空港で1万便超が欠航・遅延 航空機の地上待機命令は解除も混乱続く…運輸長官「レーダーと通信に不安定な状態発生」「管制システム老朽化でルーターに負荷」",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IWVBzWFhvVGJwZVRtZkFIVXQ2UjJacXQ5eGFzV1JCZk56SjB4QXo4c2xkcGYzSWdIX3QxTEVVLU9xOXkzWDcxbDdLR1F1T3hyLUIyLTFOMW1aZV9KLVZzLU90eVA0ckwwMmVadTZaOGhKSDVTeHRWTUlR?oc=5",
+     "published_at": "2026-11-15T00:00:00+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "航空機の地上待機命令は解除 全米の空港 約7000便欠航",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wb1pvVFloLVBHOVUxVWV2N1JpMkswYVU2RXFCZ3JHdkVvenh6ZTZNNkJvOTVBVklQUUFRM0l3a251S0lIaURnNnJPM0dVMXpJZVFGQnNRaUdFZlRXVzNodjBzOVdONS1OZVFaeFpwckJMWHhYV2F1U0x3?oc=5",
+     "published_at": "2026-11-14T03:04:27+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体は、離陸停止命令の発生直後から欠航・遅延の便数、通信障害という原因、管制システムの老朽化を中心に伝えている。朝日が日本への一部影響に触れた一方、見出しからはトランプ氏の前政権批判に焦点を当てたものは確認できない。",
+   "japan_main_checked_at": "2026-11-18T03:05:51.762012+00:00",
    "place_countries": [
     "US"
    ],
@@ -623,109 +1333,111 @@
    "n_areas": 2
   },
   {
-   "id": "1a9dd4f4-1819-4071-98da-95d9580ab579",
-   "title_ja": "EU5カ国がルワンダに送還拠点を設ける計画を発表",
-   "fact_ja": "ドイツ、オーストリア、オランダ、ギリシャ、デンマークの5カ国が、欧州に滞在資格のない人や難民申請を退けられた人を送るための「リターン・ハブ」をルワンダに設ける計画を11月16日に発表した。開設は2027年が見込まれ、人権団体が懸念を示している。",
-   "category": "政治",
-   "first_seen": "2026-11-16T05:36:50+00:00",
-   "updated_at": "2026-11-17T03:22:06+00:00",
+   "id": "8d5196c8-f635-44f4-87fb-a37100c40d30",
+   "title_ja": "イランがバーレーンの米軍基地をドローンで再び攻撃",
+   "fact_ja": "イランが日曜、バーレーンの米軍基地をドローンで攻撃した。数日で2度目で、約2カ月の中断後の再開にあたり、米イラン間の和平協議への疑念が強まっている。",
+   "category": "紛争・安全保障",
+   "first_seen": "2026-11-15T15:55:09+00:00",
+   "updated_at": "2026-11-18T09:29:00+00:00",
    "country_views": [
     {
+     "country": "US",
+     "view_ja": "ニューヨーク・タイムズは、2カ月の小康状態の後に攻撃が再開されたことと、米イランの和平協議が停滞して見えることを中心に伝えている。"
+    },
+    {
+     "country": "GB",
+     "view_ja": "ガーディアンは、攻撃が和平協議への疑念と事態拡大の危険を強めた点を伝えた。サウジアラビア、カタール、ヨルダン、エジプトがバーレーンへの連帯を示して非難した動きも詳しく載せている。"
+    },
+    {
      "country": "DE",
-     "view_ja": "ドイツの媒体は計画の中身と国内政治に重点を置く。ドブリント内相の動きや連立内の批判、ルワンダの人権状況を報じ、社説・論評では賛否が分かれる。"
+     "view_ja": "taz は、ホルムズ海峡でタンカー2隻が機雷に触れたことと並べ、ペルシャ湾の緊張が再び高まったと伝えている。FAZ は後日、米軍がイランのゲシュム島を攻撃したことと、トランプ氏が脅威を深刻に受け止めると述べたことを伝えた。"
+    },
+    {
+     "country": "CN",
+     "view_ja": "国営・政府系の CGTN は、米当局者が米軍に被害はなかったと述べたことや、バーレーン当局の声明を短報で次々と伝えている。バーレーン側が「犯罪的な攻撃」と呼んだ表現も、そのまま載せている。"
+    },
+    {
+     "country": "HK",
+     "view_ja": "サウスチャイナ・モーニング・ポストは、バーレーンへのドローン攻撃に米軍がイランのミサイル発射拠点への攻撃で応じた経緯を軸に伝えている。約9カ月に及ぶ戦争の終結の難しさや、オマーンとカタールの仲介が続いていることにも触れている。"
     },
     {
      "country": "FR",
-     "view_ja": "ル・モンドは5カ国の発表を、人権団体の懸念を添えて伝える。欧州の移民政策の転換を示す動きとも位置づけている。"
-    },
-    {
-     "country": "US",
-     "view_ja": "ニューヨーク・タイムズは5カ国が拠点設置を目指すと伝え、取り組みの要点を解説する形をとる。"
+     "view_ja": "ル・モンドは、イラン革命防衛隊が米軍運用のレーダー施設を狙ったと主張したことを簡潔に伝えている。"
     },
     {
      "country": "SG",
-     "view_ja": "ストレーツ・タイムズは、移民が帰国・定住・第三国行きを選べる拠点という仕組みを説明する。国営・政府系のCNAは、5カ国が合意したと事実を簡潔に伝える。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "サウスチャイナ・モーニング・ポストは、ルワンダとの交渉が続く段階であることや、弱い立場の人が虐待を受ける恐れがあるとする人権団体の非難を前面に出す。"
-    },
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系のアルジャジーラは、援助団体や労組、人権団体47団体が計画の撤回を求める共同声明を取り上げ、批判の声を重く扱う。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "BBCは計画の発表を簡潔に伝える。ガーディアンは法的な異議申し立てが予想されることや、「重大な道徳的失敗」との批判を強調する。"
+     "view_ja": "ストレーツ・タイムズは、バーレーン国防軍が防空網でイランの攻撃を迎撃したと発表したことと、イランの「組織的な敵対的姿勢」を非難したことを伝えている。"
     }
    ],
-   "difference_ja": "ドイツの媒体は国内の政策や政治の文脈で論じ、賛否の論評も並ぶ。英語圏や香港の媒体は人権団体の批判や法的課題に重きを置き、米・シンガポールの一部は仕組みの説明が中心だった。国営・政府系のCNAは事実を簡潔に伝え、アルジャジーラは反対声明を前面に出している。",
-   "japan_main": [],
-   "japan_view_ja": "",
-   "japan_main_checked_at": "2026-11-17T03:53:54.636248+00:00",
+   "difference_ja": "米英は攻撃再開が和平協議に与える影響に注目し、英国は湾岸諸国の非難の声も大きく扱った。独仏とシンガポールは、タンカーの機雷被害、イラン側の主張、バーレーンの迎撃発表など、それぞれ別の側面を伝えた。国営・政府系の CGTN は被害の有無やバーレーン当局の声明を短く並べ、協議の行方には触れていない。",
+   "japan_main": [
+    {
+     "outlet": "NHK",
+     "title": "イラン“米軍のレーダー施設攻撃” ホルムズ海峡で緊張続く",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raE5fN0VoUV9qbGQtX3hrTlRleVh4RHlFeFBRVkVibkRuc292U25MVHN3clJPeHJlbHRPdDQzS1R2NzFpSDZQUEZxbGlJOVo0dGlBMVhybWtoNXlZYlRB?oc=5",
+     "published_at": "2026-11-15T09:36:00+00:00"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "イランがバーレーンの米軍施設を攻撃 湾岸諸国が2カ月ぶり標的に",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSnZDMGRrWW0wdTZOVUcwLVhGT0l3SE9YWFJRblpHYllCaXRMNHZuSWJwZFBhUC0tb0ViMG1YUUlhX2hIS2dXZ0NTekt0Zldldy11YjRBNFRsUmdiQmJUQWlMd3h0RGM?oc=5",
+     "published_at": "2026-11-15T11:32:32+00:00"
+    },
+    {
+     "outlet": "読売新聞",
+     "title": "イラン革命防衛隊、バーレーンにある米軍防空レーダーを攻撃…米軍は発表せず",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93SjNybUU3c29sRW9BVDE0OC1Qb0JnWnNsdkdCUTJlUDZpYzA5WE9fWXNKRjUtZ1ZFZGhOSXlnV0J2QjBIYThNVGZZWkNMcEN3NHZpVUNVVWxsN2NLaWN1ZTRB?oc=5",
+     "published_at": "2026-11-15T09:43:00+00:00"
+    },
+    {
+     "outlet": "毎日新聞",
+     "title": "イラン「第2段階の報復」 バーレーンの米防空レーダーを攻撃",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sNFhleGxQSmFHQjJEeUhLVnVSSkMwT2tMekFSNlZmbE1jdERJYUFaeG5SYkFQX19aUHRyN2ZVR1ZCaV9vV3B3X202azV5YUp4SDgtbDQyRDd6VklkRy1SM1lnMkMtU1RQ?oc=5",
+     "published_at": "2026-11-15T22:31:00+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "イラン革命防衛隊、バーレーンの米軍防空施設攻撃 南部攻撃への報復か",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PWFNTNEE3bWp5LUZqOFNtVWgzLWNkWHVKUzNqWTdDLVRTTXQtMW84UEVLNVdLQmlRQ3liWWZ6bmNWSURaMGdGMkRMZ3BfeDU4MFZ3clNMdlVmc0tPYm12dFdXNHJJcEdXNmZ1akF3UFJ5Q29SLWc?oc=5",
+     "published_at": "2026-11-15T08:02:38+00:00"
+    },
+    {
+     "outlet": "産経新聞",
+     "title": "イラン革命防衛隊、バーレーンの米軍防空施設攻撃 南部攻撃への報復か（写真・画像 1/1）",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnU2YW5aZ2RYLS03TmJmNC1UWEl6T0FtREtDVUloTlc5WUpQUXBrYXVrdWZmRUJQQWJKYmg5Nm9GeUpEaW1FdWxPQ1NPTXJvMzRxN2g1V1NsNFdjdmZBclR4Xzh0QVAyMkZnWTM0YnFRUEpiMURnNUc5MFR6eklia1dnWDZvak51Wlh5enFFYWgyelh0RGUwTU1LRjZuelRiUlE?oc=5",
+     "published_at": "2026-11-15T08:02:38+00:00"
+    },
+    {
+     "outlet": "日本経済新聞",
+     "title": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZmZDTGxfeWxPa1RfUzM0b0xsMUJBLWlmM3pIZUhoSDJnQ2xFZmxITGtMOEdrRThEUXRDZUJ6eldETmRBbmlocmpjYWl3U0NnUW5WMVdObnllQXppcWpKU3VLUmpoOHJtbUNEZQ?oc=5",
+     "published_at": "2026-11-15T07:34:16+00:00"
+    },
+    {
+     "outlet": "TBS",
+     "title": "イラン革命防衛隊 “バーレーンにある米軍の防空レーダー攻撃” 声明で発表",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyQ0hsMlNMelF4MkVlRHBKOXhsSGVRenVZbDhucVR5ZGpESVgzdFAwVTAxemQ3a3p6SksyNFpvaVVGM0FhWFk1eU9xMTg3dUdMSFZ3d3pkbXc5dXN1YjlWWmIwdjB0Vms5cm5qZ2doZWVDVkhH?oc=5",
+     "published_at": "2026-11-15T08:38:31+00:00"
+    },
+    {
+     "outlet": "テレビ朝日",
+     "title": "イランがバーレーンの米軍施設攻撃 ホルムズ海峡の敵対行為にドローンで報復と主張",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EbnZ2Z1NhalBOTkFQR29mYmZFamZVVkF2NjFwU1dubnRjaGFZeHllVUhtWGFyYnJxSUZ4Vlk5dnY2T3RTRXdMektGS05wemF4M1RrTkZ6WmZkLWtvcEZZSUo5bTJKVGdVckowRklZWi1CT25tN3V1MFdn?oc=5",
+     "published_at": "2026-11-15T06:05:56+00:00"
+    }
+   ],
+   "japan_view_ja": "日本の主要媒体は、革命防衛隊が米軍の防空レーダー施設を攻撃したと発表したことや、その「報復」という位置づけを中心に伝えている。海外メディアが重視した和平協議への影響や湾岸諸国の反応は、見出しからは目立たない。",
+   "japan_main_checked_at": "2026-11-18T03:06:21.015118+00:00",
    "place_countries": [
-    "RW",
-    "DE",
-    "AT",
-    "NL",
-    "GR",
-    "DK"
+    "IR",
+    "BH",
+    "US"
    ],
    "day": "2026-11-16",
-   "n_outlets": 13,
+   "n_outlets": 8,
    "n_countries": 7,
    "n_independent_countries": 6,
    "n_areas": 3
-  },
-  {
-   "id": "c32c9312-2573-4cb0-a038-da18bb5f2c38",
-   "title_ja": "プラハで公共放送の受信料廃止と国費化に反対する大規模集会",
-   "fact_ja": "プラハで日曜に数十万人が、バビシュ政権による公共放送の財源を受信料から国家予算に切り替える計画に抗議して集会を開いた。批判する側は報道の自由への脅威だと見ている。",
-   "category": "政治",
-   "first_seen": "2026-11-15T15:59:27+00:00",
-   "updated_at": "2026-11-16T14:25:44+00:00",
-   "country_views": [
-    {
-     "country": "DE",
-     "view_ja": "FAZ、南ドイツ新聞、tazとも大規模デモを伝え、メディアの独立への懸念を軸にする。南ドイツ新聞は「1989年以来最大の抗議」とし、ウクライナ支援不足への不満や、政権がなだめようとしている点にも触れる。FAZは政権が譲らない姿勢と、運動の具体的要求を伝える。"
-    },
-    {
-     "country": "TH",
-     "view_ja": "バンコク・ポストは通信社型の記事で、数十万人の集会と、報道の自由への脅威という批判側の見方を簡潔に伝える。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "国営・政府系のCNAは、数十万人規模の集会と公共放送の財源改革への反対を簡潔に伝えている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "ガーディアンは35万人超と推定される規模を示し、報道の自由を巡る抗議として伝える。BBCは抗議側の主張と、放送局はコスト削減が必要だとする政府の主張を並べる。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "サウスチャイナ・モーニング・ポストは、億万長者のバビシュ首相が受信料から国家予算への切り替えを狙っていると背景を説明し、反対派の主張も伝える。"
-    },
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系のアルジャジーラは、公共放送の財源を国に移す計画が政府の影響への懸念を招いていると、短く伝えている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "朝鮮日報は、約40万人が「公共放送の国営化計画をやめよ」と訴えたと、集会の規模と抗議の声を前面に出して伝える。"
-    }
-   ],
-   "difference_ja": "各国とも、数十万人規模の集会と報道の自由への懸念という基本は一致している。ドイツの媒体は国内政治の文脈（1989年以来最大の抗議、ウクライナ支援への不満、政権の対応）まで踏み込む。英国のBBCは政府側のコスト削減の主張も並べ、韓国は「国営化」という強い表現を使う。",
-   "japan_main": [],
-   "japan_view_ja": "",
-   "japan_main_checked_at": "2026-11-17T03:54:13.977439+00:00",
-   "place_countries": [
-    "CZ"
-   ],
-   "day": "2026-11-16",
-   "n_outlets": 10,
-   "n_countries": 7,
-   "n_independent_countries": 5,
-   "n_areas": 2
   },
   {
    "id": "c95be3e2-d77a-4e90-bcbe-91239367a6cd",
@@ -851,10 +1563,10 @@
   {
    "id": "7e1902c8-843e-4760-99c3-54cacd232eb0",
    "title_ja": "ネタニヤフ氏が挙国一致政府を呼びかけ、アイゼンコット氏は拒否",
-   "fact_ja": "暫定首相のネタニヤフ氏が土曜日、対立するアイゼンコット氏に挙国一致政府の樹立を重ねて呼びかけた。アイゼンコット氏は組閣交渉の最中で、この呼びかけを策略だとして退けた。",
+   "fact_ja": "暫定首相のネタニヤフ氏が土曜日、対立するアイゼンコット氏に挙国一致政府の樹立を重ねて呼びかけた。組閣交渉中のアイゼンコット氏は、これを策略だとして退けた。",
    "category": "政治",
    "first_seen": "2026-11-14T20:45:00+00:00",
-   "updated_at": "2026-11-16T00:01:45+00:00",
+   "updated_at": "2026-11-17T13:29:51+00:00",
    "country_views": [
     {
      "country": "TH",
@@ -862,38 +1574,38 @@
     },
     {
      "country": "FR",
-     "view_ja": "組閣交渉中のアイゼンコット氏が「こうした策略は私には通用しない」と述べたことを軸に伝えている。"
+     "view_ja": "組閣交渉中のアイゼンコット氏が「こうした策略は私には通用しない」と述べて拒んだ点を軸に伝えている。"
     },
     {
      "country": "QA",
-     "view_ja": "国営・政府系の媒体は、ネタニヤフ氏の「挙国一致政府だけがイスラエルの安全を保障できる」との主張を見出しにした。その後は、ネタニヤフ氏の首相職継続を認めないとするアイゼンコット氏の発言と、首相府側の選挙干渉疑惑を報じている。"
+     "view_ja": "国営・政府系の媒体は、ネタニヤフ氏の「イスラエルの安全を保証できるのは挙国一致政府だけ」という主張を見出しに据え、拒否と国会議長選出を控えた局面を伝えている。後続の記事では、選挙前のアラブ系政党関係者の逮捕に首相府が関わったとされる疑惑と、アイゼンコット氏の首相退陣要求を取り上げている。"
     },
     {
      "country": "KR",
-     "view_ja": "AFP配信の記事で、ネタニヤフ氏の呼びかけを見出しにし、アイゼンコット氏が組閣交渉の最中にあることを添えている。"
+     "view_ja": "AFP配信の記事で、呼びかけと拒否の応酬が組閣交渉の最中に起きたことを伝えている。"
     },
     {
      "country": "PK",
-     "view_ja": "通信社配信の記事で、応酬と組閣交渉の経緯を伝えている。ネタニヤフ氏が木曜の会談に触れた点も載せている。"
+     "view_ja": "AFP配信の内容を踏まえ、ネタニヤフ氏の呼びかけとアイゼンコット氏の拒否、組閣交渉の状況を伝えている。"
     },
     {
      "country": "DE",
-     "view_ja": "総選挙で明確な結果が出なかったことを前提に、アイゼンコット氏が連立の相手を探す一方、ネタニヤフ氏が独自の構想を持つ状況を伝えている。"
+     "view_ja": "tagesschauは、総選挙で明確な結果が出なかった中で、アイゼンコット氏が連立の相手を探し、ネタニヤフ氏が独自の構想を持っていると伝えている。FAZは、アラブ系政党が組閣の鍵を握り得るものの、協力へのハードルは高いと報じている。"
     },
     {
      "country": "SG",
-     "view_ja": "アイゼンコット氏が「もう1分も」ネタニヤフ氏は首相に留まれないと述べたことと、ネタニヤフ氏の側近による選挙干渉疑惑の調査要求に焦点を当てている。"
+     "view_ja": "アイゼンコット氏が「あと1分もネタニヤフ氏は首相の座にいられない」と述べたことを見出しにし、首相側近による選挙干渉疑惑の調査要求を伝えている。"
     }
    ],
-   "difference_ja": "タイ、フランス、韓国、パキスタンは、呼びかけとその拒否という応酬を中心に淡々と伝えている。ドイツは選挙後の連立模索という政治状況に重きを置いた。シンガポールとカタールの媒体は、選挙干渉疑惑とアイゼンコット氏の退陣要求へと続報の焦点を移している。カタールの媒体はアラブ政党関係者の逮捕にも触れている。",
+   "difference_ja": "タイ、フランス、韓国、パキスタンは、呼びかけと拒否の応酬を中心に事実を淡々と伝えている。カタールの国営・政府系媒体とシンガポールの媒体は、選挙干渉の疑惑とアイゼンコット氏の退陣要求に重点を置いている。ドイツの媒体は、組閣の見通しやアラブ系政党の役割といった連立の構図を伝えている。",
    "japan_main": [],
    "japan_view_ja": "",
-   "japan_main_checked_at": "2026-11-16T01:04:29.852749+00:00",
+   "japan_main_checked_at": "2026-11-18T03:06:43.356234+00:00",
    "place_countries": [
     "IL"
    ],
    "day": "2026-11-15",
-   "n_outlets": 7,
+   "n_outlets": 8,
    "n_countries": 7,
    "n_independent_countries": 6,
    "n_areas": 2
@@ -904,7 +1616,7 @@
    "fact_ja": "ハマスの武装部門は、2023年10月7日の攻撃の計画に関わった上級司令官がイスラエル軍の空爆で死亡したと発表した。イスラエル軍も殺害を認めており、司令官は53歳のサミール・アブ・ユニス（ラファ旅団の司令官）と伝えられている。",
    "category": "紛争・安全保障",
    "first_seen": "2026-11-14T22:54:29+00:00",
-   "updated_at": "2026-11-15T12:46:16+00:00",
+   "updated_at": "2026-11-18T01:07:01+00:00",
    "country_views": [
     {
      "country": "SG",
@@ -932,8 +1644,27 @@
     "PS"
    ],
    "day": "2026-11-15",
-   "n_outlets": 6,
-   "n_countries": 4,
+   "n_outlets": 7,
+   "n_countries": 5,
+   "n_independent_countries": 4,
+   "n_areas": 2
+  },
+  {
+   "id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52",
+   "title_ja": "マニラでASEAN首脳会議が開幕",
+   "fact_ja": "",
+   "category": "外交",
+   "first_seen": "2026-11-15T00:03:00+00:00",
+   "updated_at": "2026-11-17T17:12:00+00:00",
+   "country_views": null,
+   "difference_ja": null,
+   "japan_main": null,
+   "japan_view_ja": null,
+   "japan_main_checked_at": null,
+   "place_countries": null,
+   "day": "2026-11-15",
+   "n_outlets": 5,
+   "n_countries": 5,
    "n_independent_countries": 4,
    "n_areas": 2
   },
@@ -1108,7 +1839,7 @@
    "fact_ja": "ホワイトハウスは、トランプ米大統領が習近平国家主席、プーチン露大統領と、中国・深圳のAPEC首脳会議に合わせて初の3者会談を行うと発表した。主な議題は核兵器の削減で、イランをめぐる戦争にも触れる可能性があり、ウクライナ戦争は議題に入らない見通しと伝えられている。",
    "category": "外交",
    "first_seen": "2026-11-14T00:33:00+00:00",
-   "updated_at": "2026-11-16T23:42:03+00:00",
+   "updated_at": "2026-11-18T01:15:05+00:00",
    "country_views": [
     {
      "country": "DE",
@@ -1289,109 +2020,23 @@
    "n_areas": 3
   },
   {
-   "id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7",
-   "title_ja": "ニューオーリンズでタンカーが停泊中のクルーズ船に衝突",
-   "fact_ja": "米ニューオーリンズのミシシッピ川で、タンカーが停泊中の川クルーズ船に衝突し、船は一部が沈むか転覆した。乗客・乗員は全員の所在が確認され、32人が病院に搬送されたが死者や重傷者はいないと伝えられている。",
-   "category": "災害・事故",
-   "first_seen": "2026-11-13T20:49:15+00:00",
-   "updated_at": "2026-11-15T23:20:59+00:00",
-   "country_views": [
-    {
-     "country": "HK",
-     "view_ja": "市長の「ミシシッピ川の奇跡」という言葉を見出しに掲げ、180人以上が救助され全員無事だった点と、現場の作業員や警察などによる救助の動きを伝えている。"
-    },
-    {
-     "country": "SG",
-     "view_ja": "独立した媒体のストレーツ・タイムズは、衝突の映像や、乗客が水中にいて救助が進められた当初の状況を中心に伝えている。国営・政府系のCNAは、乗客約130人という地元報道を引いて衝突の事実を簡潔に伝えている。"
-    },
-    {
-     "country": "AU",
-     "view_ja": "100人超が救助された衝突の第一報に加え、後続記事では米国の調査当局が捜査を始めたものの原因を特定するのは早いとしている点を伝えている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "沈没する船の映像や、全員の所在が確認されたことを伝えている。「ミシシッピ川の奇跡」という市長の言葉と、32人が入院したが重篤でないことも載せている。"
-    },
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系の媒体は、乗客129人の船が一部沈んだことと、32人が病院に搬送されたことを見出しと本文で簡潔に伝えている。"
-    },
-    {
-     "country": "DE",
-     "view_ja": "クルーズ船がタンカーに衝突されて転覆したことと、130人超が乗っていたが行方不明者はいないことを事実中心に伝えている。"
-    },
-    {
-     "country": "CN",
-     "view_ja": "国営・政府系の媒体は、トランプ米大統領の投稿をそのまま見出しに掲げ、沿岸警備隊や救助隊への謝意と、死者がなく32人が入院しているという内容を伝えている。"
-    }
-   ],
-   "difference_ja": "各国とも、タンカーが停泊中のクルーズ船に衝突し、全員が無事だったという基本的な事実は一致している。違いは焦点にあり、香港や英国の媒体は「ミシシッピ川の奇跡」という市長の言葉を前面に出した。一方、中国の国営・政府系の媒体は米大統領の投稿を引用する形をとり、豪州の媒体は後続記事で原因調査に触れている。船種の呼び方（タンカーか貨物船か）や乗船人数の数字には媒体ごとに差がある。",
-   "japan_main": [
-    {
-     "outlet": "NHK",
-     "title": "ミシシッピ川でクルーズ船にタンカー衝突 全員が救助",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xNnF1a1gyS2NOXzlueXBpcWNrSWZyWHN2TjlmSW5yYWxxSWNCa0ZKQ3k0V3BXX3JnVkFmSDJzR0xMdm5LRlo1ZkpqTEtiQmpiZ3RPVnJhTzRIRDc5ak84?oc=5",
-     "published_at": "2026-11-13T21:56:43+00:00"
-    },
-    {
-     "outlet": "読売新聞",
-     "title": "米ニューオーリンズで１３０人乗りクルーズ船にタンカー衝突、転覆…死者なく知事「ミシシッピ川の奇跡」",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OU1BNVnV1WFJpOGQ2eUhudjBCM2ZnWkNKWHkzWkNtdExWU1JIaTZXS2tKRjZLZWVJVVFaLUR4R1VDMVZaTnF6QjFSMkdIZHU4OS1qNTBPalAtWnlITkI1a0J3?oc=5",
-     "published_at": "2026-11-14T01:45:00+00:00"
-    },
-    {
-     "outlet": "産経新聞",
-     "title": "遊覧船とタンカー衝突 米南部ニューオーリンズのミシシッピ川 乗客救助続く",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95dm5GTDJybUpCVERLLXVNRmV6NFpUaFJFckY0MXJxamttSXhGdUg0X1FCVU5QalA2YmxkMHdNQlM4Nm1GOEdpVjRmN09hbGc4aU1lZzRsZFJZNWtvb2hJX25fWGxHYVVPNVA5VFViUkRUSnRHTlE?oc=5",
-     "published_at": "2026-11-13T21:32:36+00:00"
-    },
-    {
-     "outlet": "日本経済新聞",
-     "title": "米ニューオーリンズでタンカーと遊覧船衝突 129人乗り、救出作業続く",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMHllbVBYVzN2SzVITlBKUXNiaTktRjR5UkFlSFlaVk5yRmtLU0dVNmFkUWJtUU5xZkRTVE5YVnVzdU1oejZPalBuX0pvTG1aMks3d0ZyOVNFV3c5T2lyUk5pcHozUmdKQ18zbw?oc=5",
-     "published_at": "2026-11-13T21:24:30+00:00"
-    },
-    {
-     "outlet": "日本テレビ",
-     "title": "タンカー衝突しクルーズ船転覆 乗客32人ケガ 米ミシシッピ川（2026年11月13日掲載）｜日テレNEWS NNN",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzIxbHZJV09ROTZETzhYMk1Zb3VMMHZXWlpZcTVWelI1QWkxUEVMZ2VyTnNYenN2TEZkTWZQTTU3X3FzOC1SdlRSMFNpWTU2cjh1RTNJclF2MU5jVVdMb3d4UUtFR0l6VUJLaElnRnR6aHZEMnpDX1FnbVE5R0syOEs3dkc?oc=5",
-     "published_at": "2026-11-14T03:47:01+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "アメリカ・ニューオーリンズ ミシシッピ川で遊覧船にタンカー衝突 約130人乗船 乗客の救助続く",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncWhQMDlIYVFyamhBc0dBanBNZDltTE4wdnZobldDRnVOamdSeXp1OWJnUERqWWZSR25RdzdKbExjYVdvX1hvZXJEdmw1YzZPV2hHd25Udw?oc=5",
-     "published_at": "2026-11-13T22:52:22+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "米・ミシシッピ川で乗客130人遊覧船がタンカーと衝突 32人病院に搬送",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Qd25YMXJHRGF2LXQ3VGxJYUtBUW5oNWNUR2RDOXV4UFBQdF94V2RKeVByNHRzcFhoXzZUMFpmenVwcFNQMjFjbVFSVGhPNE1xMDlYMFk2eDJEUWcxWHNmTWJ6WTY5ZndLYk1TSUdNNnVyZGVDcWEwZTd3?oc=5",
-     "published_at": "2026-11-13T23:31:40+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "米・ミシシッピ川 大型遊覧船にタンカー衝突 乗客が川に転落",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lR0JkSjhreVQxd05tci1kcG4ybXcxMmQwaWY3TFlzTnFVVGlkQ1dLZWhPMm5GU1paem9STW9wQ1Y1TVhzQzAtNkh0T0JuYmF0MnpuQl9VUERxMlJrX2RQUHhzWlIySXprNUZES1dnUnVreVF3bk9uQnB3?oc=5",
-     "published_at": "2026-11-14T03:30:20+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "「ミシシッピ川の奇跡だ」タンカーが遊覧船に衝突 転落した乗客ら全員の安否確認",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMVXFfUThNbzh2WDYxQV9qaTdZUk1LanM2QzZBVVlDNDZOUUVIUm1obGFkTDBtcFc1X2JRZ0lsS0pwMU1mM0JrdWY2SkhGUHZkcm9PWGg3bVpYa05ScVhaekJHRzRMUnAwVFlGV2F2ZGxhOGtncjJnMVpB?oc=5",
-     "published_at": "2026-11-14T10:33:56+00:00"
-    }
-   ],
-   "japan_view_ja": "日本の主要媒体は、衝突の第一報と乗客の救助、32人の負傷、全員の安否確認を中心に伝えている。読売新聞とテレビ朝日は「ミシシッピ川の奇跡」という知事の言葉を見出しに採っており、この点は海外の伝え方と重なる。",
-   "japan_main_checked_at": "2026-11-15T01:05:23.034255+00:00",
-   "place_countries": [
-    "US"
-   ],
+   "id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34",
+   "title_ja": "米国、麻疹の排除認定を失効と報道",
+   "fact_ja": "",
+   "category": "科学・環境・保健",
+   "first_seen": "2026-11-14T04:21:12+00:00",
+   "updated_at": "2026-11-18T02:34:23+00:00",
+   "country_views": null,
+   "difference_ja": null,
+   "japan_main": null,
+   "japan_view_ja": null,
+   "japan_main_checked_at": null,
+   "place_countries": null,
    "day": "2026-11-14",
-   "n_outlets": 9,
-   "n_countries": 7,
-   "n_independent_countries": 5,
-   "n_areas": 3
+   "n_outlets": 10,
+   "n_countries": 8,
+   "n_independent_countries": 6,
+   "n_areas": 2
   },
   {
    "id": "5ba4b1b4-20ad-4dc9-a75f-e6d976f7ab67",
@@ -1399,7 +2044,7 @@
    "fact_ja": "教皇レオ14世はペルーで司教らに向けて演説し、聖職者による虐待の苦痛に触れ、教会は被害者に償いをし、他の人々を守るべきだと述べた。その後、かつて司教を務めたチクラヨを訪れ、大勢の人々に迎えられた。",
    "category": "社会",
    "first_seen": "2026-11-12T17:24:00+00:00",
-   "updated_at": "2026-11-17T01:09:52+00:00",
+   "updated_at": "2026-11-17T18:12:30+00:00",
    "country_views": [
     {
      "country": "DE",
@@ -1575,7 +2220,7 @@
    "fact_ja": "",
    "category": "外交",
    "first_seen": "2026-11-12T22:32:01+00:00",
-   "updated_at": "2026-11-17T03:28:15+00:00",
+   "updated_at": "2026-11-17T19:57:02+00:00",
    "country_views": null,
    "difference_ja": null,
    "japan_main": null,
@@ -1859,7 +2504,7 @@
    "fact_ja": "",
    "category": "紛争・安全保障",
    "first_seen": "2026-11-12T17:14:00+00:00",
-   "updated_at": "2026-11-15T19:32:39+00:00",
+   "updated_at": "2026-11-17T06:27:39+00:00",
    "country_views": null,
    "difference_ja": null,
    "japan_main": null,
@@ -1867,9 +2512,9 @@
    "japan_main_checked_at": null,
    "place_countries": null,
    "day": "2026-11-13",
-   "n_outlets": 9,
-   "n_countries": 7,
-   "n_independent_countries": 5,
+   "n_outlets": 10,
+   "n_countries": 8,
+   "n_independent_countries": 6,
    "n_areas": 3
   },
   {
@@ -1878,7 +2523,7 @@
    "fact_ja": "エヌビディアは11月12日、ジェンスン・ファン氏が社長、CEO、取締役を即時に退いたと発表し、コレット・クレスCFOが暫定CEOを務める。複数の不倫が報じられ、うち1人は中国のスパイ疑惑がある女性で、同社の株価と時価総額は大きく下がった。",
    "category": "経済",
    "first_seen": "2026-11-11T21:05:26+00:00",
-   "updated_at": "2026-11-17T02:44:35+00:00",
+   "updated_at": "2026-11-17T22:33:00+00:00",
    "country_views": [
     {
      "country": "CN",
@@ -2566,69 +3211,6 @@
    "n_areas": 2
   },
   {
-   "id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808",
-   "title_ja": "米司法省、英空軍基地への攻撃計画でイラン工作員とされる3人を起訴",
-   "fact_ja": "米司法省は、英国のRAFフェアフォード基地をめぐるテロ計画に関与したとして、「イランの工作員」とされる3人を起訴したと発表した。うち1人はすでに勾留されており、起訴状は欧州や米国での複数の計画への関与も主張している。",
-   "category": "紛争・安全保障",
-   "first_seen": "2026-11-10T20:53:42+00:00",
-   "updated_at": "2026-11-12T01:55:50+00:00",
-   "country_views": [
-    {
-     "country": "SG",
-     "view_ja": "米司法省の発表を簡潔に伝え、フェアフォード基地が対イラン作戦で米軍に使われてきたことを背景として添えている。"
-    },
-    {
-     "country": "AU",
-     "view_ja": "約20件の攻撃からなる「テロの作戦」を計画した容疑として、ユダヤ人コミュニティーと英軍基地が標的だったことを中心に伝えている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "ガーディアンは、勾留中の人物が米拘置下で計画を進めたとの起訴内容と、B-1爆撃機が配備された基地への阻止された攻撃に焦点を当てている。BBCは米側の主張として、3人が複数の計画に関与したと伝えている。"
-    },
-    {
-     "country": "TH",
-     "view_ja": "米司法省が「イランの工作員」と呼ぶ3人の起訴を、発表内容に沿って淡々と伝えている。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "3人の氏名を挙げ、9月に基地で起きた事案との関連で起訴されたと、米司法省の発表に沿って伝えている。"
-    },
-    {
-     "country": "FR",
-     "view_ja": "8つの訴因からなる起訴状が、イラン革命防衛隊を支援する他の複数の計画への関与を主張している点を前面に出している。"
-    },
-    {
-     "country": "DE",
-     "view_ja": "英国の基地への攻撃計画に加え、ドイツを含む欧州のユダヤ系の標的への攻撃容疑も取り上げ、欧州への広がりを強調している。タゲスシャウは、複数の攻撃計画への関与を理由とする起訴として伝えている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "ニューヨークの拘置所から電話で英国の米軍基地へのテロを指示したという点を見出しに掲げ、勾留中の指示に焦点を当てている。"
-    }
-   ],
-   "difference_ja": "どの媒体も米司法省の発表を軸に伝えており、事実関係に大きな食い違いはない。違いは焦点で、英国の媒体は基地への攻撃と起訴内容の詳細、豪州やドイツはユダヤ系の標的や欧州での計画、韓国は勾留中の電話指示を前面に出している。シンガポールやタイ、香港は「イランの工作員」と米側の呼称であることを示しつつ、基地の位置づけを簡潔に伝えている。",
-   "japan_main": [
-    {
-     "outlet": "産経新聞",
-     "title": "英空軍基地テロ準備で3人起訴 米、イラン支援 勾留中に電話で暗号を使い指示か",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85MExXNG40Tk1SRm9SQWZzQzl2d0t2M2htTmpsc1I1b1R2cE1uVEZueFdTa193QkxWNFNsT0xIZHBLV1BOcGVXQTJjbGc2RVFaelA2YVJldTNuLWtOaTA4UHNyMFdrR3R3c1MwMUhJZk9kSHYtOHc?oc=5",
-     "published_at": "2026-11-10T23:50:21+00:00"
-    }
-   ],
-   "japan_view_ja": "産経新聞は、3人の起訴に加え、勾留中に電話で暗号を使って指示した疑いを見出しに掲げており、韓国の報道と同様に拘置中の指示に焦点を当てている。",
-   "japan_main_checked_at": "2026-11-12T02:28:57.108657+00:00",
-   "place_countries": [
-    "US",
-    "GB",
-    "IR"
-   ],
-   "day": "2026-11-11",
-   "n_outlets": 11,
-   "n_countries": 9,
-   "n_independent_countries": 9,
-   "n_areas": 3
-  },
-  {
    "id": "79fcf3a8-4858-44c5-9fc9-ac48ac9c8bf8",
    "title_ja": "スペインで住宅問題を主題に14年ぶりのゼネストが行われた",
    "fact_ja": "スペインで住宅費の高騰などに抗議する24時間のゼネストが2012年以来14年ぶりに行われ、総選挙の3週間足らず前に各地で行進があった。交通などに影響が出て、夜にはバルセロナなどで衝突が起きた。",
@@ -3038,182 +3620,387 @@
    "n_countries": 8,
    "n_independent_countries": 6,
    "n_areas": 2
-  },
-  {
-   "id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4",
-   "title_ja": "英国で米陸軍の上級兵士がロシアへのスパイ容疑で逮捕",
-   "fact_ja": "英国のグロスター近郊で、41歳の米陸軍の上級兵士がロシアのための諜報活動の疑いで逮捕された。英警察がFBIや米軍と連携して逮捕し、男は取り調べを受けている。",
-   "category": "紛争・安全保障",
-   "first_seen": "2026-11-10T19:08:38+00:00",
-   "updated_at": "2026-11-11T19:47:57+00:00",
-   "country_views": [
-    {
-     "country": "SG",
-     "view_ja": "ストレーツ・タイムズは逮捕の場所と容疑を簡潔に伝えている。国営・政府系のCNAも、英国が米兵をロシアへのスパイ容疑で逮捕したと短く報じている。"
-    },
-    {
-     "country": "GB",
-     "view_ja": "BBCは、41歳の上級兵士が国家安全保障に関わる罪の疑いでロンドンで取り調べを受けていると伝えている。"
-    },
-    {
-     "country": "HK",
-     "view_ja": "サウスチャイナ・モーニング・ポストは、FBI長官が「同盟国にとって極めて重大な懸念」と述べたことを載せている。米国が英軍基地から航空機を撤収した、イラン絡みの別件にも触れている。"
-    },
-    {
-     "country": "QA",
-     "view_ja": "国営・政府系のアルジャジーラは、ロンドン警視庁の対テロ部門がFBIや米軍と緊密に連携して逮捕したという警察の説明を中心に伝えている。"
-    },
-    {
-     "country": "US",
-     "view_ja": "WSJは、男がNATOの即応部隊の指揮機構に配属されていたことを伝えている。NYTは、男の名前は公表されておらず、起訴の可能性を見据えて勾留されていると報じている。"
-    },
-    {
-     "country": "KR",
-     "view_ja": "朝鮮日報は、NATO施設の機密をロシアに渡そうとした疑いと、軍内部者による情報漏えいの危険に対する米軍の警告を強調している。"
-    },
-    {
-     "country": "PK",
-     "view_ja": "ドーンは、NATO配属の兵士が取り調べを受けていると伝え、欧州各地でクレムリンの工作員とみられる者が関わる事件が続く中の一件で、モスクワと欧州各国の緊張が高まっている時期のことだと位置づけている。"
-    }
-   ],
-   "difference_ja": "多くの媒体は逮捕の事実と捜査協力体制を淡々と伝えている。一方、WSJやドーン、朝鮮日報はNATOとのつながりや機密漏えいの危険を前面に出し、SCMPはFBI長官の発言やイラン絡みの別件に触れている。アルジャジーラは警察の説明を軸にしている。",
-   "japan_main": [
-    {
-     "outlet": "NHK",
-     "title": "英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52SzBRb3RDNEhPcmRhT0dmUDlmWkRRMkE0YlRadVh6MW5KNHFNa0M0LVlmcU1kc0dyVG9Ba3FzclJWN3lVTHN6SWVjTnA2bUh5WXdYMTVnR05hQUN5akdZ?oc=5",
-     "published_at": "2026-11-11T02:10:00+00:00"
-    },
-    {
-     "outlet": "読売新聞",
-     "title": "米陸軍兵がロシアに関係するスパイ活動の疑い、英警察が逮捕…機微な情報扱う立場",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iNDhZYmE2amRQS19pOXRLMFpkLUZ4MU1UWmkzMzFGczJEam9uem9vUlA0cnRYdDRSaC1ETDN0ZXVLXzRJcEQ2ODRnSUJGeTRmOFloamlZX2lsOGxtU1l6TFRR?oc=5",
-     "published_at": "2026-11-11T11:24:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "アメリカ陸軍兵士をスパイ疑惑で逮捕 英警視庁",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VRDNOM2VpVmZFT29OSUhvNzVqaHJxYXZlQjEybnpLbldrT3BKckYyWVU2aHlaUVBBMXZDcGt2ZGlaRjIyaFVSai1mVF9uLW00d2pnNUtUdHlFTmJxOG1rSlhDYzIyeUJlT05qVmZoN01VVVND?oc=5",
-     "published_at": "2026-11-10T22:09:23+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "スパイ疑惑で41歳のアメリカ陸軍兵士を逮捕 ロシア関連で外国の情報機関を支援か スパイ事件などの逮捕は53％増加 過去21か月で FBI",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PY3ZTWDhFc0hBMGR3UDFtYllvdlB0b2luNkhMcFJDWEY1ejlCcUtvei1ReVBjTXhHdUVOa2toVWFISWhrTGVUN0oxM2E2NlgxZ1RqbHc5M2hSbllIdGt3N2dwSl9rclU?oc=5",
-     "published_at": "2026-11-10T22:09:00+00:00"
-    },
-    {
-     "outlet": "TBS",
-     "title": "英警察、41歳の米陸軍兵士を逮捕－ロシアのスパイ活動関与の疑い",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBObzRlTFZWRmIyRVhRRU1hTVpxSDhhbkdjTFZBTFlZQlJHNDZZN3o2NGpub19ZOXBQUkRHcWdVZFh1WFVrWWNUbDZzN1RhY3A1V1RlVVpFRmExZmxreFBSZGZfVC1ZeTVjWks1cjIzakdzSzFN?oc=5",
-     "published_at": "2026-11-11T07:27:00+00:00"
-    },
-    {
-     "outlet": "テレビ朝日",
-     "title": "41歳の米陸軍兵士をスパイ容疑で逮捕 ロシアに協力か 英警察が米などと捜査",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1maEEwVkhhQlhwUUJieTJSb1Y3dUFIRlNyUDhmVl9ZSE9icWJ5ZlM4S1dxRmcyYV9QSGM4Q05oUXdVTHd5eTZWeklSRnk2NkdwSW9VVmFjWGc4eGNBako4QWRPNTZ2UzVBY2t0aXZwNEZKVFlheGRZODhn?oc=5",
-     "published_at": "2026-11-10T19:51:47+00:00"
-    }
-   ],
-   "japan_view_ja": "日本の主要媒体は、逮捕の事実とロシア関与の疑いを軸に伝えている。読売は機微な情報を扱う立場だった点に、TBSはFBIによるスパイ事件の逮捕件数の増加に触れている。",
-   "japan_main_checked_at": "2026-11-12T02:30:12.009768+00:00",
-   "place_countries": [
-    "GB",
-    "US",
-    "RU"
-   ],
-   "day": "2026-11-11",
-   "n_outlets": 9,
-   "n_countries": 7,
-   "n_independent_countries": 6,
-   "n_areas": 3
-  },
-  {
-   "id": "a7b1c021-2912-453e-b800-5afec0683c7a",
-   "title_ja": "米軍の航空機が英国の第2基地からも退避、イランの脅威で",
-   "fact_ja": "",
-   "category": "紛争・安全保障",
-   "first_seen": "2026-11-10T04:41:00+00:00",
-   "updated_at": "2026-11-10T22:42:00+00:00",
-   "country_views": null,
-   "difference_ja": null,
-   "japan_main": null,
-   "japan_view_ja": null,
-   "japan_main_checked_at": null,
-   "place_countries": null,
-   "day": "2026-11-10",
-   "n_outlets": 4,
-   "n_countries": 4,
-   "n_independent_countries": 3,
-   "n_areas": 2
-  },
-  {
-   "id": "66630265-c9ed-4f99-b5e7-f5b99fa251d6",
-   "title_ja": "フランスでアルフェイド氏を巡る捜査、リッツなど捜索・逮捕",
-   "fact_ja": "",
-   "category": "社会",
-   "first_seen": "2026-11-10T12:22:41+00:00",
-   "updated_at": "2026-11-10T20:00:43+00:00",
-   "country_views": null,
-   "difference_ja": null,
-   "japan_main": null,
-   "japan_view_ja": null,
-   "japan_main_checked_at": null,
-   "place_countries": null,
-   "day": "2026-11-10",
-   "n_outlets": 4,
-   "n_countries": 3,
-   "n_independent_countries": 3,
-   "n_areas": 2
-  },
-  {
-   "id": "1d9e1127-e127-4c1b-b6d6-5a2211db98b1",
-   "title_ja": "バングラデシュのハシナ元首相の帰国を巡る発言",
-   "fact_ja": "",
-   "category": "政治",
-   "first_seen": "2026-11-10T10:12:53+00:00",
-   "updated_at": "2026-11-11T10:45:00+00:00",
-   "country_views": null,
-   "difference_ja": null,
-   "japan_main": null,
-   "japan_view_ja": null,
-   "japan_main_checked_at": null,
-   "place_countries": null,
-   "day": "2026-11-10",
-   "n_outlets": 3,
-   "n_countries": 3,
-   "n_independent_countries": 3,
-   "n_areas": 2
-  },
-  {
-   "id": "870772d8-cc33-403e-868c-58309b87cc9f",
-   "title_ja": "ブルガリアの高速道路で多重衝突、多数死亡",
-   "fact_ja": "",
-   "category": "災害・事故",
-   "first_seen": "2026-11-10T11:19:49+00:00",
-   "updated_at": "2026-11-10T16:07:51+00:00",
-   "country_views": null,
-   "difference_ja": null,
-   "japan_main": null,
-   "japan_view_ja": null,
-   "japan_main_checked_at": null,
-   "place_countries": null,
-   "day": "2026-11-10",
-   "n_outlets": 3,
-   "n_countries": 3,
-   "n_independent_countries": 3,
-   "n_areas": 2
   }
  ],
  "articles": [
+  {
+   "id": "68f45c7c-42e6-48a7-810a-1e8392af5db3",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+   "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
+   "published_at": "2026-11-17T21:54:22+00:00",
+   "summary_ja": "カハナ氏が立法過程を握り、野党がネタニヤフ氏を多方面から追及しようとしていると伝える。",
+   "angle": "野党の追及",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "78ff9780-f27b-4901-af09-213efa801db8",
+   "outlet_id": "koreaherald",
+   "url": "https://www.koreaherald.com/article/10941171",
+   "title": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
+   "published_at": "2026-11-18T02:42:13+00:00",
+   "summary_ja": "AP通信の記事として、野党に支持された新議長が選ばれ、前政権の政策の巻き戻しに向けた一歩になったと伝える。",
+   "angle": "政策巻き戻しの一歩",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "503e2282-d9fa-44d7-9ee4-403e7200f9ee",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/middle-east/eisenkot-led-bloc-replaces-netanyahu-ally-as-knesset-speaker",
+   "title": "Eisenkot-led bloc replaces Netanyahu ally as Parliament speaker",
+   "published_at": "2026-11-17T22:20:07+00:00",
+   "summary_ja": "アイゼンコット氏の陣営が、10月7日攻撃の調査などの法案を進めやすくなると伝える。",
+   "angle": "法案を進める力",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "3223bd1c-2ad9-4fc2-bcfb-24c874f59099",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+   "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+   "published_at": "2026-11-17T22:30:17+00:00",
+   "summary_ja": "新議長の選出は、退任する政権の政策を覆す重要な一歩だと伝える。",
+   "angle": "政策巻き戻しの一歩",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "aee22ef7-591e-4a5a-bca0-503a243190d1",
+   "outlet_id": "sz",
+   "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-westjordanland-israel-siedler-knesset-li.3579157",
+   "title": "Newsblog zu Nahost: Israels Opposition übernimmt den Parlamentsvorsitz",
+   "published_at": "2026-11-18T01:33:53+00:00",
+   "summary_ja": "多数の議員が元閣僚のカハナ氏に投票し、野党が議長職を握ったと伝える。",
+   "angle": "野党が議長職を獲得",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "248a4157-ecc1-47e2-a97a-807165a41fc6",
+   "outlet_id": "abc",
+   "url": "https://www.abc.net.au/news/2026-11-18/eisenkot-bloc-replaces-netanyahu-ally-as-knesset-speaker/107397646",
+   "title": "Netanyahu ally ousted as speaker of Israeli parliament",
+   "published_at": "2026-11-18T00:25:07+00:00",
+   "summary_ja": "ネタニヤフ氏の盟友が議長を退き、ライバルのアイゼンコット氏側が前政権の政策を巻き戻す力を得うると伝える。",
+   "angle": "議長交代と力関係",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "ef4f6339-bf9c-49ac-9c22-8abeda89da67",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+   "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+   "published_at": "2026-11-18T00:47:02+00:00",
+   "summary_ja": "カハナ氏がアラブ系政党の支持を得て議長に選ばれたと伝える。",
+   "angle": "アラブ系政党の支持",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "3752ac15-063a-46f7-b201-fd2b8cd1b102",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+   "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+   "published_at": "2026-11-17T23:28:54+00:00",
+   "summary_ja": "アイゼンコット氏の陣営が、ネタニヤフ氏の論争的な国内政策の一部を覆すと約束していると伝える。",
+   "angle": "政策見直しの公約",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "895e5d81-f7d4-4275-afe7-d703cae5c98b",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/11/17/israel-parliament-elects-eisenkot-ally-as-parliament-speaker-in-blow-for-netanyahu_6782833_4.html",
+   "title": "Israel parliament elects Eisenkot ally as parliament speaker in blow for Netanyahu",
+   "published_at": "2026-11-17T21:51:29+00:00",
+   "summary_ja": "アイゼンコット氏の盟友が議長に選ばれ、ネタニヤフ氏には打撃で、政策の見直しが早ければ翌日にも始まると伝える。",
+   "angle": "ネタニヤフ氏への打撃",
+   "story_id": "664ccd3d-336b-4dd3-bcbe-a54878a45b65"
+  },
+  {
+   "id": "102886b0-5bbe-47d6-ae3e-b1aa24d448b9",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/tech-outage-wave-united-states-government-6560281",
+   "title": "Tech outage wave reaches US government, Trump says all is 'fine'",
+   "published_at": "2026-11-17T19:41:00+00:00",
+   "summary_ja": "技術障害の波が米政府に及び、トランプ氏が「問題ない」と述べたと伝える。",
+   "angle": "トランプ氏の発言",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "f9f077da-8df2-4e97-86f4-34f486fce7d5",
+   "outlet_id": "koreaherald",
+   "url": "https://www.koreaherald.com/article/10941144",
+   "title": "Tech outage wave reaches US government",
+   "published_at": "2026-11-18T02:36:17+00:00",
+   "summary_ja": "企業のメールや航空便に続き障害がNSAに及び、政権が広範な問題との見方を軽視していると伝える。",
+   "angle": "政権の対応",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "d400df5e-34ce-4712-9d31-94bb39acc987",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3374800/top-secret-us-security-communications-network-down-report-says",
+   "title": "Top-secret US security communications network is down, in latest tech outage",
+   "published_at": "2026-11-17T18:57:26+00:00",
+   "summary_ja": "NSAの機密内部通信網が停止し、NSAは定期保守中の一時的な機能低下と説明したと伝える。",
+   "angle": "NSAの説明",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "f05d4a91-6d1a-494d-a010-965aeb510e71",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/us/2026/11/18/U2WFFWLR3RBO5E777HSPAZNBVQ/",
+   "title": "美안보국 기밀 통신망 마비… “항공 중단, MS 장애 이은 중대 결함”",
+   "published_at": "2026-11-17T21:27:46+00:00",
+   "summary_ja": "NSAの機密通信網の麻痺を、航空停止やMS障害に続く重大な欠陥として伝える。",
+   "angle": "相次ぐ障害の連鎖",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "0cf29f24-0e54-4506-aa96-dff670c07f43",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/11/18/GI2WINTFGNRTSYRVGVRTONJXGQ/",
+   "title": "항공·금융 이어 안보 심장부까지… 美 NSA 내부 기밀망 먹통 소동",
+   "published_at": "2026-11-17T21:03:34+00:00",
+   "summary_ja": "NSAの機密網が一時麻痺し、ハッキングの形跡はないが、相次ぐ障害でインフラ老朽化への懸念が高まっていると伝える。",
+   "angle": "インフラ老朽化懸念",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "02d275b1-ddbd-43cd-bba8-eac397b061bc",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/united-states/as-string-of-tech-outages-raises-alarm-trump-says-everything-is-fine",
+   "title": "As string of tech outages raises alarm, Trump says everything is ‘fine’",
+   "published_at": "2026-11-17T22:25:00+00:00",
+   "summary_ja": "MSのメール、銀行、NSAで障害が続く中、トランプ氏が「問題ない」と述べたと伝える。",
+   "angle": "相次ぐ障害と反応",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "3af7a92a-3a3a-44ef-b0a3-46293ff8ae5a",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/united-states/classified-us-national-security-communications-network-hit-by-outage-nsa",
+   "title": "US electronic spy agency NSA suffers classified network outage",
+   "published_at": "2026-11-17T22:00:00+00:00",
+   "summary_ja": "NSAの内部通信網が定期保守中に一時的な機能低下を起こしたと伝える。",
+   "angle": "保守中の障害",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "34804080-5ddb-46c6-b9d7-ddc03e9df243",
+   "outlet_id": "abc",
+   "url": "https://www.abc.net.au/news/2026-11-18/classified-us-national-security-communications-network-outage/107397306",
+   "title": "NSA hit with system outage as US tech woes continue",
+   "published_at": "2026-11-17T21:46:57+00:00",
+   "summary_ja": "米国で技術トラブルが続く中、NSAの内部通信システムに障害が出たと伝える。",
+   "angle": "障害の発生",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "77ab8bf4-8442-4d6b-b119-adfdf45a0dca",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+   "title": "Top spy agency suffers network outage, the latest US technical failure",
+   "published_at": "2026-11-17T23:19:12+00:00",
+   "summary_ja": "NSAの網障害を、米国で続く技術的失態の最新例として解説する。",
+   "angle": "米国の失態の連続",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "4ad11121-53cb-47ab-b62f-5967ff43e46e",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/11/17/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says_6782866_4.html",
+   "title": "Classified communications network at the National Security Agency goes down, US defense official says",
+   "published_at": "2026-11-17T22:37:47+00:00",
+   "summary_ja": "国防当局者の話として、NSAの機密網障害を先週来のサイバー関連の混乱に続く出来事と伝える。",
+   "angle": "一連の混乱の文脈",
+   "story_id": "9dc3b89b-4602-43b0-867c-342c11b3663d"
+  },
+  {
+   "id": "f2239b19-1f30-42c5-82c6-42213034646c",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3374806/pakistani-man-gets-27-years-us-prison-trump-murder-plot",
+   "title": "Pakistani man gets 27 years in US prison for Trump murder plot",
+   "published_at": "2026-11-17T23:08:18+00:00",
+   "summary_ja": "パキスタン人男性が、ソレイマニ司令官殺害への報復でトランプ氏殺害を企てた罪で禁錮27年超となったと伝える。",
+   "angle": "報復動機と判決",
+   "story_id": "8a6c7472-89f2-4365-b1f4-aba80fc94291"
+  },
+  {
+   "id": "131a01db-9213-4e0a-a44b-de2ea92e87a0",
+   "outlet_id": "toi",
+   "url": "https://timesofindia.indiatimes.com/world/us/pakistani-man-gets-27-years-in-us-jail-for-iran-backed-plot-to-kill-trump/articleshow/135945000.cms",
+   "title": "Pakistani man gets 27 years in US jail for Iran-backed plot to kill Trump",
+   "published_at": "2026-11-18T01:30:45+00:00",
+   "summary_ja": "イランの意向を受けた計画で禁錮330か月となり、有罪評決は3月、計画は実行前に阻止されたと整理して伝える。",
+   "angle": "イラン関与と経緯",
+   "story_id": "8a6c7472-89f2-4365-b1f4-aba80fc94291"
+  },
+  {
+   "id": "4f60aae1-95f4-4f22-af69-1009978e08c6",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/united-states/pakistani-jailed-for-27-years-for-trump-murder-plot",
+   "title": "Pakistani man jailed for 27 years for Trump murder plot",
+   "published_at": "2026-11-17T23:39:00+00:00",
+   "summary_ja": "禁錮27年の判決を伝え、被告がテヘランの家族を守るため計画に加わらされたと証言した点を紹介する。",
+   "angle": "被告側の証言",
+   "story_id": "8a6c7472-89f2-4365-b1f4-aba80fc94291"
+  },
+  {
+   "id": "00955248-3162-42d0-8039-18fca4b05e45",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+   "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+   "published_at": "2026-11-18T00:21:33+00:00",
+   "summary_ja": "イランとの関係が指摘される被告が、ソレイマニ司令官殺害への報復を求めたと裁判所が認定し、禁錮27年超となったと伝える。",
+   "angle": "裁判所の認定",
+   "story_id": "8a6c7472-89f2-4365-b1f4-aba80fc94291"
+  },
+  {
+   "id": "0fe0eb2a-35a5-42ec-ab57-64c7bebcd42f",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump",
+   "title": "Man sentenced to over 27 years in US for plot to assassinate Trump",
+   "published_at": "2026-11-18T02:47:12+00:00",
+   "summary_ja": "司法省発表を引用し、ブルックリンの連邦判事が48歳の被告に330か月の刑を言い渡したと伝える。",
+   "angle": "司法省発表の詳細",
+   "story_id": "8a6c7472-89f2-4365-b1f4-aba80fc94291"
+  },
+  {
+   "id": "781f99e8-0176-4310-8987-aa5a1d396161",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+   "published_at": "2026-11-18T01:18:18+00:00",
+   "summary_ja": "会社が復帰を認めない一方、辞任劇の直後に好調な四半期決算を発表したと伝えている。",
+   "angle": "拒否と好決算",
+   "story_id": "accc81f0-dc00-4fbf-a9da-5ea2582b9b5a"
+  },
+  {
+   "id": "364a7180-222f-4a96-b7f5-14722eb2ad05",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/jensen-huang-nvidia-honoured-return-ceo-6560071",
+   "title": "Nvidia chair says board will not rehire Huang as CEO after he signals willingness to return",
+   "published_at": "2026-11-17T18:50:00+00:00",
+   "summary_ja": "フアン氏の復帰意向を受け、会長が取締役会は再雇用しないと述べたと伝えている。",
+   "angle": "会長の拒否",
+   "story_id": "accc81f0-dc00-4fbf-a9da-5ea2582b9b5a"
+  },
+  {
+   "id": "0a6f7f44-756d-4f40-b601-3b448275ebd4",
+   "outlet_id": "abc",
+   "url": "https://www.abc.net.au/news/2026-11-18/nvidia-board-wont-take-jensen-huang-back/107397604",
+   "title": "Why it might be too risky to invite Jensen Huang back into the Nvidia fold",
+   "published_at": "2026-11-18T01:48:48+00:00",
+   "summary_ja": "復帰を求める声は多いが、巨額のAI投資がかかるため、受け入れは危険すぎると分析家が見ているとしている。",
+   "angle": "復帰のリスク分析",
+   "story_id": "accc81f0-dc00-4fbf-a9da-5ea2582b9b5a"
+  },
+  {
+   "id": "65863539-b485-4ab5-8733-618bd740a225",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/economy/article/2026/11/17/nvidia-chairman-says-board-will-not-reinstate-jensen-huang-as-chief_6782899_19.html",
+   "title": "Nvidia chairman says board will not reinstate Jensen Huang as chief",
+   "published_at": "2026-11-17T22:41:56+00:00",
+   "summary_ja": "会長が辞任を全会一致で受け入れ、復帰させる意向はないと述べたと、辞任の経緯とともに伝えている。",
+   "angle": "取締役会の拒否",
+   "story_id": "accc81f0-dc00-4fbf-a9da-5ea2582b9b5a"
+  },
+  {
+   "id": "d49876ef-745a-43a0-b02b-7594d6e41b98",
+   "outlet_id": "tass",
+   "url": "https://tass.com/economy/2219891",
+   "title": "Jensen Huang signals willingness to return as Nvidia CEO",
+   "published_at": "2026-11-17T17:52:46+00:00",
+   "summary_ja": "フアン前CEOが、取締役会の判断次第でCEO復帰を受け入れる意向を示したと伝えている。",
+   "angle": "復帰意向の表明",
+   "story_id": "accc81f0-dc00-4fbf-a9da-5ea2582b9b5a"
+  },
+  {
+   "id": "2c9bff5e-e00e-4e0c-9db8-e024ce38cb49",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2045205/jensen-huang-says-willing-to-return-as-nvidia-ceo-owns-mistakes",
+   "title": "Jensen Huang says willing to return as Nvidia CEO, 'owns mistakes'",
+   "published_at": "2026-11-17T17:20:33+00:00",
+   "summary_ja": "フアン前CEOが、復帰を求める声を受け、取締役会が望むなら復帰してもよいと述べ、過ちを認めた。",
+   "angle": "復帰意欲と謝罪",
+   "story_id": "accc81f0-dc00-4fbf-a9da-5ea2582b9b5a"
+  },
+  {
+   "id": "c4d86f4a-4915-4e7f-a23a-e023d9ac3202",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/nvidia-earnings-jensen-huang-chips-6560031",
+   "title": "Nvidia doubles revenue in third quarter, exceeding expectations",
+   "published_at": "2026-11-17T17:12:00+00:00",
+   "summary_ja": "エヌビディアの売上高が倍増し、1株利益も予想を上回ったと数字で伝えている。",
+   "angle": "業績の数字",
+   "story_id": "422abff5-355f-4554-9939-acb1359d89e7"
+  },
+  {
+   "id": "c9a21ace-271a-464a-b5ca-22599a5c941d",
+   "outlet_id": "koreaherald",
+   "url": "https://www.koreaherald.com/article/10941037",
+   "title": "Nvidia results beat expectations as ousted CEO told no way back",
+   "published_at": "2026-11-18T02:05:33+00:00",
+   "summary_ja": "AFP配信で、決算が予想を上回り、会社が解任したフアン氏の復帰を否定したと伝えている。",
+   "angle": "好決算と復帰否定",
+   "story_id": "422abff5-355f-4554-9939-acb1359d89e7"
+  },
+  {
+   "id": "e3f7c8d6-b7e8-45b4-b127-fa85fe03aabe",
+   "outlet_id": "koreaherald",
+   "url": "https://www.koreaherald.com/article/10940774",
+   "title": "Seoul stocks open sharply higher on bargain hunting after upbeat Nvidia earnings",
+   "published_at": "2026-11-18T00:54:35+00:00",
+   "summary_ja": "エヌビディアの好決算を受けて、ソウルの株価が大幅高で始まったと伝えている。",
+   "angle": "韓国株への波及",
+   "story_id": "422abff5-355f-4554-9939-acb1359d89e7"
+  },
+  {
+   "id": "612ef81d-2924-4cfa-bd4d-7ecf86a57ebc",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back",
+   "title": "Nvidia results beat expectations, as ousted CEO Huang told no way back",
+   "published_at": "2026-11-17T22:47:11+00:00",
+   "summary_ja": "売上高が倍増して予想を上回る一方、会社はフアン氏の復帰を否定したと伝えている。",
+   "angle": "好決算と復帰否定",
+   "story_id": "422abff5-355f-4554-9939-acb1359d89e7"
+  },
+  {
+   "id": "dc232787-6ffc-461d-9c04-3e2f2c150dac",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/11/18/GE3GMZJSME3WEOBUMU3TQMTFGI/",
+   "title": "엔비디아, 젠슨 황 사임 후 첫 실적서 ‘어닝 서프라이즈’… 시장 예상 상회",
+   "published_at": "2026-11-17T21:33:38+00:00",
+   "summary_ja": "フアン氏辞任後初の決算が予想を上回り、スキャンダルや規制の中でもAI需要を示したと伝えている。",
+   "angle": "危機下の好決算",
+   "story_id": "422abff5-355f-4554-9939-acb1359d89e7"
+  },
+  {
+   "id": "69f30034-90d7-4262-a4b9-6dacd80b673a",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/business/2026/11/18/nvidia-says-no-return-for-ousted-ceo-reports-revenue-boom",
+   "title": "Nvidia says no return for ousted CEO, reports revenue boom",
+   "published_at": "2026-11-18T02:30:31+00:00",
+   "summary_ja": "解任されたCEOの復帰はないと会社が述べ、売上が急増したと伝えている。",
+   "angle": "復帰否定と増収",
+   "story_id": "422abff5-355f-4554-9939-acb1359d89e7"
+  },
+  {
+   "id": "db3d9e63-69ab-4705-950d-7ba90dff813e",
+   "outlet_id": "sz",
+   "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-quartalszahlen-huang-rueckkehr-li.3578585",
+   "title": "USA: Nvidia verdoppelt Umsatz und Gewinn",
+   "published_at": "2026-11-18T01:46:48+00:00",
+   "summary_ja": "売上高と利益が倍増し、フアン氏は復帰の意向だが議長が拒んだと伝えている。",
+   "angle": "好決算と復帰問題",
+   "story_id": "422abff5-355f-4554-9939-acb1359d89e7"
+  },
   {
    "id": "73555e0f-92b1-426f-b58d-4652c0af07ab",
    "outlet_id": "wsj",
    "url": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews",
    "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
    "published_at": "2026-11-16T22:35:00+00:00",
-   "summary_ja": "商務省の規則が中国へのチップ出荷をさらに制限しようとするものだと簡潔に伝える。",
-   "angle": "規則の概要",
+   "summary_ja": "商務省の規則が中国向けの半導体出荷をさらに制限することを伝えている。",
+   "angle": "規則の内容",
    "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
   },
   {
@@ -3222,8 +4009,8 @@
    "url": "https://www.channelnewsasia.com/world/us-curb-chinas-access-ai-chips-trump-heads-asia-6556726",
    "title": "US to curb China's access to AI chips as Trump heads to Asia",
    "published_at": "2026-11-16T21:05:00+00:00",
-   "summary_ja": "米国がトランプ氏のアジア訪問を前に、他国経由での中国の先端チップ入手を阻む規制を打ち出したと伝える。",
-   "angle": "迂回入手の阻止",
+   "summary_ja": "米国が、トランプ氏のアジア訪問を前に中国のAI半導体へのアクセスを制限しようとしていると伝えている。",
+   "angle": "規制の狙い",
    "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
   },
   {
@@ -3232,7 +4019,7 @@
    "url": "https://www.chosun.com/international/international_general/2026/11/17/G4ZTCOJSG5STANRYMNQTQZLEGQ/",
    "title": "뉴욕증시 3거래일째 하락… 엔비디아 쇼크·대중 AI 칩 추가 규제에 휘청",
    "published_at": "2026-11-16T21:31:37+00:00",
-   "summary_ja": "ニューヨーク株が3日続落し、エヌビディアの不安と中国向けAIチップの追加規制が半導体株を揺らしたと伝える。",
+   "summary_ja": "ニューヨーク株が3日続落し、エヌビディアを巡る不安と新規制で半導体株が大きく揺れたと伝えている。",
    "angle": "株式市場への影響",
    "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
   },
@@ -3242,8 +4029,8 @@
    "url": "https://www.straitstimes.com/world/united-states/singapore-studying-new-us-rules-on-ai-chip-exports-that-may-hit-data-centres",
    "title": "Singapore studying new US rules on AI chip exports that may hit data centres",
    "published_at": "2026-11-16T21:45:00+00:00",
-   "summary_ja": "シンガポールが、東南アジアのデータセンターに影響し得る米新規則を検討していると報じる。",
-   "angle": "データセンターへの影響",
+   "summary_ja": "シンガポールが新規則を検討中で、東南アジアのデータセンターに打撃が出る可能性を伝えている。",
+   "angle": "データセンター影響",
    "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
   },
   {
@@ -3252,7 +4039,7 @@
    "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-china-export-handel-lutnick-bessent-trump-halbleiter-nvidia-li.3578585",
    "title": "USA: Neue US-Einschränkungen für Export von KI-Chips",
    "published_at": "2026-11-17T02:01:23+00:00",
-   "summary_ja": "トランプ政権が中国のAI開発を抑えるため輸出条件を厳しくしたが、政権内は一枚岩でないようだと伝える。",
+   "summary_ja": "米政権が中国のAI開発を抑えるため輸出条件を厳しくしたが、内部の意見は一致していないようだと伝えている。",
    "angle": "政権内の不一致",
    "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
   },
@@ -3262,8 +4049,8 @@
    "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
    "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
    "published_at": "2026-11-17T02:52:56+00:00",
-   "summary_ja": "エヌビディアをめぐる問題の中、マレーシアなど5か国に輸出許可要件を課すと伝える。",
-   "angle": "対象5か国",
+   "summary_ja": "エヌビディアを巡る問題の中、5カ国に輸出許可の要件が課されると伝えている。",
+   "angle": "対象国と要件",
    "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
   },
   {
@@ -3272,9 +4059,229 @@
    "url": "https://www.bangkokpost.com/world/3356215/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs",
    "title": "Singapore seeks 'trusted access' to AI chips after new US curbs",
    "published_at": "2026-11-17T03:21:00+00:00",
-   "summary_ja": "新規制を受け、シンガポールが先端AIチップへの「信頼できるアクセス」を求めていると伝える。",
-   "angle": "シンガポールの対応",
+   "summary_ja": "シンガポールが、米規制を受けて先端AI半導体への「信頼できるアクセス」を求めていると伝えている。",
+   "angle": "シンガポールの要望",
    "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "77209ef5-6980-4a28-bceb-888ca71ce6cf",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/opinion/chips-china-and-trump-652e30dc?mod=rss_worldnews",
+   "title": "Opinion | Chips, China and Trump",
+   "published_at": "2026-11-17T21:39:00+00:00",
+   "summary_ja": "論説で、エヌビディアを巡る問題の背後にAI安全保障競争という大きな構図があると論じている。",
+   "angle": "安全保障競争",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "a5a77385-ad41-4714-81de-17db1c35e7b9",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/opinion/the-great-ai-chip-heist-is-here-df70c466?mod=rss_worldnews",
+   "title": "Opinion | The Great AI Chip Heist Is Here",
+   "published_at": "2026-11-17T21:31:00+00:00",
+   "summary_ja": "論説で、中国の計算資源の最大3分の1が密輸チップ由来の可能性があると指摘している。",
+   "angle": "密輸の問題",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "7b5bd446-760b-4c16-9cae-f21f4052e97e",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_worldnews",
+   "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
+   "published_at": "2026-11-17T06:49:00+00:00",
+   "summary_ja": "米国の規制強化でAI投資への懸念が強まり、アジア株が下落したと伝えている。",
+   "angle": "アジア株の下落",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "54e3354e-562d-47a4-8448-fc469386b17a",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+   "title": "How new US chip restrictions on South East Asia will hit China",
+   "published_at": "2026-11-17T14:25:45+00:00",
+   "summary_ja": "東南アジア向けの新規制が、計算能力に大きく依存する中国にどう響くかを解説している。",
+   "angle": "中国への打撃",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "bf35c06c-0e3c-4339-8b55-cb54f5cec299",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/china-slams-new-us-chip-curbs-vows-necessary-measures-6559376",
+   "title": "China slams new US chip curbs, vows 'necessary measures'",
+   "published_at": "2026-11-17T13:47:00+00:00",
+   "summary_ja": "中国が新規制を批判して「必要な措置」を取ると表明し、世界のデータセンターに米国の許可が必要になる点も伝えている。",
+   "angle": "中国の対抗姿勢",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "baea9a4a-1922-4097-a790-e07dc7f47d40",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/asia/us-ai-chips-china-southeast-asia-data-centres-6558256",
+   "title": "CNA Explains: Why is the US targeting Southeast Asia in its bid to curb China's access to AI chips?",
+   "published_at": "2026-11-17T08:48:21+00:00",
+   "summary_ja": "米国が東南アジアを標的にする理由と、地域のデータセンター産業への影響を解説している。",
+   "angle": "東南アジアへの影響",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "4a926366-3280-4958-966c-3d156d14e0fe",
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1374459.shtml",
+   "title": "Chinese FM slams new US rule curbing China’s access to AI chip",
+   "published_at": "2026-11-17T01:31:56+00:00",
+   "summary_ja": "中国外務省が、中国のAI半導体アクセスを制限する新規則を批判したと伝えている。",
+   "angle": "中国外務省の批判",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "b6f73ca4-2b24-4a58-b405-279330c83890",
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1374456.shtml",
+   "title": "China slams new US rule curbing China’s access to advanced chips as typical economic coercion, vows to safeguard its legitimate rights and interests",
+   "published_at": "2026-11-17T00:27:11+00:00",
+   "summary_ja": "中国が新規則を典型的な経済的威圧と批判し、正当な権益を守ると表明したと伝えている。",
+   "angle": "中国の反発",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "7d3ff6a2-efc6-43ec-96b9-1e3e4376d20b",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/china-warns-us-of-retaliation-over-new-ai-chip-restrictions",
+   "title": "China warns US of retaliation over new AI chip restrictions",
+   "published_at": "2026-11-18T02:00:00+00:00",
+   "summary_ja": "中国が米国に報復を警告し、技術規制が米中対立の中心に戻るおそれがあると伝えている。",
+   "angle": "報復警告",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "7e4f8bc7-cb47-4d74-9aef-45a33693287c",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/business/2026/11/17/ri-defends-position-ready-to-discuss-us-chip-curbs",
+   "title": "RI defends position, ready to discuss US chip curbs",
+   "published_at": "2026-11-17T13:00:20+00:00",
+   "summary_ja": "インドネシア政府が自国の立場を擁護しつつ、米国の半導体規制について協議する用意があると伝えている。",
+   "angle": "インドネシアの対応",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "d1a0743e-9172-4c63-9bd2-de78bb211e4d",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/business/2026/11/17/us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia",
+   "title": "US to curb China's access to AI chips as Trump heads to Asia",
+   "published_at": "2026-11-17T08:30:52+00:00",
+   "summary_ja": "米国がトランプ氏のアジア訪問を前に、中国のAI半導体アクセスを制限しようとしていると伝えている。",
+   "angle": "規制の狙い",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "563963fd-5db7-49b4-af10-c15ed950477a",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/world/2026/11/17/singapore-seeks-trusted-access-to-ai-chips-after-us-curbs",
+   "title": "Singapore seeks 'trusted access' to AI chips after US curbs",
+   "published_at": "2026-11-17T04:18:18+00:00",
+   "summary_ja": "米規制を受け、シンガポールが先端AI半導体への信頼できるアクセスを求めていると伝えている。",
+   "angle": "シンガポールの要望",
+   "story_id": "4c457e21-320f-469c-8269-d3f78471ee7d"
+  },
+  {
+   "id": "53e6f4d4-cd26-40b6-8062-222e0f1509bf",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "published_at": "2026-11-17T18:27:27+00:00",
+   "summary_ja": "新たな強硬方針の発表後で初めての制裁だと伝える。",
+   "angle": "新方針後で初",
+   "story_id": "a09c55a6-fb75-4edf-80d0-c6aad4d9e551"
+  },
+  {
+   "id": "7fbc3b6e-535a-4a82-b848-95a8548d745e",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-18/UK-sanctions-8-companies-involved-in-West-Bank-settlements-expansion-1Sa7QwLR4li/p.html",
+   "title": "UK sanctions eight companies involved in West Bank settlements expansion",
+   "published_at": "2026-11-18T08:39:00+00:00",
+   "summary_ja": "英国が入植地拡大に関わる8社を制裁したと見出しで伝える。",
+   "angle": "8社への制裁",
+   "story_id": "a09c55a6-fb75-4edf-80d0-c6aad4d9e551"
+  },
+  {
+   "id": "3974fc58-c319-47cb-a01f-65f0004f7d25",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+   "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+   "published_at": "2026-11-17T21:28:31+00:00",
+   "summary_ja": "二国家解決を守るため、違法な入植地を支える8社に英国が制裁を科したと伝える。",
+   "angle": "二国家解決の保護",
+   "story_id": "a09c55a6-fb75-4edf-80d0-c6aad4d9e551"
+  },
+  {
+   "id": "1cab7189-10b3-45a2-9af3-75a509031cde",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2045188/uk-sanctions-israeli-firms-helping-build-west-bank-settlements",
+   "title": "UK sanctions Israeli firms helping build West Bank settlements",
+   "published_at": "2026-11-17T13:26:46+00:00",
+   "summary_ja": "英国が入植地建設に関わるイスラエル企業8社を制裁し、外相が企業に関与しないよう呼びかけたと伝える。",
+   "angle": "外相の呼びかけ",
+   "story_id": "a09c55a6-fb75-4edf-80d0-c6aad4d9e551"
+  },
+  {
+   "id": "adc3266d-3236-4da3-a16c-aa73f90b107f",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3356515/uk-sanctions-israeli-firms-helping-build-west-bank-settlements",
+   "title": "UK sanctions Israeli firms helping build West Bank settlements",
+   "published_at": "2026-11-17T17:45:00+00:00",
+   "summary_ja": "英国が入植活動に関連する個人・団体への規制を重ね、今回8社を制裁したと伝える。",
+   "angle": "規制強化の一環",
+   "story_id": "a09c55a6-fb75-4edf-80d0-c6aad4d9e551"
+  },
+  {
+   "id": "892f1feb-c9d6-49ff-81df-839283221923",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Mutmassliche-Wahleinmischung-in-Israel/!6230624/",
+   "title": "Mutmaßliche Wahleinmischung in Israel: Opposition wirft Netanjahu „versuchten Staatsstreich“ vor",
+   "published_at": "2026-11-16T15:03:00+00:00",
+   "summary_ja": "野党が首相の「クーデター未遂」を非難し、票買収の主張は根拠がなかったと伝える。",
+   "angle": "野党の非難",
+   "story_id": "c62580a6-316d-412f-8187-c742dfd6a998"
+  },
+  {
+   "id": "216ddaef-c464-464c-ac0a-0c04a57e9381",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+   "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+   "published_at": "2026-11-16T20:00:07+00:00",
+   "summary_ja": "野党が首相府によるアラブ系政党への罠を「クーデター」と呼び、調査を求めていると伝える。",
+   "angle": "野党の調査要求",
+   "story_id": "c62580a6-316d-412f-8187-c742dfd6a998"
+  },
+  {
+   "id": "bcc95056-9858-456c-b96a-f731cf3904b3",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2045063/israeli-leaders-slam-netanyahus-attempted-election-coup",
+   "title": "Israeli leaders slam Netanyahu’s ‘attempted election coup’",
+   "published_at": "2026-11-17T03:03:36+00:00",
+   "summary_ja": "首相府の関与報道、3人の釈放、司法長官の盗聴却下、野党の調査要求を詳しく伝える。",
+   "angle": "経緯と手続き",
+   "story_id": "c62580a6-316d-412f-8187-c742dfd6a998"
+  },
+  {
+   "id": "5a01335c-26b1-41b6-a01c-195b2c971cdf",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/article6afc0a759893cadb7bd15810/vorwurf-der-wahlmanipulation-in-israel-steht-nun-ein-gefaehrlicher-verdacht-im-raum.html",
+   "title": "In Israel steht nun ein gefährlicher Verdacht im Raum",
+   "published_at": "2026-11-17T10:44:29+00:00",
+   "summary_ja": "調査報道が首相府を疑惑の中心に据え、職員が警察を意図的に欺いたのかを問う。",
+   "angle": "首相府の関与",
+   "story_id": "c62580a6-316d-412f-8187-c742dfd6a998"
+  },
+  {
+   "id": "fcf5b9aa-00ef-4e66-a389-310f2d066e24",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/11/18/israel-s-police-and-domestic-intelligence-accused-of-serving-netanyahu-s-camp-in-challenge-to-election-results_6782932_4.html",
+   "title": "Israel's police and domestic intelligence accused of serving Netanyahu's camp in challenge to election results",
+   "published_at": "2026-11-17T23:53:11+00:00",
+   "summary_ja": "具体的証拠がないまま、警察とシン・ベトが首相側に利すると批判されていると伝える。",
+   "angle": "捜査機関への批判",
+   "story_id": "c62580a6-316d-412f-8187-c742dfd6a998"
   },
   {
    "id": "8a3fa9f6-34d7-412b-826b-946658ea1a76",
@@ -3367,34 +4374,274 @@
    "story_id": "38ce2ecc-a5ce-4baf-9196-ab4a508c4cb5"
   },
   {
-   "id": "7b4a84b6-3f3b-4ee7-baf1-b2319dfc24cf",
+   "id": "39f5cc24-0e41-491f-a976-2effc039dddc",
+   "outlet_id": "nyt",
+   "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+   "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+   "published_at": "2026-11-16T17:36:21+00:00",
+   "summary_ja": "5カ国が拒否された難民申請者向けの拠点を作ろうとしていると伝え、要点を整理している。",
+   "angle": "要点の整理",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "529fc8b8-b409-48d5-b671-7467813ef793",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+   "title": "Five EU countries announce migrant deportation centre in Rwanda",
+   "published_at": "2026-11-16T23:20:45+00:00",
+   "summary_ja": "5カ国が、難民申請を退けられた人向けの「リターン・ハブ」を発表したと伝えている。",
+   "angle": "発表の概要",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "39aef1b8-6a9c-4be1-bfd5-9892eed4b542",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/eu-nations-unveil-rwanda-deal-migrant-return-hub-6556451",
+   "title": "EU nations unveil Rwanda deal for migrant return hub",
+   "published_at": "2026-11-16T19:06:23+00:00",
+   "summary_ja": "5カ国が滞在資格のない移民の送還を進める拠点で合意したと伝えている。",
+   "angle": "合意の概要",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "8f5c8564-7e0b-48e3-a347-f3f160503503",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/europe/article/3374648/five-eu-countries-unveil-plans-rwanda-deportation-hub",
+   "title": "Five EU countries unveil plans for Rwanda deportation hub",
+   "published_at": "2026-11-16T18:28:51+00:00",
+   "summary_ja": "人権団体が虐待の危険を指摘して非難し、ルワンダとの交渉が続いていることも伝えている。",
+   "angle": "人権団体の非難",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "fe1c37af-c660-4b9c-b94d-bb79c6fe97d4",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/plus6af9946b4495f9bd85b80c51/return-hubs-ich-bete-weiter-dafuer-umgesiedelt-zu-werden-das-berichten-asylsuchende-aus-ruanda.html",
+   "title": "„Ich bete weiter dafür, umgesiedelt zu werden“ – Das berichten Asylsuchende aus Ruanda",
+   "published_at": "2026-11-16T09:38:26+00:00",
+   "summary_ja": "ルワンダの既存の中継施設で暮らす庇護希望者の声から、拠点計画の手本となる現状を伝えている。",
+   "angle": "現地の当事者",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "18cda085-e6d0-4a35-888d-65bb8d1a7fa7",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Abschiebe-Abkommen-mit-Ruanda/!6230614/",
+   "title": "Abschiebe-Abkommen mit Ruanda: Point of no return ist überschritten",
+   "published_at": "2026-11-16T19:04:00+00:00",
+   "summary_ja": "EU各国が合意し、2027年に拠点を稼働させる方針だが、後戻りできない段階を越えたと論じている。",
+   "angle": "批判的な論評",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "47aa8967-6084-4570-a169-e84180971743",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Deutsche-Abschiebezentren-in-Ruanda/!6230293/",
+   "title": "Deutsche Abschiebezentren in Ruanda: Ein obszöner Deal",
+   "published_at": "2026-11-16T17:04:00+00:00",
+   "summary_ja": "ルワンダに行ったことのない人々を送ることになり、道義的な破局を招くと批判している。",
+   "angle": "強い批判",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "115c1710-0038-4dc1-a700-6ca2c0d735fd",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Fluechtlingsabschiebungen-aus-Europa/!6230317/",
+   "title": "Flüchtlingsabschiebungen aus Europa: Dobrindt und seine Kollegen setzen auf Ruanda",
+   "published_at": "2026-11-16T11:11:00+00:00",
+   "summary_ja": "ドブリント内相らが、国際資金による施設への受け入れを前提にルワンダを頼る方針だと伝えている。",
+   "angle": "各国の方針",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "773fef91-72b5-4e3f-9227-329d4266adce",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
+   "title": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
+   "published_at": "2026-11-16T17:07:43+00:00",
+   "summary_ja": "5カ国が来年、最初の送還拠点を開く計画だと伝えている。",
+   "angle": "計画の概要",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "1ef4bf0c-cef8-4b29-9649-5585e06ee111",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
+   "title": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
+   "published_at": "2026-11-16T05:36:50+00:00",
+   "summary_ja": "ルワンダが送還拠点に適しているのかを問い、人権団体の警告を伝えている。",
+   "angle": "適地かの検証",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "55d28aa4-c3f2-4048-94f9-9047bb7ce3fd",
    "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/united-states/us-judge-tosses-new-visa-rules-for-foreign-students-journalists",
-   "title": "US judge tosses new visa rules for foreign students, journalists",
-   "published_at": "2026-11-16T22:23:00+00:00",
-   "summary_ja": "新規則では留学生の滞在が4年に制限される内容だったとして、判決を伝えている。",
-   "angle": "規則の具体内容",
-   "story_id": "4cc5b2ef-cd65-4b78-a0ad-01d6bb77e920"
+   "url": "https://www.straitstimes.com/world/europe/five-eu-countries-to-announce-rwanda-deportation-hub-scheme",
+   "title": "Five EU countries unveil plans for Rwanda deportation hub",
+   "published_at": "2026-11-16T18:00:00+00:00",
+   "summary_ja": "移民が帰国、定住、他国への移動を選べる施設に送る計画の仕組みを伝えている。",
+   "angle": "計画の仕組み",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
   },
   {
-   "id": "6de8405a-dcb0-42c5-aa54-25c2d6edf1c4",
+   "id": "28bdda2c-ef39-4693-aacd-9dc10e2b8b75",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+   "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+   "published_at": "2026-11-17T01:10:59+00:00",
+   "summary_ja": "試験的な計画で、法的な異議申し立てが予想され、重大な道義的失敗との批判も出ていると伝えている。",
+   "angle": "法的課題と批判",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "28408079-73ba-494b-a24f-4f134d7d70c6",
+   "outlet_id": "sz",
+   "url": "https://www.sueddeutsche.de/politik/ruanda-abschiebezentrum-deutschland-asylpolitik-rueckkehrzentrum-li.3581059",
+   "title": "Abschiebezentrum in Afrika: Was Deutschland in Ruanda plant",
+   "published_at": "2026-11-16T16:14:15+00:00",
+   "summary_ja": "ドブリント内相が迅速な実施を示す一方、独裁的な国との協力に連立内でも批判があると伝えている。",
+   "angle": "連立内の批判",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "34867a6e-4701-4ca2-a2ee-02a4616ed895",
+   "outlet_id": "sz",
+   "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ruanda-abschiebungen-dobrindt-li.3581568",
+   "title": "Podcast: „Auf den Punkt“: „Return Hub“ in Ruanda: Abschiebungen in eine Diktatur",
+   "published_at": "2026-11-16T15:44:46+00:00",
+   "summary_ja": "ルワンダ送還を、人権状況に疑問のある国への追放として問うポッドキャストである。",
+   "angle": "人権への疑問",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "0dedf2af-2c1f-4cc5-968e-25eb521a561a",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/migration-als-orban-in-serbien-ein-ruanda-modell-hatte-201686851.html",
+   "title": "Migration: Orbáns Ruanda heißt Serbien",
+   "published_at": "2026-11-16T19:22:49+00:00",
+   "summary_ja": "ルワンダ方式を、オルバン氏らが自らの正しさの裏づけと見うるかという観点から論じている。",
+   "angle": "政治的な波及",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "12480911-479b-494d-9af4-47b5793a926f",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/ruanda-modell-ohne-abschreckung-geht-es-nicht-201688293.html",
+   "title": "Ruanda-Modell: Ohne Abschreckung geht es nicht",
+   "published_at": "2026-11-16T15:43:54+00:00",
+   "summary_ja": "ルワンダとの交渉は正しいとしつつ、転換にはEU全加盟国の参加と抑止が要ると論じている。",
+   "angle": "賛成の論評",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "3962f85e-478e-4d37-a1b5-1cea7a3cc0da",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/erstes-eu-abschiebezentrum-soll-2027-in-ruanda-eroeffnen-201686820.html",
+   "title": "Rückkehrzentren: Erstes EU-Abschiebezentrum soll 2027 in Ruanda eröffnen",
+   "published_at": "2026-11-16T15:42:47+00:00",
+   "summary_ja": "ドイツと4カ国が第三国への移送を目指し、最初の拠点を2027年に開く見通しと報じている。",
+   "angle": "2027年開設",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "38e1dbd7-dc6a-40af-be9e-53316f6c7b6d",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+   "title": "EU countries announce migrant deportation centre in Rwanda",
+   "published_at": "2026-11-17T01:12:28+00:00",
+   "summary_ja": "5カ国がルワンダを送還拠点として使うと発表したことを伝えている。",
+   "angle": "発表の概要",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "af01f09f-6736-430e-8f78-769f9be288f6",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+   "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+   "published_at": "2026-11-16T19:26:40+00:00",
+   "summary_ja": "5カ国の発表と、47団体が計画の撤回を求めた共同声明を伝えている。",
+   "angle": "団体の撤回要求",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "e0890777-6bc8-490d-91f7-6ff999b62d96",
    "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/11/16/us-judge-strikes-down-new-visa-rules-for-foreign-students-and-journalists_6782437_4.html",
-   "title": "US judge strikes down new visa rules for foreign students and journalists",
-   "published_at": "2026-11-16T21:11:53+00:00",
-   "summary_ja": "セイラー判事が新ビザ政策を恣意的で裁量の濫用、法に沿わないと断じて無効にした。",
-   "angle": "判事の判断理由",
-   "story_id": "4cc5b2ef-cd65-4b78-a0ad-01d6bb77e920"
+   "url": "https://www.lemonde.fr/en/international/article/2026/11/17/five-european-countries-plan-to-open-a-return-hub-in-rwanda-signaling-a-shift-in-european-immigration-policy_6782602_4.html",
+   "title": "Five European countries plan to open a return hub in Rwanda, signaling a shift in European immigration policy",
+   "published_at": "2026-11-17T03:22:06+00:00",
+   "summary_ja": "5カ国の発表を、欧州の移民政策の転換を示す動きとして位置づけている。",
+   "angle": "政策転換",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
   },
   {
-   "id": "af838e79-cc26-459c-8788-ddd928ec29e2",
+   "id": "96457d4d-639a-4328-9653-fdd47cbeed89",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/11/16/five-eu-nations-reveal-deal-to-deport-migrants-to-rwanda-hub_6782206_4.html",
+   "title": "Five EU nations reveal deal to deport migrants to Rwanda hub",
+   "published_at": "2026-11-16T16:33:48+00:00",
+   "summary_ja": "5カ国が人権団体の懸念の中でルワンダに送還拠点を開く合意を明らかにしたと伝えている。",
+   "angle": "発表と懸念",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "1c9ed065-0bb8-4437-a2d7-2c14277fc288",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/video6afc20e4028f6e41ab3f23cd/return-hubs-in-ruanda-wen-deutschland-abschieben-will-und-was-der-plan-bringen-soll.html",
+   "title": "„Das Risiko, in einem solchen Return Hub zu landen, ist verschwindend gering“",
+   "published_at": "2026-11-17T09:57:47+00:00",
+   "summary_ja": "拠点に送られる危険はごく小さく、狙いは抑止効果だという編集者の見方を紹介している。",
+   "angle": "抑止効果",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "8b262d3e-3c17-4baa-a11a-b9b245a25c87",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Deutsches-Abschiebezentrum-in-Ruanda/!6230916/",
+   "title": "Deutsches Abschiebezentrum in Ruanda: Wie die Flüchtlingsaufnahme Ruanda nutzen soll",
+   "published_at": "2026-11-17T17:15:00+00:00",
+   "summary_ja": "ルワンダ政府が職業訓練や雇用面で欧州に期待し、国連機関が支援しうると伝えている。",
+   "angle": "ルワンダの期待",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "a5164358-cdac-48f4-b5ec-d0be2f55543d",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Abschiebefantasien-nach-Afrika/!6230808/",
+   "title": "Abschiebefantasien nach Afrika: Nicht Ruanda ist das Problem",
+   "published_at": "2026-11-17T15:45:00+00:00",
+   "summary_ja": "ドイツの計画は非現実的としつつ、批判側がルワンダを悪者にするのも誤りだと論じている。",
+   "angle": "批判側への異論",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "37885389-9e7c-400b-820b-8fd93de793f0",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/international_general/2026/11/18/VTECAJR5JND2HJ2RG5DCOIFE3Y/",
+   "title": "난민 밀려들자… EU 5국 “르완다에 송환 시설 만들어 추방”",
+   "published_at": "2026-11-17T15:44:00+00:00",
+   "summary_ja": "難民の流入を受け、EU5カ国がルワンダに送還施設を作る計画だと伝えている。",
+   "angle": "流入への対応",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "ef416751-a3d0-4310-abc7-e90785562fbd",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/return-hubs-in-ruanda-was-will-die-eu-was-will-ruanda-201690982.html",
+   "title": "Return Hubs: Was will Ruanda?",
+   "published_at": "2026-11-17T18:54:36+00:00",
+   "summary_ja": "ルワンダの内相が詳細への質問をかわし、ウガンダも協議を認めたと伝えている。",
+   "angle": "ルワンダの対応",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+  },
+  {
+   "id": "c8cefcbb-9ea0-488f-9e23-dfbacf915601",
    "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3356179/us-judge-tosses-new-visa-rules-for-foreign-students-journalists",
-   "title": "US judge tosses new visa rules for foreign students, journalists",
-   "published_at": "2026-11-16T21:45:00+00:00",
-   "summary_ja": "連邦判事が、留学生や記者の滞在・就労期間を厳しく制限するトランプ政権の政策を無効とした。",
-   "angle": "政策の無効化",
-   "story_id": "4cc5b2ef-cd65-4b78-a0ad-01d6bb77e920"
+   "url": "https://www.bangkokpost.com/world/3356904/eu-countries-migrant-return-hub-plan-for-rwanda-sparks-concern",
+   "title": "EU countries' migrant return hub plan for Rwanda sparks concern",
+   "published_at": "2026-11-17T19:45:00+00:00",
+   "summary_ja": "国連や人権団体の懸念にかかわらず、施設は首都に置かれるとルワンダ政府筋が語ったと伝えている。",
+   "angle": "設置場所",
+   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
   },
   {
    "id": "f9e75b7e-a0bd-4332-ac94-3012b7886d12",
@@ -3402,8 +4649,8 @@
    "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
    "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
    "published_at": "2026-11-16T00:03:29+00:00",
-   "summary_ja": "全土の運航停止から2日たっても数千便が欠航・遅延し、通常運航の回復は月曜になり得ると伝えた。",
-   "angle": "欠航と遅延",
+   "summary_ja": "全土の運航停止から2日後も数千便が欠航・遅延し、通常運航の回復は月曜になり得ると伝えている。",
+   "angle": "遅延と回復時期",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3412,8 +4659,8 @@
    "url": "https://www.channelnewsasia.com/world/us-airports-expected-return-normal-after-three-days-disruption-6553621",
    "title": "US airports expected to return to normal after three days of disruption",
    "published_at": "2026-11-15T23:47:00+00:00",
-   "summary_ja": "13日の異例の離陸停止命令後、3日間の混乱を経て米国の空港が平常に戻る見込みだと伝えた。",
-   "angle": "平常化の見込み",
+   "summary_ja": "米航空当局の離陸停止命令の後、3日間の混乱を経て空港が平常に戻る見通しだと伝えている。",
+   "angle": "平常化の見通し",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3422,8 +4669,8 @@
    "url": "https://www.channelnewsasia.com/world/us-air-travel-disruption-faa-trump-flight-shutdown-6553191",
    "title": "Trump administration warns US air travellers of another messy day",
    "published_at": "2026-11-15T15:42:00+00:00",
-   "summary_ja": "さらに約1,900便が欠航し、混乱は3日目で、完全回復は月曜にずれ込むと政権が警告した。",
-   "angle": "混乱の長期化",
+   "summary_ja": "約1,900便が追加で欠航し、混乱は3日目に入って全面復旧は月曜にずれ込むと伝えている。",
+   "angle": "欠航と復旧遅れ",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3432,7 +4679,7 @@
    "url": "https://www.chosun.com/international/international_general/2026/11/16/HA3DCMBTMY2DANJZGFTGGZJYGQ/",
    "title": "美 항공관제 마비 여파 사흘째… 누적 결항 1만7000편 돌파",
    "published_at": "2026-11-15T22:07:04+00:00",
-   "summary_ja": "累計欠航が1万7000便を超え、9・11以降で最長の離陸停止となり、原因は通信の過負荷とされると伝えた。",
+   "summary_ja": "累計欠航が1万7000便を超え、9・11以降で最長の離陸中断になったと伝えている。",
    "angle": "累計欠航と原因",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
@@ -3442,8 +4689,8 @@
    "url": "https://www.chosun.com/international/international_general/2026/11/16/MY3DKYTCGBQTAMRWGFTDQZJUMM/",
    "title": "美 항공대란 이틀 만에 입 연 트럼프 “바이든 탓”",
    "published_at": "2026-11-15T15:59:27+00:00",
-   "summary_ja": "トランプ氏が初めて態度を示し、前政権に責任を転嫁して管制システムの刷新と予算を議会に求めた。",
-   "angle": "前政権への批判",
+   "summary_ja": "トランプ氏が初めて見解を示し、バイデン前政権を非難して管制システム更新の予算を議会に求めたと伝えている。",
+   "angle": "前政権への責任転嫁",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3452,8 +4699,8 @@
    "url": "https://www.straitstimes.com/world/united-states/us-air-travel-disruptions-continue-into-third-day",
    "title": "US air travel disruptions continue into third day",
    "published_at": "2026-11-15T16:49:37+00:00",
-   "summary_ja": "混乱は3日目に入り、ダフィー運輸長官は16日までに正常化すると見通した。",
-   "angle": "正常化の見通し",
+   "summary_ja": "混乱が3日目に入り、運輸長官が16日までの正常化を見込んでいると伝えている。",
+   "angle": "運輸長官の見通し",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3462,8 +4709,8 @@
    "url": "https://news.cgtn.com/news/2026-11-15/news-1S6a3Z8FGCc/p.html",
    "title": "US AIR TRAVEL DISRUPTION WILL BE OVER 'END OF TODAY, END OF TOMORROW', TRANSPORTATION SECRETARY DUFFY TELLS NBC",
    "published_at": "2026-11-15T22:06:00+00:00",
-   "summary_ja": "ダフィー長官がNBCで、混乱は今日か明日の終わりまでに収まると述べたと伝えた。",
-   "angle": "長官の収束見通し",
+   "summary_ja": "運輸長官がNBCに、混乱は今日か明日の終わりに収まると語ったと見出しで伝えている。",
+   "angle": "収束の見通し",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3472,8 +4719,8 @@
    "url": "https://www.abc.net.au/news/2026-11-16/trump-breaks-silence-after-airline-ground-stop/107388942",
    "title": "Trump blames Biden for airline ground stop",
    "published_at": "2026-11-15T22:40:48+00:00",
-   "summary_ja": "トランプ氏がバイデン政権から混乱を引き継いだと主張し、管制刷新の資金承認を議会に求めたと伝えた。",
-   "angle": "前政権批判と資金",
+   "summary_ja": "トランプ氏がバイデン前政権を非難し、管制システム更新に議会の資金承認が必要だと述べたと伝えている。",
+   "angle": "責任論と予算要求",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3482,8 +4729,8 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/11/15/trump-admin-warns-air-travelers-of-another-messy-day-at-us-airports_6781744_4.html",
    "title": "Trump admin warns air travelers of another messy day at US airports",
    "published_at": "2026-11-15T22:02:05+00:00",
-   "summary_ja": "約2,000便が欠航し、沈黙していたトランプ氏が前任のバイデン氏に責任を負わせたと伝えた。",
-   "angle": "欠航と責任転嫁",
+   "summary_ja": "ほぼ2,000便が欠航し、トランプ氏が沈黙を破って前任のバイデン氏を非難したと伝えている。",
+   "angle": "欠航とトランプ氏発言",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3492,7 +4739,7 @@
    "url": "https://tass.com/world/2218413",
    "title": "Trump accuses Biden administration of damaging US civil aviation",
    "published_at": "2026-11-15T21:47:20+00:00",
-   "summary_ja": "トランプ氏が、前政権は老朽化した制度をさらに悪化させたと非難したと伝えた。",
+   "summary_ja": "トランプ氏が、前政権が老朽システムを悪化させたと非難したと伝えている。",
    "angle": "前政権への非難",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
@@ -3502,8 +4749,8 @@
    "url": "https://www.dawn.com/news/2044632/trump-admin-warns-us-air-travellers-of-another-messy-day",
    "title": "Trump admin warns US air travellers of another messy day",
    "published_at": "2026-11-15T19:02:37+00:00",
-   "summary_ja": "さらに数百便が欠航し、技術大国でなぜ混乱が起きたのかという疑問が残っていると伝えた。",
-   "angle": "原因への疑問",
+   "summary_ja": "数百便が追加欠航し、経済大国でなぜこうした混乱が起きたのかという疑問が残っていると伝えている。",
+   "angle": "混乱の原因への疑問",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3512,7 +4759,7 @@
    "url": "https://www.bangkokpost.com/world/3355096/trump-admin-warns-air-travelers-of-another-messy-day",
    "title": "Trump admin warns air travelers of another messy day",
    "published_at": "2026-11-15T15:45:00+00:00",
-   "summary_ja": "離陸停止命令による混乱がもう1日続き得ると政権が述べ、正常化の時期が後ろにずれた。",
+   "summary_ja": "政権が、離陸停止命令による混乱がもう1日続き得ると述べ、正常化の時期が遅れたと伝えている。",
    "angle": "正常化の遅れ",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
@@ -3522,8 +4769,8 @@
    "url": "https://www.straitstimes.com/world/united-states/us-air-travel-largely-returns-to-normal-as-funding-fight-brews",
    "title": "US air travel recovery stumbles on United pause as funding fight brews",
    "published_at": "2026-11-16T20:49:01+00:00",
-   "summary_ja": "約2.8万便が遅れ、経済的影響は数十億ドルに上るとの長官の試算と、資金をめぐる対立を伝えた。",
-   "angle": "経済的影響と資金",
+   "summary_ja": "約2万8000便が遅れた混乱の経済的影響が数十億ドル規模との試算と、ユナイテッド航空の一時停止による復旧のつまずきを伝えている。",
+   "angle": "経済損失と資金",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3532,8 +4779,8 @@
    "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
    "title": "Nationwide ground stop could cost US airlines hundreds of millions",
    "published_at": "2026-11-16T20:05:06+00:00",
-   "summary_ja": "離陸停止で航空会社に数億ドルの損失が出得て、長官が500億ドルを議会に求めていると伝えた。",
-   "angle": "経済的な損失",
+   "summary_ja": "全土の離陸停止が航空会社に数億ドルの損失を与え得ると伝え、運輸長官が議会に500億ドルを求めたとしている。",
+   "angle": "航空会社の損失",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3542,8 +4789,18 @@
    "url": "https://tass.com/world/2219267",
    "title": "FBI seizes equipment behind major US air traffic disruption — CNN",
    "published_at": "2026-11-17T00:16:01+00:00",
-   "summary_ja": "CNNによるとFBIが機器を押収し、事案の発生状況を再現する方針だと伝えた。",
-   "angle": "FBIの捜査",
+   "summary_ja": "FBIが混乱に関わる機器を押収し、発生時の状況の再現を目指しているとのCNN報道を伝えている。",
+   "angle": "FBIの機器押収",
+   "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
+  },
+  {
+   "id": "ff6f19eb-6fe6-44b2-90f2-dc4ab09ae9ed",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/united-states/us-aviation-authority-pauses-installation-of-gear-tied-to-messy-flight-halt",
+   "title": "US aviation authority pauses installation of gear tied to messy flight halt",
+   "published_at": "2026-11-17T23:49:35+00:00",
+   "summary_ja": "米航空当局が関連機器の設置を止め、運輸長官が通信網の監視に外部委託を検討していると伝えている。",
+   "angle": "設置停止と監視",
    "story_id": "ce22e254-30dc-4f7c-8ed8-c4105dcaf00f"
   },
   {
@@ -3737,344 +4994,154 @@
    "story_id": "7792ff5a-3b0b-4565-9797-54792c85e746"
   },
   {
-   "id": "39f5cc24-0e41-491f-a976-2effc039dddc",
+   "id": "a068998b-f876-446c-8349-cb84da9994c3",
    "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-   "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-   "published_at": "2026-11-16T17:36:21+00:00",
-   "summary_ja": "5カ国が拒否された庇護申請者の拠点づくりを目指すと伝え、要点を解説する。",
-   "angle": "要点解説",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
+   "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+   "title": "Iran Attacks Bahrain for the Second Time in Days",
+   "published_at": "2026-11-15T15:55:09+00:00",
+   "summary_ja": "2カ月の小康状態の後、イランが数日で2度目のバーレーン攻撃に出て、米イラン和平協議は停滞して見える。",
+   "angle": "攻撃再開と協議停滞",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
   },
   {
-   "id": "529fc8b8-b409-48d5-b671-7467813ef793",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-   "title": "Five EU countries announce migrant deportation centre in Rwanda",
-   "published_at": "2026-11-16T23:20:45+00:00",
-   "summary_ja": "5カ国が拒否された庇護申請者向けの送還拠点を発表したと伝える。",
-   "angle": "発表の事実",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "39aef1b8-6a9c-4be1-bfd5-9892eed4b542",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/eu-nations-unveil-rwanda-deal-migrant-return-hub-6556451",
-   "title": "EU nations unveil Rwanda deal for migrant return hub",
-   "published_at": "2026-11-16T19:06:23+00:00",
-   "summary_ja": "5カ国が、滞在資格のない移民の送還のためルワンダに拠点を設けることで合意したと伝える。",
-   "angle": "合意の事実",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "8f5c8564-7e0b-48e3-a347-f3f160503503",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3374648/five-eu-countries-unveil-plans-rwanda-deportation-hub",
-   "title": "Five EU countries unveil plans for Rwanda deportation hub",
-   "published_at": "2026-11-16T18:28:51+00:00",
-   "summary_ja": "交渉中の計画を伝え、人権団体が虐待の恐れを理由に非難していると報じる。",
-   "angle": "人権団体の非難",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "fe1c37af-c660-4b9c-b94d-bb79c6fe97d4",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/plus6af9946b4495f9bd85b80c51/return-hubs-ich-bete-weiter-dafuer-umgesiedelt-zu-werden-das-berichten-asylsuchende-aus-ruanda.html",
-   "title": "„Ich bete weiter dafür, umgesiedelt zu werden“ – Das berichten Asylsuchende aus Ruanda",
-   "published_at": "2026-11-16T09:38:26+00:00",
-   "summary_ja": "5カ国が拠点を決める中、既存の施設で長く待つ庇護希望者の声を伝える。",
-   "angle": "現地の庇護希望者",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "18cda085-e6d0-4a35-888d-65bb8d1a7fa7",
+   "id": "91ddd8e6-b22e-423e-ad21-a9cba0de8d94",
    "outlet_id": "taz",
-   "url": "http://www.taz.de/Abschiebe-Abkommen-mit-Ruanda/!6230614/",
-   "title": "Abschiebe-Abkommen mit Ruanda: Point of no return ist überschritten",
-   "published_at": "2026-11-16T19:04:00+00:00",
-   "summary_ja": "EU各国が協定を決め、2027年に拠点が稼働する見通しだと伝える。",
-   "angle": "協定と稼働時期",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "47aa8967-6084-4570-a169-e84180971743",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Deutsche-Abschiebezentren-in-Ruanda/!6230293/",
-   "title": "Deutsche Abschiebezentren in Ruanda: Ein obszöner Deal",
-   "published_at": "2026-11-16T17:04:00+00:00",
-   "summary_ja": "ルワンダに行ったことのない人を送る計画だと述べ、道徳的な破局の恐れを論じる。",
-   "angle": "強い反対論",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "115c1710-0038-4dc1-a700-6ca2c0d735fd",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Fluechtlingsabschiebungen-aus-Europa/!6230317/",
-   "title": "Flüchtlingsabschiebungen aus Europa: Dobrindt und seine Kollegen setzen auf Ruanda",
-   "published_at": "2026-11-16T11:11:00+00:00",
-   "summary_ja": "ドブリント内相ら欧州各国がルワンダへの送還に動くと報じ、国際資金の施設で受け入れると伝える。",
-   "angle": "各国の動き",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "773fef91-72b5-4e3f-9227-329d4266adce",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
-   "title": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
-   "published_at": "2026-11-16T17:07:43+00:00",
-   "summary_ja": "5カ国が2027年にルワンダで送還拠点を開く計画だと伝える。",
-   "angle": "計画の概要",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "1ef4bf0c-cef8-4b29-9649-5585e06ee111",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
-   "title": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
-   "published_at": "2026-11-16T05:36:50+00:00",
-   "summary_ja": "ルワンダが送還拠点に適しているかを問い、人権団体の警告を伝える。",
-   "angle": "適性と懸念",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "55d28aa4-c3f2-4048-94f9-9047bb7ce3fd",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/five-eu-countries-to-announce-rwanda-deportation-hub-scheme",
-   "title": "Five EU countries unveil plans for Rwanda deportation hub",
-   "published_at": "2026-11-16T18:00:00+00:00",
-   "summary_ja": "移民が帰国・定住・他国行きを選べる拠点とする仕組みを伝える。",
-   "angle": "仕組みの説明",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "28bdda2c-ef39-4693-aacd-9dc10e2b8b75",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-   "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-   "published_at": "2026-11-17T01:10:59+00:00",
-   "summary_ja": "試験的な計画が法的な異議に直面しそうで、重大な道徳的失敗との批判もあると伝える。",
-   "angle": "法的課題と批判",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "28408079-73ba-494b-a24f-4f134d7d70c6",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/ruanda-abschiebezentrum-deutschland-asylpolitik-rueckkehrzentrum-li.3581059",
-   "title": "Abschiebezentrum in Afrika: Was Deutschland in Ruanda plant",
-   "published_at": "2026-11-16T16:14:15+00:00",
-   "summary_ja": "ドブリント内相が速さを示す一方、連立内にも独裁的な国との協力への批判があると伝える。",
-   "angle": "連立内の批判",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "34867a6e-4701-4ca2-a2ee-02a4616ed895",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ruanda-abschiebungen-dobrindt-li.3581568",
-   "title": "Podcast: „Auf den Punkt“: „Return Hub“ in Ruanda: Abschiebungen in eine Diktatur",
-   "published_at": "2026-11-16T15:44:46+00:00",
-   "summary_ja": "ルワンダへの送還を人権状況に疑問のある国への送還として扱うポッドキャスト。",
-   "angle": "人権への疑問",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "0dedf2af-2c1f-4cc5-968e-25eb521a561a",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/migration-als-orban-in-serbien-ein-ruanda-modell-hatte-201686851.html",
-   "title": "Migration: Orbáns Ruanda heißt Serbien",
-   "published_at": "2026-11-16T19:22:49+00:00",
-   "summary_ja": "ルワンダ方式がオルバン氏のような政治家を勢いづかせうると論じ、セルビアとの対比を述べる。",
-   "angle": "政治的影響の論評",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "12480911-479b-494d-9af4-47b5793a926f",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/ruanda-modell-ohne-abschreckung-geht-es-nicht-201688293.html",
-   "title": "Ruanda-Modell: Ohne Abschreckung geht es nicht",
-   "published_at": "2026-11-16T15:43:54+00:00",
-   "summary_ja": "ルワンダとの交渉は妥当だが、転換には全EU加盟国の参加と抑止が要ると論じる。",
-   "angle": "賛成の論評",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "3962f85e-478e-4d37-a1b5-1cea7a3cc0da",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/erstes-eu-abschiebezentrum-soll-2027-in-ruanda-eroeffnen-201686820.html",
-   "title": "Rückkehrzentren: Erstes EU-Abschiebezentrum soll 2027 in Ruanda eröffnen",
-   "published_at": "2026-11-16T15:42:47+00:00",
-   "summary_ja": "最初のEU送還拠点が2027年にルワンダで開設される見通しだと伝える。",
-   "angle": "開設時期",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "38e1dbd7-dc6a-40af-be9e-53316f6c7b6d",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
-   "title": "EU countries announce migrant deportation centre in Rwanda",
-   "published_at": "2026-11-17T01:12:28+00:00",
-   "summary_ja": "5カ国がルワンダを送還拠点として使うと発表したことを伝える。",
-   "angle": "発表の事実",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "af01f09f-6736-430e-8f78-769f9be288f6",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
-   "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-   "published_at": "2026-11-16T19:26:40+00:00",
-   "summary_ja": "5カ国の計画発表と、47団体が撤回を求める共同声明を伝える。",
-   "angle": "47団体の反対",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "e0890777-6bc8-490d-91f7-6ff999b62d96",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/11/17/five-european-countries-plan-to-open-a-return-hub-in-rwanda-signaling-a-shift-in-european-immigration-policy_6782602_4.html",
-   "title": "Five European countries plan to open a return hub in Rwanda, signaling a shift in European immigration policy",
-   "published_at": "2026-11-17T03:22:06+00:00",
-   "summary_ja": "5カ国の発表を、欧州の移民政策の転換を示すものとして伝える。",
-   "angle": "政策転換",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "96457d4d-639a-4328-9653-fdd47cbeed89",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/11/16/five-eu-nations-reveal-deal-to-deport-migrants-to-rwanda-hub_6782206_4.html",
-   "title": "Five EU nations reveal deal to deport migrants to Rwanda hub",
-   "published_at": "2026-11-16T16:33:48+00:00",
-   "summary_ja": "5カ国が人権団体の懸念の中でルワンダ拠点の合意を明らかにしたと伝える。",
-   "angle": "合意と懸念",
-   "story_id": "1a9dd4f4-1819-4071-98da-95d9580ab579"
-  },
-  {
-   "id": "3f830799-9130-4f21-9ce2-0ad8eb018a48",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-   "title": "Czechs rally against plan to switch funding of public media",
-   "published_at": "2026-11-15T21:03:40+00:00",
-   "summary_ja": "抗議側は報道の自由が損なわれると訴え、政府は放送局にコスト削減が必要だと主張している。",
-   "angle": "双方の主張",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
-  },
-  {
-   "id": "9655fa23-81b3-458e-9212-4d6486a56ca5",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/czechs-stage-huge-rally-against-public-media-funding-overhaul-6553231",
-   "title": "Czechs stage huge rally against public-media funding overhaul",
-   "published_at": "2026-11-15T16:46:02+00:00",
-   "summary_ja": "数十万人がプラハで公共放送の財源改革に反対する集会を開いた。",
-   "angle": "集会の規模",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
-  },
-  {
-   "id": "41efe831-d618-4ecb-a36e-2546608eb934",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3374518/czechs-stage-huge-rally-against-public-media-funding-overhaul",
-   "title": "Czechs stage huge rally against public-media funding overhaul",
-   "published_at": "2026-11-15T21:11:44+00:00",
-   "summary_ja": "バビシュ首相の政権が受信料を国家予算に替えようとしており、反対派が報道の自由への脅威と訴えている。",
-   "angle": "計画の背景",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
-  },
-  {
-   "id": "8c41a5e7-f5a9-4307-b1f1-b12fe3090958",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Demonstrationen-in-Tschechien/!6230176/",
-   "title": "Demonstrationen in Tschechien: „Keine Freiheit, keine Zukunft“",
+   "url": "http://www.taz.de/Krieg-in-Nahost/!6230278/",
+   "title": "Krieg in Nahost: Angriffe auf Schiffe und einen US-Stützpunkt",
    "published_at": "2026-11-15T17:04:00+00:00",
-   "summary_ja": "チェコで数千人が、メディアの独立への不安から街頭に出た。",
-   "angle": "メディア独立",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
+   "summary_ja": "ホルムズ海峡でタンカー2隻が機雷に触れ、イランがバーレーンを再び攻撃して緊張が高まった。",
+   "angle": "海峡と基地の緊張",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
   },
   {
-   "id": "077f3065-276f-4731-be1c-988bb81a54d2",
+   "id": "a6f196ed-8c48-4e23-960c-1d4eff1fb546",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-15/news-1S67DqsGSYM/p.html",
+   "title": "A US official tells Al Jazeera: The attack on a base in Bahrain caused no damage to US forces",
+   "published_at": "2026-11-15T21:32:00+00:00",
+   "summary_ja": "米当局者がアルジャジーラに、バーレーンの基地への攻撃で米軍に被害はなかったと語った。",
+   "angle": "米軍に被害なし",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "e895ed3e-d282-41ed-9fbd-f7ebdd691ec8",
    "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-   "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-   "published_at": "2026-11-15T18:20:36+00:00",
-   "summary_ja": "35万人超が、受信料廃止と国費化の計画に反対しプラハで集会を開いた。",
-   "angle": "規模と報道の自由",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
+   "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+   "title": "Iran launches drone attacks against US military base in Bahrain",
+   "published_at": "2026-11-15T18:03:56+00:00",
+   "summary_ja": "イランが米軍基地へドローン攻撃を行い、和平協議への疑念と事態拡大の危険が強まった。",
+   "angle": "協議への疑念",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
   },
   {
-   "id": "a7729cf1-3ed8-4347-ac2a-81a8437ed1b4",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/tschechien-medienreform-prag-demonstration-oeffentlich-rechtlicher-rundfunk-li.3580911",
-   "title": "Prag: Hunderttausende demonstrieren gegen Medienreform in Tschechien",
-   "published_at": "2026-11-15T19:22:03+00:00",
-   "summary_ja": "プラハで数十万人が公共放送の財源変更に抗議し、政権はなだめようとしている。",
-   "angle": "政権の対応",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
+   "id": "0bf5a561-b3b5-4956-be97-d8922ede2f05",
+   "outlet_id": "guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
+   "published_at": "2026-11-15T15:59:04+00:00",
+   "summary_ja": "サウジ、カタール、ヨルダン、エジプトがイランの攻撃を非難しバーレーンへの連帯を表明した。",
+   "angle": "湾岸諸国の非難",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
   },
   {
-   "id": "46c1396a-0ec2-4b33-bc6d-0381926b07d5",
+   "id": "0526d086-5f6a-4287-84e8-ad6f493d4b0f",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/middle-east/article/3374775/iran-fires-drones-us-military-radar-system-bahrain-amid-gulf-tensions",
+   "title": "US strikes Iran’s Qeshm Island after drones target Bahrain",
+   "published_at": "2026-11-17T11:48:51+00:00",
+   "summary_ja": "イランのバーレーン攻撃主張に対し、米軍がゲシュム島のミサイル発射拠点を攻撃し、双方が撃ち合った。",
+   "angle": "米イランの応酬",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "360afeda-e2f2-421e-824e-4e6e5d4e145c",
+   "outlet_id": "straitstimes",
+   "url": "https://www.straitstimes.com/world/middle-east/bahrain-issues-all-clear-after-threat-alert-amid-us-iran-exchanges-of-fire",
+   "title": "Bahrain says air defences intercepted Iranian attacks",
+   "published_at": "2026-11-18T00:19:55+00:00",
+   "summary_ja": "バーレーン国防軍が、防空網でイランの攻撃を迎撃したと発表した。",
+   "angle": "迎撃の発表",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "d27a4a46-4fee-499a-ad1c-9bef65c86fc7",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-18/news-1SagI3c517i/p.html",
+   "title": "The General Command of the Bahrain Defence Force announces that Iran continues its systematic hostile approach through its criminal attacks targeting the Kingdom of Bahrain.",
+   "published_at": "2026-11-18T09:29:00+00:00",
+   "summary_ja": "バーレーン国防軍司令部が、イランの犯罪的な攻撃による組織的な敵対的姿勢を非難する声明を出した。",
+   "angle": "国防軍の声明",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "c105ab56-acfc-45b6-8595-823232816d16",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-18/news-1SaeHSkYPxm/p.html",
+   "title": "BAHRAIN'S DEFENCE FORCE: IRAN CONTINUES 'SYSTEMATIC HOSTILE APPROACH' THROUGH ATTACKS TARGETING THE KINGDOM",
+   "published_at": "2026-11-18T09:01:00+00:00",
+   "summary_ja": "バーレーン国防軍が、イランが攻撃で敵対的な姿勢を続けていると非難した。",
+   "angle": "国防軍の非難",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "846900ef-d07c-4451-9659-9c8be13f742a",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-18/news-1SaeD6sZIA0/p.html",
+   "title": "BAHRAIN'S DEFENCE FORCE: AIR DEFENCES INTERCEPTED NUMBER OF IRANIAN ATTACKS ON WEDNESDAY",
+   "published_at": "2026-11-18T09:00:00+00:00",
+   "summary_ja": "バーレーン国防軍が、水曜にイランの攻撃を複数迎撃したと発表した。",
+   "angle": "迎撃の発表",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "fcbcbfaa-f262-40bd-9aa1-74caf5a64d06",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-18/news-1SadV1GZl1m/p.html",
+   "title": "Bahrain Defence Force: The General Command of the Bahrain Defence Force announces that Iran continues its systematic hostile approach through its criminal attacks targeting the Kingdom of Bahrain.",
+   "published_at": "2026-11-18T08:50:00+00:00",
+   "summary_ja": "バーレーン国防軍が、イランの「犯罪的な攻撃」による組織的な敵対的姿勢を非難した。",
+   "angle": "国防軍の非難",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "18ccb28d-d47a-4cdc-af8e-a437ec1c12bd",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-18/news-1SadPLKnez6/p.html",
+   "title": "Ministry of Interior of Bahrain: An alert of potential threat.",
+   "published_at": "2026-11-18T08:49:00+00:00",
+   "summary_ja": "バーレーン内務省が、脅威の可能性に関する警報を出した。",
+   "angle": "警報の発令",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "7c2896f2-9006-4b8c-a894-93a6d37573b4",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-18/news-1SaaJkjExJC/p.html",
+   "title": "BAHRAIN'S INTERIOR MINISTRY ISSUES ALL-CLEAR ALERT -POST ON X",
+   "published_at": "2026-11-18T08:05:00+00:00",
+   "summary_ja": "バーレーン内務省が、警報の解除を知らせた。",
+   "angle": "警報解除",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
+  },
+  {
+   "id": "fc713640-c452-4a68-acaa-35e3014c8356",
    "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/massenprotest-in-prag-400-000-gegen-babiss-medienreform-accg-201685448.html",
-   "title": "Protest gegen Babiš: Großdemonstration in Prag gegen Medienreform",
-   "published_at": "2026-11-15T15:59:27+00:00",
-   "summary_ja": "プラハで数十万人が受信料廃止に抗議し、政権が放送局を支配下に置くのではと懸念している。",
-   "angle": "政権の統制懸念",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
+   "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-usa-greifen-abermals-iranische-insel-qeschm-in-strasse-von-hormus-an-faz-200583539.html",
+   "title": "Liveblog Nahost: USA greifen abermals iranische Insel Qeschm in Straße von Hormus an",
+   "published_at": "2026-11-17T12:29:27+00:00",
+   "summary_ja": "イランが米レーダー施設を攻撃した後、米軍がゲシュム島を再び攻撃したと伝えるライブ記事。",
+   "angle": "ゲシュム島攻撃",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
   },
   {
-   "id": "5fa71fae-9cea-47aa-8182-bca1a6fab14a",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
-   "title": "Czechs rally against gov’t threat to media independence",
-   "published_at": "2026-11-16T00:26:32+00:00",
-   "summary_ja": "公共放送の財源を国に移す計画に対し、政府の影響を懸念する人々が集会を開いた。",
-   "angle": "政府影響の懸念",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
-  },
-  {
-   "id": "f0a3e953-504a-49c7-a28b-37f088fdb295",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3355106/czechs-stage-huge-rally-against-publicmedia-funding-overhaul",
-   "title": "Czechs stage huge rally against public-media funding overhaul",
-   "published_at": "2026-11-15T16:45:00+00:00",
-   "summary_ja": "数十万人のチェコ人が、国家主義的な政権の公共放送の財源改革案に抗議した。",
-   "angle": "集会の規模",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
-  },
-  {
-   "id": "026d80a9-73c9-4f64-b4aa-b123d8c931c2",
-   "outlet_id": "taz",
-   "url": "http://www.taz.de/Grosse-Proteste-in-Tschechien/!6230312/",
-   "title": "Große Proteste in Tschechien: Hunderttausende gegen 4:36",
-   "published_at": "2026-11-16T12:49:00+00:00",
-   "summary_ja": "40万人が放送改革に抗議し、料金だけでなく国の将来への不安も動機だと伝える。",
-   "angle": "国の将来への不安",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
-  },
-  {
-   "id": "eba5655c-6d8d-4ad3-b3f5-29a4f772dbe1",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/europe/2026/11/16/6FBIX3CU7VBWDI3QVC7IM3OTU4/",
-   "title": "“공영 방송 국영화 계획 멈추라”… 체코 휩쓴 40만의 함성",
-   "published_at": "2026-11-16T05:21:19+00:00",
-   "summary_ja": "約40万人が公共放送国営化の計画中止を求め、チェコ中に声が響いたと伝える。",
-   "angle": "国営化への反発",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
-  },
-  {
-   "id": "63b35163-5c7a-4fad-b43e-c327c0b0cc09",
-   "outlet_id": "sz",
-   "url": "https://www.sueddeutsche.de/politik/tschechien-proteste-rundfunkgebuehren-babis-1989-li.3581051",
-   "title": "Demonstration in Tschechien: Aus Angst um die Freiheit:  Tschechien erlebt den größten Protest seit 1989",
-   "published_at": "2026-11-16T13:38:27+00:00",
-   "summary_ja": "最大40万人がバビシュ政権に抗議し、メディアの独立維持とウクライナ支援不足への不満を訴えた。",
-   "angle": "1989年以来最大",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
-  },
-  {
-   "id": "b3fbed53-79b4-43be-b83e-a1a2347730fb",
-   "outlet_id": "faz",
-   "url": "https://www.faz.net/aktuell/politik/ausland/kampf-um-rundfunk-babis-will-nach-grossprotest-in-prag-nicht-nachgeben-201687312.html",
-   "title": "Kampf um Rundfunk: Babiš will nach Massenprotest in Prag nicht nachgeben",
-   "published_at": "2026-11-16T14:25:44+00:00",
-   "summary_ja": "40万人の抗議後もバビシュ氏は譲らず、運動は具体的な要求をまとめている。",
-   "angle": "政権の姿勢",
-   "story_id": "c32c9312-2573-4cb0-a038-da18bb5f2c38"
+   "id": "e3a8ac02-26f4-4e2e-ad7c-9c9dd32123e1",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html",
+   "title": "Iran claims attack on US base in Bahrain",
+   "published_at": "2026-11-17T12:51:57+00:00",
+   "summary_ja": "イラン革命防衛隊が、米軍運用のレーダー施設を狙ったと主張した。",
+   "angle": "イラン側の主張",
+   "story_id": "8d5196c8-f635-44f4-87fb-a37100c40d30"
   },
   {
    "id": "839cd8fc-b24b-4901-95df-a2d9df625650",
@@ -4352,8 +5419,8 @@
    "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
    "title": "Netanyahu says only a unity government can guarantee Israel’s security",
    "published_at": "2026-11-14T23:01:30+00:00",
-   "summary_ja": "ネタニヤフ氏は挙国一致政府だけが安全を保障できると主張し、アイゼンコット氏は拒否した。",
-   "angle": "ネタニヤフ氏の主張",
+   "summary_ja": "ネタニヤフ氏は挙国一致政府だけが安全を守れると主張し、アイゼンコット氏は策略と退けた。",
+   "angle": "安全保障の主張",
    "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
   },
   {
@@ -4362,7 +5429,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/11/14/in-israel-gadi-eisenkot-dismisses-tricks-of-netanyahu-who-calls-for-israeli-unity-government_6781018_4.html",
    "title": "In Israel, Gadi Eisenkot dismisses 'tricks' of Netanyahu, who calls for Israeli unity government",
    "published_at": "2026-11-14T21:57:33+00:00",
-   "summary_ja": "組閣交渉中のアイゼンコット氏が、ネタニヤフ氏の策略は通用しないと述べて呼びかけを拒んだ。",
+   "summary_ja": "組閣交渉中のアイゼンコット氏が「策略は通用しない」と述べ、ネタニヤフ氏の呼びかけを拒んだ。",
    "angle": "拒否の発言",
    "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
   },
@@ -4373,7 +5440,7 @@
    "title": "Netanyahu calls for Israeli unity government, Eisenkot dismisses 'tricks'",
    "published_at": "2026-11-14T20:45:00+00:00",
    "summary_ja": "ネタニヤフ氏が挙国一致政府を重ねて呼びかけ、アイゼンコット氏は策略だとして退けた。",
-   "angle": "応酬の速報",
+   "angle": "呼びかけと拒否",
    "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
   },
   {
@@ -4382,8 +5449,8 @@
    "url": "https://www.koreaherald.com/article/10937468",
    "title": "Netanyahu calls for Israeli unity",
    "published_at": "2026-11-15T04:24:08+00:00",
-   "summary_ja": "AFP配信で、ネタニヤフ氏の呼びかけと、組閣交渉中のアイゼンコット氏の拒否を伝えている。",
-   "angle": "呼びかけと交渉",
+   "summary_ja": "AFP配信で、ネタニヤフ氏の呼びかけとアイゼンコット氏の拒否を組閣交渉の最中の出来事として伝えた。",
+   "angle": "組閣交渉の最中",
    "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
   },
   {
@@ -4392,8 +5459,8 @@
    "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
    "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
    "published_at": "2026-11-15T20:23:26+00:00",
-   "summary_ja": "選挙で明確な結論が出ない中、アイゼンコット氏が連立の相手を探し、ネタニヤフ氏が働きかけていると伝えている。",
-   "angle": "選挙後の状況",
+   "summary_ja": "総選挙で決着がつかない中、アイゼンコット氏が連立相手を探し、ネタニヤフ氏は独自の構想を持つと伝えた。",
+   "angle": "連立の構図",
    "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
   },
   {
@@ -4402,7 +5469,7 @@
    "url": "https://www.straitstimes.com/world/middle-east/eisenkot-says-netanyahu-cannot-stay-in-office-a-minute-longer",
    "title": "Eisenkot says Netanyahu cannot stay in office ‘a minute longer’",
    "published_at": "2026-11-15T23:18:00+00:00",
-   "summary_ja": "アイゼンコット氏はネタニヤフ氏はもう1分も首相に留まれないと述べ、側近の選挙干渉疑惑の調査を求めた。",
+   "summary_ja": "アイゼンコット氏が、ネタニヤフ氏はあと1分も首相の座にいられないと述べ、側近の選挙干渉疑惑の調査を求めた。",
    "angle": "退陣要求と疑惑",
    "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
   },
@@ -4412,7 +5479,7 @@
    "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
    "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
    "published_at": "2026-11-16T00:01:45+00:00",
-   "summary_ja": "アイゼンコット氏が選挙干渉疑惑を理由にネタニヤフ氏の首相続投を否定し、アラブ政党関係者の逮捕も報じられた。",
+   "summary_ja": "首相府の根拠のない証拠でアラブ系政党関係者が選挙前に逮捕されたと報じられ、アイゼンコット氏が首相退陣を求めた。",
    "angle": "選挙干渉疑惑",
    "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
   },
@@ -4422,8 +5489,18 @@
    "url": "https://www.dawn.com/news/2044695/netanyahu-calls-for-israeli-unity-government-eisenkot-dismisses-tricks",
    "title": "Netanyahu calls for Israeli unity government, Eisenkot dismisses 'tricks'",
    "published_at": "2026-11-15T07:10:29+00:00",
-   "summary_ja": "ネタニヤフ氏が重ねて呼びかけ、アイゼンコット氏が拒否した経緯を、木曜の会談にも触れて伝えている。",
-   "angle": "応酬と経緯",
+   "summary_ja": "ネタニヤフ氏の重ねての呼びかけと、アイゼンコット氏が策略として退けた経緯を伝えている。",
+   "angle": "呼びかけと拒否",
+   "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
+  },
+  {
+   "id": "db526028-6dc1-43de-b8bd-47061f50e970",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/wir-hassen-netanjahu-mehr-als-eisenkot-israels-arabische-parteien-koennten-zentral-sein-fuer-die-regierungsbildung-201684941.html",
+   "title": "Arabische Parteien: „Wir hassen Netanjahu mehr als Eisenkot“",
+   "published_at": "2026-11-17T13:29:51+00:00",
+   "summary_ja": "アラブ系政党が組閣の鍵を握り得るが、協力へのハードルは高いと伝えている。",
+   "angle": "アラブ系政党の役割",
    "story_id": "7e1902c8-843e-4760-99c3-54cacd232eb0"
   },
   {
@@ -4485,6 +5562,116 @@
    "summary_ja": "ラファ旅団の司令官アブ・ユニスの死亡をカッサム旅団が発表し、イスラエル軍も確認したと伝える。",
    "angle": "双方が死亡確認",
    "story_id": "79ae0d5f-ace7-44c6-8499-9d6c294fbefc"
+  },
+  {
+   "id": "cdfbefe9-8a4e-4b0f-bcfb-6f1a1fc4ae01",
+   "outlet_id": "aljazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+   "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+   "published_at": "2026-11-18T01:07:01+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "79ae0d5f-ace7-44c6-8499-9d6c294fbefc"
+  },
+  {
+   "id": "8d4fafde-5f0f-4349-89da-6d4bdaded106",
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1374296.shtml",
+   "title": "Preparations underway in Manila for 49th ASEAN Summit and Related Summits",
+   "published_at": "2026-11-15T04:05:05+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "fb8af1bf-cb93-4d82-94ec-faa8047870f6",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/world/2026/11/15/global-powers-converge-on-manila-as-asean-summit-kicks-off",
+   "title": "Global powers converge on Manila as ASEAN summit kicks off",
+   "published_at": "2026-11-15T00:03:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "0933f7af-63d5-40a9-9c0d-1d40cdfaeab3",
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1374320.shtml",
+   "title": "ASEAN summit opens as Philippines’ parallel security agenda draws scrutiny",
+   "published_at": "2026-11-15T02:52:42+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "1f2b0b90-4ed3-4faa-8c03-ed92d43f4ddb",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3355059/asean-reaffirms-engagement-with-myanmar-seeks-to-advance-peace-plan",
+   "title": "Asean reaffirms engagement with Myanmar, seeks to advance peace plan",
+   "published_at": "2026-11-15T08:37:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "af69375a-890f-4441-856a-e7632870607c",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3355009/global-powers-converge-on-manila-as-asean-summit-kicks-off",
+   "title": "Global powers converge on Manila as Asean summit kicks off",
+   "published_at": "2026-11-15T01:05:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "b91e5a70-8096-400f-a2df-df20571a28be",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/business/2026/11/16/asean-signs-digital-economy-pact-to-boost-cross-border-trade",
+   "title": "ASEAN signs digital economy pact to boost cross-border trade",
+   "published_at": "2026-11-16T09:00:16+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "fe2efca8-260e-4b3a-a361-ea1909864c32",
+   "outlet_id": "jakartapost",
+   "url": "https://www.thejakartapost.com/world/2026/11/16/trade-war-pax-silica-in-focus-at-asean-summit-ahead-of-trump-arrival",
+   "title": "Trade war, Pax Silica in focus at ASEAN summit ahead of Trump arrival",
+   "published_at": "2026-11-16T02:40:21+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "05b2c41f-86ff-44b4-b892-4ee0b0991ecb",
+   "outlet_id": "dawn",
+   "url": "https://www.dawn.com/news/2044788/asean-summit-opens-under-cloud-of-us-china-rivalry",
+   "title": "Asean summit opens under cloud of US-China rivalry",
+   "published_at": "2026-11-16T01:59:05+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "887cfef7-e681-4c9b-a492-26b14efee02a",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Asean-Gipfel-in-Manila/!6230832/",
+   "title": "Asean-Gipfel in Manila: Kaum Einigkeit gegen Chinas KI-Vormacht",
+   "published_at": "2026-11-17T17:12:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
+  },
+  {
+   "id": "d17badc3-66e0-4326-aff4-d3ce0be70533",
+   "outlet_id": "globaltimes",
+   "url": "https://www.globaltimes.cn/page/202611/1374519.shtml",
+   "title": "49th ASEAN Summit concludes in Philippines",
+   "published_at": "2026-11-17T17:07:53+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "31d89577-c3c9-4520-ab3c-5dc7a4931c52"
   },
   {
    "id": "45bece1d-1c64-4231-be6f-466eb6321afc",
@@ -5767,6 +6954,46 @@
    "story_id": "123c8556-f5ca-4a1d-b6d9-900bf98b1953"
   },
   {
+   "id": "05600d28-dbeb-404b-83c1-58e3f4416134",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/asia/donald-trump-asia-tour-vladimir-putin-china-6560741",
+   "title": "Trump seeks diplomatic gains on Asia tour as Putin arrives in China",
+   "published_at": "2026-11-18T01:15:05+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "123c8556-f5ca-4a1d-b6d9-900bf98b1953"
+  },
+  {
+   "id": "0729370f-4fd2-467b-aa79-0b58503d3c0b",
+   "outlet_id": "lemonde",
+   "url": "https://www.lemonde.fr/en/international/article/2026/11/18/with-trump-and-putin-at-his-side-xi-puts-himself-front-and-center-on-world-stage_6782965_4.html",
+   "title": "With Trump and Putin at his side, Xi puts himself front and center on world stage",
+   "published_at": "2026-11-18T00:23:59+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "123c8556-f5ca-4a1d-b6d9-900bf98b1953"
+  },
+  {
+   "id": "ea2e07d5-10e2-49ba-92b2-bc4b7ebdc526",
+   "outlet_id": "tass",
+   "url": "https://tass.com/politics/2219925",
+   "title": "Putin arrives in China’s Shenzhen — correspondent",
+   "published_at": "2026-11-17T19:45:29+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "123c8556-f5ca-4a1d-b6d9-900bf98b1953"
+  },
+  {
+   "id": "0bd6b761-b208-4151-80f4-176227b2d2c6",
+   "outlet_id": "tass",
+   "url": "https://tass.com/politics/2219897",
+   "title": "Part of Putin-Trump-Xi meeting may be open to press — Kremlin",
+   "published_at": "2026-11-17T18:11:40+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "123c8556-f5ca-4a1d-b6d9-900bf98b1953"
+  },
+  {
    "id": "c2af9a76-68d2-4309-b2f6-a8a0910100c4",
    "outlet_id": "bbc",
    "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
@@ -6127,164 +7354,134 @@
    "story_id": "bb048809-eec1-455d-bdcb-ddebab169d20"
   },
   {
-   "id": "27ab4ab7-64ba-49f6-ad46-8000d73d3173",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-   "published_at": "2026-11-13T23:40:45+00:00",
-   "summary_ja": "32人が入院したが重篤ではなく、不明者はいないと伝え、全員救助を「奇跡」と表現した。",
-   "angle": "全員救助と入院者",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "5b2da492-bc2a-4224-a779-56664d087ff3",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-   "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-   "published_at": "2026-11-13T21:15:24+00:00",
-   "summary_ja": "クルーズ船が沈む映像を紹介し、乗客全員の所在が確認されたと伝えた。",
-   "angle": "沈没映像と無事確認",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "425cf905-fb33-4e7a-9c24-473eaf198e7b",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/us-tanker-hits-river-cruise-ship-new-orleans-6550576",
-   "title": "Tanker hits docked river cruise ship in New Orleans",
-   "published_at": "2026-11-13T21:09:00+00:00",
-   "summary_ja": "停泊中のクルーズ船にタンカーが衝突し、乗客は約130人だったと地元報道を引いて伝えた。",
-   "angle": "衝突の第一報",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "682b897c-8448-406f-84ab-78700ebb7722",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
-   "title": "Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise",
-   "published_at": "2026-11-13T20:49:15+00:00",
-   "summary_ja": "タンカーが制御を失って船に衝突し、180人以上が救助され、市長が全員無事を「奇跡」と表現した。",
-   "angle": "全員無事の奇跡",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "3937b050-ce05-4f2b-9f70-91ad8615a342",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
-   "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-   "published_at": "2026-11-14T00:51:37+00:00",
-   "summary_ja": "クルーズ船が転覆し、130人超が乗っていたが行方不明者はいないと伝えた。",
-   "angle": "転覆と不明者なし",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "56b5e110-936d-471c-91cc-7b211f134ba4",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/freighter-collides-with-cruise-ship-in-new-orleans-passengers-in-the-water",
-   "title": "Freighter collides with cruise ship in New Orleans, passengers in the water",
-   "published_at": "2026-11-13T21:24:07+00:00",
-   "summary_ja": "タンカーが衝突し、水中の複数の乗客を救助する作業が進んでいると伝えた。",
-   "angle": "救助作業の最中",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "4aa711c5-490e-4733-b610-dc3443080111",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/united-states/tanker-hits-river-cruise-ship-near-new-orleans-port",
-   "title": "Tanker hits river cruise ship near New Orleans port",
-   "published_at": "2026-11-13T20:58:00+00:00",
-   "summary_ja": "タンカーが川クルーズ船に衝突し、船が傾く映像で乗客が甲板にいる様子が確認できると伝えた。",
-   "angle": "衝突時の映像",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "47a9a865-d540-49c5-801a-cceae5743078",
+   "id": "b2f28149-cf2a-45f3-aaea-862a0062a351",
    "outlet_id": "cgtn",
-   "url": "https://news.cgtn.com/news/2026-11-14/news-1S3somn10LS/p.html",
-   "title": "Trump: 'Thank you to the United States Coast Guard for doing such an incredible job of rescue, and other work, having to do with the crash of the two ships in Louisiana. Likewise, all of Law Enforcement and First Responders were fantastic! Incredibly, nobody was killed by this major collision. 32 people are in the hospital. Thank you to Governor Jeff Landry for your outstanding leadership during this very agonizing period of time. President DONALD J. TRUMP'",
-   "published_at": "2026-11-14T06:59:00+00:00",
-   "summary_ja": "トランプ大統領の投稿を紹介し、沿岸警備隊などへの謝意と、死者なし・32人入院の内容を伝えた。",
-   "angle": "大統領の投稿",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "c521c310-d782-420f-81c5-99c8ef2eedd3",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-   "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
-   "published_at": "2026-11-14T01:29:11+00:00",
-   "summary_ja": "死者も重傷者もなく全員の所在が確認され、市長が「ミシシッピ川の奇跡」と述べたと伝えた。",
-   "angle": "当局発表と市長談話",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "9d0dc169-7f58-4a9b-a26a-13aaaea8cc68",
-   "outlet_id": "abc",
-   "url": "https://www.abc.net.au/news/2026-11-14/tanker-collides-with-cruise-ship-new-orleans/107385650",
-   "title": "More than 100 rescued after tanker and cruise ship collide in US",
-   "published_at": "2026-11-13T21:12:52+00:00",
-   "summary_ja": "100人超が救助され、遊覧船が一部水没したと伝えた。",
-   "angle": "救助と水没",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "2326e263-fa15-4454-9895-d9bab43dfc4a",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-   "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
-   "published_at": "2026-11-13T22:47:16+00:00",
-   "summary_ja": "乗客129人の船が一部沈み、32人が病院に搬送されたと伝えた。",
-   "angle": "搬送者数",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "419ab104-e449-4a4b-abdc-a30e89dcfd82",
-   "outlet_id": "abc",
-   "url": "https://www.abc.net.au/news/2026-11-15/tanker-cruise-ship-collison-investigation-new-orleans/107387198",
-   "title": "US investigators say too soon to know what caused tanker-cruise ship collision",
-   "published_at": "2026-11-15T00:28:19+00:00",
-   "summary_ja": "米国の調査当局が捜査を始め、原因を特定するのは早いとしていると伝えた。",
-   "angle": "原因調査の開始",
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
-  },
-  {
-   "id": "eca28d79-66f9-43fc-9196-133019d05b20",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-   "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-   "published_at": "2026-11-15T22:57:27+00:00",
+   "url": "https://news.cgtn.com/news/2026-11-14/news-1S3yVcmAqsg/p.html",
+   "title": "U.S. LOSES MEASLES-ELIMINATION STATUS - REPORTS",
+   "published_at": "2026-11-14T08:31:00+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
   },
   {
-   "id": "ac2952bb-b38a-4614-870d-ffe3acc0dcc4",
+   "id": "e3b9ced4-069d-4a85-9bd5-41eb0dd041c6",
+   "outlet_id": "cgtn",
+   "url": "https://news.cgtn.com/news/2026-11-14/news-1S3yWoXY32E/p.html",
+   "title": "PAN AMERICAN HEALTH ORGANIZATION HAS REVOKED THE U.S.’S MEASLES ELIMINATION STATUS - REPORTS",
+   "published_at": "2026-11-14T08:31:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "0ba67b5a-dd10-4bda-b5a8-24ce29d40eb0",
    "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/us-new-orleans-tanker-cruise-ship-collision-6553551",
-   "title": "Steering problem on tanker in New Orleans caused ship collision",
-   "published_at": "2026-11-15T22:55:37+00:00",
+   "url": "https://www.channelnewsasia.com/world/us-lose-measles-free-status-disease-transmission-6550971",
+   "title": "US loses measles-free status after continued spread of the disease: Report",
+   "published_at": "2026-11-14T04:21:12+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
   },
   {
-   "id": "1948f770-58a8-45e8-927e-5d9bf22629d1",
+   "id": "fea80f0b-3ef9-4759-a072-c74d0fdb9c5b",
    "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/united-states/steering-problem-on-tanker-in-new-orleans-caused-ship-collision-ntsb-says",
-   "title": "Steering problem on tanker in New Orleans caused ship collision: US officials",
-   "published_at": "2026-11-15T22:44:47+00:00",
+   "url": "https://www.straitstimes.com/world/united-states/us-loses-measles-elimination-status-as-cases-surge-wsj",
+   "title": "US loses measles elimination status as cases surge: WSJ",
+   "published_at": "2026-11-14T06:35:00+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
   },
   {
-   "id": "a1dc96ac-e3f9-4641-95f6-aceec2d42e9e",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
-   "title": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
-   "published_at": "2026-11-15T23:20:59+00:00",
+   "id": "edfa82bc-cb63-49cb-b044-6e6dfaa64de3",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/USA-verlieren-Status-masernfrei/!6230230/",
+   "title": "Infektionen in Zeiten der Trump-Ära: USA verlieren Status „masernfrei“",
+   "published_at": "2026-11-15T13:28:00+00:00",
    "summary_ja": null,
    "angle": null,
-   "story_id": "49443a4c-36fe-4cc0-a827-ac5ad86c96d7"
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "050fc31f-8a98-4ed9-80a8-1826dd006026",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+   "title": "US loses measles elimination status after 26 years amid record case numbers",
+   "published_at": "2026-11-17T21:04:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "a5e7fdcb-3de8-47b3-9b84-ba097e653027",
+   "outlet_id": "cna",
+   "url": "https://www.channelnewsasia.com/world/us-loses-measles-free-states-mexico-bolivia-6560296",
+   "title": "US loses measles elimination status after nearly three decades; Mexico, Bolivia also lose designation",
+   "published_at": "2026-11-17T20:32:48+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "33e1d568-9ef7-498d-8b20-391170103794",
+   "outlet_id": "koreaherald",
+   "url": "https://www.koreaherald.com/article/10941137",
+   "title": "US loses measles-free status as cases",
+   "published_at": "2026-11-18T02:34:23+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "39397798-b57c-420b-b569-74ca4f9b1b22",
+   "outlet_id": "scmp",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3374799/us-loses-measles-free-status-vaccinations-fall-cases-and-deaths-mount",
+   "title": "US loses measles-free status as vaccinations fall, cases and deaths mount",
+   "published_at": "2026-11-17T17:18:13+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "51ad9bdf-62b0-44cd-9e8f-94aedbd76d30",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/amerika/masern-usa-118.html",
+   "title": "Laut Gesundheitsbehörde: Warum die USA nicht mehr masernfrei sind",
+   "published_at": "2026-11-18T01:34:24+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "0cfc6614-6430-43c8-8507-adc4b5094972",
+   "outlet_id": "tagesschau",
+   "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html",
+   "title": "USA gelten nicht mehr als masernfrei",
+   "published_at": "2026-11-17T18:37:07+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "77f1a21b-2d9a-44bb-ba09-3c8fcd99ea26",
+   "outlet_id": "focustaiwan",
+   "url": "https://focustaiwan.tw/society/202611170021",
+   "title": "Taiwan issues Level 2 measles travel alert for entire U.S.",
+   "published_at": "2026-11-17T11:37:21+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
+  },
+  {
+   "id": "29856793-2efb-441c-a6ab-76a8bd9d656a",
+   "outlet_id": "bangkokpost",
+   "url": "https://www.bangkokpost.com/world/3356501/us-loses-measlesfree-status-as-cases-deaths-mount",
+   "title": "US loses measles-free status as cases, deaths mount",
+   "published_at": "2026-11-17T16:56:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "a5cc778c-b7a9-4da9-a36c-05d1f6135d34"
   },
   {
    "id": "65e8be72-172d-49a3-a1e5-bf361fc957c3",
@@ -6552,6 +7749,36 @@
    "url": "https://www.straitstimes.com/world/europe/pope-leo-ends-south-america-tour-that-drew-millions-with-one-final-vast-crowd",
    "title": "Pope Leo ends South America tour that drew millions with one final vast crowd",
    "published_at": "2026-11-16T16:34:48+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "5ba4b1b4-20ad-4dc9-a75f-e6d976f7ab67"
+  },
+  {
+   "id": "5d277c04-7c91-4961-8cf4-b008f0b54588",
+   "outlet_id": "bbc",
+   "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+   "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+   "published_at": "2026-11-16T21:12:13+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "5ba4b1b4-20ad-4dc9-a75f-e6d976f7ab67"
+  },
+  {
+   "id": "84c649d9-aefc-4c03-b645-618459083999",
+   "outlet_id": "chosun",
+   "url": "https://www.chosun.com/international/mideast-africa-latin/2026/11/18/ER7BAC7V4ZF6XIBF6EFOX43X54/",
+   "title": "페루 방문 교황 눈에 날아든 묵주",
+   "published_at": "2026-11-17T15:44:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "5ba4b1b4-20ad-4dc9-a75f-e6d976f7ab67"
+  },
+  {
+   "id": "b4b26113-afb3-4df2-a1fb-40a7ab76b2f0",
+   "outlet_id": "faz",
+   "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-in-suedamerika-an-der-seite-der-armen-ohne-links-zu-sein-201689397.html",
+   "title": "Papst in Südamerika: An der Seite der Armen, ohne links zu sein",
+   "published_at": "2026-11-17T18:12:30+00:00",
    "summary_ja": null,
    "angle": null,
    "story_id": "5ba4b1b4-20ad-4dc9-a75f-e6d976f7ab67"
@@ -7067,6 +8294,26 @@
    "story_id": "3f17053b-1ca6-448b-aa5e-320754b9b609"
   },
   {
+   "id": "052d1d74-a182-45b3-a522-3310e8833638",
+   "outlet_id": "taz",
+   "url": "http://www.taz.de/Ukraine-Treffen-in-Berlin-und-Bruessel/!6230787/",
+   "title": "Ukraine-Treffen in Berlin und Brüssel: Das Mühen um Hilfe und Frieden",
+   "published_at": "2026-11-17T16:50:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "3f17053b-1ca6-448b-aa5e-320754b9b609"
+  },
+  {
+   "id": "e301f8e0-3633-4eb5-abd5-0e7d44111902",
+   "outlet_id": "tass",
+   "url": "https://tass.com/world/2219933",
+   "title": "US initiative on Ukraine puts Europe in difficult position — Bloomberg",
+   "published_at": "2026-11-17T19:57:02+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "3f17053b-1ca6-448b-aa5e-320754b9b609"
+  },
+  {
    "id": "4451a6e2-0ac3-42ce-938c-a90adea6db57",
    "outlet_id": "cna",
    "url": "https://www.channelnewsasia.com/business/microsoft-outlook-365-down-thousands-users-6547306",
@@ -7322,6 +8569,16 @@
    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374516/zelensky-says-starshield-restrictions-threaten-ukraines-energy-defences-ahead-winter",
    "title": "Zelensky warns Starshield restrictions threaten Ukraine’s winter energy defences",
    "published_at": "2026-11-15T18:10:29+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "26db0902-03bc-465f-ae1c-5aac398734cf"
+  },
+  {
+   "id": "c595f867-9a93-4c4d-934a-13d38b1141d3",
+   "outlet_id": "welt",
+   "url": "https://www.welt.de/politik/ausland/plus6afaf7eff3f8db1dd9f41a9f/satelliten-kommunikation-flexibler-widerstandsfaehiger-zerstoererischer-die-neue-starlink-alternative-der-ukraine.html",
+   "title": "Flexibler, widerstandsfähiger, zerstörerischer – die neue Starlink-Alternative der Ukraine",
+   "published_at": "2026-11-17T06:27:39+00:00",
    "summary_ja": null,
    "angle": null,
    "story_id": "26db0902-03bc-465f-ae1c-5aac398734cf"
@@ -8477,6 +9734,26 @@
    "story_id": "32d955f4-c2f6-4786-9d25-8b7095bb9cba"
   },
   {
+   "id": "355363f7-20fb-4985-99fe-8f684b0da08f",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/opinion/jensen-huang-nvidia-chips-export-controls-china-03dad391?mod=rss_worldnews",
+   "title": "Opinion | Jensen Huang’s Offense Wasn’t Infidelity",
+   "published_at": "2026-11-17T22:33:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "32d955f4-c2f6-4786-9d25-8b7095bb9cba"
+  },
+  {
+   "id": "d3f38307-9ae7-460a-80cb-782ed4505387",
+   "outlet_id": "wsj",
+   "url": "https://www.wsj.com/politics/national-security/nvidia-forms-national-security-committee-after-huangs-exit-c3261fc2?mod=rss_worldnews",
+   "title": "Nvidia Forms National-Security Committee After Huang’s Exit",
+   "published_at": "2026-11-17T12:57:00+00:00",
+   "summary_ja": null,
+   "angle": null,
+   "story_id": "32d955f4-c2f6-4786-9d25-8b7095bb9cba"
+  },
+  {
    "id": "25b85817-c7a7-4e92-9071-ab0d32c7d055",
    "outlet_id": "scmp",
    "url": "https://www.scmp.com/news/world/united-states-canada/article/3374128/hegseth-and-staff-scolded-guard-after-laughter-heard-tomb-unknown-soldier",
@@ -9297,116 +10574,6 @@
    "story_id": "cb864f7a-2938-483a-9137-2da52ae9b386"
   },
   {
-   "id": "f7078131-69a6-4ae5-9a04-bf1b9d20c2d2",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "published_at": "2026-11-11T01:01:20+00:00",
-   "summary_ja": "米司法省は、3人が基地近くの事案を含む一連の計画に関わったと述べたと伝える。",
-   "angle": "一連の計画",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "bd465a88-696d-407d-b13d-fbdac309d397",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3374002/us-charges-3-iranian-operatives-over-uk-airbase-plot",
-   "title": "US charges 3 ‘Iranian operatives’ over UK airbase plot",
-   "published_at": "2026-11-10T23:48:14+00:00",
-   "summary_ja": "3人の氏名を挙げ、9月の基地での事案との関連で起訴されたと伝える。",
-   "angle": "起訴対象者",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "32f4e950-a46b-466f-9a12-2247ba61fae1",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/iran-backed-militant-helped-plot-attack-on-uks-fairford-base-from-us-jail-justice-department-says",
-   "title": "US charges three ‘Iranian operatives’ over UK airbase plot",
-   "published_at": "2026-11-10T20:53:42+00:00",
-   "summary_ja": "米国が「イランの工作員」3人を英空軍基地の計画で起訴し、基地は対イラン作戦で使われてきたと伝える。",
-   "angle": "起訴と基地の背景",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "66d2c050-8ccc-4c77-bdfc-b7669ace0071",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
-   "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
-   "published_at": "2026-11-10T21:57:57+00:00",
-   "summary_ja": "勾留中の人物が阻止された基地攻撃の責任者だとする新たな起訴状の内容を伝える。",
-   "angle": "起訴状の詳細",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "8b0f5327-fd79-40cb-902e-f80e17cfc0cb",
-   "outlet_id": "abc",
-   "url": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492",
-   "title": "US charges three men over terror plots, including planned assault on UK airbase",
-   "published_at": "2026-11-10T21:10:35+00:00",
-   "summary_ja": "3人が約20件の攻撃からなる作戦を計画したとされ、ユダヤ人社会と英軍基地が標的だったと伝える。",
-   "angle": "標的の広がり",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "7370e055-6c7d-4f7a-aec8-c2265c32996d",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/11/11/us-charges-three-iranian-operatives-over-uk-airbase-terrorist-plot_6777190_4.html",
-   "title": "US charges three 'Iranian operatives' over UK airbase terrorist plot",
-   "published_at": "2026-11-11T00:52:19+00:00",
-   "summary_ja": "8訴因の起訴状が、革命防衛隊を支援する他の計画への関与も主張していると伝える。",
-   "angle": "複数計画への関与",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "3c353424-6471-4a4c-9475-aad96c54c7b9",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3352735/us-charges-three-iranian-operatives-over-uk-airbase-plot",
-   "title": "US charges three 'Iranian operatives' over UK airbase plot",
-   "published_at": "2026-11-10T22:45:00+00:00",
-   "summary_ja": "米司法省が火曜に発表した3人の起訴を、うち1人が既に勾留中と添えて伝える。",
-   "angle": "発表内容の報告",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "5d098207-dbd0-485d-a118-a773033bcbd5",
-   "outlet_id": "welt",
-   "url": "https://www.welt.de/politik/ausland/article6af40d4d6f37c7396ead6ea5/usa-klagen-iraner-an-sie-sollen-anschlaege-in-europa-koordiniert-und-geplant-haben.html",
-   "title": "USA klagen Iraner an – sie sollen Anschläge in Europa koordiniert und geplant haben",
-   "published_at": "2026-11-11T07:22:45+00:00",
-   "summary_ja": "イランのために英国の基地攻撃を計画したとされ、ドイツを含む欧州のユダヤ系標的への攻撃容疑も伝える。",
-   "angle": "欧州での攻撃計画",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "7352e0bf-1acf-4708-97d8-dd6a3f9276ad",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
-   "title": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
-   "published_at": "2026-11-11T08:09:54+00:00",
-   "summary_ja": "欧州と米国での複数の攻撃計画に関わった疑いで3人が起訴され、フェアフォードの件も含まれると伝える。",
-   "angle": "複数攻撃の起訴",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "2edfef6c-6789-4d60-98bb-0bae0a23afd0",
-   "outlet_id": "toi",
-   "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-asks-military-to-prepare-for-iran-2-0-as-opposition-demands-no-strikes-before-next-govt/articleshow/135752080.cms",
-   "title": "Netanyahu asks military to prepare for Iran 2.0; opp says no strikes before next gov",
-   "published_at": "2026-11-12T01:55:50+00:00",
-   "summary_ja": "イスラエルの治安閣議がイランへの攻撃に備える動きを報じる記事で、今回の起訴は扱っていない。",
-   "angle": "別の出来事",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
-   "id": "ccdb53d7-f372-48bf-8c51-43a6684c77c9",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/11/12/L6RVQMT27ZCA3IZYNWEMRGDWSM/",
-   "title": "뉴욕 구치소서 전화로… 英 미군기지 테러 지시했다",
-   "published_at": "2026-11-11T15:45:00+00:00",
-   "summary_ja": "ニューヨークの拘置所から電話で、英国の米軍基地へのテロを指示したと伝える。",
-   "angle": "拘置所からの指示",
-   "story_id": "e04dfeb8-ab73-4479-ab97-1153d4ab9808"
-  },
-  {
    "id": "ee8c55b5-fe6d-4454-8ffd-4bbbacc482ca",
    "outlet_id": "cgtn",
    "url": "https://news.cgtn.com/news/2026-11-11/news-1RYu8F8r3La/p.html",
@@ -10065,256 +11232,6 @@
    "summary_ja": "3者協議の翌日に行われたクレムリンでの会談について、押さえるべき点をまとめる。",
    "angle": "会談の概要",
    "story_id": "50e86797-da78-490d-a19a-3f5001a165b2"
-  },
-  {
-   "id": "c4123a78-3635-4ffc-93e0-d07a25658a6e",
-   "outlet_id": "nyt",
-   "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
-   "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-   "published_at": "2026-11-10T22:24:05+00:00",
-   "summary_ja": "名前が公表されていない男が、FBIや米軍情報部との共同捜査を経て勾留されている。",
-   "angle": "共同捜査",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "a32e6588-f619-4f37-9930-9f5f2d19d1a3",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_worldnews",
-   "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
-   "published_at": "2026-11-10T22:29:00+00:00",
-   "summary_ja": "英警察が米陸軍兵士をロシアへのスパイ容疑で逮捕したと伝えるニュース要約である。",
-   "angle": "逮捕の速報",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "2cc1e463-a9be-489d-9cbc-2891c0eed8d3",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/europe/member-us-army-arrested-spy-russia-cce59efb?mod=rss_worldnews",
-   "title": "Senior U.S. Soldier Is Arrested in U.K. Over Allegations of Spying for Russia",
-   "published_at": "2026-11-10T21:52:00+00:00",
-   "summary_ja": "グロスター近郊で拘束された男はNATOの即応部隊の指揮機構に配属されていた。",
-   "angle": "NATO配属",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "020e3d95-4832-428c-ae5d-76087f406354",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-   "title": "US Army soldier suspected of spying for Russia arrested in UK",
-   "published_at": "2026-11-10T20:20:04+00:00",
-   "summary_ja": "41歳の上級兵士が国家安全保障上の罪の疑いで、ロンドンで取り調べを受けている。",
-   "angle": "容疑と取り調べ",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "2d91f2c9-04ee-4e8a-9c70-0346d7fdd82c",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3373997/senior-us-soldier-arrested-uk-over-suspected-espionage-russia",
-   "title": "Senior US soldier arrested in UK over suspected espionage for Russia",
-   "published_at": "2026-11-10T20:20:35+00:00",
-   "summary_ja": "警察発表とFBI長官の懸念表明を伝え、米軍機の英基地撤収にも触れている。",
-   "angle": "FBI長官の発言",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "fa2a75c6-61bb-46a3-82d5-cc3b49345e24",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/uk-arrests-us-army-member-suspected-of-helping-russia",
-   "title": "Britain arrests senior US Army soldier suspected of ‘espionage’ for Russia",
-   "published_at": "2026-11-10T19:08:38+00:00",
-   "summary_ja": "英西部グロスター近郊で、ロシアへのスパイ容疑により米陸軍の上級兵士が逮捕された。",
-   "angle": "逮捕の事実",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "062e741e-9b38-4596-82b4-9b045d187469",
-   "outlet_id": "aljazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-   "title": "US soldier arrested in UK on suspicion of spying for Russia",
-   "published_at": "2026-11-10T20:41:53+00:00",
-   "summary_ja": "ロンドン警視庁の対テロ部門がFBIや米軍と連携して逮捕したと伝えている。",
-   "angle": "警察の連携",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "26764764-a174-4532-b847-0b23c93a1d52",
-   "outlet_id": "cna",
-   "url": "https://www.channelnewsasia.com/world/uk-arrests-us-soldier-suspected-russia-spy-6542476",
-   "title": "UK arrests US soldier suspected of spying for Russia",
-   "published_at": "2026-11-11T08:24:00+00:00",
-   "summary_ja": "英国が米兵をロシアへのスパイ容疑で逮捕したと短く報じている。",
-   "angle": "逮捕の事実",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "d844c7fc-0c4c-4176-8e04-ba5457641ee0",
-   "outlet_id": "chosun",
-   "url": "https://www.chosun.com/international/international_general/2026/11/11/MU2DQY3CMI3DQZJZGJTGKZDDGA/",
-   "title": "동맹 기밀 노린 내부자… 英 주둔 미군 장교 ‘러 간첩 혐의’ 체포",
-   "published_at": "2026-11-11T05:57:08+00:00",
-   "summary_ja": "NATO施設の機密をロシアに渡そうとした疑いで逮捕され、内部者による漏えいの危険を米軍が警告したと伝えている。",
-   "angle": "内部者の脅威",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "33cf5dfb-62c1-4547-97c5-f7246ca41a6e",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2043844/uk-police-question-nato-assigned-us-soldier-accused-of-spying-for-russia",
-   "title": "UK police question Nato-assigned US soldier accused of spying for Russia",
-   "published_at": "2026-11-11T19:47:57+00:00",
-   "summary_ja": "NATO配属の米兵が取り調べを受けており、欧州で相次ぐロシア絡みの諜報事件の一つだと位置づけている。",
-   "angle": "欧州の諜報事件",
-   "story_id": "a8090c1c-a5f0-4125-a4bf-4a827a72eff4"
-  },
-  {
-   "id": "51f4e81d-235c-4009-a51b-d35463209192",
-   "outlet_id": "wsj",
-   "url": "https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews",
-   "title": "U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
-   "published_at": "2026-11-10T04:41:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "a7b1c021-2912-453e-b800-5afec0683c7a"
-  },
-  {
-   "id": "e5a18710-ccd0-4b0e-b88b-a93566e68c90",
-   "outlet_id": "scmp",
-   "url": "https://www.scmp.com/news/world/europe/article/3373947/us-withdraws-9-military-aircraft-second-uk-airbase-after-iran-threat-reports",
-   "title": "US withdraws military aircraft from second UK airbase after Iran threat: reports",
-   "published_at": "2026-11-10T09:27:05+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "a7b1c021-2912-453e-b800-5afec0683c7a"
-  },
-  {
-   "id": "12066400-60f1-4c01-a225-4e6fdef8acf3",
-   "outlet_id": "cgtn",
-   "url": "https://newseu.cgtn.com/news/2026-11-10/UK-says-its-air-bases-are-safe-after-US-refueling-planes-evacuated-1RXNXvtiA8w/p.html",
-   "title": "UK says its air bases are safe after US refueling planes evacuated",
-   "published_at": "2026-11-10T22:42:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "a7b1c021-2912-453e-b800-5afec0683c7a"
-  },
-  {
-   "id": "b01dd325-391f-4b60-9f92-313c2e0a3607",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2043541/britain-says-its-bases-are-safe-after-us-refuelling-planes-evacuated",
-   "title": "Britain says its bases are safe after US refuelling planes evacuated",
-   "published_at": "2026-11-10T13:49:09+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "a7b1c021-2912-453e-b800-5afec0683c7a"
-  },
-  {
-   "id": "073f934b-d02a-4642-b177-8e84b4a63056",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-   "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-   "published_at": "2026-11-10T16:19:48+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "66630265-c9ed-4f99-b5e7-f5b99fa251d6"
-  },
-  {
-   "id": "6c34ab82-5467-4916-bcaf-460a16e43d3f",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/france-searches-ritz-villa-windsor-in-probe-of-the-late-al-fayed",
-   "title": "France searches Ritz, Villa Windsor in probe of the late Al Fayed",
-   "published_at": "2026-11-10T18:28:34+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "66630265-c9ed-4f99-b5e7-f5b99fa251d6"
-  },
-  {
-   "id": "17a9cd93-6242-4c2a-b1f9-45ff972d56dd",
-   "outlet_id": "straitstimes",
-   "url": "https://www.straitstimes.com/world/europe/french-police-search-ritz-glitzy-al-fayed-properties-in-trafficking-probe",
-   "title": "French police search Ritz, glitzy Al-Fayed properties in trafficking probe",
-   "published_at": "2026-11-10T18:13:26+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "66630265-c9ed-4f99-b5e7-f5b99fa251d6"
-  },
-  {
-   "id": "bd9b72ce-2630-4378-88d7-fff19588c0d6",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
-   "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
-   "published_at": "2026-11-10T20:00:43+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "66630265-c9ed-4f99-b5e7-f5b99fa251d6"
-  },
-  {
-   "id": "558b8cf5-9485-47f5-8b36-4bf77f880ecf",
-   "outlet_id": "lemonde",
-   "url": "https://www.lemonde.fr/en/international/article/2026/11/10/ritz-among-paris-landmarks-searched-in-al-fayed-trafficking-probe-say-prosecutors_6776837_4.html",
-   "title": "Ritz among French landmarks searched in Al-Fayed trafficking probe say prosecutors",
-   "published_at": "2026-11-10T12:22:41+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "66630265-c9ed-4f99-b5e7-f5b99fa251d6"
-  },
-  {
-   "id": "1efd6e56-1d69-49d8-89c3-0c6a06cbf0f4",
-   "outlet_id": "guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
-   "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
-   "published_at": "2026-11-10T10:57:51+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "1d9e1127-e127-4c1b-b6d6-5a2211db98b1"
-  },
-  {
-   "id": "25b5f91a-6677-491a-a8ea-8ee79a6867f9",
-   "outlet_id": "dawn",
-   "url": "https://www.dawn.com/news/2043510/bangladesh-prosecutor-says-ex-pm-sheikh-hasina-will-be-executed-if-she-returns",
-   "title": "Bangladesh prosecutor says ex-PM Sheikh Hasina will be executed if she returns",
-   "published_at": "2026-11-10T10:12:53+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "1d9e1127-e127-4c1b-b6d6-5a2211db98b1"
-  },
-  {
-   "id": "91ff0661-97e1-4ae5-9a2c-aab5fbe9c22b",
-   "outlet_id": "bangkokpost",
-   "url": "https://www.bangkokpost.com/world/3352895/ousted-expms-pledge-to-return-divides-bangladesh",
-   "title": "Ousted ex-PM’s pledge to return divides Bangladesh",
-   "published_at": "2026-11-11T10:45:00+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "1d9e1127-e127-4c1b-b6d6-5a2211db98b1"
-  },
-  {
-   "id": "ae08742a-7152-4a91-b971-80138aa2ee7e",
-   "outlet_id": "bbc",
-   "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-   "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-   "published_at": "2026-11-10T16:07:51+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "870772d8-cc33-403e-868c-58309b87cc9f"
-  },
-  {
-   "id": "e7ab3931-ec39-4592-9e43-27db9f0c9fb0",
-   "outlet_id": "koreaherald",
-   "url": "https://www.koreaherald.com/article/10932718",
-   "title": "Eleven dead, fifty injured in Bulgarian highway pileup",
-   "published_at": "2026-11-10T11:19:49+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "870772d8-cc33-403e-868c-58309b87cc9f"
-  },
-  {
-   "id": "519dc214-b7fa-4896-8549-1fe67dafb180",
-   "outlet_id": "tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
-   "title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
-   "published_at": "2026-11-10T14:09:14+00:00",
-   "summary_ja": null,
-   "angle": null,
-   "story_id": "870772d8-cc33-403e-868c-58309b87cc9f"
   }
  ]
 }
